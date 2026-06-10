@@ -136,7 +136,9 @@ window.BRIEFS = [
             "title": "How Silicon Valley misreads The Lord of the Rings",
             "url": "https://theconversation.com/how-silicon-valley-misreads-the-lord-of-the-rings-282862",
             "duration": "~8 min",
-            "note": "Tolkien recast as a tech-bro mascot, and why the books argue the opposite: literature meets the philosophy of power. Published today."
+            "note": "Tolkien recast as a tech-bro mascot, and why the books argue the opposite: literature meets the philosophy of power. Published today.",
+            "readable": true,
+            "articleId": "b330a683ecd15483"
           }
         ]
       },
