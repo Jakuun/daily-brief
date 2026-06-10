@@ -208,7 +208,7 @@ a{ color:inherit; }
     if(rb || it.readable){
       var row = el('div','meta-row');
       if(rb) row.appendChild(rb);
-      if(it.readable) row.appendChild(el('span','reader-tag','Read here'));
+      if(it.readable) row.appendChild(el('span','reader-tag', it.partial ? 'Summary' : 'Read here'));
       d.appendChild(row);
     }
     return d;
@@ -232,7 +232,7 @@ a{ color:inherit; }
     ensureReader();
     readerEl.querySelector('#r-orig').href = a.url || '#';
     var art = readerEl.querySelector('#r-art'); art.innerHTML='';
-    art.appendChild(el('div','r-src', esc((a.source||'') + (a.license ? ' · '+a.license : ''))));
+    art.appendChild(el('div','r-src', esc((a.source||'') + (a.partial ? ' · Summary' : (a.license ? ' · '+a.license : '')))));
     art.appendChild(el('h1', null, esc(a.title||'')));
     if(a.byline) art.appendChild(el('p','r-byline', esc(a.byline)));
     var body = el('div','r-body');
@@ -240,7 +240,11 @@ a{ color:inherit; }
     else if(a.paragraphs){ a.paragraphs.forEach(function(p){ body.appendChild(el('p',null,esc(p))); }); }
     art.appendChild(body);
     var foot = el('div','r-foot');
-    foot.innerHTML = 'Republished from <a href="'+esc(a.url||'#')+'" target="_blank" rel="noopener">'+esc(a.source||'the original')+'</a>'+(a.license?(' under '+esc(a.license)):'')+'.';
+    if(a.partial){
+      foot.innerHTML = 'Short summary, in our words. Read the full article at <a href="'+esc(a.url||'#')+'" target="_blank" rel="noopener">'+esc(a.source||'the source')+' ↗</a>.';
+    } else {
+      foot.innerHTML = 'Republished from <a href="'+esc(a.url||'#')+'" target="_blank" rel="noopener">'+esc(a.source||'the original')+'</a>'+(a.license?(' under '+esc(a.license)):'')+'.';
+    }
     art.appendChild(foot);
     readerEl.classList.add('open'); readerEl.scrollTop=0; document.body.style.overflow='hidden';
   }

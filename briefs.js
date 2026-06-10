@@ -15,7 +15,10 @@ window.BRIEFS = [
                 "title": "Iran strikes US bases in the Gulf after America hits ~20 sites near Hormuz",
                 "url": "https://www.abc.net.au/news/2026-06-10/us-strikes-iran-after-apache-helicopter-downing-live-updates/106774290",
                 "duration": "~4 min",
-                "note": "The truce collapses: Washington's retaliation for the downed Apache draws Iranian drone and missile attacks on US bases in Bahrain, Kuwait and Jordan."
+                "note": "The truce collapses: Washington's retaliation for the downed Apache draws Iranian drone and missile attacks on US bases in Bahrain, Kuwait and Jordan.",
+                "readable": true,
+                "articleId": "2dcb8459246bad0e",
+                "partial": true
               }
             ]
           },
@@ -26,7 +29,10 @@ window.BRIEFS = [
                 "title": "High Court ruling opens the door to tens of millions in wrongful-detention claims",
                 "url": "https://www.abc.net.au/news/2026-06-10/nzyq-high-court-decision-could-lead-to-millions-worth-of-claims/106780880",
                 "duration": "~4 min",
-                "note": "A man wrongly held in indefinite detention can now sue; ~340 in the NZYQ cohort may follow, with taxpayers exposed."
+                "note": "A man wrongly held in indefinite detention can now sue; ~340 in the NZYQ cohort may follow, with taxpayers exposed.",
+                "readable": true,
+                "articleId": "ef93fa58cf98c1ac",
+                "partial": true
               }
             ]
           },
@@ -37,7 +43,10 @@ window.BRIEFS = [
                 "title": "Allan dismisses spill talk as Victorian Labor's primary vote slumps to 23%",
                 "url": "https://www.theguardian.com/australia-news/2026/jun/09/victorian-premier-jacinta-allan-dismisses-leadership-spill-speculation-calls-out-hanson-ntwnfb",
                 "duration": "~5 min",
-                "note": "A Freshwater poll has Labor third behind the Coalition and One Nation; the leadership murmurs are back five months out from the November poll."
+                "note": "A Freshwater poll has Labor third behind the Coalition and One Nation; the leadership murmurs are back five months out from the November poll.",
+                "readable": true,
+                "articleId": "7f074f07494fc019",
+                "partial": true
               }
             ]
           }
