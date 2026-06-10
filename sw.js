@@ -1,6 +1,7 @@
-// Minimal offline cache for the Daily Brief app shell.
-// Data (briefs.js) is network-first so new issues show; shell is cache-first.
-const SHELL = 'db-shell-v1';
+// Daily Brief service worker.
+// Code, data and articles are network-first (so updates always show when online);
+// icons/manifest are cache-first. Bump SHELL to force clients onto new code.
+const SHELL = 'db-shell-v3';
 const SHELL_FILES = ['./', './index.html', './icon.svg', './manifest.webmanifest'];
 
 self.addEventListener('install', e => {
@@ -11,15 +12,18 @@ self.addEventListener('activate', e => {
     Promise.all(keys.filter(k => k !== SHELL).map(k => caches.delete(k)))).then(() => self.clients.claim()));
 });
 self.addEventListener('fetch', e => {
-  const url = new URL(e.request.url);
-  if (url.pathname.endsWith('briefs.js')) {
-    // network-first for fresh content, fall back to cache offline
+  const req = e.request;
+  const url = new URL(req.url);
+  const netFirst = req.mode === 'navigate'
+    || url.pathname.endsWith('index.html')
+    || url.pathname.endsWith('briefs.js')
+    || url.pathname.includes('/articles/');
+  if (netFirst) {
     e.respondWith(
-      fetch(e.request).then(r => {
-        const copy = r.clone(); caches.open(SHELL).then(c => c.put(e.request, copy)); return r;
-      }).catch(() => caches.match(e.request))
+      fetch(req).then(r => { const c = r.clone(); caches.open(SHELL).then(x => x.put(req, c)); return r; })
+        .catch(() => caches.match(req).then(m => m || caches.match('./index.html')))
     );
     return;
   }
-  e.respondWith(caches.match(e.request).then(r => r || fetch(e.request)));
+  e.respondWith(caches.match(req).then(r => r || fetch(req)));
 });

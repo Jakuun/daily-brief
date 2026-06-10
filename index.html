@@ -197,20 +197,17 @@ a{ color:inherit; }
     var d = el('div','item');
     var src = source(it.url);
     if(src) d.appendChild(el('div','kicker', esc(src)));
-    var a = el('a','headline', esc(it.title)); a.href=it.url; a.target='_blank'; a.rel='noopener';
-    if(it.readable && it.articleId){
-      a.className = 'headline has-reader';
-      a.addEventListener('click', function(ev){ ev.preventDefault(); openReader(it.articleId, it.url); });
-    }
+    // every text item opens in the in-app reader — never a hard redirect
+    var a = el('a','headline has-reader', esc(it.title)); a.href=it.url; a.target='_blank'; a.rel='noopener';
+    a.addEventListener('click', function(ev){ ev.preventDefault(); openReader(it); });
     d.appendChild(a);
     if(it.note) d.appendChild(el('p','note', esc(it.note)));
     var rb = readBadge(it.duration);
-    if(rb || it.readable){
-      var row = el('div','meta-row');
-      if(rb) row.appendChild(rb);
-      if(it.readable) row.appendChild(el('span','reader-tag', it.partial ? 'Summary' : 'Read here'));
-      d.appendChild(row);
-    }
+    var row = el('div','meta-row');
+    if(rb) row.appendChild(rb);
+    var full = it.articleId && !it.partial;
+    row.appendChild(el('span','reader-tag', full ? 'Read here' : 'Summary'));
+    d.appendChild(row);
     return d;
   }
 
@@ -249,13 +246,22 @@ a{ color:inherit; }
     readerEl.classList.add('open'); readerEl.scrollTop=0; document.body.style.overflow='hidden';
   }
   function closeReader(){ if(readerEl){ readerEl.classList.remove('open'); document.body.style.overflow=''; } }
-  function openReader(id, url){
+  function readerFromItem(it){
+    return { title: it.title, source: source(it.url), url: it.url, partial: true,
+             body: it.note ? ('<p>'+esc(it.note)+'</p>') : '' };
+  }
+  function openReader(it){
     window.__DB_ARTICLES = window.__DB_ARTICLES || {};
-    if(window.__DB_ARTICLES[id]){ renderReader(window.__DB_ARTICLES[id]); return; }
-    var s = document.createElement('script'); s.src = 'articles/'+id+'.js';
-    s.onload = function(){ if(window.__DB_ARTICLES[id]) renderReader(window.__DB_ARTICLES[id]); else window.open(url,'_blank'); };
-    s.onerror = function(){ window.open(url,'_blank'); };
-    document.head.appendChild(s);
+    var id = it.articleId;
+    if(id && window.__DB_ARTICLES[id]){ renderReader(window.__DB_ARTICLES[id]); return; }
+    // open in-app IMMEDIATELY from the item's own data — never bounce to an external app
+    renderReader(readerFromItem(it));
+    if(id){
+      var s = document.createElement('script'); s.src = 'articles/'+id+'.js';
+      s.onload = function(){ if(window.__DB_ARTICLES[id]) renderReader(window.__DB_ARTICLES[id]); };
+      s.onerror = function(){ /* keep the in-app fallback; do NOT redirect */ };
+      document.head.appendChild(s);
+    }
   }
   function card(it){
     var a = el('a','card'); a.href=it.url; a.target='_blank'; a.rel='noopener';
