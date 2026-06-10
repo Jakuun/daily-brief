@@ -1,0 +1,10 @@
+# Operational / local-only files — never published to the site
+publish.sh
+generate.py
+*.plist
+SETUP.md
+.publish.lock
+.publish.log
+.launchd.out.log
+.launchd.err.log
+.DS_Store

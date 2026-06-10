@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en" data-density="balanced">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Daily Brief</title>
+<meta name="theme-color" content="#f7f4ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Daily Brief">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400;1,6..72,500&family=Archivo:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+/* ---------- TOKENS (light · Pine · balanced) ---------- */
+:root{
+  --accent:#3f5d4a;
+  --paper:#f7f4ec; --paper-raise:#fffdf9; --paper-sink:#efeadd;
+  --ink:#322d26; --ink-2:#4c453a; --ink-soft:#7d7464;
+  --rule:#e4ddcd; --rule-strong:#d6ccb7;
+  --accent-tint:color-mix(in oklab, var(--accent) 8%, var(--paper));
+  --accent-line:color-mix(in oklab, var(--accent) 38%, var(--rule));
+  --shadow:0 1px 2px rgba(60,50,30,.05), 0 14px 36px -22px rgba(60,45,25,.35);
+  --measure:664px; --fs-body:1.06rem; --gap-item:20px; --gap-sec:46px;
+}
+*{box-sizing:border-box;}
+html{ -webkit-text-size-adjust:100%; }
+body{ margin:0; background:var(--paper); color:var(--ink-2);
+  font-family:"Newsreader",Georgia,serif; line-height:1.62;
+  -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; }
+a{ color:inherit; }
+::selection{ background:var(--accent-tint); }
+
+/* ---------- TOP BAR (issue navigation) ---------- */
+.topbar{ position:sticky; top:0; z-index:40; display:flex; align-items:center; justify-content:space-between;
+  gap:14px; padding:10px max(16px, calc((100% - 1000px)/2));
+  background:color-mix(in oklab, var(--paper) 84%, transparent);
+  -webkit-backdrop-filter:saturate(150%) blur(14px); backdrop-filter:saturate(150%) blur(14px);
+  border-bottom:1px solid var(--rule); font-family:"Archivo",system-ui,sans-serif; }
+.topbar .wordmark{ font-size:11px; letter-spacing:.22em; text-transform:uppercase; color:var(--ink-soft); }
+.topbar .wordmark b{ color:var(--ink); font-weight:700; }
+.issnav{ display:flex; align-items:center; gap:6px; }
+.issnav button{ appearance:none; border:1px solid var(--rule); background:var(--paper-raise); color:var(--ink-soft);
+  width:30px; height:30px; border-radius:8px; cursor:pointer; font-size:15px; line-height:1;
+  display:flex; align-items:center; justify-content:center; transition:.15s; }
+.issnav button:hover:not(:disabled){ color:var(--accent); border-color:var(--accent-line); }
+.issnav button:disabled{ opacity:.32; cursor:default; }
+.issnav .lbl{ font-size:12px; color:var(--ink); min-width:104px; text-align:center; letter-spacing:.02em; }
+
+/* ---------- PAGE ---------- */
+.page{ max-width:var(--measure); margin:0 auto; padding:clamp(30px,5vw,56px) 20px calc(env(safe-area-inset-bottom) + 80px); }
+
+/* masthead — centred newspaper */
+.masthead{ text-align:center; border-bottom:3px double var(--accent-line); padding-bottom:18px; margin-bottom:28px; }
+.mh-kicker{ font-family:"Archivo",sans-serif; font-size:11px; letter-spacing:.36em; text-transform:uppercase; color:var(--accent); margin-bottom:12px; }
+.mh-title{ font-weight:600; color:var(--ink); margin:0; line-height:1; font-size:clamp(40px,8.5vw,62px); letter-spacing:.01em; }
+.mh-meta{ font-family:"Archivo",sans-serif; color:var(--ink-soft); display:flex; align-items:center; justify-content:center; gap:12px; margin-top:16px; padding-top:14px; border-top:1px double var(--accent-line); }
+.mh-date{ font-size:12.5px; letter-spacing:.04em; color:var(--ink); }
+.mh-meta .sep{ width:3px; height:3px; border-radius:50%; background:var(--rule-strong); }
+.mh-no{ font-size:11px; letter-spacing:.18em; text-transform:uppercase; color:var(--ink-soft); }
+
+/* contents strip */
+.contents{ font-family:"Archivo",sans-serif; font-size:11.5px; letter-spacing:.1em; text-transform:uppercase;
+  color:var(--ink-soft); display:flex; flex-wrap:wrap; gap:9px 14px; align-items:center; justify-content:center; margin:0 0 32px; }
+.contents .c-i{ display:inline-flex; align-items:baseline; gap:6px; white-space:nowrap; }
+.contents .c-i b{ color:var(--accent); font-weight:700; font-family:"Newsreader",serif; font-size:14px; letter-spacing:0; }
+.contents .dot{ width:3px; height:3px; border-radius:50%; background:var(--rule-strong); }
+
+.lede{ color:var(--ink); font-size:1.22rem; line-height:1.56; font-style:italic; margin:0;
+  text-align:left; border-left:2px solid var(--accent); padding-left:18px; }
+
+/* sections */
+.sec{ margin-top:var(--gap-sec); }
+.sec-head{ display:flex; align-items:center; gap:14px; margin-bottom:22px; }
+.sec-name{ font-family:"Archivo",sans-serif; font-weight:700; letter-spacing:.22em; text-transform:uppercase; color:var(--accent); font-size:12.5px; margin:0; white-space:nowrap; }
+.sec-rule{ flex:1; height:1px; background:var(--rule-strong); }
+
+/* text item — News / Read / Wildcard all render identically */
+.items{ display:flex; flex-direction:column; }
+.item{ padding-bottom:var(--gap-item); margin-bottom:var(--gap-item); border-bottom:1px solid var(--rule); }
+.item:last-child{ border-bottom:0; margin-bottom:0; padding-bottom:0; }
+.kicker{ font-family:"Archivo",sans-serif; font-size:10.5px; letter-spacing:.18em; text-transform:uppercase; color:var(--accent); margin-bottom:7px; }
+.headline{ display:block; color:var(--ink); font-weight:600; font-size:1.42rem; line-height:1.26; text-decoration:none; letter-spacing:-.005em; transition:color .15s; }
+.headline:hover{ color:var(--accent); }
+.note{ margin:9px 0 0; color:var(--ink-2); font-size:var(--fs-body); line-height:1.6; }
+.read-badge{ display:inline-flex; align-items:center; gap:6px; margin-top:11px; color:var(--ink-soft); }
+.read-badge .clock{ width:11px; height:11px; opacity:.8; }
+.badge{ font-family:"Archivo",sans-serif; font-size:10px; font-weight:600; letter-spacing:.08em; text-transform:uppercase; }
+
+/* watch */
+.watch-group{ margin-bottom:30px; }
+.watch-group:last-child{ margin-bottom:0; }
+.group-label{ font-style:italic; color:var(--ink-soft); font-size:1.04rem; margin:0 0 14px; }
+.cards{ display:flex; flex-direction:column; gap:6px; }
+.card{ display:flex; gap:17px; align-items:flex-start; text-decoration:none; color:inherit; padding:11px; margin:0 -11px; border-radius:12px; transition:background .16s; }
+.card:hover{ background:var(--paper-sink); }
+.thumb{ position:relative; flex:0 0 178px; width:178px; aspect-ratio:16/9; border-radius:9px; overflow:hidden; background:var(--rule); box-shadow:var(--shadow); }
+.thumb img{ width:100%; height:100%; object-fit:cover; display:block; }
+.thumb .dur{ position:absolute; right:7px; bottom:7px; background:rgba(20,16,12,.82); color:#f5efe2; font-family:"Archivo",sans-serif; font-size:10.5px; font-weight:600; padding:2px 7px; border-radius:5px; letter-spacing:.04em; }
+.card-body h3{ margin:0; font-size:1.12rem; line-height:1.3; font-weight:600; color:var(--ink); }
+.card:hover .card-body h3{ color:var(--accent); }
+.card-body .note{ margin:6px 0 0; font-size:1rem; }
+
+/* footer */
+.foot{ margin-top:64px; padding-top:24px; border-top:1px solid var(--rule); text-align:center; }
+.foot .signoff{ font-style:italic; color:var(--ink-soft); font-size:1.06rem; line-height:1.55; max-width:520px; margin:0 auto 16px; }
+.foot .colophon{ font-family:"Archivo",sans-serif; font-size:10.5px; letter-spacing:.18em; text-transform:uppercase; color:var(--ink-soft); }
+.empty{ text-align:center; color:var(--ink-soft); font-style:italic; padding:80px 0; }
+
+@media (max-width:540px){
+  .card{ gap:11px; }
+  .thumb{ flex-basis:128px; width:128px; }
+  .topbar .wordmark{ display:none; }
+  .topbar{ justify-content:flex-end; }
+}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <span class="wordmark"><b>The Daily Brief</b></span>
+  <div class="issnav">
+    <button id="prev" aria-label="Back a day (older)">‹</button>
+    <span class="lbl" id="isslbl">—</span>
+    <button id="next" aria-label="Forward a day (newer)">›</button>
+  </div>
+</div>
+
+<div class="page"><main id="content"></main></div>
+
+<script src="briefs.js"></script>
+<script>
+(function(){
+  var BRIEFS = (window.BRIEFS || []);
+  var content = document.getElementById('content');
+  var issueIndex = 0; // 0 = newest
+
+  function el(tag, cls, html){ var e=document.createElement(tag); if(cls)e.className=cls; if(html!=null)e.innerHTML=html; return e; }
+  function esc(s){ return (s||'').replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
+
+  var SRC_MAP = {
+    'abc.net.au':'ABC News','theguardian.com':'The Guardian','theconversation.com':'The Conversation',
+    'youtube.com':'YouTube','youtu.be':'YouTube','aljazeera.com':'Al Jazeera','bbc.com':'BBC','bbc.co.uk':'BBC',
+    'reuters.com':'Reuters','apnews.com':'AP','dw.com':'DW','crikey.com.au':'Crikey','michaelwest.com.au':'Michael West',
+    'thesaturdaypaper.com.au':'The Saturday Paper','themonthly.com.au':'The Monthly','smh.com.au':'Sydney Morning Herald','theage.com.au':'The Age'
+  };
+  function source(url){
+    try{
+      var h = new URL(url).hostname.replace(/^www\./,'');
+      if(SRC_MAP[h]) return SRC_MAP[h];
+      var p = h.split('.'); var base = p.length>2 ? p[p.length-2] : p[0];
+      return base.charAt(0).toUpperCase()+base.slice(1);
+    }catch(e){ return ''; }
+  }
+  var CLOCK = '<svg class="clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>';
+  function readBadge(dur){
+    if(!dur) return null;
+    var label = dur.replace(/^~\s*/,'');
+    if(/\bmin\b/.test(label) && !/read/.test(label)) label = label.replace(/\bmin\b/, 'min read');
+    var b = el('div','read-badge'); b.innerHTML = CLOCK + '<span class="badge">'+esc(label)+'</span>';
+    return b;
+  }
+
+  // text item: source label + headline + note + reading-time badge (News, Read, Wildcard)
+  function textItem(it){
+    var d = el('div','item');
+    var src = source(it.url);
+    if(src) d.appendChild(el('div','kicker', esc(src)));
+    var a = el('a','headline', esc(it.title)); a.href=it.url; a.target='_blank'; a.rel='noopener';
+    d.appendChild(a);
+    if(it.note) d.appendChild(el('p','note', esc(it.note)));
+    var rb = readBadge(it.duration); if(rb) d.appendChild(rb);
+    return d;
+  }
+  function card(it){
+    var a = el('a','card'); a.href=it.url; a.target='_blank'; a.rel='noopener';
+    if(it.thumb){
+      var t = el('div','thumb');
+      var img = el('img'); img.loading='lazy'; img.src=it.thumb; img.alt='';
+      img.onerror=function(){ t.style.background='var(--paper-sink)'; img.remove(); };
+      t.appendChild(img);
+      if(it.duration) t.appendChild(el('span','dur', esc(it.duration)));
+      a.appendChild(t);
+    }
+    var b = el('div','card-body');
+    b.appendChild(el('h3', null, esc(it.title)));
+    if(it.note) b.appendChild(el('p','note', esc(it.note)));
+    a.appendChild(b);
+    return a;
+  }
+
+  function renderSection(sec){
+    var isWatch = /watch/i.test(sec.name);
+    var s = el('section','sec');
+    var head = el('div','sec-head');
+    head.appendChild(el('h2','sec-name', esc(sec.name)));
+    head.appendChild(el('span','sec-rule'));
+    s.appendChild(head);
+    if(sec.groups && sec.groups.length){
+      sec.groups.forEach(function(g){
+        var gd = el('div','watch-group');
+        if(g.label) gd.appendChild(el('div','group-label', esc(g.label)));
+        var cards = el('div','cards');
+        g.items.forEach(function(it){ cards.appendChild(card(it)); });
+        gd.appendChild(cards);
+        s.appendChild(gd);
+      });
+    } else {
+      var wrap = el('div','items');
+      (sec.items||[]).forEach(function(it){ wrap.appendChild((isWatch || it.thumb) ? card(it) : textItem(it)); });
+      s.appendChild(wrap);
+    }
+    return s;
+  }
+
+  function countWatch(sec){ var n=0; (sec.groups||[]).forEach(function(g){ n+=(g.items||[]).length; }); return n; }
+  function contentsStrip(brief){
+    var parts = [];
+    (brief.sections||[]).forEach(function(sec){
+      var n, label;
+      if(/watch/i.test(sec.name)){ n=countWatch(sec); label='to watch'; }
+      else { n=(sec.items||[]).length;
+        if(/news/i.test(sec.name)) label = n===1?'headline':'headlines';
+        else if(/read/i.test(sec.name)) label = n===1?'long read':'long reads';
+        else label = sec.name.toLowerCase(); }
+      if(n>0) parts.push({n:n,label:label});
+    });
+    var c = el('div','contents');
+    parts.forEach(function(p,i){ if(i) c.appendChild(el('span','dot')); c.appendChild(el('span','c-i','<b>'+p.n+'</b> '+esc(p.label))); });
+    return c;
+  }
+
+  function masthead(brief){
+    var no = BRIEFS.length - issueIndex; // oldest = No.1, increments over time
+    var h = el('header','masthead');
+    h.innerHTML =
+      '<div class="mh-kicker">Curated · Yarra Ranges</div>'+
+      '<h1 class="mh-title">The Daily Brief</h1>'+
+      '<div class="mh-meta"><span class="mh-date">'+esc(brief.weekday_date||brief.date)+'</span>'+
+      '<span class="sep"></span><span class="mh-no">No. '+no+'</span></div>';
+    return h;
+  }
+
+  function render(){
+    var brief = BRIEFS[issueIndex];
+    content.innerHTML='';
+    if(!brief){ content.appendChild(el('div','empty','No briefs yet.')); return; }
+    content.appendChild(masthead(brief));
+    if(brief.intro) content.appendChild(el('p','lede', esc(brief.intro)));
+    content.appendChild(contentsStrip(brief));
+    (brief.sections||[]).forEach(function(sec){ content.appendChild(renderSection(sec)); });
+    var so=(brief.signoff||'').replace(/^\*+|\*+$/g,'').trim();
+    var no = BRIEFS.length - issueIndex;
+    var f = el('footer','foot');
+    if(so) f.appendChild(el('div','signoff', '“'+esc(so)+'”'));
+    f.appendChild(el('div','colophon','The Daily Brief · No. '+no+' · '+esc(brief.weekday_date||brief.date)));
+    content.appendChild(f);
+  }
+
+  // issue nav — left = back a day (older), right = forward a day (newer)
+  function updateNav(){
+    var b = BRIEFS[issueIndex];
+    var wd = ((b && (b.weekday_date||b.date))||'').split(',')[0];
+    document.getElementById('isslbl').textContent = wd || '—';
+    document.getElementById('prev').disabled = issueIndex >= BRIEFS.length-1; // no older
+    document.getElementById('next').disabled = issueIndex <= 0;               // no newer
+  }
+  function go(i){ issueIndex = Math.max(0, Math.min(BRIEFS.length-1, i)); updateNav(); render(); window.scrollTo(0,0); }
+  document.getElementById('prev').addEventListener('click', function(){ go(issueIndex+1); }); // older
+  document.getElementById('next').addEventListener('click', function(){ go(issueIndex-1); }); // newer
+
+  go(0);
+
+  if('serviceWorker' in navigator && location.protocol==='https:'){
+    navigator.serviceWorker.register('sw.js').catch(function(){});
+  }
+})();
+</script>
+</body>
+</html>
