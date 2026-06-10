@@ -203,9 +203,9 @@ a{ color:inherit; }
       sec.groups.forEach(function(g){
         var gd = el('div','watch-group');
         if(g.label) gd.appendChild(el('div','group-label', esc(g.label)));
-        var cards = el('div','cards');
-        g.items.forEach(function(it){ cards.appendChild(card(it)); });
-        gd.appendChild(cards);
+        var holder = el('div', isWatch ? 'cards' : 'items');
+        g.items.forEach(function(it){ holder.appendChild((isWatch || it.thumb) ? card(it) : textItem(it)); });
+        gd.appendChild(holder);
         s.appendChild(gd);
       });
     } else {
@@ -216,13 +216,13 @@ a{ color:inherit; }
     return s;
   }
 
-  function countWatch(sec){ var n=0; (sec.groups||[]).forEach(function(g){ n+=(g.items||[]).length; }); return n; }
+  function countItems(sec){ if(sec.groups&&sec.groups.length){ var n=0; sec.groups.forEach(function(g){ n+=(g.items||[]).length; }); return n; } return (sec.items||[]).length; }
   function contentsStrip(brief){
     var parts = [];
     (brief.sections||[]).forEach(function(sec){
       var n, label;
-      if(/watch/i.test(sec.name)){ n=countWatch(sec); label='to watch'; }
-      else { n=(sec.items||[]).length;
+      if(/watch/i.test(sec.name)){ n=countItems(sec); label='to watch'; }
+      else { n=countItems(sec);
         if(/news/i.test(sec.name)) label = n===1?'headline':'headlines';
         else if(/read/i.test(sec.name)) label = n===1?'long read':'long reads';
         else label = sec.name.toLowerCase(); }
