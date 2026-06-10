@@ -3,28 +3,43 @@ window.BRIEFS = [
     "date": "2026-06-10",
     "title": "Daily Brief — Wednesday, 10 June 2026",
     "weekday_date": "Wednesday, 10 June 2026",
-    "intro": "The Patch: cold and grey, 13–16°C, gusty northerlies and a 95% chance of showers from this afternoon — yesterday's promised rain has arrived. Overseas the Israel–Iran truce already looks shaky after a US helicopter went down over the Strait of Hormuz; at home it's KPMG's turn in the consulting-scandal spotlight. Below: a sharp debunk of \"the body keeps the score,\" and a chamber of two-billion-year-old air.",
+    "intro": "The Patch: cold, grey and wet — light winds and a 95% chance of showers through the afternoon. Overseas the Israel–Iran truce has collapsed into direct US–Iran fighting; at home a High Court ruling exposes taxpayers to big wrongful-detention claims. Below: Tolkien as a Silicon Valley mascot, dreams as a slow-morning listen, and gold rained on WA by a meteorite.",
     "sections": [
       {
         "name": "News",
-        "items": [
+        "groups": [
           {
-            "title": "US helicopter shot down over the Strait of Hormuz — Trump vows to respond",
-            "url": "https://www.abc.net.au/news/2026-06-10/us-chopper-shot-down-near-oman/106778864",
-            "duration": "~3 min",
-            "note": "A day after the ceasefire, an Apache is downed and the crew rescued by a sea drone; the truce wobbles. The day's dominant story."
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran strikes US bases in the Gulf after America hits ~20 sites near Hormuz",
+                "url": "https://www.abc.net.au/news/2026-06-10/us-strikes-iran-after-apache-helicopter-downing-live-updates/106774290",
+                "duration": "~4 min",
+                "note": "The truce collapses: Washington's retaliation for the downed Apache draws Iranian drone and missile attacks on US bases in Bahrain, Kuwait and Jordan."
+              }
+            ]
           },
           {
-            "title": "KPMG loses its CEO and contracts over alleged client-data leaks",
-            "url": "https://www.theguardian.com/australia-news/2026/jun/10/kpmg-scandal-alleged-confidential-leaks-contracts-lost-leaders-quit-ntwnfb",
-            "duration": "~4 min",
-            "note": "The consulting sector's PwC moment, round two: $650m in government contracts under review and two inquiries looming."
+            "label": "Australia",
+            "items": [
+              {
+                "title": "High Court ruling opens the door to tens of millions in wrongful-detention claims",
+                "url": "https://www.abc.net.au/news/2026-06-10/nzyq-high-court-decision-could-lead-to-millions-worth-of-claims/106780880",
+                "duration": "~4 min",
+                "note": "A man wrongly held in indefinite detention can now sue; ~340 in the NZYQ cohort may follow, with taxpayers exposed."
+              }
+            ]
           },
           {
-            "title": "One man's death exposes Australia's invisible homeless",
-            "url": "https://www.abc.net.au/news/2026-06-10/international-students-arranged-marriage-women-homeless-crisis/106731596",
-            "duration": "~6 min",
-            "note": "A 7.30 investigation into non-residents — students, abandoned wives — who fall through every safety net and sleep rough in central Sydney."
+            "label": "Local",
+            "items": [
+              {
+                "title": "Allan dismisses spill talk as Victorian Labor's primary vote slumps to 23%",
+                "url": "https://www.theguardian.com/australia-news/2026/jun/09/victorian-premier-jacinta-allan-dismisses-leadership-spill-speculation-calls-out-hanson-ntwnfb",
+                "duration": "~5 min",
+                "note": "A Freshwater poll has Labor third behind the Coalition and One Nation; the leadership murmurs are back five months out from the November poll."
+              }
+            ]
           }
         ]
       },
@@ -35,11 +50,11 @@ window.BRIEFS = [
             "label": "News",
             "items": [
               {
-                "title": "Facing China: Japan's growing strategic role in the Indo-Pacific",
-                "url": "https://www.youtube.com/watch?v=i7vTNeSVJOg",
-                "duration": "12 min",
-                "note": "Pairs with today's Xi-courts-Kim geopolitics.",
-                "thumb": "https://i.ytimg.com/vi/i7vTNeSVJOg/hqdefault.jpg"
+                "title": "Fuel shortages in Crimea expose pressure from Ukrainian strikes",
+                "url": "https://www.youtube.com/watch?v=uWKlmuvUx58",
+                "duration": "7:53",
+                "note": "A tight, concrete look at how Ukraine's strikes are biting behind the lines.",
+                "thumb": "https://i.ytimg.com/vi/uWKlmuvUx58/hqdefault.jpg"
               }
             ]
           },
@@ -47,42 +62,68 @@ window.BRIEFS = [
             "label": "Infotainment",
             "items": [
               {
-                "title": "How the war in Iran could end affordable air travel",
-                "url": "https://www.youtube.com/watch?v=0TcfpkT5DpA",
-                "duration": "7 min",
-                "note": "A concrete, non-obvious angle on today's lead.",
-                "thumb": "https://i.ytimg.com/vi/0TcfpkT5DpA/hqdefault.jpg"
+                "title": "AI giants head to Wall Street — but who controls the tech that shapes our world?",
+                "url": "https://www.youtube.com/watch?v=SmDG_Er2UVM",
+                "duration": "16:42",
+                "note": "Who actually holds power over frontier AI; straight to your current focus.",
+                "thumb": "https://i.ytimg.com/vi/SmDG_Er2UVM/hqdefault.jpg"
               }
             ]
           },
           {
-            "label": "Fun",
+            "label": "Indulgence",
             "items": [
               {
-                "title": "Hamish Spends An Entire Bitcoin In One Hour",
-                "url": "https://www.youtube.com/watch?v=1AcpELZVBOs",
-                "duration": "9 min",
-                "note": "A clip to share over breakfast.",
-                "thumb": "https://i.ytimg.com/vi/1AcpELZVBOs/hqdefault.jpg"
+                "title": "Jimmy Kimmel: Trump Booed & Falls Asleep at the NBA Finals, Claims War is Almost Over",
+                "url": "https://www.youtube.com/watch?v=aPAm0Tyt0jY",
+                "duration": "13:28",
+                "note": "Today's monologue; the \"war almost over\" line lands differently this morning.",
+                "thumb": "https://i.ytimg.com/vi/aPAm0Tyt0jY/hqdefault.jpg"
               },
               {
-                "title": "Monopoly, But WORLD CUP!",
-                "url": "https://www.youtube.com/watch?v=y-yX4zuAwUI",
-                "duration": "2 hr",
-                "note": "Timely for the Cup; one for you and Caroline.",
-                "thumb": "https://i.ytimg.com/vi/y-yX4zuAwUI/hqdefault.jpg"
+                "title": "Hat Films: We've got Big Robots in Teardown!",
+                "url": "https://www.youtube.com/watch?v=2IjV9Yybfx8",
+                "duration": "22:12",
+                "note": "Fresh this morning.",
+                "thumb": "https://i.ytimg.com/vi/2IjV9Yybfx8/hqdefault.jpg"
+              },
+              {
+                "title": "The Good Liars: Rededicate 250 in DC – Part 2",
+                "url": "https://www.youtube.com/watch?v=NRUNoeU4OPo",
+                "duration": "17:58",
+                "note": "Street-level political comedy.",
+                "thumb": "https://i.ytimg.com/vi/NRUNoeU4OPo/hqdefault.jpg"
+              },
+              {
+                "title": "WrestleTalk: WWE Buying TNA?! Real Reason WWE Settled the Lawsuit — Raw Review",
+                "url": "https://www.youtube.com/watch?v=NZfCZLcJwoc",
+                "duration": "15:32",
+                "note": "Your Raw recap.",
+                "thumb": "https://i.ytimg.com/vi/NZfCZLcJwoc/hqdefault.jpg"
               }
             ]
           },
           {
-            "label": "Special interest",
+            "label": "Long form",
             "items": [
               {
-                "title": "Chad Gable Babyface Turn — WWE Raw June 8 | WrestleTalk Podcast",
-                "url": "https://www.youtube.com/watch?v=0S-edApNp7k",
-                "duration": "56 min",
-                "note": "The latest full pod episode to bank.",
-                "thumb": "https://i.ytimg.com/vi/0S-edApNp7k/hqdefault.jpg"
+                "title": "The Gray Area: How to understand your dreams & nightmares",
+                "url": "https://www.youtube.com/watch?v=vW2hUiRALwQ",
+                "duration": "47:08",
+                "note": "Sean Illing on the science and meaning of dreaming; consciousness-adjacent, a good slow-morning listen.",
+                "thumb": "https://i.ytimg.com/vi/vW2hUiRALwQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Hamish & Andy: Hamish's Kids Love Swearing",
+                "url": "https://www.youtube.com/watch?v=92PUatrmWRY",
+                "duration": "5:55",
+                "note": "A quick, warm one to share with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/92PUatrmWRY/hqdefault.jpg"
               }
             ]
           }
@@ -92,10 +133,10 @@ window.BRIEFS = [
         "name": "Read",
         "items": [
           {
-            "title": "Does the body really \"keep the score\" after trauma?",
-            "url": "https://theconversation.com/does-the-body-really-keep-the-score-after-trauma-how-the-debunked-idea-of-repressed-memories-is-making-a-comeback-279112",
-            "duration": "~9 min",
-            "note": "Two Sydney memory researchers on why a bestseller's repressed-memory claim is bad science making a comeback — rigour over fashion."
+            "title": "How Silicon Valley misreads The Lord of the Rings",
+            "url": "https://theconversation.com/how-silicon-valley-misreads-the-lord-of-the-rings-282862",
+            "duration": "~8 min",
+            "note": "Tolkien recast as a tech-bro mascot, and why the books argue the opposite: literature meets the philosophy of power. Published today."
           }
         ]
       },
@@ -103,15 +144,15 @@ window.BRIEFS = [
         "name": "Wildcard",
         "items": [
           {
-            "title": "Breathing two-billion-year-old air: MONA's Hard Core",
-            "url": "https://theconversation.com/breathing-two-billion-year-old-air-monas-hard-core-is-an-artistic-journey-through-deep-time-284553",
+            "title": "A meteorite impact may have once rained gold on Western Australia",
+            "url": "https://theconversation.com/a-meteorite-impact-may-have-once-rained-gold-on-western-australia-new-study-284768",
             "duration": "",
             "note": ""
           }
         ]
       }
     ],
-    "signoff": "Chrome connected; news is current-day. The Iran story is a deliberate continuation — overnight's downed helicopter is a material escalation on yesterday's ceasefire, not a rerun."
+    "signoff": "Chrome connected; news is current-day. The Iran item is a deliberate material escalation on the week's running story — overnight US strikes and Iranian reprisals on Gulf bases. WrestleTalk Podcast had no fresh unseen full episode, so the standing long-form slot sits this one out."
   },
   {
     "date": "2026-06-09",
