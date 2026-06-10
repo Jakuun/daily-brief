@@ -1,5 +1,173 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-11",
+    "title": "Daily Brief — Thursday, 11 June 2026",
+    "weekday_date": "Thursday, 11 June 2026",
+    "intro": "The Patch wakes to patchy morning fog and a slight chance of a shower — 9–16°C, light winds, a gentler day than yesterday's soaking. For once the lead isn't a war: the 2026 World Cup kicks off at the Azteca this morning. Below, a philosopher on why you can't legislate what a \"woman\" is, and a deep-time art journey through MONA's rocks.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "The World Cup kicks off as Mexico host South Africa at the Azteca",
+                "url": "https://www.aljazeera.com/sports/2026/6/10/mexico-south-africa-fifa-world-cup-2026-match-lineup-players-news-football",
+                "duration": "~5 min",
+                "note": "The biggest-ever World Cup — 48 teams, three nations — opens today with a Shakira-headlined ceremony and a rematch of the 2010 opener.",
+                "readable": true,
+                "articleId": "0121b0bc8d98b6ae",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Labor backs down on making ASIO's 9/11-era questioning powers permanent",
+                "url": "https://www.theguardian.com/australia-news/2026/jun/11/australian-government-scraps-asio-compulsory-questioning-plans",
+                "duration": "~4 min",
+                "note": "A rare reversal restores the sunset clause, but the powers — which can compel 14-year-olds to answer — will cover more offences.",
+                "readable": true,
+                "articleId": "9ff7694283e0fabd",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "A Yarra Ranges volunteer group's lessons, five years on from the June 2021 storms",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-09/stepping-up-for-survival-volunteer-groups-lessons-from-the-june-2021-storms/",
+                "duration": "~4 min",
+                "note": "Community \"preparing\", not lone-wolf prepping: the APSL trains locals to be first-responders when storms cut the Hills off. Timely for winter.",
+                "readable": true,
+                "articleId": "84c433df554af635",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Questions emerge over Trump's hold on Republican support",
+                "url": "https://www.youtube.com/watch?v=dWa-7odjqdg",
+                "duration": "13:29",
+                "note": "DW's measured read on where the cracks are appearing after early-term gains.",
+                "thumb": "https://i.ytimg.com/vi/dWa-7odjqdg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Fable 5 is out — and it's good",
+                "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+                "duration": "34:00",
+                "note": "AI Explained's verdict on the new model, up an hour ago; straight to your current focus.",
+                "thumb": "https://i.ytimg.com/vi/haK1KoQWm18/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "A farmer has many fields when you Gamble With Your Friends",
+                "url": "https://www.youtube.com/watch?v=nfiPT1BJzPs",
+                "duration": "23:26",
+                "note": "Fresh Hat Films this morning.",
+                "thumb": "https://i.ytimg.com/vi/nfiPT1BJzPs/hqdefault.jpg"
+              },
+              {
+                "title": "The Shroud of Turin is NOT evidence for the resurrection (feat. Austin Archer)",
+                "url": "https://www.youtube.com/watch?v=41G9hkOVDzw",
+                "duration": "22:00",
+                "note": "The Line picks apart the relic claim; tidy bit of skeptical history.",
+                "thumb": "https://i.ytimg.com/vi/41G9hkOVDzw/hqdefault.jpg"
+              },
+              {
+                "title": "Donald Trump Attends Game 3 of the NBA Finals",
+                "url": "https://www.youtube.com/watch?v=7H1roT70bX4",
+                "duration": "9:29",
+                "note": "The Good Liars at street level again.",
+                "thumb": "https://i.ytimg.com/vi/7H1roT70bX4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Chad Gable's babyface turn — WWE Raw review",
+                "url": "https://www.youtube.com/watch?v=0S-edApNp7k",
+                "duration": "56:33",
+                "note": "The latest full WrestleTalk Podcast to bank.",
+                "thumb": "https://i.ytimg.com/vi/0S-edApNp7k/hqdefault.jpg"
+              },
+              {
+                "title": "This could be a big mistake — Triforce Mailbag #72",
+                "url": "https://www.youtube.com/watch?v=WfOFfO21Mj0",
+                "duration": "55:21",
+                "note": "Unseen and worth saving before it slips by.",
+                "thumb": "https://i.ytimg.com/vi/WfOFfO21Mj0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Monopoly, But WORLD CUP!",
+                "url": "https://www.youtube.com/watch?v=y-yX4zuAwUI",
+                "duration": "2:00:59",
+                "note": "No Rolls Barred's fresh, on-theme one to share with Caroline tonight.",
+                "thumb": "https://i.ytimg.com/vi/y-yX4zuAwUI/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "A philosopher on why you can't legislate what a \"woman\" is",
+            "url": "https://theconversation.com/a-philosophers-take-on-nzs-bill-to-define-who-counts-as-a-woman-or-man-284288",
+            "duration": "~6 min",
+            "note": "Patrick Girard uses Pluto's demotion to show why a parliamentary vote can't settle a definitional question — categories doing more work than biology. Your wheelhouse.",
+            "readable": true,
+            "articleId": "9a0b088b85e9996d"
+          }
+        ]
+      },
+      {
+        "name": "Wildcard",
+        "items": [
+          {
+            "title": "Breathing two-billion-year-old air at MONA",
+            "url": "https://theconversation.com/breathing-two-billion-year-old-air-monas-hard-core-is-an-artistic-journey-through-deep-time-284553",
+            "duration": "",
+            "note": "",
+            "readable": true,
+            "articleId": "f6d8471fb47bdd24"
+          }
+        ]
+      }
+    ],
+    "signoff": "Chrome connected; news is current-day. No fresh Kimmel monologue (yesterday's NBA one is still the latest) and no new WrestleTalk daily review yet, so those slots sit out — the WrestleTalk Podcast covers the wrestling beat instead."
+  },
+  {
     "date": "2026-06-10",
     "title": "Daily Brief — Wednesday, 10 June 2026",
     "weekday_date": "Wednesday, 10 June 2026",
