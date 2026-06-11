@@ -1,5 +1,161 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-12",
+    "title": "Daily Brief — Friday, 12 June 2026",
+    "weekday_date": "Friday, 12 June 2026",
+    "intro": "The Patch sits under flat grey cloud today — a mild, dry 11–20°C with a gusty northerly before the weekend's rain rolls in. Overseas, Trump has called off a third night of Iran strikes and is suddenly talking ceasefire; at home, a British minister's resignation derailed Richard Marles's AUKUS day in Portsmouth. Below: a Friday essay on whether the AI bubble is about to pop, Huberman on eating for sleep, and a five-million-year-old whale graveyard on the ocean floor.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Trump calls off third night of Iran strikes after threatening Kharg Island",
+                "url": "https://www.aljazeera.com/news/2026/6/11/trump-says-us-will-be-taking-kharg-island-in-latest-iran-war-threat",
+                "duration": "~5 min",
+                "note": "Hours after vowing to seize the island that handles 90% of Iran's crude, Trump cancelled the strikes and claimed a ceasefire was \"approved by all parties\" — though Tehran hasn't confirmed and the blockade holds.",
+                "readable": true,
+                "articleId": "962c041d12c789f4",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Marles 'stood up' on AUKUS trip after British counterpart's shock resignation",
+                "url": "https://www.abc.net.au/news/2026-06-11/richard-marles-blindsided-after-uk-counterpart-john-healey-quits/106788486",
+                "duration": "~4 min",
+                "note": "UK Defence Secretary John Healey quit over defence spending hours before a joint Portsmouth event, leaving Marles touring an AUKUS naval base alone as the pact's $368bn cost draws fresh scrutiny.",
+                "readable": true,
+                "articleId": "e0dff908c8bb75b8",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Knox councillor Peter Lockwood suspended again for misconduct",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-11/lockwood-stood-down-again/",
+                "duration": "~2 min",
+                "note": "A second guilty finding and a month's suspension for the Hills-foothills councillor, who delivered a mandated apology for swearing at colleagues during last November's marathon mayoral vote.",
+                "readable": true,
+                "articleId": "567b5dafdd047ac9",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "US Apache helicopter crash near Hormuz triggers new escalation",
+                "url": "https://www.youtube.com/watch?v=UovCttprFbA",
+                "duration": "18:36",
+                "note": "DW's chaptered explainer on the incident behind this week's US–Iran flare-up; the backstory to today's lead.",
+                "thumb": "https://i.ytimg.com/vi/UovCttprFbA/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "How the war in Iran could end affordable air travel",
+                "url": "https://www.youtube.com/watch?v=0TcfpkT5DpA",
+                "duration": "6:41",
+                "note": "Vox traces a tidy line from Hormuz to your airfare; a short, sharp current-focus watch.",
+                "thumb": "https://i.ytimg.com/vi/0TcfpkT5DpA/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "It's a Tube Life in Subnautica",
+                "url": "https://www.youtube.com/watch?v=zZYpCxOPiz0",
+                "duration": "33:53",
+                "note": "Fresh Hat Films this morning.",
+                "thumb": "https://i.ytimg.com/vi/zZYpCxOPiz0/hqdefault.jpg"
+              },
+              {
+                "title": "Is There A CM Punk Conspiracy In WWE? AEW Dynamite Review",
+                "url": "https://www.youtube.com/watch?v=gtT7nybj0aM",
+                "duration": "14:07",
+                "note": "Your Thursday AEW recap.",
+                "thumb": "https://i.ytimg.com/vi/gtT7nybj0aM/hqdefault.jpg"
+              },
+              {
+                "title": "Ex-Worship Leader Exposes the Psychology of Church Music",
+                "url": "https://www.youtube.com/watch?v=IIsEsbfxjr4",
+                "duration": "17:01",
+                "note": "The Line on how worship music is engineered; a neat bit of skeptical psychology.",
+                "thumb": "https://i.ytimg.com/vi/IIsEsbfxjr4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The Fake CM Punk Scandal, AEW Dynamite Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=MfkMuI-wkcM",
+                "duration": "1:25:33",
+                "note": "The latest full WrestleTalk Podcast to bank.",
+                "thumb": "https://i.ytimg.com/vi/MfkMuI-wkcM/hqdefault.jpg"
+              },
+              {
+                "title": "Eating for Better Sleep & Foods that Improve Metabolic Health | Dr. Marie-Pierre St-Onge",
+                "url": "https://www.youtube.com/watch?v=jjaFnKtytqI",
+                "duration": "1:57:05",
+                "note": "This week's full Huberman episode; squarely in your health lane.",
+                "thumb": "https://i.ytimg.com/vi/jjaFnKtytqI/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Friday essay: despite the AI hype, some experts warn of a bubble — what happens if it pops?",
+            "url": "https://theconversation.com/friday-essay-despite-the-ai-hype-some-experts-warn-of-a-bubble-what-happens-if-it-pops-283903",
+            "duration": "~9 min",
+            "note": "Luke Munn on the shaky economics behind the AI boom, and what a dot-com-style pop would leave behind. Published today, your wheelhouse.",
+            "readable": true,
+            "articleId": "9b8985dbbb951517"
+          }
+        ]
+      },
+      {
+        "name": "Wildcard",
+        "items": [
+          {
+            "title": "A 5.3 million-year-old whale graveyard has been found on the floor of the Indian Ocean",
+            "url": "https://theconversation.com/a-5-3-million-year-old-whale-graveyard-has-been-found-on-the-floor-of-the-indian-ocean-284943",
+            "duration": "",
+            "note": "",
+            "readable": true,
+            "articleId": "b2c290bad7f8a552"
+          }
+        ]
+      }
+    ],
+    "signoff": "Chrome connected; news is current-day. No fresh Kimmel monologue (latest uploads are guest segments only), and nothing new from No Rolls Barred or Good Time Society — so Together sits out today."
+  },
+  {
     "date": "2026-06-11",
     "title": "Daily Brief — Thursday, 11 June 2026",
     "weekday_date": "Thursday, 11 June 2026",
