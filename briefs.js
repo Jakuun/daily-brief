@@ -1,5 +1,75 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-13",
+    "title": "Daily Brief — Saturday, 13 June 2026",
+    "weekday_date": "Saturday, 13 June 2026",
+    "intro": "The Patch wakes to a wet, mild Saturday — showers through the day, 9–17°C, with a freshening northerly gusting to ~27 km/h as the weekend's rain settles in. Overseas, Iran says a ceasefire to end the war \"has never been closer\", with a final text reportedly agreed but not yet signed; at home, the Senate's NDIS inquiry wraps to dire warnings before Monday's report. A quieter day to read: the etymology of \"soccer\", neatly timed to the World Cup.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran says ceasefire with the US has 'never been closer'",
+                "url": "https://www.aljazeera.com/news/2026/6/12/pakistan-says-final-agreed-upon-text-of-iran-war-ceasefire-deal-reached",
+                "duration": "~5 min",
+                "note": "Tehran's clearest signal yet that the war may end: a 60-day extension, reopened Hormuz and lifted sanctions in a draft text, though sovereignty over the strait still snags it.",
+                "readable": true,
+                "articleId": "ed743ace1e9b6778",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Disabled people will die 'as a direct result' of NDIS bill, advocate warns inquiry",
+                "url": "https://www.sbs.com.au/news/article/disabled-people-will-die-as-a-direct-result-of-ndis-bill-advocate-says-in-dire-warning/q2wq3zhxd",
+                "duration": "~4 min",
+                "note": "As the Senate inquiry wraps ahead of Monday's report, near-unanimous witnesses urged the bill be withdrawn or delayed; the reset would cut ~300,000 from the scheme to save $38bn.",
+                "readable": true,
+                "articleId": "a4a54a135955fe70",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges wants residents' say on hard rubbish and branch collection",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-10/hard-rubbish-and-bundle-branch-review-needs-local-feedback/",
+                "duration": "~2 min",
+                "note": "A council review with an open survey; the bundled-branch service matters more than most in the Hills, where green waste and fire-season clean-ups never stop.",
+                "readable": true,
+                "articleId": "31e2b086eb0c17f2",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "‘Soccer’ is a fine term for the beautiful game — don’t let any ‘football’ snob tell you otherwise",
+            "url": "https://theconversation.com/soccer-is-a-fine-term-for-the-beautiful-game-dont-let-any-football-snob-or-president-tell-you-otherwise-this-world-cup-280779",
+            "duration": "~6 min",
+            "note": "Etymology meets the World Cup: \"soccer\" is a 19th-century British coinage (assoc + -er), used proudly for a century before being recast as an Americanism. Your wheelhouse.",
+            "readable": true,
+            "articleId": "b80f13cd615e3a63",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": "Chrome wasn't connected this morning, so news came from web-search fallback (ABC and Guardian block our fetcher, so the Australia item is via SBS) and the Watch menu is held — the live YouTube channel pages are the only reliable source for fresh uploads and durations, and I won't publish unverified or possibly-stale video links. The Conversation Read piece opens externally rather than in the in-app reader for the same reason (couldn't capture the verbatim CC text). No Wildcard earned today."
+  },
+  {
     "date": "2026-06-12",
     "title": "Daily Brief — Friday, 12 June 2026",
     "weekday_date": "Friday, 12 June 2026",
@@ -714,7 +784,10 @@ window.BRIEFS = [
             "title": "In defence of 'soccer'",
             "url": "https://theconversation.com/soccer-is-a-fine-term-for-the-beautiful-game-dont-let-any-football-snob-or-president-tell-you-otherwise-this-world-cup-280779",
             "duration": "",
-            "note": ""
+            "note": "",
+            "readable": true,
+            "articleId": "b80f13cd615e3a63",
+            "partial": true
           }
         ]
       }
