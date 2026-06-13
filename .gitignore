@@ -7,4 +7,7 @@ SETUP.md
 .publish.log
 .launchd.out.log
 .launchd.err.log
+.chrome.out.log
+.chrome.err.log
+.close-chrome
 .DS_Store
