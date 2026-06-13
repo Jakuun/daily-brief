@@ -1,5 +1,75 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-14",
+    "title": "Daily Brief — Sunday, 14 June 2026",
+    "weekday_date": "Sunday, 14 June 2026",
+    "intro": "A soft, foggy Sunday settles over The Patch — partly cloudy, patches of morning fog and light winds, with the mercury barely stretching from 8 to 13°C (showers hold off until Tuesday). Abroad, the long Iran war looks to be reaching an off-ramp, with Trump saying a US–Iran deal will be signed today. A quiet news weekend at home, so the day's reward is a long, meaty Aeon essay on philosophy's century-long love affair with language — one to earn your coffee.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Trump says a US–Iran deal will be signed today, with Hormuz ‘open to all’",
+                "url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet",
+                "duration": "~5 min",
+                "note": "After five weeks of war, an electronic signing is reportedly hours away — though Israel hasn't signed on and is still striking southern Lebanon.",
+                "readable": true,
+                "articleId": "3c506fa3fd3c64c6",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "One Nation takes the primary-vote lead as Albanese’s approval hits a record low",
+                "url": "https://theconversation.com/one-nation-takes-primary-vote-lead-in-newspoll-as-albaneses-ratings-slump-to-record-low-284730",
+                "duration": "~6 min",
+                "note": "The week's defining poll: One Nation 31%, Labor 30%, a -24 net approval for the PM — a structural fracture worth watching beyond the seat maths.",
+                "readable": true,
+                "articleId": "2c7d0a1712d8c5e3",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges is all in for reconciliation",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-13/yarra-ranges-is-all-in-for-reconciliation/",
+                "duration": "~3 min",
+                "note": "A sold-out Reconciliation Week night at The Memo Healesville, 150 local students, and a Baker Boy set that brought the room to its feet.",
+                "readable": true,
+                "articleId": "f1650e9e0d178488",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The post-linguistic turn",
+            "url": "https://aeon.co/essays/how-philosophys-obsession-with-language-unravelled",
+            "duration": "~16 min",
+            "note": "Crispin Sartwell on how analytic and continental philosophy spent a century obsessed with language — and why that turn has quietly wound down. Squarely your wheelhouse.",
+            "readable": true,
+            "articleId": "343e72911ac0851a",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": "Chrome was connected this morning but its page-read and navigation actions were permission-blocked in this unattended run, so news came via web-search/fetch fallback (Al Jazeera and the Ranges Trader fetch cleanly; ABC, the Guardian and The Conversation block our fetcher). Because of that, The Conversation piece couldn't be captured verbatim for the in-app reader and shows a summary with a link out. The Watch menu is held again for the same reason: the live YouTube channel pages are the only reliable source for fresh, unseen uploads and durations, and I won't publish unverified or possibly-stale video links — so the standing inclusions (Kimmel, Hat Films, WrestleTalk Podcast) are skipped rather than guessed. Worth fixing the Chrome permission so Watch can return."
+  },
+  {
     "date": "2026-06-13",
     "title": "Daily Brief — Saturday, 13 June 2026",
     "weekday_date": "Saturday, 13 June 2026",
