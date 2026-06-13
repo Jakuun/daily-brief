@@ -212,7 +212,7 @@ a{ color:inherit; }
   }
 
   // ---- in-app reader (Creative-Commons full text) ----
-  var readerEl = null;
+  var readerEl = null, lastReaderItem = null;
   function ensureReader(){
     if(readerEl) return readerEl;
     readerEl = el('div','reader');
@@ -246,12 +246,27 @@ a{ color:inherit; }
     readerEl.classList.add('open'); readerEl.scrollTop=0; document.body.style.overflow='hidden';
   }
   function closeReader(){ if(readerEl){ readerEl.classList.remove('open'); document.body.style.overflow=''; } }
+
+  // mobile swipe: right = back to the brief (close reader); left on the brief = reopen last article
+  (function(){
+    var x0=null, y0=null;
+    document.addEventListener('touchstart', function(e){ var t=e.changedTouches[0]; x0=t.clientX; y0=t.clientY; }, {passive:true});
+    document.addEventListener('touchend', function(e){
+      if(x0===null) return;
+      var t=e.changedTouches[0], dx=t.clientX-x0, dy=t.clientY-y0; x0=null;
+      if(Math.abs(dx) < 70 || Math.abs(dx) < Math.abs(dy)*1.5) return; // ignore taps/vertical scrolls
+      var open = readerEl && readerEl.classList.contains('open');
+      if(open && dx > 0) closeReader();                                // swipe right → back
+      else if(!open && dx < 0 && lastReaderItem) openReader(lastReaderItem); // swipe left → forward
+    }, {passive:true});
+  })();
   function readerFromItem(it){
     return { title: it.title, source: source(it.url), url: it.url, partial: true,
              body: it.note ? ('<p>'+esc(it.note)+'</p>') : '' };
   }
   function openReader(it){
     window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+    lastReaderItem = it;
     var id = it.articleId;
     if(id && window.__DB_ARTICLES[id]){ renderReader(window.__DB_ARTICLES[id]); return; }
     // open in-app IMMEDIATELY from the item's own data — never bounce to an external app
