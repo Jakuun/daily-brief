@@ -3,7 +3,7 @@ window.BRIEFS = [
     "date": "2026-06-13",
     "title": "Daily Brief — Saturday, 13 June 2026",
     "weekday_date": "Saturday, 13 June 2026",
-    "intro": "The Patch wakes to a wet, mild Saturday — showers through the day, 9–17°C, with a freshening northerly gusting to ~27 km/h as the weekend's rain settles in. Overseas, Iran says a ceasefire to end the war \"has never been closer\", with a final text reportedly agreed but not yet signed; at home, the Senate's NDIS inquiry wraps to dire warnings before Monday's report. A quieter day to read: the etymology of \"soccer\", neatly timed to the World Cup.",
+    "intro": "The Patch settles into a grey, sodden Saturday — a very high chance of rain through the afternoon and into the night, gusty northerlies easing by evening, and only about 8–15°C up in the hills. Abroad, Iran and the US edge closer to a deal to end the war, though Israel is digging in; closer to home a citizen-led inquiry into AUKUS has opened in Melbourne and the council passed its budget for the year. The World Cup rolls on, and there's a Dylan reading treat to close the day.",
     "sections": [
       {
         "name": "News",
@@ -12,12 +12,12 @@ window.BRIEFS = [
             "label": "International",
             "items": [
               {
-                "title": "Iran says ceasefire with the US has 'never been closer'",
-                "url": "https://www.aljazeera.com/news/2026/6/12/pakistan-says-final-agreed-upon-text-of-iran-war-ceasefire-deal-reached",
-                "duration": "~5 min",
-                "note": "Tehran's clearest signal yet that the war may end: a 60-day extension, reopened Hormuz and lifted sanctions in a draft text, though sovereignty over the strait still snags it.",
+                "title": "Iran and the US edge toward a deal to end the war",
+                "url": "https://www.aljazeera.com/features/2026/6/12/are-iran-us-really-close-to-a-breakthrough-deal",
+                "duration": "~6 min",
+                "note": "A final accord is \"never closer\", per Tehran: a two-stage truce, ~US$24bn in unfrozen assets and a 12-year enrichment pause — but Israel is pushing back hard.",
                 "readable": true,
-                "articleId": "ed743ace1e9b6778",
+                "articleId": "1d33bcae1bd7bdc1",
                 "partial": true
               }
             ]
@@ -26,12 +26,12 @@ window.BRIEFS = [
             "label": "Australia",
             "items": [
               {
-                "title": "Disabled people will die 'as a direct result' of NDIS bill, advocate warns inquiry",
-                "url": "https://www.sbs.com.au/news/article/disabled-people-will-die-as-a-direct-result-of-ndis-bill-advocate-says-in-dire-warning/q2wq3zhxd",
-                "duration": "~4 min",
-                "note": "As the Senate inquiry wraps ahead of Monday's report, near-unanimous witnesses urged the bill be withdrawn or delayed; the reset would cut ~300,000 from the scheme to save $38bn.",
+                "title": "A citizen-led inquiry into AUKUS opens in Melbourne",
+                "url": "https://www.crikey.com.au/2026/06/09/aukus-public-inquiry-submarine-pact-viability/",
+                "duration": "~5 min",
+                "note": "With parliament having waved the pact through, Peter Garrett's crowdfunded inquiry forces a public reckoning on cost, sovereignty and whether the submarines ever arrive.",
                 "readable": true,
-                "articleId": "a4a54a135955fe70",
+                "articleId": "fca0c8d3946af50b",
                 "partial": true
               }
             ]
@@ -40,12 +40,12 @@ window.BRIEFS = [
             "label": "Local",
             "items": [
               {
-                "title": "Yarra Ranges wants residents' say on hard rubbish and branch collection",
-                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-10/hard-rubbish-and-bundle-branch-review-needs-local-feedback/",
-                "duration": "~2 min",
-                "note": "A council review with an open survey; the bundled-branch service matters more than most in the Hills, where green waste and fire-season clean-ups never stop.",
+                "title": "Yarra Ranges passes its 2026/27 budget",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-13/yarra-ranges-council-pass-2026-27-budget/",
+                "duration": "~3 min",
+                "note": "A $266.3m budget with a $5.9m surplus, weighted to renewing roads, drainage and ageing assets across the shire — the year's headline council decision.",
                 "readable": true,
-                "articleId": "31e2b086eb0c17f2",
+                "articleId": "b8f3c2541dd4b217",
                 "partial": true
               }
             ]
@@ -56,18 +56,31 @@ window.BRIEFS = [
         "name": "Read",
         "items": [
           {
-            "title": "‘Soccer’ is a fine term for the beautiful game — don’t let any ‘football’ snob tell you otherwise",
-            "url": "https://theconversation.com/soccer-is-a-fine-term-for-the-beautiful-game-dont-let-any-football-snob-or-president-tell-you-otherwise-this-world-cup-280779",
-            "duration": "~6 min",
-            "note": "Etymology meets the World Cup: \"soccer\" is a 19th-century British coinage (assoc + -er), used proudly for a century before being recast as an Americanism. Your wheelhouse.",
+            "title": "How AI is quietly changing what we think the human mind is",
+            "url": "https://bigthink.com/philosophy/how-ai-is-quietly-changing-what-we-think-the-human-mind-is/",
+            "duration": "~8 min",
+            "note": "Anil Seth pushes back on the brain-as-computer revival, arguing what makes us human is having a body, living in time, and feeling alive. Squarely your wheelhouse.",
             "readable": true,
-            "articleId": "b80f13cd615e3a63",
+            "articleId": "203c1953846ae0b4",
             "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Wildcard",
+        "items": [
+          {
+            "title": "The folk philosophy of Bob Dylan: riffs, grifters, history – and a terrific playlist",
+            "url": "https://theconversation.com/the-folk-philosophy-of-bob-dylan-riffs-grifters-history-and-a-terrific-playlist-194996",
+            "duration": "",
+            "note": "",
+            "readable": true,
+            "articleId": "f5431cecc805b0c2"
           }
         ]
       }
     ],
-    "signoff": "Chrome wasn't connected this morning, so news came from web-search fallback (ABC and Guardian block our fetcher, so the Australia item is via SBS) and the Watch menu is held — the live YouTube channel pages are the only reliable source for fresh uploads and durations, and I won't publish unverified or possibly-stale video links. The Conversation Read piece opens externally rather than in the in-app reader for the same reason (couldn't capture the verbatim CC text). No Wildcard earned today."
+    "signoff": "Chrome wasn't connected for this run, so news came via web-search fallback (Al Jazeera direct, Crikey and the Ranges Trader; ABC and the Guardian block our fetcher). The Watch menu is held again: the live YouTube channel pages are the only reliable source for fresh uploads and durations, and I won't publish unverified or possibly-stale video links — so the standing inclusions (Kimmel, Hat Films, WrestleTalk Podcast) are skipped today rather than guessed. The Wildcard opens in the in-app reader (Creative Commons); the News and Read items open externally."
   },
   {
     "date": "2026-06-12",
