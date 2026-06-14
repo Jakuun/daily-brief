@@ -1,5 +1,84 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-15",
+    "title": "Daily Brief — Monday, 15 June 2026",
+    "weekday_date": "Monday, 15 June 2026",
+    "intro": "A cold, grey start in the Hills — a typical mid-June morning around The Patch, fog lingering in the gullies and the mercury struggling out of single figures, with the rain forecast to hold off until tomorrow. Abroad, the long Iran war inches toward a signing that keeps slipping; closer to home, there's something rarer than a poll result to enjoy — the Socceroos have actually won their World Cup opener.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Trump rebukes Israel over a Beirut strike as the Iran deal slips again",
+                "url": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close",
+                "duration": "~3 min",
+                "note": "On the day the deal was meant to be signed, Israel struck Beirut, killing three; Tehran again questions whether Washington can deliver.",
+                "readable": true,
+                "articleId": "f401e4227701db7f"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Socceroos stun Türkiye 2-0 to open their World Cup",
+                "url": "https://www.aljazeera.com/sports/2026/6/14/2026-world-cup-australia-stun-turkiye-2-0-in-counterattacking-masterclass",
+                "duration": "~4 min",
+                "note": "Popovic's gamble on a third-cap keeper and ten debutants pays off in Vancouver; a genuine lift after a grim political week.",
+                "readable": true,
+                "articleId": "67f739e757138b4a"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Resilience group forms for Belgrave and Tecoma",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-13/resilience-group-forms-for-belgrave-and-tecoma/",
+                "duration": "~3 min",
+                "note": "A new community-led climate-adaptation group (CRaCA) holds its first meeting, mapping local skills and strengthening neighbourhood networks for everyday and crisis times.",
+                "readable": true,
+                "articleId": "48290706a894a63f"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The invention of the soul",
+            "url": "https://aeon.co/essays/you-know-what-consciousness-is-you-live-in-soul-land",
+            "duration": "~21 min",
+            "note": "Nicholas Humphrey argues the soul is a cultural invention — sentience made sacred by language — then mounts a bracing defence of consciousness as \"thought stuff.\" Your wheelhouse, end to end.",
+            "readable": true,
+            "articleId": "fab5c0a3c16ebc4a"
+          }
+        ]
+      },
+      {
+        "name": "Wildcard",
+        "items": [
+          {
+            "title": "The discovery of aeonophiles expands our definition of life",
+            "url": "https://aeon.co/essays/the-discovery-of-aeonophiles-expands-our-definition-of-life",
+            "duration": "",
+            "note": "and what their geological patience says about life itself.",
+            "readable": true,
+            "articleId": "b75cb069a15560c2"
+          }
+        ]
+      }
+    ],
+    "signoff": "Chrome was connected but its page-read and navigation actions were permission-blocked again in this unattended run, so news came via web-search/fetch fallback (Al Jazeera and the Ranges Trader fetch cleanly; ABC, the Guardian and The Conversation block our fetcher). For the same reason the Watch menu is held: the live YouTube pages are the only reliable source for fresh, unseen uploads and durations, and I won't publish stale or possibly-seen video links — so the standing inclusions (Kimmel, Hat Films, WrestleTalk Podcast) are skipped rather than guessed. The weather feed also returned a stale cached forecast, so today's conditions above are a seasonal estimate, not a live reading. Worth fixing the Chrome permission so Watch can return — it's the part of this brief that does the most for you."
+  },
+  {
     "date": "2026-06-14",
     "title": "Daily Brief — Sunday, 14 June 2026",
     "weekday_date": "Sunday, 14 June 2026",
