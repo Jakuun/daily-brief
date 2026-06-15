@@ -1,5 +1,75 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-16",
+    "title": "Daily Brief — Tuesday, 16 June 2026",
+    "weekday_date": "Tuesday, 16 June 2026",
+    "intro": "Another cold, damp mid-June morning around The Patch — fog in the gullies, single-figure starts and showers never far off, the usual Hills winter. Abroad, the news is rare and good: after more than 100 days, the US–Iran war is finally heading to a signing on Friday. Closer to home, there's a fuel-price reprieve in that, a World Cup still unfolding, and a genuinely meaty consciousness essay to earn your coffee.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "US and Iran reach a deal to end the war, signing set for Friday",
+                "url": "https://www.aljazeera.com/news/2026/6/15/us-iran-to-sign-a-peace-deal-on-friday-what-we-know-so-far",
+                "duration": "~6 min",
+                "note": "Brokered by Pakistan and Qatar; a permanent ceasefire, the blockade lifted and the Strait of Hormuz reopened. After 100+ days, the single most consequential story this morning.",
+                "readable": true,
+                "articleId": "36de16359f9f6d02",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Reform is hard. Albanese and Chalmers need to stay the course",
+                "url": "https://theconversation.com/reform-is-hard-albanese-and-chalmers-need-to-stay-the-course-284186",
+                "duration": "~6 min",
+                "note": "With Albanese's approval at a record low and One Nation rising, the case for spending political capital on real reform rather than retreating to small-target caution.",
+                "readable": true,
+                "articleId": "be949cde8b655261",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges wants your say on hard rubbish and branch collection",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-10/hard-rubbish-and-bundle-branch-review-needs-local-feedback/",
+                "duration": "~2 min",
+                "note": "The council is reviewing the bundled-branch service; survey open until 5 July. Worth a few minutes for anyone clearing green waste in fire season.",
+                "readable": true,
+                "articleId": "31e2b086eb0c17f2",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The real problem: consciousness may be less mysterious than we think",
+            "url": "https://aeon.co/essays/the-hard-problem-of-consciousness-is-a-distraction-from-the-real-one",
+            "duration": "~18 min",
+            "note": "Anil Seth sets aside the \"hard problem\" for the tractable one, recasts perception as \"controlled hallucination,\" and lands on us as conscious \"beast machines.\" Squarely your wheelhouse.",
+            "readable": true,
+            "articleId": "1464e1772684e8b1",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": "Watch is held again today: the live YouTube pages are the only reliable source for fresh, unseen uploads and durations, and in this unattended run the reader proxy and direct fetches were blocked, so the standing inclusions (Kimmel, Hat Films, WrestleTalk Podcast) are skipped rather than guessed. The weather feed also wouldn't return live data, so the conditions above are a seasonal estimate. Both are worth fixing — Watch is the part of this brief that does the most for you."
+  },
+  {
     "date": "2026-06-15",
     "title": "Daily Brief — Monday, 15 June 2026",
     "weekday_date": "Monday, 15 June 2026",
