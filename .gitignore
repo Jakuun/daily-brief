@@ -1,8 +1,13 @@
 # Operational / local-only files — never published to the site
 publish.sh
 generate.py
+prefetch.py
+feeds/
 *.plist
 SETUP.md
+.prefetch.out.log
+.prefetch.err.log
+.prefetch.log
 .publish.lock
 .publish.log
 .launchd.out.log
