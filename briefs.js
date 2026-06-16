@@ -1,5 +1,175 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-17",
+    "title": "Daily Brief — Wednesday, 17 June 2026",
+    "weekday_date": "Wednesday, 17 June 2026",
+    "intro": "A grey, dripping morning at The Patch — light drizzle, 13°C now, topping out near 17, with rain near-certain (94%), so an indoors-and-firewood sort of day. The world's eyes are on Switzerland, where a US–Iran memorandum to end the war is due to be signed Friday — though a dispute over Lebanon could still snag it. Closer to home, One Nation's surge keeps reshaping the political map, and there's a fresh Arc Raiders content drop to dig into tonight.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Inside Iran's factions as the US deal nears signing",
+                "url": "https://www.aljazeera.com/news/2026/6/16/hardliners-and-moderates-what-do-irans-factions-think-of-deal-with-us",
+                "duration": "~7 min",
+                "note": "With the memorandum due Friday, the real fight is now internal: hardliners cry \"capitulation\" while pragmatists push it through.",
+                "readable": true,
+                "articleId": "9f0d1979247bf7e7",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Grattan: Albanese's broken promises have fed Hanson's insurgency",
+                "url": "https://theconversation.com/grattan-on-friday-albaneses-broken-promises-have-played-into-hansons-insurgency-284306",
+                "duration": "~6 min",
+                "note": "The clearest read on why One Nation now leads the primary vote — and how much of it Labor did to itself.",
+                "readable": true,
+                "articleId": "a4b3e3438c1f4608",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Call for revegetation after Green Wedge land clearing",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-16/call-for-revegetation-after-land-clearing/",
+                "duration": "~3 min",
+                "note": "Alleged unpermitted clearing in a protected Dandenongs corridor; council has halted works and is weighing prosecution.",
+                "readable": true,
+                "articleId": "a9a8476b6c19ae7b",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "US-Iran deal: What about Lebanon?",
+                "url": "https://www.youtube.com/watch?v=ocL5u9n0gTc",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/ocL5u9n0gTc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Claude Fable Blocked — 11 Quiet Details on What's Next",
+                "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Qj71N0tBzRo/hqdefault.jpg"
+              },
+              {
+                "title": "How Is a Memory Stored Inside Your Squishy Brain?",
+                "url": "https://www.youtube.com/watch?v=PqtggjVAi8M",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/PqtggjVAi8M/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "Trump's Big Violent 80th Birthday Party, \"Great Deal\" with Iran & Knicks Win",
+                "url": "https://www.youtube.com/watch?v=9kQXQrVCT5Q",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/9kQXQrVCT5Q/hqdefault.jpg"
+              },
+              {
+                "title": "Let's Boik it up",
+                "url": "https://www.youtube.com/watch?v=r9lWZnFdzxY",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/r9lWZnFdzxY/hqdefault.jpg"
+              },
+              {
+                "title": "Everything Arc Raiders' Newest Content Update Added & Changed",
+                "url": "https://www.youtube.com/watch?v=U5Ke9nkzsjI",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/U5Ke9nkzsjI/hqdefault.jpg"
+              },
+              {
+                "title": "Trump vs Sleep: UFC Freedom 250 Preview",
+                "url": "https://www.youtube.com/watch?v=JHabWDz4CkU",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/JHabWDz4CkU/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Does WWE Have a Bloodline Problem? WWE Raw Review",
+                "url": "https://www.youtube.com/watch?v=iyATd4o18FE",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/iyATd4o18FE/hqdefault.jpg"
+              },
+              {
+                "title": "Mr Big-Shot's Very Important LA Trip | Triforce #356",
+                "url": "https://www.youtube.com/watch?v=oFFCLomd3ZA",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/oFFCLomd3ZA/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play Excalibur! | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=Q79dS-vJG-w",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Q79dS-vJG-w/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Consciousness may be more than the brain's output — it may be an input, too",
+            "url": "https://bigthink.com/mind-behavior/consciousness-may-be-more-than-the-brains-output-it-may-be-an-input-too/",
+            "duration": "~8 min",
+            "note": "Tom Froese's testable claim that experience feeds back into the brain — catnip for a process metaphysician.",
+            "readable": true,
+            "articleId": "52c476fdbd3b632d",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-06-16",
     "title": "Daily Brief — Tuesday, 16 June 2026",
     "weekday_date": "Tuesday, 16 June 2026",
