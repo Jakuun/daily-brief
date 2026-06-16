@@ -167,7 +167,7 @@ window.BRIEFS = [
         ]
       }
     ],
-    "signoff": ""
+    "signoff": "The dedicated WrestleTalk Podcast feed had nothing new (still showing 2025 episodes), so today's podcast pick is the current full episode from the main WrestleTalk channel."
   },
   {
     "date": "2026-06-16",
