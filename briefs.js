@@ -1,5 +1,168 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-18",
+    "title": "Daily Brief — Thursday, 18 June 2026",
+    "weekday_date": "Thursday, 18 June 2026",
+    "intro": "Another wet one at The Patch — steady drizzle, 14°C now and barely climbing past 15, with rain all but locked in (92%). A day for the desk and the kettle. Abroad, the US–Iran memorandum is still on track for Friday's signing in Switzerland, but Israeli strikes in Lebanon are testing whether it holds. At home, Pauline Hanson took the National Press Club stage for the first time and left little unsaid. And it's Thursday, so there's a fresh Triforce waiting for tonight.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran says Israeli strikes on Lebanon threaten the US deal",
+                "url": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal",
+                "duration": "~4 min",
+                "note": "Two days out from signing, the Lebanon front is the clause that could still blow up Friday's deal.",
+                "readable": true,
+                "articleId": "23a84c7fdb2f7a33",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Hanson lets loose at the National Press Club",
+                "url": "https://theconversation.com/view-from-the-hill-hanson-gets-quite-a-bit-off-off-her-chest-when-she-enters-the-media-den-284304",
+                "duration": "~5 min",
+                "note": "Grattan on Hanson's \"multiracial but monocultural\" pitch — theatre, yes, but backed now by a poll lead.",
+                "readable": true,
+                "articleId": "ca8a559366b7d946",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Local MPs split over Victoria's new campaign finance laws",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-16/local-mps-weigh-in-on-the-states-new-campaign-finance-laws/",
+                "duration": "~5 min",
+                "note": "After the High Court voided the old scheme, Monbulk and Eildon MPs spar over the rushed donation caps before November's election.",
+                "readable": true,
+                "articleId": "9847e756838f0a4e",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why Trump has traded the economy for his war in Iran",
+                "url": "https://www.youtube.com/watch?v=39910tLVxIk",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/39910tLVxIk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Loneliness is not a glitch, it's a motivator | Paul Bloom",
+                "url": "https://www.youtube.com/watch?v=6EdaVZvbbrI",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/6EdaVZvbbrI/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "Trump's Vanity Projects, Iran Victory Lap & the Nuttiest RFK Jr Story",
+                "url": "https://www.youtube.com/watch?v=mb3HGgsNZ1Q",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/mb3HGgsNZ1Q/hqdefault.jpg"
+              },
+              {
+                "title": "Being SCAMMED in real time!",
+                "url": "https://www.youtube.com/watch?v=xXXx5ywHz30",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/xXXx5ywHz30/hqdefault.jpg"
+              },
+              {
+                "title": "The Yorkshireman just wants a lovely cuppa in Gmod TTT",
+                "url": "https://www.youtube.com/watch?v=iiivQ5um0mo",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/iiivQ5um0mo/hqdefault.jpg"
+              },
+              {
+                "title": "Hamish's Fart Woke Up The Whole House",
+                "url": "https://www.youtube.com/watch?v=zfRceB25MaE",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/zfRceB25MaE/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Football chat is BANNED | Triforce #357",
+                "url": "https://www.youtube.com/watch?v=ut5CxHwvd8A",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/ut5CxHwvd8A/hqdefault.jpg"
+              },
+              {
+                "title": "The Mental Frame & Daily Actions to Succeed | Andy Stumpf",
+                "url": "https://www.youtube.com/watch?v=baecUt1GaPk",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/baecUt1GaPk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Live from LA: Good Morning Society with Bailey and Ruel",
+                "url": "https://www.youtube.com/watch?v=kfU21KDJea0",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/kfU21KDJea0/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The mathematics of mind-time",
+            "url": "https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference",
+            "duration": "~19 min",
+            "note": "Karl Friston argues consciousness isn't a thing but a process of inference — \"abduction all the way down.\" Made for a process metaphysician.",
+            "readable": true,
+            "articleId": "edd54d36dedfa9bb",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": "Quiet day on the home front, so Australia leads with Hanson's Press Club turn. DW News and The Good Liars both had fresh uploads but were held back to avoid running the same channels two days straight."
+  },
+  {
     "date": "2026-06-17",
     "title": "Daily Brief — Wednesday, 17 June 2026",
     "weekday_date": "Wednesday, 17 June 2026",
