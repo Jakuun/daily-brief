@@ -1,5 +1,175 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-19",
+    "title": "Daily Brief — Friday, 19 June 2026",
+    "weekday_date": "Friday, 19 June 2026",
+    "intro": "A proper Hills winter morning at The Patch — heavy drizzle, fog likely, and a cold 9–12°C with rain hanging around most of the day (67% chance). Stay-inside weather. In the wider world, the US and Iran have signed a memorandum extending their ceasefire and reopening the Strait of Hormuz — a pause, not a peace. A good day for the slow cooker, the kettle, and a long listen while it pours.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran and the US sign a deal to extend the ceasefire and reopen the Strait of Hormuz",
+                "url": "https://www.aljazeera.com/news/2026/6/17/iran-confirms-that-mou-has-been-signed-electronically-by-both-sides",
+                "duration": "~4 min",
+                "note": "A 60-day extension and a path to nuclear talks; both sides call it a prelude, not a settlement.",
+                "readable": true,
+                "articleId": "7f98138a79a43902",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Two polls put Labor third on primaries, five months out from the Victorian election",
+                "url": "https://theconversation.com/two-polls-have-labor-third-on-primary-votes-five-months-out-from-the-victorian-election-284945",
+                "duration": "~5 min",
+                "note": "One Nation's surge is reshaping the field heading into November's state poll.",
+                "readable": true,
+                "articleId": "e302ad2dce81f2f4",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "$20 million for a children's emergency department at Maroondah Hospital",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-06-09/20-million-announced-for-childrens-emergency-department-at-maroondah-hospital/",
+                "duration": "~4 min",
+                "note": "A concrete step for the Yarra Ranges' main ED, against a tangled history of delays.",
+                "readable": true,
+                "articleId": "a25b2e93b4d7460d",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "The 4 issues that could torpedo peace with Iran",
+                "url": "https://www.youtube.com/watch?v=9GcYtItlWuQ",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/9GcYtItlWuQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The Power of 1%",
+                "url": "https://www.youtube.com/watch?v=XUStGNx45wQ",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/XUStGNx45wQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "Trump's childish behaviour with world leaders, Republicans bash his Iran deal",
+                "url": "https://www.youtube.com/watch?v=LZMCdIZqDC8",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/LZMCdIZqDC8/hqdefault.jpg"
+              },
+              {
+                "title": "Floridian houses are both too cheap and too expensive",
+                "url": "https://www.youtube.com/watch?v=8HQYQUfbAT4",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/8HQYQUfbAT4/hqdefault.jpg"
+              },
+              {
+                "title": "Rumor: The Rock buying WWE? Major TNA issues, AEW Dynamite review",
+                "url": "https://www.youtube.com/watch?v=ztX9j9d0LlA",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/ztX9j9d0LlA/hqdefault.jpg"
+              },
+              {
+                "title": "Iran War Trivia at \"UFC Freedom 250\"",
+                "url": "https://www.youtube.com/watch?v=i9RAA29NTV4",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/i9RAA29NTV4/hqdefault.jpg"
+              },
+              {
+                "title": "ARC Raiders revealed what content is coming next",
+                "url": "https://www.youtube.com/watch?v=SsENJVgEsQo",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/SsENJVgEsQo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The TNA crisis, AEW Dynamite review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=JgYXV8odyNo",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/JgYXV8odyNo/hqdefault.jpg"
+              },
+              {
+                "title": "Congress moves to integrate US/Israeli defence",
+                "url": "https://www.youtube.com/watch?v=Xd73cUOy4YY",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Xd73cUOy4YY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Star Squadrons, Excursion and Typewriter | Good Morning Society",
+                "url": "https://www.youtube.com/watch?v=kpb6PgxkbxU",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/kpb6PgxkbxU/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The philosophers who predicted \"ultimate\" forms of consciousness",
+            "url": "https://bigthink.com/the-past/the-philosophers-who-predicted-ultimate-forms-of-consciousness/",
+            "duration": "~7 min",
+            "note": "From evolutionary idealism to Teilhard's Omega Point — squarely in your wheelhouse.",
+            "readable": true,
+            "articleId": "908836fb4292e215",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-06-18",
     "title": "Daily Brief — Thursday, 18 June 2026",
     "weekday_date": "Thursday, 18 June 2026",
