@@ -1,5 +1,168 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-20",
+    "title": "Daily Brief — Saturday, 20 June 2026",
+    "weekday_date": "Saturday, 20 June 2026",
+    "intro": "A cold, wild Saturday at The Patch — thunderstorms forecast, 8°C now and topping out near 10°C, with a 78% chance of rain. The world's grimmer this morning as Russia and Ukraine trade their heaviest strikes in months, but at home it's a day for the fire, a long listen over the yardwork, and board games with Caroline once the weather closes in.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Three killed in Ukraine a day after drone attack kills child in Moscow",
+                "url": "https://www.aljazeera.com/news/2026/6/19/three-killed-in-ukraine-a-day-after-drone-attack-kills-child-in-moscow",
+                "duration": "~3 min",
+                "note": "The war sharply escalates: both capitals now under fire, peace talks frozen, the Kremlin vowing to \"continue.\"",
+                "readable": true,
+                "articleId": "168a967f6108accb",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "View from The Hill: Husic stirs the AUKUS pot as Garrett to lead public inquiry",
+                "url": "https://theconversation.com/view-from-the-hill-ed-husic-stirs-pot-on-aukus-as-peter-garrett-to-lead-public-inquiry-284301",
+                "duration": "~4 min",
+                "note": "Labor's submarine fault lines reopen weeks out from national conference; Grattan thinks the inquiry could become the government's biggest headache.",
+                "readable": true,
+                "articleId": "d3b9cdd31bbe16fd",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Recycling hubs open across the Yarra Ranges",
+                "url": "https://lilydale.mailcommunity.com.au/news/2026/06/17/recycling-hubs-open-across-the-yarra-ranges/",
+                "duration": "~2 min",
+                "note": "Drop-off points at Monbulk, Upwey, Lilydale, Healesville and Belgrave for batteries, vapes, globes and the rest — handy for the homestead.",
+                "readable": true,
+                "articleId": "c116816d775d1bc4",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Germany's socialists inspired by Mamdani",
+                "url": "https://www.youtube.com/watch?v=tU006eyztAc",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/tU006eyztAc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Two Rival Bets on AGI: Google I/O Highlights",
+                "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/o_av1b9rs2g/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "I've been Edging on Ross' PC (Golf With Your Friends)",
+                "url": "https://www.youtube.com/watch?v=5L1DHeP0czo",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/5L1DHeP0czo/hqdefault.jpg"
+              },
+              {
+                "title": "Should Trillionaires Exist? Elon Musk is the World's First Trillionaire",
+                "url": "https://www.youtube.com/watch?v=E8cvb7-mnYY",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/E8cvb7-mnYY/hqdefault.jpg"
+              },
+              {
+                "title": "Why WWE Isn't Wrestling Anymore",
+                "url": "https://www.youtube.com/watch?v=tlbwyQwJMX8",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/tlbwyQwJMX8/hqdefault.jpg"
+              },
+              {
+                "title": "God Ignores Starving Children to Help This Guy Win at Gambling?!",
+                "url": "https://www.youtube.com/watch?v=ZlaVrgRvi0w",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/ZlaVrgRvi0w/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "IVCongress advances US/Israel military integration",
+                "url": "https://www.youtube.com/watch?v=-KuOOII5QY8",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/-KuOOII5QY8/hqdefault.jpg"
+              },
+              {
+                "title": "Trust in the Sniff Test | Triforce #354",
+                "url": "https://www.youtube.com/watch?v=H9eSKSA1Nlw",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/H9eSKSA1Nlw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play DIAMANT | Board Game League S4E5",
+                "url": "https://www.youtube.com/watch?v=SOgJHcAWdvY",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/SOgJHcAWdvY/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Does physics truly have anything to say about consciousness?",
+            "url": "https://bigthink.com/starts-with-a-bang/physics-consciousness/",
+            "duration": "~13 min",
+            "note": "Ethan Siegel on why the hard problem is, for now, barely a scientific problem at all — and what he'd demand of any theory that claims otherwise.",
+            "readable": true,
+            "articleId": "c58532fdd641ea96",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-06-19",
     "title": "Daily Brief — Friday, 19 June 2026",
     "weekday_date": "Friday, 19 June 2026",
