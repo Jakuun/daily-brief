@@ -1,5 +1,168 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-21",
+    "title": "Daily Brief — Sunday, 21 June 2026",
+    "weekday_date": "Sunday, 21 June 2026",
+    "intro": "The shortest day of the year at The Patch: overcast, 6–12°C, currently 8° with about a 50% chance of rain — a true stay-in, slow-coffee solstice. The world's eyes are on the Strait of Hormuz, where Iran's on-again-off-again \"closure\" is testing a deal barely a week old. A good Sunday for yardwork podcasts and a long read while the fire's going.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran declares the Strait of Hormuz shut as Iran–US talks loom",
+                "url": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon",
+                "duration": "~5 min",
+                "note": "Tehran calls Israel's Lebanon strikes a breach; Washington says shipping actually rose. Technical talks still set for today.",
+                "readable": true,
+                "articleId": "0a9029bd2345c621",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Wong works the phones as Albanese warns of the war's 'long tail'",
+                "url": "https://www.sbs.com.au/news/article/wong-talks-albanese-warns-australians-long-tail-war-impact/3o6n188dd",
+                "duration": "~4 min",
+                "note": "The home-front angle: securing fuel and fertiliser, and managing expectations as prices stay elevated for months.",
+                "readable": true,
+                "articleId": "8424fbc9e88bf249",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Putting the spotlight on spotlighting",
+                "url": "https://mountainviews.mailcommunity.com.au/news/2026-06-19/putting-the-spotlight-on-spotlighting/",
+                "duration": "~3 min",
+                "note": "A reported incident near Healesville; thermal-camera patrols and $4,000-plus fines for illegal night hunting in the Ranges.",
+                "readable": true,
+                "articleId": "1c3a9e33ac5b375c",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
+                "url": "https://www.youtube.com/watch?v=--VCXyAFkvg",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/--VCXyAFkvg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Let's Steal a New Moon",
+                "url": "https://www.youtube.com/watch?v=2acc7oyXIZI",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/2acc7oyXIZI/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "Matt Damon Surprise Attacks Kimmel AGAIN & Trump's Dummy of a Deal with Iran",
+                "url": "https://www.youtube.com/watch?v=0M9yRpzR85U",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/0M9yRpzR85U/hqdefault.jpg"
+              },
+              {
+                "title": "WE'RE GOING FOR 100 MILLION (Gamble With Your Friends)",
+                "url": "https://www.youtube.com/watch?v=1kted0U8Fck",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/1kted0U8Fck/hqdefault.jpg"
+              },
+              {
+                "title": "The Good Liars at UFC FREEDOM 250",
+                "url": "https://www.youtube.com/watch?v=da7Jcnd2BMI",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/da7Jcnd2BMI/hqdefault.jpg"
+              },
+              {
+                "title": "When FAITH Is Your Best Argument, You've Already LOST",
+                "url": "https://www.youtube.com/watch?v=p1__6cRMT7M",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/p1__6cRMT7M/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "MISGENDER THE TITANS! PEP with Chas & Dr Dave (Ep 266)",
+                "url": "https://www.youtube.com/watch?v=eQ7UT_eAkis",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/eQ7UT_eAkis/hqdefault.jpg"
+              },
+              {
+                "title": "The Law of Moses is not what you think",
+                "url": "https://www.youtube.com/watch?v=6AarnQENcQw",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/6AarnQENcQw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "His Fart Woke The Whole House!",
+                "url": "https://www.youtube.com/watch?v=ZhwgdYreeB8",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/ZhwgdYreeB8/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Is AI really 'intelligent'? This philosopher says yes",
+            "url": "https://theconversation.com/is-ai-really-intelligent-this-philosopher-says-yes-271721",
+            "duration": "~7 min",
+            "note": "Against Dennett's \"competence without comprehension,\" a case that prediction is intelligence — and LLMs have it. Right in your wheelhouse.",
+            "readable": true,
+            "articleId": "56c90ec48a81e168",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-06-20",
     "title": "Daily Brief — Saturday, 20 June 2026",
     "weekday_date": "Saturday, 20 June 2026",
