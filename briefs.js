@@ -1,5 +1,163 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-22",
+    "title": "Daily Brief — Monday, 22 June 2026",
+    "weekday_date": "Monday, 22 June 2026",
+    "intro": "A cold, still start at The Patch: overcast and 3°C this morning, nudging to about 11° with next to no chance of rain — a crisp, dry winter Monday. Abroad, US and Iranian negotiators are in Switzerland trying to hold a week-old ceasefire together over Lebanon. Closer to home, good news for the hives: Victoria's put someone on to help beekeepers through varroa.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "US and Iran sit down in Switzerland with the ceasefire hanging on Lebanon",
+                "url": "https://www.aljazeera.com/news/2026/6/21/us-iran-talks-in-switzerland-is-lebanon-top-of-agenda-who-is-attending",
+                "duration": "~6 min",
+                "note": "Tehran won't talk nuclear until Washington reins in Israel's strikes on Lebanon; the deal's first clause is already its weakest.",
+                "readable": true,
+                "articleId": "2950c77cada1bc47",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Grattan on Friday: Albanese gives ground on tax, with the NDIS still to come",
+                "url": "https://theconversation.com/grattan-on-friday-albanese-government-gives-ground-on-tax-but-how-much-will-it-have-to-cede-on-the-ndis-285371",
+                "duration": "~6 min",
+                "note": "Net approval at a record −24 and One Nation ahead on the primary; a second-term government already negotiating from weakness.",
+                "readable": true,
+                "articleId": "b5e761ba7c568109",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Victoria appoints an officer to help beekeepers through varroa",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-20/officer-to-support-businesses-affected-by-varroa-mite-appointed/",
+                "duration": "~3 min",
+                "note": "Agriculture Victoria's new Horticulture Sector Officer will guide apiarists and growers adapting to the mite. One for the home hives.",
+                "readable": true,
+                "articleId": "c3a27f6bd7725d15",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "How some habits set off chain reactions",
+                "url": "https://www.youtube.com/watch?v=QcIARYCNrbA",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/QcIARYCNrbA/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "Jollathan has betrayed us, Burglin' Gnomes!",
+                "url": "https://www.youtube.com/watch?v=Dd4Bdb74W4E",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Dd4Bdb74W4E/hqdefault.jpg"
+              },
+              {
+                "title": "Only Tony Khan Cares About Forbidden Door",
+                "url": "https://www.youtube.com/watch?v=fIpWlSpvx9E",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/fIpWlSpvx9E/hqdefault.jpg"
+              },
+              {
+                "title": "One of God's WEIRDEST Covenants",
+                "url": "https://www.youtube.com/watch?v=p1Eltmpub9w",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/p1Eltmpub9w/hqdefault.jpg"
+              },
+              {
+                "title": "ARC Raiders Isn't Ruling This Out Yet…",
+                "url": "https://www.youtube.com/watch?v=V4eR16cBE7k",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/V4eR16cBE7k/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Improve Flexibility with Research-Supported Stretching Protocols",
+                "url": "https://www.youtube.com/watch?v=syJYZm5OZhE",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/syJYZm5OZhE/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Calico, 8 Dragons and more",
+                "url": "https://www.youtube.com/watch?v=ILwdc0Z3Q_Q",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/ILwdc0Z3Q_Q/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "How individual consciousness works — and makes us unique",
+            "url": "https://theconversation.com/how-individual-consciousness-works-and-makes-us-unique-281512",
+            "duration": "~8 min",
+            "note": "How the brain weaves memory, belief and emotion into one continuous self — squarely in your wheelhouse.",
+            "readable": true,
+            "articleId": "4d3ed88571b1f38f",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Wildcard",
+        "items": [
+          {
+            "title": "Cathedral of bones: the world's largest, deepest, oldest whale graveyard",
+            "url": "https://bigthink.com/strange-maps/whale-graveyard/",
+            "duration": "",
+            "note": "",
+            "readable": true,
+            "articleId": "de83833003153a35",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-06-21",
     "title": "Daily Brief — Sunday, 21 June 2026",
     "weekday_date": "Sunday, 21 June 2026",
