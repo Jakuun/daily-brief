@@ -59,11 +59,11 @@ window.BRIEFS = [
             "label": "Infotainment",
             "items": [
               {
-                "title": "How some habits set off chain reactions",
-                "url": "https://www.youtube.com/watch?v=QcIARYCNrbA",
+                "title": "Millennial politicians tackling AI & cancelled tweets",
+                "url": "https://www.youtube.com/watch?v=5aC3AwY2C3E",
                 "duration": "",
                 "note": "",
-                "thumb": "https://i.ytimg.com/vi/QcIARYCNrbA/hqdefault.jpg"
+                "thumb": "https://i.ytimg.com/vi/5aC3AwY2C3E/hqdefault.jpg"
               }
             ]
           },
@@ -76,13 +76,6 @@ window.BRIEFS = [
                 "duration": "",
                 "note": "",
                 "thumb": "https://i.ytimg.com/vi/Dd4Bdb74W4E/hqdefault.jpg"
-              },
-              {
-                "title": "Only Tony Khan Cares About Forbidden Door",
-                "url": "https://www.youtube.com/watch?v=fIpWlSpvx9E",
-                "duration": "",
-                "note": "",
-                "thumb": "https://i.ytimg.com/vi/fIpWlSpvx9E/hqdefault.jpg"
               },
               {
                 "title": "One of God's WEIRDEST Covenants",
@@ -136,20 +129,6 @@ window.BRIEFS = [
             "note": "How the brain weaves memory, belief and emotion into one continuous self — squarely in your wheelhouse.",
             "readable": true,
             "articleId": "4d3ed88571b1f38f",
-            "partial": true
-          }
-        ]
-      },
-      {
-        "name": "Wildcard",
-        "items": [
-          {
-            "title": "Cathedral of bones: the world's largest, deepest, oldest whale graveyard",
-            "url": "https://bigthink.com/strange-maps/whale-graveyard/",
-            "duration": "",
-            "note": "",
-            "readable": true,
-            "articleId": "de83833003153a35",
             "partial": true
           }
         ]
