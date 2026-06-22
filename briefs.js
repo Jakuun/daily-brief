@@ -1,5 +1,168 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-23",
+    "title": "Daily Brief — Tuesday, 23 June 2026",
+    "weekday_date": "Tuesday, 23 June 2026",
+    "intro": "A cold, grey start at The Patch — light drizzle, 4°C now and topping out near 13°, with rain unlikely to amount to much (24%). The big news is overseas: Keir Starmer has resigned as UK prime minister, brought down by his own party as Reform UK surges — and the obvious question washes straight back to our shores, where One Nation is doing the surging. Meanwhile the lyrebirds are singing their hearts out in Sherbrooke. A good day for the desk, the kettle, and a long listen.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Keir Starmer resigns, triggering a Labour leadership contest",
+                "url": "https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over",
+                "duration": "~5 min",
+                "note": "Less than two years after a landslide, his MPs lost faith amid Reform's rise; Andy Burnham is the clear frontrunner to be Britain's seventh PM in a decade.",
+                "readable": true,
+                "articleId": "cd7f937645621c55",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "What Burnham's likely rise could teach Australia about One Nation",
+                "url": "https://theconversation.com/andy-burnham-is-favoured-to-become-the-next-uk-prime-minister-does-his-triumph-offer-lessons-for-defeating-one-nation-285797",
+                "duration": "~6 min",
+                "note": "The British lesson read for home: can a populist insurgency be met head-on rather than echoed?",
+                "readable": true,
+                "articleId": "9d7742371c648ba3",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Dawn lyrebird surveys begin in Sherbrooke Forest",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-19/vital-lyrebird-surveys-begin/",
+                "duration": "~3 min",
+                "note": "Victoria's oldest volunteer group counts a population that's actually climbing — a rare conservation good-news story, and newcomers are welcome.",
+                "readable": true,
+                "articleId": "13caf49ca1f0ab06",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why is British PM Starmer resigning?",
+                "url": "https://www.youtube.com/watch?v=TUpb3OD86Jw",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/TUpb3OD86Jw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Processed Food Won't Kill You",
+                "url": "https://www.youtube.com/watch?v=bo7QgxhrGnw",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/bo7QgxhrGnw/hqdefault.jpg"
+              },
+              {
+                "title": "Improve your shrinking attention span | Chris Bailey",
+                "url": "https://www.youtube.com/watch?v=OEpsOAUtBEw",
+                "duration": "",
+                "note": "squarely your anti-scroll project.",
+                "thumb": "https://i.ytimg.com/vi/OEpsOAUtBEw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "Georgian houses remind me how much I hate ping-pong",
+                "url": "https://www.youtube.com/watch?v=7x4jkFTLsPI",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/7x4jkFTLsPI/hqdefault.jpg"
+              },
+              {
+                "title": "Idiocracy IRL: Tour of Washington DC",
+                "url": "https://www.youtube.com/watch?v=Mf58fxyOKLc",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Mf58fxyOKLc/hqdefault.jpg"
+              },
+              {
+                "title": "Mega Meccha Chameleon lobby for Pride!",
+                "url": "https://www.youtube.com/watch?v=6bc2guHK55A",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/6bc2guHK55A/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Love in the New Testament isn't an emotion, it's about action",
+                "url": "https://www.youtube.com/watch?v=l7WiGaknlPw",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/l7WiGaknlPw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Corrupt referees, aggressive players and a whole load of shenanigans!",
+                "url": "https://www.youtube.com/watch?v=Q1NY2HF9jvQ",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Q1NY2HF9jvQ/hqdefault.jpg"
+              },
+              {
+                "title": "Is THIS Andy's wedding song?",
+                "url": "https://www.youtube.com/watch?v=77at-9OjDS4",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/77at-9OjDS4/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Even the best science writing keeps reaching for ancient myth",
+            "url": "https://theconversation.com/even-the-best-writing-about-science-recalls-ancient-myths-272269",
+            "duration": "~7 min",
+            "note": "Why discovery still borrows Prometheus to make wonder legible — for the writer and the reader in you both.",
+            "readable": true,
+            "articleId": "6d0dd9b1f84d9b96",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": "A big news day abroad, so the international slot leads and the Australian one follows its thread. No fresh Kimmel monologue (only a censorship skit and guest spots), and the WrestleTalk Podcast feed is still serving year-old episodes — both sat out."
+  },
+  {
     "date": "2026-06-22",
     "title": "Daily Brief — Monday, 22 June 2026",
     "weekday_date": "Monday, 22 June 2026",
