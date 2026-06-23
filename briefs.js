@@ -1,5 +1,155 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-24",
+    "title": "Daily Brief — Wednesday, 24 June 2026",
+    "weekday_date": "Wednesday, 24 June 2026",
+    "intro": "A soft, grey midwinter morning at The Patch — light drizzle, 7°C now and topping out near 12°, with rain unlikely to amount to much (18%). The political churn runs both hemispheres today: Britain is bracing for its seventh prime minister in a decade, while in Canberra Labor has waved its tax package through but hit a wall on the NDIS. Closer to home, a quietly thrilling idea — a 220km walk that would trace the Birrarung from the bay to the mountains. A good day for the kettle, and the rare delight of a Read about bees.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "The UK is about to get its seventh prime minister in ten years",
+                "url": "https://www.aljazeera.com/news/2026/6/22/political-turmoil-uk-will-see-its-seventh-prime-minister-in-10-years",
+                "duration": "~4 min",
+                "note": "Starmer's fall is one more turn of a wheel that hasn't stopped since Brexit; Burnham is the frontrunner, the contest opens 9 July, and it may be a coronation.",
+                "readable": true,
+                "articleId": "8f22734c0ffff1a2",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Labor has the numbers for tax, but the NDIS bill is stuck",
+                "url": "https://theconversation.com/view-from-the-hill-longer-ndis-inquiry-is-bad-for-the-government-costing-a-few-hundred-million-dollars-285370",
+                "duration": "~5 min",
+                "note": "The Greens delivered the tax package then dug in on the NDIS, pushing the inquiry to August; Butler says the delay costs \"a few hundred million.\"",
+                "readable": true,
+                "articleId": "bbc44234e45db345",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "A 220km walk would link the Yarra from Williamstown to the Upper Yarra dam",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-22/220km-birrarung-valley-walk-set-to-connect-from-the-city-to-the-upper-yarra/",
+                "duration": "~4 min",
+                "note": "A 13-day trail, mostly already built and almost entirely on public land, leaning on the river's \"living entity\" status — a gift to future Melbourne that runs through our hills.",
+                "readable": true,
+                "articleId": "6f09a59d9c477bc1",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "90% of all species are undiscovered",
+                "url": "https://www.youtube.com/watch?v=-G4o9asuI60",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/-G4o9asuI60/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "oh my days it's the BOIKS (Frog Sqwad and Crashout Crew)",
+                "url": "https://www.youtube.com/watch?v=ydxd7Jc5anY",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/ydxd7Jc5anY/hqdefault.jpg"
+              },
+              {
+                "title": "Lyra Valkyria Turns Heel, Street Profits Tag Titles — WWE Raw review",
+                "url": "https://www.youtube.com/watch?v=P9RB18h6HuY",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/P9RB18h6HuY/hqdefault.jpg"
+              },
+              {
+                "title": "ARC Raiders' Biggest Threats are Still to Come…",
+                "url": "https://www.youtube.com/watch?v=jNDIDpm48cs",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/jNDIDpm48cs/hqdefault.jpg"
+              },
+              {
+                "title": "LIVE DEBATE: \"Your God is Imaginary\"",
+                "url": "https://www.youtube.com/watch?v=M8_DNDwN0M8",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/M8_DNDwN0M8/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Science of Attraction, Compatibility & Romance | Dr. Paul Eastwick",
+                "url": "https://www.youtube.com/watch?v=CV0GtUlJ6NM",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/CV0GtUlJ6NM/hqdefault.jpg"
+              },
+              {
+                "title": "We talk about NEW things?! | Triforce #353",
+                "url": "https://www.youtube.com/watch?v=8Ew5Ny0juSk",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/8Ew5Ny0juSk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "A Look into the Exodus RPG from Renegade Games",
+                "url": "https://www.youtube.com/watch?v=JGFj1vLoOSg",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/JGFj1vLoOSg/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Charles Henry Turner: the Black high-school teacher who revolutionised the study of insect behaviour",
+            "url": "https://theconversation.com/charles-henry-turner-the-little-known-black-high-school-science-teacher-who-revolutionized-the-study-of-insect-behavior-in-the-early-20th-century-184030",
+            "duration": "~8 min",
+            "note": "Strawberry jam, picnic tables and a quiet 1908 experiment that proved bees can tell the time — and the overlooked life of the man who ran it.",
+            "readable": true,
+            "articleId": "fc01fabffdea57dc"
+          }
+        ]
+      }
+    ],
+    "signoff": "Quieter on the standing inclusions: no fresh Kimmel monologue (only a censorship skit and guest spots), and the WrestleTalk Podcast feed is still serving year-old episodes — both sat out. DW rested from the News slot too, to spare you a third UK headline in a row."
+  },
+  {
     "date": "2026-06-23",
     "title": "Daily Brief — Tuesday, 23 June 2026",
     "weekday_date": "Tuesday, 23 June 2026",
