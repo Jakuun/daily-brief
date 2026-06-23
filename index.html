@@ -378,7 +378,14 @@ a{ color:inherit; }
   go(0);
 
   if('serviceWorker' in navigator && location.protocol==='https:'){
-    navigator.serviceWorker.register('sw.js').catch(function(){});
+    // never serve sw.js itself from cache; check for a new worker on every load
+    navigator.serviceWorker.register('sw.js', {updateViaCache:'none'})
+      .then(function(reg){ reg.update(); }).catch(function(){});
+    // when a new worker takes control, reload once so the page shows fresh content
+    var __reloaded = false;
+    navigator.serviceWorker.addEventListener('controllerchange', function(){
+      if(__reloaded) return; __reloaded = true; location.reload();
+    });
   }
 })();
 </script>

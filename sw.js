@@ -1,7 +1,8 @@
 // Daily Brief service worker.
-// Code, data and articles are network-first (so updates always show when online);
-// icons/manifest are cache-first. Bump SHELL to force clients onto new code.
-const SHELL = 'db-shell-v3';
+// Code, data and articles are NETWORK-FIRST and bypass the HTTP cache (cache:'reload'),
+// so when online you always get the latest. Icons/manifest are cache-first.
+// Cache fallback is used only when offline. Bump SHELL to force clients onto new code.
+const SHELL = 'db-shell-v4';
 const SHELL_FILES = ['./', './index.html', './icon.svg', './manifest.webmanifest'];
 
 self.addEventListener('install', e => {
@@ -20,7 +21,8 @@ self.addEventListener('fetch', e => {
     || url.pathname.includes('/articles/');
   if (netFirst) {
     e.respondWith(
-      fetch(req).then(r => { const c = r.clone(); caches.open(SHELL).then(x => x.put(req, c)); return r; })
+      fetch(req, { cache: 'reload' })                 // force network, skip HTTP cache
+        .then(r => { const c = r.clone(); caches.open(SHELL).then(x => x.put(req, c)); return r; })
         .catch(() => caches.match(req).then(m => m || caches.match('./index.html')))
     );
     return;
