@@ -59,11 +59,11 @@ window.BRIEFS = [
             "label": "Infotainment",
             "items": [
               {
-                "title": "90% of all species are undiscovered",
-                "url": "https://www.youtube.com/watch?v=-G4o9asuI60",
+                "title": "GPT-5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+                "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
                 "duration": "",
                 "note": "",
-                "thumb": "https://i.ytimg.com/vi/-G4o9asuI60/hqdefault.jpg"
+                "thumb": "https://i.ytimg.com/vi/jz0rNhfAKo8/hqdefault.jpg"
               }
             ]
           },
