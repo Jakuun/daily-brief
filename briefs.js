@@ -1,5 +1,167 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-25",
+    "title": "Daily Brief — Thursday, 25 June 2026",
+    "weekday_date": "Thursday, 25 June 2026",
+    "intro": "A still, overcast winter morning at The Patch — 6°C now, nudging 13°C later, and barely a 3% chance of rain, so the wood heater and a slow coffee it is. The world's other half is doing the opposite: a record heat dome has much of Europe under red alert. Closer to home, the gloom is in the polling, and in the Hills, the council has quietly rewritten how we argue about trees.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Deaths and disruption as a record heatwave grips Europe",
+                "url": "https://www.aljazeera.com/news/2026/6/24/deaths-disruptions-across-europe-what-you-should-know-about-the-heatwave",
+                "duration": "~6 min",
+                "note": "France logs its hottest day on record and red alerts span six countries; a clear read on the heat dome driving it and why these events keep arriving.",
+                "readable": true,
+                "articleId": "2e9804b4545f88f9",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Lowy poll finds Australians more pessimistic about almost everything",
+                "url": "https://theconversation.com/view-from-the-hill-lowy-poll-shows-australians-more-pessimistic-about-almost-everything-285368",
+                "duration": "~5 min",
+                "note": "Economic pessimism hits a record 59% and foreign-policy disapproval jumps 13 points — Grattan on a second-term government governing from a crouch.",
+                "readable": true,
+                "articleId": "c6533bcd1e13af92",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges adopts a new tree policy with a four-level complaints process",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-17/tree-policy-updates-with-complaint-system/",
+                "duration": "~3 min",
+                "note": "The council that holds more trees than any other in Victoria overhauls how residents can dispute a tree decision. One for anyone who's tangled with a retained gum.",
+                "readable": true,
+                "articleId": "63f805145495e6ff",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Taliban in Brussels: dialogue or dangerous legitimisation?",
+                "url": "https://www.youtube.com/watch?v=VzZVicg7Cn0",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/VzZVicg7Cn0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "90% of all species are undiscovered",
+                "url": "https://www.youtube.com/watch?v=-G4o9asuI60",
+                "duration": "",
+                "note": "and why it matters that we haven't.",
+                "thumb": "https://i.ytimg.com/vi/-G4o9asuI60/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "You need to get on your High Horse to win Paintball Prop Hunt",
+                "url": "https://www.youtube.com/watch?v=DEF7VDw89ho",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/DEF7VDw89ho/hqdefault.jpg"
+              },
+              {
+                "title": "Oba Femi Losing?! Jey Uso Backlash — WWE Raw review",
+                "url": "https://www.youtube.com/watch?v=ZFglmGOkOPw",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/ZFglmGOkOPw/hqdefault.jpg"
+              },
+              {
+                "title": "Pro-ICE Protest at Delaney Hall, NJ",
+                "url": "https://www.youtube.com/watch?v=OHVxgM4JD5U",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/OHVxgM4JD5U/hqdefault.jpg"
+              },
+              {
+                "title": "We become Gamers and absolutely destroy Gmod TTT",
+                "url": "https://www.youtube.com/watch?v=WUXIzIfjmuk",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/WUXIzIfjmuk/hqdefault.jpg"
+              },
+              {
+                "title": "It's Actually Happening…",
+                "url": "https://www.youtube.com/watch?v=f42sp-6VLdA",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/f42sp-6VLdA/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "God wasn't more wrathful in the Old Testament",
+                "url": "https://www.youtube.com/watch?v=Bxm1OMLj9tg",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Bxm1OMLj9tg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We Turned The London Underground Into A Board Game! | House Rules",
+                "url": "https://www.youtube.com/watch?v=yTrgwFA9_pQ",
+                "duration": "",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/yTrgwFA9_pQ/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Alexander von Humboldt: the naturalist who bankrupted himself to share his life's work",
+            "url": "https://theconversation.com/alexander-von-humboldt-the-groundbreaking-naturalist-who-bankrupted-himself-to-share-his-lifes-work-237279",
+            "duration": "~7 min",
+            "note": "Jaguars, the Orinoco, 60,000 plant species, and lectures he paid to heat himself — the man who saw the universe as one connected system, and proved science and poetry needn't be opposites.",
+            "readable": true,
+            "articleId": "918e4a3e4bce8195"
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-06-24",
     "title": "Daily Brief — Wednesday, 24 June 2026",
     "weekday_date": "Wednesday, 24 June 2026",
