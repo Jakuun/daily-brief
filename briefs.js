@@ -1,5 +1,168 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-26",
+    "title": "Daily Brief — Friday, 26 June 2026",
+    "weekday_date": "Friday, 26 June 2026",
+    "intro": "A cold, overcast solstice-week morning in The Patch — 4 to 11°C, no rain in the forecast, just grey. Abroad, an Ebola outbreak in the DR Congo has now reached France; at home, the politics of multiculturalism is shaping up as the next big test. And in the Hills, the lanterns from last weekend's parade have just been packed away. Plenty here to put on while the kettle boils.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "France confirms its first Ebola case as the DR Congo outbreak spreads",
+                "url": "https://www.aljazeera.com/news/2026/6/24/france-confirms-first-ebola-case-in-doctor-returning-from-dr-congo",
+                "duration": "~2 min",
+                "note": "A returning doctor tests positive in Europe while the Ituri outbreak passes 1,000 cases and 260 deaths — a rare strain with no vaccine, and now a border crossed.",
+                "readable": true,
+                "articleId": "756882ed8ac2c620",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Grattan on Friday: now's the time to renovate multiculturalism, elevating 'interculturalism'",
+                "url": "https://theconversation.com/grattan-on-friday-nows-the-time-to-renovate-multiculturalism-elevating-interculturalism-285366",
+                "duration": "~6 min",
+                "note": "With One Nation reshaping the migration debate, Grattan makes the case for active integration over parallel coexistence — social cohesion as the government's next real test.",
+                "readable": true,
+                "articleId": "0979e18e34a8461b",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "An Artist's Garden lights up Belgrave's Blacksmith's Lane for the solstice",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-25/artist-garden-emerges-for-solstice/",
+                "duration": "~3 min",
+                "note": "The Patch Primary kids spent a whole term building lanterns for the 10,000-strong parade — a warm read close to home.",
+                "readable": true,
+                "articleId": "1bf157c81623b4b9",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Massive quakes bring new devastation and turmoil to Venezuela",
+                "url": "https://www.youtube.com/watch?v=dIFH51-ElZ4",
+                "duration": "16:51",
+                "note": "DW on the magnitude-7-plus earthquakes west of Caracas.",
+                "thumb": "https://i.ytimg.com/vi/dIFH51-ElZ4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The Uncomfortable Truth About Ozempic (Updated Version)",
+                "url": "https://www.youtube.com/watch?v=TYhNHX372ek",
+                "duration": "15:53",
+                "note": "Kurzgesagt's revised take on the drug reshaping how we think about appetite and weight.",
+                "thumb": "https://i.ytimg.com/vi/TYhNHX372ek/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "Paint PROP HUNT with REAL ARTISTS!",
+                "url": "https://www.youtube.com/watch?v=YmqJJcFBE7g",
+                "duration": "3:01:50",
+                "note": "The latest Hat Films marathon.",
+                "thumb": "https://i.ytimg.com/vi/YmqJJcFBE7g/hqdefault.jpg"
+              },
+              {
+                "title": "The Good Liars at The Reflecting Pool",
+                "url": "https://www.youtube.com/watch?v=wXdVQxMbYhI",
+                "duration": "12:56",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/wXdVQxMbYhI/hqdefault.jpg"
+              },
+              {
+                "title": "ARC Raiders' Expedition Changes Are Crazy…",
+                "url": "https://www.youtube.com/watch?v=3LQc5Y3YGfc",
+                "duration": "14:15",
+                "note": "eColiEspresso on the new Expedition overhaul.",
+                "thumb": "https://i.ytimg.com/vi/3LQc5Y3YGfc/hqdefault.jpg"
+              },
+              {
+                "title": "Boba saves us from crippling debt in Gamble with Your Friends",
+                "url": "https://www.youtube.com/watch?v=rBTEWQWdufE",
+                "duration": "30:33",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/rBTEWQWdufE/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "AEW Forbidden Door Predictions, AEW Dynamite Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=W58ewDAGPDs",
+                "duration": "1:05:15",
+                "note": "This week's full podcast ahead of Forbidden Door.",
+                "thumb": "https://i.ytimg.com/vi/W58ewDAGPDs/hqdefault.jpg"
+              },
+              {
+                "title": "Crystal's Locksmith and Escort | Triforce #358",
+                "url": "https://www.youtube.com/watch?v=jxBVUidbvu0",
+                "duration": "57:04",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/jxBVUidbvu0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Hamish Blake Is A Blue Ribbon Husband",
+                "url": "https://www.youtube.com/watch?v=Pa76h3yf1mY",
+                "duration": "7:14",
+                "note": "A short one to share with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/Pa76h3yf1mY/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Daniel Dennett: Consciousness is no miracle. It's a magic trick.",
+            "url": "https://bigthink.com/thinking/daniel-dennett-on-the-brain-consciousness/",
+            "duration": "~6 min",
+            "note": "The late naturalist on why the \"hard problem\" dissolves, and why the free will worth wanting survives. A sharp foil to process and panpsychist accounts.",
+            "readable": true,
+            "articleId": "f64228a82c45278d",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-06-25",
     "title": "Daily Brief — Thursday, 25 June 2026",
     "weekday_date": "Thursday, 25 June 2026",
