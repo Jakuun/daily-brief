@@ -59,11 +59,11 @@ window.BRIEFS = [
             "label": "News",
             "items": [
               {
-                "title": "Taliban in Brussels: dialogue or dangerous legitimisation?",
-                "url": "https://www.youtube.com/watch?v=VzZVicg7Cn0",
-                "duration": "",
-                "note": "",
-                "thumb": "https://i.ytimg.com/vi/VzZVicg7Cn0/hqdefault.jpg"
+                "title": "France records its hottest night and day as Europe's heatwave peaks",
+                "url": "https://www.youtube.com/watch?v=WavAq4KdSPE",
+                "duration": "14:09",
+                "note": "DW from the centre of today's lead story.",
+                "thumb": "https://i.ytimg.com/vi/WavAq4KdSPE/hqdefault.jpg"
               }
             ]
           },
@@ -71,11 +71,11 @@ window.BRIEFS = [
             "label": "Infotainment",
             "items": [
               {
-                "title": "90% of all species are undiscovered",
-                "url": "https://www.youtube.com/watch?v=-G4o9asuI60",
-                "duration": "",
-                "note": "and why it matters that we haven't.",
-                "thumb": "https://i.ytimg.com/vi/-G4o9asuI60/hqdefault.jpg"
+                "title": "The bizarre science of enlightenment",
+                "url": "https://www.youtube.com/watch?v=XQMSq1HAb64",
+                "duration": "6:51",
+                "note": "Big Think on what actually happens in the brain at the far edge of meditation.",
+                "thumb": "https://i.ytimg.com/vi/XQMSq1HAb64/hqdefault.jpg"
               }
             ]
           },
@@ -85,37 +85,37 @@ window.BRIEFS = [
               {
                 "title": "You need to get on your High Horse to win Paintball Prop Hunt",
                 "url": "https://www.youtube.com/watch?v=DEF7VDw89ho",
-                "duration": "",
-                "note": "",
+                "duration": "22:56",
+                "note": "New Hat Films.",
                 "thumb": "https://i.ytimg.com/vi/DEF7VDw89ho/hqdefault.jpg"
               },
               {
                 "title": "Oba Femi Losing?! Jey Uso Backlash — WWE Raw review",
                 "url": "https://www.youtube.com/watch?v=ZFglmGOkOPw",
-                "duration": "",
-                "note": "",
+                "duration": "11:55",
+                "note": "WrestleTalk's run through Monday's show.",
                 "thumb": "https://i.ytimg.com/vi/ZFglmGOkOPw/hqdefault.jpg"
               },
               {
                 "title": "Pro-ICE Protest at Delaney Hall, NJ",
                 "url": "https://www.youtube.com/watch?v=OHVxgM4JD5U",
-                "duration": "",
-                "note": "",
+                "duration": "16:15",
+                "note": "The Good Liars, on the street.",
                 "thumb": "https://i.ytimg.com/vi/OHVxgM4JD5U/hqdefault.jpg"
               },
               {
                 "title": "We become Gamers and absolutely destroy Gmod TTT",
                 "url": "https://www.youtube.com/watch?v=WUXIzIfjmuk",
-                "duration": "",
-                "note": "",
+                "duration": "28:13",
+                "note": "Yogscast murder-mystery silliness.",
                 "thumb": "https://i.ytimg.com/vi/WUXIzIfjmuk/hqdefault.jpg"
               },
               {
-                "title": "It's Actually Happening…",
-                "url": "https://www.youtube.com/watch?v=f42sp-6VLdA",
-                "duration": "",
-                "note": "",
-                "thumb": "https://i.ytimg.com/vi/f42sp-6VLdA/hqdefault.jpg"
+                "title": "There's a Different ARC Raiders Experience Out There…",
+                "url": "https://www.youtube.com/watch?v=LhQK81AwTCU",
+                "duration": "9:59",
+                "note": "eColiEspresso on a different way to play.",
+                "thumb": "https://i.ytimg.com/vi/LhQK81AwTCU/hqdefault.jpg"
               }
             ]
           },
@@ -123,11 +123,11 @@ window.BRIEFS = [
             "label": "Long form",
             "items": [
               {
-                "title": "God wasn't more wrathful in the Old Testament",
-                "url": "https://www.youtube.com/watch?v=Bxm1OMLj9tg",
-                "duration": "",
-                "note": "",
-                "thumb": "https://i.ytimg.com/vi/Bxm1OMLj9tg/hqdefault.jpg"
+                "title": "Three \"Myths\" Atheists Believe",
+                "url": "https://www.youtube.com/watch?v=Zn55FyRNaGc",
+                "duration": "39:22",
+                "note": "Ehrman turns the sceptic's lens back on a few atheist assumptions.",
+                "thumb": "https://i.ytimg.com/vi/Zn55FyRNaGc/hqdefault.jpg"
               }
             ]
           },
@@ -137,8 +137,8 @@ window.BRIEFS = [
               {
                 "title": "We Turned The London Underground Into A Board Game! | House Rules",
                 "url": "https://www.youtube.com/watch?v=yTrgwFA9_pQ",
-                "duration": "",
-                "note": "",
+                "duration": "1:05:34",
+                "note": "Fresh No Rolls Barred to share with Caroline.",
                 "thumb": "https://i.ytimg.com/vi/yTrgwFA9_pQ/hqdefault.jpg"
               }
             ]
