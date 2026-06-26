@@ -138,6 +138,26 @@ a{ color:inherit; }
 .reader-art .r-foot{ margin-top:36px; padding-top:18px; border-top:1px solid var(--rule); font-family:"Archivo",sans-serif; font-size:12px; color:var(--ink-soft); }
 .reader-art .r-foot a{ color:var(--accent); }
 
+/* Português do dia */
+.pt-card{ background:var(--paper-raise); border:1px solid var(--rule); border-radius:14px; padding:18px 20px; }
+.pt-head{ display:flex; align-items:baseline; justify-content:space-between; gap:12px; flex-wrap:wrap; }
+.pt-title{ font-weight:600; font-size:1.3rem; color:var(--ink); margin:0; }
+.pt-level{ font-family:"Archivo",sans-serif; font-size:10px; letter-spacing:.14em; text-transform:uppercase; color:var(--accent); }
+.pt-controls{ display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin:14px 0 4px; }
+.pt-btn{ appearance:none; border:1px solid var(--accent-line); background:var(--accent); color:#fff; font-family:"Archivo",sans-serif; font-size:13px; font-weight:600; letter-spacing:.02em; padding:9px 16px; border-radius:9px; cursor:pointer; }
+.pt-btn.secondary{ background:var(--paper); color:var(--accent); }
+.pt-btn:disabled{ opacity:.5; cursor:default; }
+.pt-status{ font-family:"Archivo",sans-serif; font-size:11px; letter-spacing:.06em; text-transform:uppercase; color:var(--ink-soft); }
+.pt-status b{ color:var(--accent); }
+.pt-toggle{ font-family:"Archivo",sans-serif; font-size:12px; color:var(--accent); background:none; border:0; cursor:pointer; padding:6px 0; margin-top:6px; }
+.pt-transcript{ display:none; margin-top:12px; }
+.pt-transcript.open{ display:block; }
+.pt-transcript h4{ font-family:"Archivo",sans-serif; font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--accent); margin:16px 0 8px; }
+.pt-transcript p{ margin:0 0 .8em; line-height:1.6; }
+.pt-transcript .en{ color:var(--ink-soft); }
+.pt-foot{ font-family:"Archivo",sans-serif; font-size:12px; color:var(--ink-soft); margin-top:14px; padding-top:12px; border-top:1px solid var(--rule); }
+.pt-foot a{ color:var(--accent); }
+
 @media (max-width:540px){
   .card{ gap:11px; }
   .thumb{ flex-basis:128px; width:128px; }
@@ -336,6 +356,79 @@ a{ color:inherit; }
     return c;
   }
 
+  // ---- Português do dia (browser TTS: PT → EN → PT, with read-along transcript) ----
+  var ptStop = null;
+  function pickVoice(pref){
+    var vs = (window.speechSynthesis && speechSynthesis.getVoices) ? speechSynthesis.getVoices() : [];
+    function by(test){ for(var i=0;i<vs.length;i++){ if(test(vs[i])) return vs[i]; } return null; }
+    if(pref==='pt') return by(function(v){return /pt[-_]BR/i.test(v.lang);}) || by(function(v){return /Luciana|Joana|Brazil|Brasil/i.test(v.name);}) || by(function(v){return /^pt/i.test(v.lang);});
+    return by(function(v){return /en[-_](US|GB|AU)/i.test(v.lang);}) || by(function(v){return /^en/i.test(v.lang);});
+  }
+  function speakSequence(lesson, statusEl, playBtn){
+    if(!('speechSynthesis' in window)){ statusEl.textContent = 'Speech not supported here'; return; }
+    speechSynthesis.cancel();
+    var ptV = pickVoice('pt'), enV = pickVoice('en'), stopped = false, i = 0;
+    var passes = [['Portuguese', lesson.pt, 'pt-BR', ptV, 0.95],
+                  ['English', lesson.en, 'en-US', enV, 1.0],
+                  ['Portuguese — again', lesson.pt, 'pt-BR', ptV, 0.95]];
+    var q = [];
+    passes.forEach(function(p){ p[1].forEach(function(para){ q.push({label:p[0], text:para, lang:p[2], voice:p[3], rate:p[4]}); }); });
+    ptStop = function(){ stopped = true; speechSynthesis.cancel(); statusEl.innerHTML=''; playBtn.disabled=false; ptStop=null; };
+    function next(){
+      if(stopped) return;
+      if(i>=q.length){ statusEl.innerHTML='<b>Done</b>'; playBtn.disabled=false; ptStop=null; return; }
+      var it = q[i++];
+      statusEl.innerHTML = 'Now: <b>'+esc(it.label)+'</b>';
+      var u = new SpeechSynthesisUtterance(it.text);
+      u.lang = it.lang; if(it.voice) u.voice = it.voice; u.rate = it.rate;
+      u.onend = next; u.onerror = next;
+      speechSynthesis.speak(u);
+    }
+    playBtn.disabled = true; next();
+  }
+  function renderPortuguese(id){
+    var s = el('section','sec');
+    var head = el('div','sec-head');
+    head.appendChild(el('h2','sec-name','Português do dia'));
+    head.appendChild(el('span','sec-rule'));
+    s.appendChild(head);
+    var card = el('div','pt-card');
+    card.innerHTML = '<div class="pt-head"><h3 class="pt-title">…</h3><span class="pt-level"></span></div>';
+    s.appendChild(card);
+    function build(L){
+      card.querySelector('.pt-title').textContent = L.title || 'História do dia';
+      card.querySelector('.pt-level').textContent = L.level || '';
+      var controls = el('div','pt-controls');
+      var play = el('button','pt-btn','▶  Ouvir (PT → EN → PT)');
+      var stop = el('button','pt-btn secondary','Stop');
+      var status = el('span','pt-status','');
+      controls.appendChild(play); controls.appendChild(stop); controls.appendChild(status);
+      card.appendChild(controls);
+      play.addEventListener('click', function(){ speakSequence(L, status, play); });
+      stop.addEventListener('click', function(){ if(ptStop) ptStop(); });
+      var toggle = el('button','pt-toggle','Show transcript ▾');
+      var tr = el('div','pt-transcript');
+      tr.appendChild(el('h4',null,'Português'));
+      (L.pt||[]).forEach(function(p){ tr.appendChild(el('p',null,esc(p))); });
+      tr.appendChild(el('h4',null,'English'));
+      (L.en||[]).forEach(function(p){ tr.appendChild(el('p','en',esc(p))); });
+      toggle.addEventListener('click', function(){ tr.classList.toggle('open'); toggle.textContent = tr.classList.contains('open') ? 'Hide transcript ▴' : 'Show transcript ▾'; });
+      card.appendChild(toggle); card.appendChild(tr);
+      var foot = el('div','pt-foot');
+      foot.innerHTML = 'Prefer a human voice? Today\'s <a href="https://www.iheart.com/podcast/53-fluent-fiction-portuguese-b-181223870/" target="_blank" rel="noopener">Fluent Fiction — Portuguese (Brazil) ↗</a> — free, daily, on every podcast app.';
+      card.appendChild(foot);
+    }
+    window.__DB_PT = window.__DB_PT || {};
+    if(window.__DB_PT[id]){ build(window.__DB_PT[id]); }
+    else {
+      var sc = document.createElement('script'); sc.src = 'lessons/'+id+'.js';
+      sc.onload = function(){ if(window.__DB_PT[id]) build(window.__DB_PT[id]); else card.querySelector('.pt-title').textContent='Lesson unavailable'; };
+      sc.onerror = function(){ card.querySelector('.pt-title').textContent='Lesson unavailable'; };
+      document.head.appendChild(sc);
+    }
+    return s;
+  }
+
   function masthead(brief){
     var no = BRIEFS.length - issueIndex; // oldest = No.1, increments over time
     var h = el('header','masthead');
@@ -349,12 +442,14 @@ a{ color:inherit; }
 
   function render(){
     var brief = BRIEFS[issueIndex];
+    if(window.speechSynthesis) speechSynthesis.cancel();
     content.innerHTML='';
     if(!brief){ content.appendChild(el('div','empty','No briefs yet.')); return; }
     content.appendChild(masthead(brief));
     if(brief.intro) content.appendChild(el('p','lede', esc(brief.intro)));
     content.appendChild(contentsStrip(brief));
     (brief.sections||[]).forEach(function(sec){ content.appendChild(renderSection(sec)); });
+    if(brief.portugueseId) content.appendChild(renderPortuguese(brief.portugueseId));
     var so=(brief.signoff||'').replace(/^\*+|\*+$/g,'').trim();
     var no = BRIEFS.length - issueIndex;
     var f = el('footer','foot');

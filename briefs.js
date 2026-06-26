@@ -153,7 +153,8 @@ window.BRIEFS = [
         ]
       }
     ],
-    "signoff": ""
+    "signoff": "",
+    "portugueseId": "2026-06-27"
   },
   {
     "date": "2026-06-26",
