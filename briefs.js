@@ -1,5 +1,161 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-27",
+    "title": "Daily Brief — Saturday, 27 June 2026",
+    "weekday_date": "Saturday, 27 June 2026",
+    "intro": "A cold, overcast Saturday at The Patch — 3 to 10°C, no rain to speak of, so a still grey day for the garden or the fire. The world's biggest story is the Venezuela earthquake disaster; at home it's the NDIS overhaul shaping as the government's next fight. Closer to the hills, a fittingly literary local note: the Woorilla Poetry Prize has new judges. Plenty to read on a slow morning, including a long Aeon essay on whether language shapes the mind.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Venezuela's twin quakes kill nearly 600 as the world sends help",
+                "url": "https://www.aljazeera.com/news/2026/6/26/neighbours-aid-rescue-effort-as-venezuela-quake-death-toll-hits-235",
+                "duration": "~4 min",
+                "note": "Two of the strongest quakes in a century flatten La Guaira; rescue teams pour in from across the Americas.",
+                "readable": true,
+                "articleId": "f4ce61fb83987334",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The NDIS overhaul becomes Albanese's next big fight",
+                "url": "https://theconversation.com/politics-with-michelle-grattan-jenny-mcallister-on-confronting-but-necessary-ndis-reforms-286124",
+                "duration": "~5 min",
+                "note": "With the budget's tax package through, the minister defends \"confronting but necessary\" cuts, now delayed to August.",
+                "readable": true,
+                "articleId": "57142a3666dab804",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Woorilla Poetry Prize names Toby Fitch and Maxine Beneba Clarke as judges",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-26/woorilla-poetry-prize-welcomes-new-judges/",
+                "duration": "~3 min",
+                "note": "Two acclaimed poets on what makes a poem land; entries open until 30 September.",
+                "readable": true,
+                "articleId": "bceb7c995a984e3d",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Europe hits record temperatures: Is this the new normal?",
+                "url": "https://www.youtube.com/watch?v=CPtNQuoKBvQ",
+                "duration": "20:30",
+                "note": "DW digs into the heatwave gripping Europe.",
+                "thumb": "https://i.ytimg.com/vi/CPtNQuoKBvQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The internet is all bots now | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=A9GdcgjRm6A",
+                "duration": "41:26",
+                "note": "Vox on the dead-internet drift, fitting the AI focus.",
+                "thumb": "https://i.ytimg.com/vi/A9GdcgjRm6A/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "We have an Emergency Crash Protocol in Gamble With Your Friends",
+                "url": "https://www.youtube.com/watch?v=UZVRZrL_T3M",
+                "duration": "26:44",
+                "note": "Hat Films.",
+                "thumb": "https://i.ytimg.com/vi/UZVRZrL_T3M/hqdefault.jpg"
+              },
+              {
+                "title": "Do We Need a GOD to Ground KNOWLEDGE? feat. Taylor Skeptical Heretic",
+                "url": "https://www.youtube.com/watch?v=D7ANyjGC4XY",
+                "duration": "26:35",
+                "note": "Dillahunty on the epistemology call-in.",
+                "thumb": "https://i.ytimg.com/vi/D7ANyjGC4XY/hqdefault.jpg"
+              },
+              {
+                "title": "Monopoly in Mario Party in Minecraft!?",
+                "url": "https://www.youtube.com/watch?v=qmPh62tbuCk",
+                "duration": "41:15",
+                "note": "The Yogscast.",
+                "thumb": "https://i.ytimg.com/vi/qmPh62tbuCk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "AEW Forbidden Door Predictions, AEW Dynamite Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=W58ewDAGPDs",
+                "duration": "1:05:15",
+                "note": "The latest full podcast ahead of Forbidden Door.",
+                "thumb": "https://i.ytimg.com/vi/W58ewDAGPDs/hqdefault.jpg"
+              },
+              {
+                "title": "Crystal's Locksmith and Escort | Triforce #358",
+                "url": "https://www.youtube.com/watch?v=jxBVUidbvu0",
+                "duration": "57:04",
+                "note": "The weekly Triforce.",
+                "thumb": "https://i.ytimg.com/vi/jxBVUidbvu0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Dungeons and Kittens! An AwwwPG Playthrough!",
+                "url": "https://www.youtube.com/watch?v=3hjrIAE56xo",
+                "duration": "2:15:11",
+                "note": "Good Time Society for a long shared sit-down.",
+                "thumb": "https://i.ytimg.com/vi/3hjrIAE56xo/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Does language mirror the mind? An intellectual history",
+            "url": "https://aeon.co/essays/does-language-mirror-the-mind-an-intellectual-history",
+            "duration": "~25 min",
+            "note": "From Herder and Humboldt to Sapir-Whorf and Gurindji speakers who may feel Earth's magnetic field — the deep history of linguistic relativity.",
+            "readable": true,
+            "articleId": "453dd2d12e025650",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-06-26",
     "title": "Daily Brief — Friday, 26 June 2026",
     "weekday_date": "Friday, 26 June 2026",
