@@ -1,5 +1,165 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-28",
+    "title": "Daily Brief — Sunday, 28 June 2026",
+    "weekday_date": "Sunday, 28 June 2026",
+    "intro": "A cold, overcast Sunday at The Patch — around 3°C now, creeping to a top of 14, with barely a whisper of rain (2%). A neat inversion of the headlines: while the Hills sit frosty and still, Europe is buckling under record heat. A slow morning for coffee, a long-form listen in the garden, and a literary festival on the doorstep to look forward to.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Germany braces for record heat as Europe's heatwave moves east",
+                "url": "https://www.aljazeera.com/news/2026/6/27/germany-braces-for-record-breaking-temperatures-as-heatwave-moves-east",
+                "duration": "~3 min",
+                "note": "A stalled \"Omega block\" pushes 40°C+ into Germany and Poland; scientists say it'd be near-impossible without climate change.",
+                "readable": true,
+                "articleId": "ef008333a4252777"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Labor's contentious tax reforms set to pass — what's in the bill",
+                "url": "https://www.sbs.com.au/news/article/what-to-know-about-governments-tax-reforms/bgbdscqts",
+                "duration": "~4 min",
+                "note": "A Greens deal clears the Senate path: negative gearing curbed, CGT discount reworked, NDIS inquiry pushed out eight weeks.",
+                "readable": true,
+                "articleId": "78b1a3591f08a730"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Chris Hammer to open Dandenong Ranges Literary Festival",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-26/chris-hammer-to-open-dandenong-ranges-literary-festival/",
+                "duration": "~3 min",
+                "note": "The Scrublands author headlines an expanded three-day festival in Belgrave this October — writerly news on your doorstep.",
+                "readable": true,
+                "articleId": "bf0f7ed3cde79592"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "After tit-for-tat blows: Is the US–Iran deal on the verge of collapse?",
+                "url": "https://www.youtube.com/watch?v=KERJZCEnv6o",
+                "duration": "17:36",
+                "note": "DW unpacks where the fragile MoU stands after fresh strikes.",
+                "thumb": "https://i.ytimg.com/vi/KERJZCEnv6o/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "A neuroscientist's guide to protecting your brain | Lisa Genova",
+                "url": "https://www.youtube.com/watch?v=LViE-cD_WJQ",
+                "duration": "58:45",
+                "note": "Memory, ageing and what actually helps, from the Still Alice neuroscientist.",
+                "thumb": "https://i.ytimg.com/vi/LViE-cD_WJQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "Should Trillionaires Exist? Elon Musk is the World's First Trillionaire",
+                "url": "https://www.youtube.com/watch?v=E8cvb7-mnYY",
+                "duration": "10:44",
+                "note": "The Good Liars, doing their thing.",
+                "thumb": "https://i.ytimg.com/vi/E8cvb7-mnYY/hqdefault.jpg"
+              },
+              {
+                "title": "Paintball Prop Hunt in Minecraft (Meccha Chameleon)",
+                "url": "https://www.youtube.com/watch?v=YSxWB7VBLDQ",
+                "duration": "13:04",
+                "note": "Hat Films.",
+                "thumb": "https://i.ytimg.com/vi/YSxWB7VBLDQ/hqdefault.jpg"
+              },
+              {
+                "title": "Who Wins King of the Ring? WWE Night of Champions 2026 Predictions",
+                "url": "https://www.youtube.com/watch?v=WZvKdO7e2cw",
+                "duration": "16:51",
+                "note": "WrestleTalk's pre-show predictions.",
+                "thumb": "https://i.ytimg.com/vi/WZvKdO7e2cw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "IT'S NOT EASY BEING GREEN! PEP with Chas & Dr Dave (Ep 267)",
+                "url": "https://www.youtube.com/watch?v=gqFLlE0ohJk",
+                "duration": "3:31:05",
+                "note": "The weekend yardwork listen.",
+                "thumb": "https://i.ytimg.com/vi/gqFLlE0ohJk/hqdefault.jpg"
+              },
+              {
+                "title": "Caller Defends \"God is Good No Matter What\" feat. Thinker",
+                "url": "https://www.youtube.com/watch?v=eFDFYdpDT1E",
+                "duration": "1:03:10",
+                "note": "A full Matt Dillahunty episode.",
+                "thumb": "https://i.ytimg.com/vi/eFDFYdpDT1E/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Why we never play with the Pit-Hag! — Blood on the Clocktower LIVE",
+                "url": "https://www.youtube.com/watch?v=vkXwfoHgkDY",
+                "duration": "2:37:57",
+                "note": "Yogscast BotC, for an evening with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/vkXwfoHgkDY/hqdefault.jpg"
+              },
+              {
+                "title": "Hamish Blake Is A Blue Ribbon Husband",
+                "url": "https://www.youtube.com/watch?v=Pa76h3yf1mY",
+                "duration": "7:14",
+                "note": "A quick one to share.",
+                "thumb": "https://i.ytimg.com/vi/Pa76h3yf1mY/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "How will Australian native bees cope with climate change? Their nests hold a clue",
+            "url": "https://theconversation.com/how-will-australian-native-bees-cope-with-climate-change-their-nests-hold-a-clue-284326",
+            "duration": "~6 min",
+            "note": "New research: where a bee nests decides how it handles the heat. Right up your alley as a beekeeper, and a fitting counterpoint to Europe's swelter.",
+            "readable": true,
+            "articleId": "aad8534716286be4"
+          }
+        ]
+      }
+    ],
+    "signoff": "",
+    "portugueseId": "2026-06-28"
+  },
+  {
     "date": "2026-06-27",
     "title": "Daily Brief — Saturday, 27 June 2026",
     "weekday_date": "Saturday, 27 June 2026",
