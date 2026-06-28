@@ -1,5 +1,158 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-29",
+    "title": "Daily Brief — Monday, 29 June 2026",
+    "weekday_date": "Monday, 29 June 2026",
+    "intro": "A cold, drizzly start in The Patch — 5.9°C now, topping out near 13°C with a better-than-even chance of rain, so a day for the fire and a long read. Abroad, Europe's record heat has turned deadly; at home, Canberra is sharpening its teeth on the social media ban; and close by, two Yarra Ranges parks are up for a public vote. The watch menu leans long today — a couple of standing regulars came up empty.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Europe's heatwave turns deadly: 1,000 excess deaths in France",
+                "url": "https://www.aljazeera.com/news/2026/6/28/european-heatwave-causes-1000-excess-deaths-in-france",
+                "duration": "~3 min",
+                "note": "France logs 1,000 excess deaths as record heat, now sliding east, claims hundreds across the continent; scientists call it near-impossible without climate change.",
+                "readable": true,
+                "articleId": "b03236276fd39ca2"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Canberra moves to double fines on platforms flouting the under-16 social media ban",
+                "url": "https://www.sbs.com.au/news/podcast-episode/social-media-giants-face-tougher-fines-over-australias-under-16-ban-midday-news-bulletin-28-june/7dhy48zn1",
+                "duration": "~3 min",
+                "note": "Fresh legislation would lift penalties toward $99m and hand the eSafety Commissioner real enforcement muscle, after seven in ten under-16s kept their accounts.",
+                "readable": true,
+                "articleId": "34c0db148debf625"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Two Yarra Ranges parks shortlisted for 'Pick My Park' funding",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-06-27/eastern-region-park-projects-shortlisted-for-funding/",
+                "duration": "~3 min",
+                "note": "Kilsyth and Mooroolbark projects are in the running; resident votes (open to 3 Aug) decide who gets the money.",
+                "readable": true,
+                "articleId": "d00929392e429a59"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "The global race Europe cannot afford to lose | The Dip Podcast",
+                "url": "https://www.youtube.com/watch?v=7P7Rlw1lKn8",
+                "duration": "21:41",
+                "note": "DW on Europe's scramble to stay in the tech and industrial race.",
+                "thumb": "https://i.ytimg.com/vi/7P7Rlw1lKn8/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Young men are turning on Trump. Here's why. | America, Actually",
+                "url": "https://www.youtube.com/watch?v=bP1uBnOyJIg",
+                "duration": "29:00",
+                "note": "Vox unpacks a real shift in a bloc everyone assumed was locked in.",
+                "thumb": "https://i.ytimg.com/vi/bP1uBnOyJIg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "Not pulling out ruined our lives — Gamble With Your Friends",
+                "url": "https://www.youtube.com/watch?v=Tud_6GH_DCA",
+                "duration": "22:02",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Tud_6GH_DCA/hqdefault.jpg"
+              },
+              {
+                "title": "The Good Liars — The Rally to End All Rallies",
+                "url": "https://www.youtube.com/watch?v=EvuDqsv3p2U",
+                "duration": "17:32",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/EvuDqsv3p2U/hqdefault.jpg"
+              },
+              {
+                "title": "Sami Zayn Wins WWE Championship! Night of Champions 2026 Reaction",
+                "url": "https://www.youtube.com/watch?v=jFPc8IWWrMc",
+                "duration": "8:36",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/jFPc8IWWrMc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Gut Expert: Eating these 3 foods could improve your mental health | Tim Spector",
+                "url": "https://www.youtube.com/watch?v=A3_fG1h2a_g",
+                "duration": "73:04",
+                "note": "Big Think; gut–brain science with one of the better communicators on it.",
+                "thumb": "https://i.ytimg.com/vi/A3_fG1h2a_g/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Could Andy and Jack Be Pilots? | Hamish & Andy",
+                "url": "https://www.youtube.com/watch?v=Xvq_OolQ66I",
+                "duration": "9:14",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Xvq_OolQ66I/hqdefault.jpg"
+              },
+              {
+                "title": "The Queen's Dilemma | Episode 1",
+                "url": "https://www.youtube.com/watch?v=SA_wZ5JiKuM",
+                "duration": "1:49:13",
+                "note": "BlampCo kick off a new game; a full evening's shared watch.",
+                "thumb": "https://i.ytimg.com/vi/SA_wZ5JiKuM/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "AI doesn't just help us think, it thinks instead of us: what this means for the process of learning",
+            "url": "https://theconversation.com/ai-doesnt-just-help-us-think-it-thinks-instead-of-us-what-this-means-for-the-process-of-learning-284038",
+            "duration": "~8 min",
+            "note": "On 'epistemic atrophy' and what outsourcing thought costs the act of learning — squarely your wheelhouse as designer and process philosopher.",
+            "readable": true,
+            "articleId": "e4728726edda9a60"
+          }
+        ]
+      }
+    ],
+    "signoff": "",
+    "portugueseId": "2026-06-29"
+  },
+  {
     "date": "2026-06-28",
     "title": "Daily Brief — Sunday, 28 June 2026",
     "weekday_date": "Sunday, 28 June 2026",
