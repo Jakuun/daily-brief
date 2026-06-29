@@ -1,5 +1,162 @@
 window.BRIEFS = [
   {
+    "date": "2026-06-30",
+    "title": "Daily Brief — Tuesday, 30 June 2026",
+    "weekday_date": "Tuesday, 30 June 2026",
+    "intro": "A cold, wet start at The Patch — light showers, a top of just 11°C and rain all but certain, so a day for the fireside. Abroad, the US Supreme Court has handed the presidency sweeping new power over independent regulators; at home, the right is quietly war-gaming a One Nation pact; and up the hill, the Yarra Valley Quarry fight rumbles on.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Supreme Court hands Trump the power to fire independent regulators",
+                "url": "https://abcnews.com/Politics/supreme-court-allows-trump-firing-ftc-commissioner/story?id=129203395",
+                "duration": "~4 min",
+                "note": "A 6–3 ruling overturns 90 years of precedent, ending the bipartisan independence of agencies like the FTC, SEC and FCC.",
+                "readable": true,
+                "articleId": "99f70c6c080b06f0",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Should One Nation and the Coalition strike a deal to win office?",
+                "url": "https://theconversation.com/should-one-nation-and-the-coalition-strike-a-deal-to-win-office-there-are-huge-risks-for-both-parties-285341",
+                "duration": "~6 min",
+                "note": "With One Nation surging past the Coalition in the polls, talk of a formal seat pact carries real danger for both.",
+                "readable": true,
+                "articleId": "fc6895184936b6a3",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "State Government rejects EES demand for Yarra Valley Quarry expansion",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-06-27/state-government-rejects-demands-for-ees-on-yarra-valley-quarry-expansion/",
+                "duration": "~5 min",
+                "note": "Victoria backs the lighter assessment for a quarry beside the National Park, in possum and powerful-owl habitat; residents vow to fight.",
+                "readable": true,
+                "articleId": "0dd547ecde5c102f",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Venezuela earthquake: More survivors found as families plead for help",
+                "url": "https://www.youtube.com/watch?v=RatcWeovRsQ",
+                "duration": "7:57",
+                "note": "The rescue effort continues; a tight update on an unfolding disaster.",
+                "thumb": "https://i.ytimg.com/vi/RatcWeovRsQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "GERMANY IS OVER",
+                "url": "https://www.youtube.com/watch?v=n-gYFcVx-8Y",
+                "duration": "14:04",
+                "note": "Kurzgesagt on whether Europe's industrial engine is really stalling, or just panicking.",
+                "thumb": "https://i.ytimg.com/vi/n-gYFcVx-8Y/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Indulgence",
+            "items": [
+              {
+                "title": "Bow to Lord Long Tongue in Frog Sqwad",
+                "url": "https://www.youtube.com/watch?v=R5XnLxh35y8",
+                "duration": "26:30",
+                "note": "Hat Films, fresh and daft as ever.",
+                "thumb": "https://i.ytimg.com/vi/R5XnLxh35y8/hqdefault.jpg"
+              },
+              {
+                "title": "He Faked Speaking in Tongues to Escape an EXORCISM feat Austin Archer",
+                "url": "https://www.youtube.com/watch?v=TzMt7hFOAN0",
+                "duration": "20:05",
+                "note": "The Line, with Austin Archer on a wild caller.",
+                "thumb": "https://i.ytimg.com/vi/TzMt7hFOAN0/hqdefault.jpg"
+              },
+              {
+                "title": "The Wedding Chip",
+                "url": "https://www.youtube.com/watch?v=tSytNpRnacQ",
+                "duration": "10:40",
+                "note": "Hamish & Andy; a quick laugh to share.",
+                "thumb": "https://i.ytimg.com/vi/tSytNpRnacQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Movement Practice to Strengthen Your Mind-Body Connection — Ido Portal",
+                "url": "https://www.youtube.com/watch?v=Zz8chJwh3S4",
+                "duration": "2:59:48",
+                "note": "This week's Huberman Lab, with movement teacher Ido Portal.",
+                "thumb": "https://i.ytimg.com/vi/Zz8chJwh3S4/hqdefault.jpg"
+              },
+              {
+                "title": "It's Great To Be A Wrestling Fan! WWE Night of Champions! AEW Forbidden Door!",
+                "url": "https://www.youtube.com/watch?v=Fd1OkKveVCo",
+                "duration": "1:44:55",
+                "note": "The WrestleTalk podcast's big weekend round-up.",
+                "thumb": "https://i.ytimg.com/vi/Fd1OkKveVCo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play THUNDER ROAD: VENDETTA — Board Game League S4E4",
+                "url": "https://www.youtube.com/watch?v=J0y9zvAmeCU",
+                "duration": "2:20:36",
+                "note": "No Rolls Barred, for an evening with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/J0y9zvAmeCU/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "3 philosophical debates from the 20th century that neuroscience is reshaping",
+            "url": "https://bigthink.com/thinking/3-philosophical-questions-of-the-20th-century-that-neuroscience-is-reframing/",
+            "duration": "~14 min",
+            "note": "Free will, meaning and the self, recast by brain science as emergent rather than illusory. Squarely your territory.",
+            "readable": true,
+            "articleId": "a22b4840231bce9f",
+            "partial": true
+          }
+        ]
+      }
+    ],
+    "signoff": "",
+    "portugueseId": "2026-06-30"
+  },
+  {
     "date": "2026-06-29",
     "title": "Daily Brief — Monday, 29 June 2026",
     "weekday_date": "Monday, 29 June 2026",
