@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-01",
+    "title": "Daily Brief — Wednesday, 1 July 2026",
+    "weekday_date": "Wednesday, 1 July 2026",
+    "intro": "A wet, cold start in The Patch — light showers and a top of just 13°C, the kind of grey winter morning made for a long listen. Overnight, four-time champions Germany crashed out of the World Cup to Paraguay, and a new financial year quietly reshuffled pay, tax and super right across Australia. Coffee first, then take your pick below.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Paraguay shock Germany in a shootout for one of the World Cup's all-time upsets",
+                "url": "https://www.aljazeera.com/sports/2026/6/29/paraguay-shock-germany-in-shootout-win-for-one-of-all-time-world-cup-upsets",
+                "duration": "~2 min",
+                "note": "Four-time champions out on penalties to 41st-ranked Paraguay; their first-ever World Cup shootout loss, and no last-16 since 2010.",
+                "readable": true,
+                "articleId": "fa240cebac41272d",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "From pay to taxes: the big changes that land today",
+                "url": "https://theconversation.com/from-pay-to-taxes-big-changes-are-coming-for-australian-workers-and-businesses-from-july-1-285484",
+                "duration": "~5 min",
+                "note": "Wage rises, a tax cut, payday super and new supermarket price-gouging limits all arrive at once with the new financial year.",
+                "readable": true,
+                "articleId": "e1d9d106454de43d",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Auditor-general finds outer Melbourne's buses falling short",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-06-29/report-finds-outer-melbourne-bus-services-not-up-to-scratch/",
+                "duration": "~4 min",
+                "note": "A VAGO report confirms what Hills commuters know; Yarra Ranges is using it to push bus reform ahead of the state election.",
+                "readable": true,
+                "articleId": "e1fea9defce569d5",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Migrants given a deadline to leave — South Africa's tensions escalate",
+                "url": "https://www.youtube.com/watch?v=1Y2mD-f2GE0",
+                "duration": "8:55",
+                "note": "DW on a deportation deadline turning combustible.",
+                "thumb": "https://i.ytimg.com/vi/1Y2mD-f2GE0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The internet is all bots now | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=A9GdcgjRm6A",
+                "duration": "41:26",
+                "note": "Dead-internet theory taken seriously — and what it means as bots crowd out people online.",
+                "thumb": "https://i.ytimg.com/vi/A9GdcgjRm6A/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Did WWE Make Oba Look Stupid? WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=svMw2S6Gxl0",
+                "duration": "60:10",
+                "note": "The week's full podcast.",
+                "thumb": "https://i.ytimg.com/vi/svMw2S6Gxl0/hqdefault.jpg"
+              },
+              {
+                "title": "John's Rewritten Gospel: What Did Scribes Change?",
+                "url": "https://www.youtube.com/watch?v=ng4qtKrOEgE",
+                "duration": "43:53",
+                "note": "Ehrman on how copyists reshaped the fourth gospel.",
+                "thumb": "https://i.ytimg.com/vi/ng4qtKrOEgE/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play DICE THRONE! | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=zU755ydTHO4",
+                "duration": "90:40",
+                "note": "A fresh Board Game Club for the two of you.",
+                "thumb": "https://i.ytimg.com/vi/zU755ydTHO4/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "SETI's 'Noah's Ark': how radio astronomy launched the Soviet search for alien life",
+            "url": "https://theconversation.com/setis-noahs-ark-a-space-historian-explores-how-the-advent-of-radio-astronomy-led-to-the-ussrs-search-for-extraterrestrial-life-262402",
+            "duration": "~9 min",
+            "note": "How new instruments and Cold War optimism turned listening for aliens into a Soviet research programme — science, politics and cosmic meaning entwined.",
+            "readable": true,
+            "articleId": "ff37579e15ac98e2",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Guided Magic: Mateus' Passionate Tour of Cataratas do Iguaçu",
+            "url": "https://podcasts.apple.com/au/podcast/guided-magic-mateus-passionate-tour-of-cataratas-do-igua%C3%A7u/id1749392708?i=1000774815051&uo=4",
+            "duration": "16:36",
+            "note": "Numa manhã fria de inverno, Mateus, guia nas Cataratas do Iguaçu, divide com os visitantes o lugar que ama."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-06-30",
     "title": "Daily Brief — Tuesday, 30 June 2026",
     "weekday_date": "Tuesday, 30 June 2026",
