@@ -1,5 +1,139 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-02",
+    "title": "Daily Brief — Thursday, 2 July 2026",
+    "weekday_date": "Thursday, 2 July 2026",
+    "intro": "A cold, wet winter morning at The Patch — around 8–10°C, light showers and a near-certain chance of rain, with a cold front that battered the ranges overnight still gusting through the Hills. World news is dominated by the World Cup knockouts (the co-hosts play today), while at home the political story is a rare check on One Nation's surge. Coffee, a jumper, and a good essay on what makes a home a home.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "World Cup Round of 32: co-hosts USA face debutants Bosnia",
+                "url": "https://www.aljazeera.com/news/2026/7/1/usa-vs-bosnia-herzegovina-world-cup-round-of-32-prediction-team-lineups",
+                "duration": "~5 min",
+                "note": "Bosnia's first-ever knockout tie pits Dzeko's giants against a host nation carrying the weight of a home crowd — and one favourite has already fallen this round.",
+                "readable": true,
+                "articleId": "eb6416436dfb946d",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "One Nation and Coalition support slips in two new polls",
+                "url": "https://theconversation.com/two-new-polls-show-drop-in-support-for-one-nation-and-the-coalition-286250",
+                "duration": "~5 min",
+                "note": "After weeks of a surging right, Newspoll and Redbridge both show the bloc falling back and Labor recovering — the first sign the trend may have peaked.",
+                "readable": true,
+                "articleId": "ad1ffecfc2b2b74a",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "BoM warns of damaging winds over the northeast ranges",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-01/cold-front-to-bring-damaging-winds-over-northeast-ranges/",
+                "duration": "~2 min",
+                "note": "Gusts near 100 km/h hit Healesville, Warburton and Yarra Glen overnight and were set to redevelop around sunrise — check hives and loose structures.",
+                "readable": true,
+                "articleId": "2a938231086fa9c4",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "As fuel runs low, frustration grows inside Russia",
+                "url": "https://www.youtube.com/watch?v=nAXtW6883KU",
+                "duration": "9:42",
+                "note": "DW on the domestic strain of the war, away from the front line.",
+                "thumb": "https://i.ytimg.com/vi/nAXtW6883KU/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Acts Knows Greece. It Doesn't Know Judea. Here's What That Means",
+                "url": "https://www.youtube.com/watch?v=wT8mSrYaNPY",
+                "duration": "23:20",
+                "note": "Bart Ehrman on what the geography of Acts reveals about who really wrote it.",
+                "thumb": "https://i.ytimg.com/vi/wT8mSrYaNPY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "London united by Nursery Rhymes | Triforce #359",
+                "url": "https://www.youtube.com/watch?v=vYR2i1u8UfY",
+                "duration": "66:21",
+                "note": "This week's yogpod, saved fresh so you don't lose it.",
+                "thumb": "https://i.ytimg.com/vi/vYR2i1u8UfY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "The Moon Witch Crypt | Demon Eyes — Blood on the Clocktower",
+                "url": "https://www.youtube.com/watch?v=gc5SyniMSEw",
+                "duration": "99:45",
+                "note": "A fresh BlampCo BotC game for the evening with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/gc5SyniMSEw/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "A philosophy of home",
+            "url": "https://aeon.co/essays/what-ancient-philosophy-really-thought-about-domestic-life",
+            "duration": "~18 min",
+            "note": "Sandrine Bergès recovers the ancient texts that took the household seriously — the home as constitutive of a good life, and marriage as a real partnership.",
+            "readable": true,
+            "articleId": "e16cfd3da8e43450",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Summer Romance Ignites Under Rio's Rainy Skies",
+            "url": "https://podcasts.apple.com/au/podcast/summer-romance-ignites-under-rios-rainy-skies/id1749392708?i=1000774970570&uo=4",
+            "duration": "18:08",
+            "note": "Sob as nuvens de inverno em Copacabana, Mateus encontra um romance inesperado enquanto o mar sussurra ao seu redor."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-01",
     "title": "Daily Brief — Wednesday, 1 July 2026",
     "weekday_date": "Wednesday, 1 July 2026",
