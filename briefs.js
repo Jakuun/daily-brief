@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-03",
+    "title": "Daily Brief — Friday, 3 July 2026",
+    "weekday_date": "Friday, 3 July 2026",
+    "intro": "A wild winter Friday at The Patch — a thunderstorm rolling through, 6 to 9°C and rain all but certain, so very much a fireside-and-kettle day. Abroad, a close-up on DR Congo's Ebola emergency; at home, an economy quietly splitting in two; and in the Hills, maintenance funding lands for two local primary schools. Then a thousand-year word-history to earn your coffee, and a rainy Rio romance for your Portuguese.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "On the front line of Congo's Ebola outbreak",
+                "url": "https://www.aljazeera.com/editorial/2026/7/2/on-the-front-line-of-congos-ebola-outbreak",
+                "duration": "~6 min",
+                "note": "Al Jazeera reports from Bunia on a WHO-declared emergency: full treatment centres, a \"silent\" strain with no vaccine, and burial teams under attack — yet survivors turning campaigners.",
+                "readable": true,
+                "articleId": "fd921e2e2a66a720",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "A two-speed economy: growth slows as AI investment surges",
+                "url": "https://theconversation.com/australias-economy-slows-as-households-tighten-their-belts-while-ai-investment-surges-284423",
+                "duration": "~5 min",
+                "note": "March-quarter growth crawls to 0.3% while data-centre and AI investment booms — an economy splitting between the machines and the household budget.",
+                "readable": true,
+                "articleId": "06a22f2ad32fc049",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Kallista and Gembrook schools share in maintenance funding",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-01/new-funding-for-kallista-and-gembrook-schools/",
+                "duration": "~4 min",
+                "note": "Two Hills primaries get budget upgrades, including a Shelter-in-Place kitchen at Kallista that props up its Kitchen Garden cooking program.",
+                "readable": true,
+                "articleId": "3e38d2fac74b168f",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Russia launches massive overnight strike on Kyiv",
+                "url": "https://www.youtube.com/watch?v=KrR96rgzRUo",
+                "duration": "8:28",
+                "note": "DW's tight read on the latest barrage.",
+                "thumb": "https://i.ytimg.com/vi/KrR96rgzRUo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+                "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+                "duration": "18:02",
+                "note": "AI Explained puts the two newest frontier models head-to-head — your clearest read on where the field actually stands.",
+                "thumb": "https://i.ytimg.com/vi/y24lF1q4SFY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "PEP267: Correspondence Extra + Wolfers Special",
+                "url": "https://www.youtube.com/watch?v=lrEtbrvVsEI",
+                "duration": "3:09:37",
+                "note": "Chas & Dr Dave with economist Justin Wolfers — the weekend yardwork listen.",
+                "thumb": "https://i.ytimg.com/vi/lrEtbrvVsEI/hqdefault.jpg"
+              },
+              {
+                "title": "Is there a point to WWE's counter-programming? — AEW Dynamite review",
+                "url": "https://www.youtube.com/watch?v=eXXwGgNcMdU",
+                "duration": "1:10:24",
+                "note": "WrestleTalk's long-form week in wrestling.",
+                "thumb": "https://i.ytimg.com/vi/eXXwGgNcMdU/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Marvel Commander, with special party rules",
+                "url": "https://www.youtube.com/watch?v=x5yc-e-Bpg8",
+                "duration": "1:02:17",
+                "note": "Good Time Society, fresh — one to put on with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/x5yc-e-Bpg8/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Bitch: a history",
+            "url": "https://aeon.co/essays/what-the-evolution-of-bitch-says-about-gender-and-power",
+            "duration": "~22 min",
+            "note": "Linguist Karen Stollznow traces one of English's most charged words back a thousand years — dog to slur to reclaimed badge, and what it reveals about gender and power.",
+            "readable": true,
+            "articleId": "1b3aba8cc3b4963c",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Summer Romance Ignites Under Rio's Rainy Skies",
+            "url": "https://podcasts.apple.com/au/podcast/summer-romance-ignites-under-rios-rainy-skies/id1749392708?i=1000774970570&uo=4",
+            "duration": "18:08",
+            "note": "Numa Copacabana de céu chuvoso, um romance de inverno começa a nascer — a gentle B1–B2 listen."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-02",
     "title": "Daily Brief — Thursday, 2 July 2026",
     "weekday_date": "Thursday, 2 July 2026",
