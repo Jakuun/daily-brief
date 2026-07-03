@@ -1,5 +1,139 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-04",
+    "title": "Daily Brief — Saturday, 4 July 2026",
+    "weekday_date": "Saturday, 4 July 2026",
+    "intro": "A soggy Saturday at The Patch — drizzle all but certain, 6 to 9°C, a duvet-and-kettle kind of day. Abroad, Iran opens six days of state funeral ceremonies for its slain supreme leader; at home, Labor manages its AUKUS nerves ahead of the national conference, and safer nurse-to-patient ratios land at the local hospitals. Then five philosophical lies worth dropping over your coffee, and a fog-bound Brazilian boarding-school tale for your Portuguese.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+                "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei",
+                "duration": "~3 min",
+                "note": "Six days of mourning open in Tehran for Khamenei, killed with family members in February's US-Israeli strike; peace talks stay paused until burial in Mashhad on 9 July.",
+                "readable": true,
+                "articleId": "ccf2718231bdbc15",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Grattan on Friday: Albanese wants Labor's national conference to 'showcase' the party — but not its AUKUS division",
+                "url": "https://theconversation.com/grattan-on-friday-albanese-wants-labors-national-conference-to-showcase-the-party-but-not-its-aukus-division-286038",
+                "duration": "~5 min",
+                "note": "Ahead of Adelaide's conference, the PM schedules the AUKUS debate for the deadest media slot on the program — a tell that the party's unease with the pact hasn't actually gone away.",
+                "readable": true,
+                "articleId": "d7e6f0d45f2778e2",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Nurse-to-patient ratios set to be improved at Maroondah and Angliss hospitals",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-03/nurse-to-patient-ratios-set-to-be-improved-at-maroondah-and-angliss-hospitals/",
+                "duration": "~3 min",
+                "note": "New state legislation reclassifies both Hills-serving hospitals upward, meaning fewer patients per nurse on afternoon and night shifts.",
+                "readable": true,
+                "articleId": "4fd55019905aef53",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "German prosecutors link Nord Stream blasts to Ukraine",
+                "url": "https://www.youtube.com/watch?v=N_YofQh-5G8",
+                "duration": "11:50",
+                "note": "DW's tight update on the investigation into the 2022 pipeline attacks.",
+                "thumb": "https://i.ytimg.com/vi/N_YofQh-5G8/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "How Are Memories Stored Inside Your Brain?",
+                "url": "https://www.youtube.com/watch?v=PqtggjVAi8M",
+                "duration": "13:56",
+                "note": "Kurzgesagt on where memory actually lives — tidy, visual, genuinely clarifying.",
+                "thumb": "https://i.ytimg.com/vi/PqtggjVAi8M/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The 250-million year rise and fall of the dinosaurs",
+                "url": "https://www.youtube.com/watch?v=Kk0VyaXjWXQ",
+                "duration": "1:44:12",
+                "note": "Paleontologist Steve Brusatte's full history, from origin to asteroid — a weekend-length listen for the garden.",
+                "thumb": "https://i.ytimg.com/vi/Kk0VyaXjWXQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Andy's WhatsApp Mishap",
+                "url": "https://www.youtube.com/watch?v=YlAcy_JIJo0",
+                "duration": "5:11",
+                "note": "A quick Hamish & Andy clip to share with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/YlAcy_JIJo0/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "5 dangerous lies we tell ourselves, according to philosophy",
+            "url": "https://bigthink.com/mini-philosophy/5-dangerous-lies-we-tell-ourselves-according-to-philosophy/",
+            "duration": "~6 min",
+            "note": "Jonny Thomson runs the Stoics, Hume and Camus against five narratives we live by unexamined — the bit on Hume finding no fixed self behind the \"flux\" will land close to home.",
+            "readable": true,
+            "articleId": "ba948461284a6f43",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Finding Confidence: Lucas' Journey Through Fog and Friendship",
+            "url": "https://podcasts.apple.com/au/podcast/finding-confidence-lucas-journey-through-fog-and/id1749392708?i=1000775305771&uo=4",
+            "duration": "17:06",
+            "note": "A fog-bound Brazilian boarding school and a friendship that helps Lucas find his nerve."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-03",
     "title": "Daily Brief — Friday, 3 July 2026",
     "weekday_date": "Friday, 3 July 2026",
