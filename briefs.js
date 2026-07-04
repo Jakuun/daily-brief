@@ -1,5 +1,82 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-05",
+    "title": "Daily Brief — Sunday, 5 July 2026",
+    "weekday_date": "Sunday, 5 July 2026",
+    "intro": "A still, grey Sunday at The Patch — overcast and cold, 5 to 11°C, but the rain holds off (7% chance), so a rare dry window for the garden between fronts. Abroad, America turns 250 under a punishing heat dome; at home, Albanese rounds on the Senate for stalling his social media ban powers; and in the Hills, the council's pools and leisure centres change hands. Then Byung-Chul Han on gardening as quiet resistance to earn your coffee.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "America turns 250 under a dangerous heat dome",
+                "url": "https://www.aljazeera.com/news/2026/7/4/america250-how-the-us-heatwave-will-affect-fourth-of-july-celebrations",
+                "duration": "~5 min",
+                "note": "Tall ships, fair and record fireworks meet cancelled parades and Amtrak delays as extreme heat and a politically charged \"Freedom 250\" collide.",
+                "readable": true,
+                "articleId": "081f8e3cac68d927"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Albanese slams Senate delay to child social media ban powers",
+                "url": "https://abcnews.com/Technology/wireStory/australian-prime-minister-condemns-delay-child-social-media-134434822",
+                "duration": "~4 min",
+                "note": "The PM warns platforms will delete evidence after the Coalition and Greens sent tougher eSafety enforcement powers to an eight-week inquiry.",
+                "readable": true,
+                "articleId": "b2624994434ad8f3"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "New operator takes over Yarra Ranges pools and leisure centres",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-04/new-partnership-for-leisure-and-recreation-in-the-yarra-ranges/",
+                "duration": "~3 min",
+                "note": "Aligned Leisure replaces Belgravia across six Hills sites under an 'Active Yarra Ranges' brand; 98% of staff stay, but members migrate to a new booking system.",
+                "readable": true,
+                "articleId": "42b03786bc26673f"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Byung-Chul Han on the radical power of gardening",
+            "url": "https://theconversation.com/a-lingering-in-stillness-philosopher-byung-chul-han-on-the-radical-power-of-gardening-272812",
+            "duration": "~7 min",
+            "note": "The burnout-society philosopher on tending soil as a counter-practice to digital acceleration — a lingering in stillness, and a fitting read for a dry morning in the beds.",
+            "readable": true,
+            "articleId": "fad284e32c058d24"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-04",
     "title": "Daily Brief — Saturday, 4 July 2026",
     "weekday_date": "Saturday, 4 July 2026",
