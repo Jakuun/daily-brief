@@ -1,5 +1,123 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-06",
+    "title": "Daily Brief — Monday, 6 July 2026",
+    "weekday_date": "Monday, 6 July 2026",
+    "intro": "A cold, clear winter morning at The Patch — frost-still at 1.9°, climbing to about 12° under a cloudless sky, no rain in sight. The world's watching the World Cup narrow to eight, bird flu creeps into a third Australian state, and there's a fine essay on AI and writing to earn your coffee.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Ounahi's double sends Morocco past Canada into the World Cup last eight",
+                "url": "https://www.aljazeera.com/sports/2026/7/4/ounahi-fires-morocco-into-world-cup-quarterfinals-with-3-0-win-over-canada",
+                "duration": "~2 min",
+                "note": "The Atlas Lions become the first African side to reach back-to-back quarterfinals, ending the co-hosts' fairytale run; France or Paraguay await in Boston.",
+                "readable": true,
+                "articleId": "79b7ab079fe1aba5"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Bird flu reaches NSW — the third state in three weeks",
+                "url": "https://theconversation.com/a-suspected-bird-flu-case-has-now-been-found-in-nsw-heres-what-that-means-286764",
+                "duration": "~5 min",
+                "note": "H5 confirmed in a giant petrel near Hawks Nest; still no poultry spread, but the pace of detections is worth watching if you keep birds.",
+                "readable": true,
+                "articleId": "dfc61224528b5594"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Volunteers plant 2,000 natives at Gruyere revegetation day",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-07-04/revegetation-effort-in-gruyere-plants-seed-for-a-healthier-environment/",
+                "duration": "~3 min",
+                "note": "Habitat and wellbeing in the same afternoon's work — a quiet, hands-in-the-dirt good-news item from the valley.",
+                "readable": true,
+                "articleId": "5a9ff524c5f78edf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Russia's oil empire under pressure: can Putin still afford the Ukraine war?",
+                "url": "https://www.youtube.com/watch?v=7rSDf74GBfc",
+                "duration": "28:07",
+                "note": "DW's Dip Podcast on the economics propping up the war, away from the front line.",
+                "thumb": "https://i.ytimg.com/vi/7rSDf74GBfc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Why are the earliest New Testament copies just scraps?",
+                "url": "https://www.youtube.com/watch?v=xttCx7X_rZM",
+                "duration": "7:21",
+                "note": "Bart Ehrman on why our oldest manuscripts survive only in fragments, and what that does and doesn't tell us.",
+                "thumb": "https://i.ytimg.com/vi/xttCx7X_rZM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Caller says Christianity is a net positive for society?",
+                "url": "https://www.youtube.com/watch?v=yA_0f3RpaGQ",
+                "duration": "44:40",
+                "note": "The Q&A Line with John Gleason and Owen Morgan working through a familiar claim.",
+                "thumb": "https://i.ytimg.com/vi/yA_0f3RpaGQ/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Literature fans should welcome AI as a fellow wordsmith",
+            "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
+            "duration": "~20 min",
+            "note": "A \"Shared Language Model\" via Derrida: many faults we pin on AI writing are true of human writing too. Squarely your writing-plus-philosophy-of-AI territory.",
+            "readable": true,
+            "articleId": "232699fae7670a91"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Sunset Confessions: Love and Dreams on Ipanema Beach",
+            "url": "https://podcasts.apple.com/au/podcast/sunset-confessions-love-and-dreams-on-ipanema-beach/id1749392708?i=1000775426319&uo=4",
+            "duration": "15:49",
+            "note": "Ao pôr do sol em Ipanema, dois amigos dividem confissões sobre amor e sonhos enquanto o céu se pinta de laranja."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-05",
     "title": "Daily Brief — Sunday, 5 July 2026",
     "weekday_date": "Sunday, 5 July 2026",
