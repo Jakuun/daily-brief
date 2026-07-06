@@ -1,5 +1,127 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-07",
+    "title": "Daily Brief — Tuesday, 7 July 2026",
+    "weekday_date": "Tuesday, 7 July 2026",
+    "intro": "A frost-flat 1° at The Patch this morning under a grey lid of cloud, topping out around 10° with no rain in it — a still, cold day for the bees to sit tight. The NATO summit opens in Ankara today with Zelenskyy meeting Trump, and there's a very good piece on Dawkins, Claude and consciousness to earn your coffee.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Russia hits Kyiv again on the eve of the NATO summit",
+                "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say",
+                "duration": "~3 min",
+                "note": "68 missiles and 351 drones, 11 dead; the second mass strike in a week, timed for the summit where Zelenskyy meets Trump today.",
+                "readable": true,
+                "articleId": "c8189ba889f9882c",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "WA byelection inside Hastie's seat becomes a real-time One Nation test",
+                "url": "https://theconversation.com/view-from-the-hill-wa-state-byelection-within-hasties-seat-another-real-time-test-for-one-nation-286041",
+                "duration": "~5 min",
+                "note": "Grattan on Secret Harbour: after weeks of poll noise, an actual ballot on whether the One Nation surge has electoral legs.",
+                "readable": true,
+                "articleId": "3cf71c1aeef018e5",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Pride in the Dandenong Ranges: Selby's Charley Aitken",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-06/pride-in-dandenong-ranges/",
+                "duration": "~3 min",
+                "note": "A 22-year-old from Selby on youth advocacy, Yarra Ranges Council's youth committee, and why the Hills need more for young LGBTQ+ people.",
+                "readable": true,
+                "articleId": "b03364ec3afb1828",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The fight over America's national story | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=j_4mbFr8fcA",
+                "duration": "45:48",
+                "note": "Vox's ideas podcast on who owns the American story, landing right on the country's 250th.",
+                "thumb": "https://i.ytimg.com/vi/j_4mbFr8fcA/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Raising a dog & mastering calm assertive energy | Cesar Millan",
+                "url": "https://www.youtube.com/watch?v=n_qKxNcMvtM",
+                "duration": "2:38:24",
+                "note": "This week's full Huberman episode; as much about human calm under chaos as about dogs.",
+                "thumb": "https://i.ytimg.com/vi/n_qKxNcMvtM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "A village full of Idiots — Blood on the Clocktower in Minecraft",
+                "url": "https://www.youtube.com/watch?v=7vHEeb3NDY0",
+                "duration": "1:05:23",
+                "note": "Fresh Yogscast Clocktower for an evening with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/7vHEeb3NDY0/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Is Richard Dawkins right about Claude? No — but it's not surprising chatbots feel conscious to us",
+            "url": "https://theconversation.com/is-richard-dawkins-right-about-claude-no-but-its-not-surprising-ai-chatbots-feel-conscious-to-us-282151",
+            "duration": "~7 min",
+            "note": "Dawkins spent three days with \"Claudia\" and came away half-convinced; this is the sharpest reply, and the better question is why the illusion grips us at all. Squarely your philosophy-of-AI beat.",
+            "readable": true,
+            "articleId": "304c4cd1ed41294f",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "New Connections in São Paulo's Golden Embrace",
+            "url": "https://podcasts.apple.com/au/podcast/new-connections-in-s%C3%A3o-paulos-golden-embrace/id1749392708?i=1000775504699&uo=4",
+            "duration": "17:46",
+            "note": "No Parque Ibirapuera, sob o sol dourado de inverno, um encontro casual vira uma nova amizade."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-06",
     "title": "Daily Brief — Monday, 6 July 2026",
     "weekday_date": "Monday, 6 July 2026",
