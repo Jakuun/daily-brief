@@ -1,5 +1,86 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-08",
+    "title": "Daily Brief — Wednesday, 8 July 2026",
+    "weekday_date": "Wednesday, 8 July 2026",
+    "intro": "An overcast, still winter morning at The Patch — frost-cold at 3.9° now, topping out near 11°, and no rain in it (0%), so a dry if grey day for outdoor jobs between the bees and the beds. The NATO summit reaches its business end in Ankara, where Zelenskyy meets Trump today; at home, Albanese takes a public swing at Beijing over a Pacific missile test; and there's a good bee-census piece to earn your coffee.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "NATO summit opens in Ankara — and Trump meets Zelenskyy today",
+                "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake",
+                "duration": "~5 min",
+                "note": "32 leaders gather as Trump presses on spending; Zelenskyy's bilateral today is a bid for more Patriots as the Kyiv strikes intensify.",
+                "readable": true,
+                "articleId": "672b1b0259675fce",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Albanese rebukes Beijing over a Pacific missile test",
+                "url": "https://theconversation.com/view-from-the-hill-we-must-disagree-with-this-action-albanese-tells-beijing-286042",
+                "duration": "~5 min",
+                "note": "Grattan on the PM calling China's live firing exercise \"provocative\" and \"destabilising\" — voiced from the Solomon Islands, the contested ground itself.",
+                "readable": true,
+                "articleId": "1016919f921b358e",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Sustainability Victoria wound up after 20 years",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-07/sustainability-victoria-wound-up-after-20-years/",
+                "duration": "~4 min",
+                "note": "The agency folds into DEECA after the Silver Review; a Hills-local former CEO farewells it and points to Healesville's community-energy programs that carry on.",
+                "readable": true,
+                "articleId": "014e9f92dd065665",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Science knows of 21,000 bee species. There are likely thousands more",
+            "url": "https://theconversation.com/science-knows-of-21-000-bee-species-there-are-likely-thousands-more-268195",
+            "duration": "~7 min",
+            "note": "A global census puts the real total nearer 26,000, with thousands still undescribed in Asia and Africa — the basic taxonomy of even this familiar insect is still being written.",
+            "readable": true,
+            "articleId": "68866be0ad41c4d8",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-07",
     "title": "Daily Brief — Tuesday, 7 July 2026",
     "weekday_date": "Tuesday, 7 July 2026",
