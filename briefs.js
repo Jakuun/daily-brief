@@ -1,5 +1,82 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-09",
+    "title": "Daily Brief — Thursday, 9 July 2026",
+    "weekday_date": "Thursday, 9 July 2026",
+    "intro": "A grey, frost-cold morning at The Patch — 2° now under an overcast lid, reaching about 12° with no rain in it, so a dry day for the beds. Abroad, the US–Iran ceasefire buckles on the day of Khamenei's burial; at home, the country picks itself up from Telstra's biggest outage in years; and there's a very on-your-beat read about the ABC bringing Claude into the newsroom.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Trump declares the Iran ceasefire \"over\" as the two sides trade attacks",
+                "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks",
+                "duration": "~3 min",
+                "note": "After strikes on Hormuz shipping and 80-plus US counterstrikes, Trump tears at the truce from the NATO summit — on the eve of Khamenei's burial in Mashhad today.",
+                "readable": true,
+                "articleId": "5d3a717c6bb7e208"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Telstra's nationwide outage: a software defect that turned the clocks back to 2006",
+                "url": "https://www.sbs.com.au/news/article/telstra-down-outage-crash-network-signal-australia-2026/4sdj6c7ho",
+                "duration": "~4 min",
+                "note": "Trains, payments and some 333 triple-zero calls failed when timing servers reset themselves 1,024 weeks; not a cyberattack, but a hard question about critical infrastructure.",
+                "readable": true,
+                "articleId": "16c9ed8ff768d005"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Thirteen cars defected in weekend hoon blitz on the mountain roads",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-08/police-target-hoons-in-yarra-ranges/",
+                "duration": "~2 min",
+                "note": "Operation Bottle swept the Yarra Valley and Mount Donna Buang; two of the cars stopped had their driver's airbags removed.",
+                "readable": true,
+                "articleId": "f34a0361c15a9cf0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "ABC will trial using AI for journalism. What are the risks and benefits?",
+            "url": "https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841",
+            "duration": "~5 min",
+            "note": "The ABC has signed with Anthropic to bring Claude into news production, starting with radio-to-article conversion. A measured look at gatekeeping, trust and what \"new kinds of work\" journalism becomes — your philosophy-of-AI and current-affairs beats in one.",
+            "readable": true,
+            "articleId": "1d6e3a6003a9a4c9"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-08",
     "title": "Daily Brief — Wednesday, 8 July 2026",
     "weekday_date": "Wednesday, 8 July 2026",
