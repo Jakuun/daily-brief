@@ -1,5 +1,85 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-10",
+    "title": "Daily Brief — Friday, 10 July 2026",
+    "weekday_date": "Friday, 10 July 2026",
+    "intro": "A cold, showery winter Friday in the Hills: patchy showers through the morning, then a very high chance of heavier falls into the afternoon and evening, with light winds swinging northwesterly. Abroad, the US–Iran ceasefire is unravelling into a second day of strikes; at home, AI moves to the front of the government's economic story; and close by, the widow of a murdered Yarra Ranges officer confronts a police plan to bring back solo patrols. The reward at the end is a long, unhurried essay on what the ancients thought made us human.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "US and Iran trade attacks for a second day as mediators plead for the truce to hold",
+                "url": "https://www.aljazeera.com/news/2026/7/9/us-iran-launch-more-attacks-as-mediators-urge-warring-sides-to-uphold-mou",
+                "duration": "~4 min",
+                "note": "About 90 more targets struck after Trump declared the ceasefire \"over\"; Iran hit US-linked bases across the Gulf, 14 dead in two days, and the Hormuz MoU now hangs by a thread.",
+                "readable": true,
+                "articleId": "dceda965a971c836",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Grattan on Friday: AI's opportunities and risks move to the centre of Albanese's agenda",
+                "url": "https://theconversation.com/grattan-on-friday-ais-opportunities-and-risks-front-and-centre-on-albanese-governments-agenda-286043",
+                "duration": "~5 min",
+                "note": "The productivity hopes pinned on AI set against a stalling economy — sub-2% growth forecast, real minimum wage falling — right where your AI and politics beats meet.",
+                "readable": true,
+                "articleId": "9be345c6c6b6a2fb",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Widow warns VicPol has 'forgotten' Tony Clarke as solo highway patrols eyed",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-09/lessons-of-tony-clarkes-death-forgotten-after-vicpols-potential-return-to-solo-patrols/",
+                "duration": "~4 min",
+                "note": "Tina Hogarth-Clarke rebukes a proposed return to \"one-up\" patrols — the shift her husband was working when murdered at Launching Place in 2005, a death a coroner found the policy helped cause.",
+                "readable": true,
+                "articleId": "e3c23187122e8c2a",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Friday essay: from political bees to talking pigs — how ancient thinkers saw the human-animal divide",
+            "url": "https://theconversation.com/friday-essay-from-political-bees-to-talking-pigs-how-ancient-thinkers-saw-the-human-animal-divide-218800",
+            "duration": "~14 min",
+            "note": "Aristotle's logos, Plutarch's rational pig and Seneca's merciful bee-king: a rich walk through how antiquity drew — and blurred — the line between human and animal. Squarely your philosophy beat, and CC-licensed so it opens in the reader.",
+            "readable": true,
+            "articleId": "8c9a02ad1ec2c6eb"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-09",
     "title": "Daily Brief — Thursday, 9 July 2026",
     "weekday_date": "Thursday, 9 July 2026",
