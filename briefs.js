@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-11",
+    "title": "Daily Brief — Saturday, 11 July 2026",
+    "weekday_date": "Saturday, 11 July 2026",
+    "intro": "A wild one at The Patch: thunderstorms and near-certain rain all day, 5° now and only reaching about 12° — a Saturday for the fire, not the beds. Abroad, the guns have finally fallen quiet between the US and Iran as Qatar tries to drag both sides back to the table; at home, Modi's Melbourne visit ends with a uranium deal decades in the making. And after three dark days the video menu is back, with a long Planet PEP for the indoor hours.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "The US–Iran guns fall silent — but will the peace talks actually resume?",
+                "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when",
+                "duration": "~9 min",
+                "note": "After three days of strikes, Friday brought quiet, Qatari mediators in Tehran, and talks nominally due today; the best explainer of whether the MoU can survive its own vague wording.",
+                "readable": true,
+                "articleId": "367f059f16d60f98",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Australia will sell India uranium, as Modi's visit reshapes the trade map",
+                "url": "https://www.aljazeera.com/news/2026/7/9/australia-india-strike-deal-on-uranium-exports-during-pm-modis-visit",
+                "duration": "~2 min",
+                "note": "Long-term exports under IAEA safeguards, plus defence and critical-minerals pacts and a space-tracking station on the Cocos Islands — Australia hedging hard away from China.",
+                "readable": true,
+                "articleId": "2fc5ed5dedb699bb",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Healesville legal centre chief joins the board fighting family violence statewide",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-10/eclcs-michael-smith-appointed-to-respect-victoria-board/",
+                "duration": "~4 min",
+                "note": "ECLC's Michael Smith takes 50 years of eastern-suburbs frontline experience to Respect Victoria, days after another woman was killed in the east.",
+                "readable": true,
+                "articleId": "c886de3fa3b57b49",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "NATO should stop 'obsessing' over Trump: Ben Hodges on what comes next | DW News",
+                "url": "https://www.youtube.com/watch?v=cnec7tV6u9o",
+                "duration": "16:54",
+                "note": "The former US Army Europe commander on where the alliance actually goes after Ankara.",
+                "thumb": "https://i.ytimg.com/vi/cnec7tV6u9o/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+                "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
+                "duration": "17:34",
+                "note": "AI Explained on a frenzied week of frontier releases; his first since the Fable comparison.",
+                "thumb": "https://i.ytimg.com/vi/mWlCituW7wo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Why Did Kenny Omega Win The AEW Championship? | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=zKhKCopKebI",
+                "duration": "1:09:32",
+                "note": "The full Dynamite review podcast on the title change.",
+                "thumb": "https://i.ytimg.com/vi/zKhKCopKebI/hqdefault.jpg"
+              },
+              {
+                "title": "COURT OUT THERE! PEP with Chas & Melina Wicks (Ep 268)",
+                "url": "https://www.youtube.com/watch?v=0bic_4BxYJc",
+                "duration": "3:38:31",
+                "note": "This week's Planet PEP; made for a thunderstorm Saturday indoors.",
+                "thumb": "https://i.ytimg.com/vi/0bic_4BxYJc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play JINXO! | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=F-0CYphq8zY",
+                "duration": "1:03:06",
+                "note": "Fresh No Rolls Barred for an evening in with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/F-0CYphq8zY/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Friday essay: why has philosophy ignored motherhood?",
+            "url": "https://theconversation.com/friday-essay-why-has-philosophy-ignored-motherhood-270163",
+            "duration": "~15 min",
+            "note": "Two and a half millennia on death, almost nothing on being born. Laura Kotevska on how philosophy ruled the maternal out of bounds by construction, and what embodiment and identity would look like if it hadn't. Close to home, in the best way.",
+            "readable": true,
+            "articleId": "bccf9fb401395f71",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "The Orchid Quest: A Heartfelt Journey at Ibirapuera Park",
+            "url": "https://podcasts.apple.com/au/podcast/the-orchid-quest-a-heartfelt-journey-at-ibirapuera-park/id1749392708?i=1000776232104&uo=4",
+            "duration": "17:44",
+            "note": "Uma busca por orquídeas no Ibirapuera sob o sol de inverno paulistano."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-10",
     "title": "Daily Brief — Friday, 10 July 2026",
     "weekday_date": "Friday, 10 July 2026",
