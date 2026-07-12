@@ -1,5 +1,82 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-12",
+    "title": "Daily Brief — Sunday, 12 July 2026",
+    "weekday_date": "Sunday, 12 July 2026",
+    "intro": "A wet, blustery Sunday at The Patch — cloudy with a very high chance of showers and gusty northwesterlies, tops around 11°C, a day for indoors and the kettle on. Abroad, Typhoon Bavi is bearing down on the Chinese coast; at home, NAIDOC Week closes on its fiftieth anniversary. The video feed didn't refresh overnight, so no Watch menu today.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Typhoon Bavi bears down on China after a deadly sweep through the Pacific",
+                "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china",
+                "duration": "~3 min",
+                "note": "Over 600,000 evacuated ahead of a Wenzhou landfall; 17 dead in Philippine landslides already, and a region still reeling from Tropical Storm Maysak.",
+                "readable": true,
+                "articleId": "bdff4d1198eca6b5"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "'50 Years of Deadly': NAIDOC Week closes on a landmark anniversary",
+                "url": "https://www.sbs.com.au/news/article/50-years-of-deadly-inside-naidoc-week-celebrations/x5snudwmv",
+                "duration": "~5 min",
+                "note": "The last day of a fifty-year milestone, with Zaachariaha Fielding's winning poster and a rare posthumous honour for the late Rhoda Roberts AO.",
+                "readable": true,
+                "articleId": "b90e6f7b0f4b6b1c"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Volunteer funding overhaul leaves the outer east's VRCs in the lurch",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-07-12/volunteer-funding-overhaul-leaves-vrcs-in-the-lurch/",
+                "duration": "~4 min",
+                "note": "A shift to competitive Federal funding from 2027 threatens EV Strengthening Communities, the hub behind 600 volunteer networks across the Yarra Ranges.",
+                "readable": true,
+                "articleId": "f4fae1a45de047d8"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Thousands of AI-written, edited or 'polished' books are being sold — an eerie echo of Orwell's 'novel-writing machines'",
+            "url": "https://theconversation.com/thousands-of-ai-written-edited-or-polished-books-are-being-sold-an-eerie-echo-of-orwells-novel-writing-machines-276008",
+            "duration": "~7 min",
+            "note": "Laura Beers reads the AI-authorship boom against Orwell's literature-as-commodity nightmare — squarely where your novel and your philosophy-of-AI beat meet.",
+            "readable": true,
+            "articleId": "e064e7133bf4b056"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-11",
     "title": "Daily Brief — Saturday, 11 July 2026",
     "weekday_date": "Saturday, 11 July 2026",
