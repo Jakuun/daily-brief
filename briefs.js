@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-14",
+    "title": "Daily Brief — Tuesday, 14 July 2026",
+    "weekday_date": "Tuesday, 14 July 2026",
+    "intro": "A grey, drizzly winter morning at The Patch — around 8°C now, nudging a top of 12, with rain almost a certainty (87%), so an indoors kind of day. Abroad, Zelenskyy has torn up his cabinet mid-war; at home, Tony Burke is drawing hard lines on returning IS fighters; and in the Hills, the long fight over a Kilsyth pool grinds on. A deep read on gravitational-wave science to earn the coffee, and the World Cup building to an England–Argentina semi tomorrow.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Zelenskyy replaces his prime minister in a wartime cabinet reshuffle",
+                "url": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko",
+                "duration": "~4 min",
+                "note": "Svyrydenko, the minerals-deal architect, steps down as Kyiv reorients around Patriots, EU accession and Gulf ties — a shake-up read as the diplomatic endgame taking shape.",
+                "readable": true,
+                "articleId": "4b7ab7009ca5980d",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Burke won't 'lift a finger' as IS detainees and the last 'ISIS bride' weigh return",
+                "url": "https://www.canberratimes.com.au/story/9309313/last-isis-bride-weighing-up-return-to-australia/",
+                "duration": "~3 min",
+                "note": "The Home Affairs Minister says agencies are tracking Hodan Abby's location and concedes it would be \"really tough\" to legally block 13 men jailed in Iraq from coming home.",
+                "readable": true,
+                "articleId": "96da2e4c87c7e3c7",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Kilsyth pool campaigners push on as the council keeps its site shortlist secret",
+                "url": "https://lilydale.mailcommunity.com.au/news/2026/07/13/pool-site-shortlist-cant-be-divulged-push-continues-for-kilsyth/",
+                "duration": "~4 min",
+                "note": "Three years after the Centenary Pool closed, advocates fight to keep Kiloran Park in contention while Yarra Ranges Council won't reveal where a ~$90m Lilydale facility might land.",
+                "readable": true,
+                "articleId": "3ade1370c296bce6",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "More than two dozen killed in a Bangkok bar fire: were safety rules ignored?",
+                "url": "https://www.youtube.com/watch?v=JgVup_TXxEw",
+                "duration": "15:12",
+                "note": "DW's tight look at the blaze and the regulatory questions behind it.",
+                "thumb": "https://i.ytimg.com/vi/JgVup_TXxEw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "What's it like to be killed by nature's most brutal predator",
+                "url": "https://www.youtube.com/watch?v=Xf-uUy5pdUI",
+                "duration": "12:22",
+                "note": "Kurzgesagt at its grisly, gorgeous best; a fresh full essay for a wet morning.",
+                "thumb": "https://i.ytimg.com/vi/Xf-uUy5pdUI/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "How to improve your memory & cognitive function at any age | Dr Alan Castel",
+                "url": "https://www.youtube.com/watch?v=EIhilBpn8Ow",
+                "duration": "2:28:39",
+                "note": "This week's full Huberman episode on protecting and sharpening memory across a lifetime.",
+                "thumb": "https://i.ytimg.com/vi/EIhilBpn8Ow/hqdefault.jpg"
+              },
+              {
+                "title": "Dan Carlin: what happens when a nation's truth splinters into 1,000 versions",
+                "url": "https://www.youtube.com/watch?v=nXzrmkFj1u0",
+                "duration": "1:18:29",
+                "note": "Big Think's long sit-down with the Hardcore History host on the erosion of a shared reality — history and ideas in one.",
+                "thumb": "https://i.ytimg.com/vi/nXzrmkFj1u0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Adam & Jon vs Wavelength | Office Bromance",
+                "url": "https://www.youtube.com/watch?v=0NzJwwYw3Wg",
+                "duration": "48:51",
+                "note": "Fresh BlampCo for an evening in with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/0NzJwwYw3Wg/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "America pioneered gravitational-wave research. Now it may leave it behind",
+            "url": "https://bigthink.com/starts-with-a-bang/america-pioneered-gravitational-wave-research-now-it-may-leave-it-behind/",
+            "duration": "~9 min",
+            "note": "Ethan Siegel traces the field from Feynman to LIGO's 400 detections, then to the budget fights now pushing the US toward the sidelines while Europe and China press ahead. Your science-made-palatable beat, with a real question about how nations sustain big ideas.",
+            "readable": true,
+            "articleId": "84d8ac152c602893",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-13",
     "title": "Daily Brief — Monday, 13 July 2026",
     "weekday_date": "Monday, 13 July 2026",
