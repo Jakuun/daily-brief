@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-13",
+    "title": "Daily Brief — Monday, 13 July 2026",
+    "weekday_date": "Monday, 13 July 2026",
+    "intro": "A cold, wet start at The Patch — 10° now under light showers, barely climbing past 11°, with rain near-certain (96%) all day: a Monday for the kettle and indoor jobs, not the beds. Abroad, the US–Iran war lurches into its most dangerous phase yet with the Strait of Hormuz shut and Gulf states under fire; at home, the antisemitism royal commission opens a fraught week on our universities. The reward at the end is an unhurried history of the languages that bind the world together.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran shuts the Strait of Hormuz and strikes five Gulf states as the US bombs on",
+                "url": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know",
+                "duration": "~7 min",
+                "note": "After the IRGC fired on shipping and closed the strait, US strikes hit ~140 targets and Tehran struck bases in Oman, Qatar, Kuwait, Bahrain and Jordan — the sharpest escalation since last month's MoU.",
+                "readable": true,
+                "articleId": "c95d5c351d4e0aac"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Antisemitism royal commission turns to the universities in Melbourne",
+                "url": "https://michaelwest.com.au/anti-semitism-probe-to-hear-of-horrific-student-abuse",
+                "duration": "~2 min",
+                "note": "A week of hearings opens today on Jewish students' experiences and how campuses responded, with pro-Palestine activists there to defend their movement — and new governance rules land the same day.",
+                "readable": true,
+                "articleId": "901d01f847b3645e"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Desalinated water flows early into Cardinia Reservoir as storages hit a six-year low",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-12/melbourne-water-supplies-bolstered-early/",
+                "duration": "~2 min",
+                "note": "With Melbourne's storages below 64%, the desal plant has been brought online ahead of schedule — a quietly consequential story for the Hills catchments after two dry years.",
+                "readable": true,
+                "articleId": "bcdf54df2665267e"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Iran says the Strait of Hormuz is closed while Trump insists it's not",
+                "url": "https://www.youtube.com/watch?v=g5ah9BM4bO0",
+                "duration": "6:53",
+                "note": "DW's tight take on the waterway at the centre of the war, straight onto today's headline.",
+                "thumb": "https://i.ytimg.com/vi/g5ah9BM4bO0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "A philosopher's argument against the cult of achievement | Zena Hitz",
+                "url": "https://www.youtube.com/watch?v=JD4Fhh6GDcY",
+                "duration": "48:59",
+                "note": "Big Think's full interview on the case for learning and leisure as ends in themselves — squarely your philosophy beat.",
+                "thumb": "https://i.ytimg.com/vi/JD4Fhh6GDcY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Why Did CM Punk Win The WWE Championship? WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=J_0Nkv6e3TU",
+                "duration": "1:21:16",
+                "note": "The full Raw review podcast on the title change.",
+                "thumb": "https://i.ytimg.com/vi/J_0Nkv6e3TU/hqdefault.jpg"
+              },
+              {
+                "title": "The \"Call Sips\" Incident | Triforce Mailbag #73",
+                "url": "https://www.youtube.com/watch?v=8tXO-MF4Nhg",
+                "duration": "1:13:16",
+                "note": "Fresh Triforce to save up — the Never-miss you don't want to lose.",
+                "thumb": "https://i.ytimg.com/vi/8tXO-MF4Nhg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We played dnup! Twice! — One More Game",
+                "url": "https://www.youtube.com/watch?v=C_gO4cBdLOY",
+                "duration": "40:58",
+                "note": "A short, fresh Good Time Society for an evening in with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/C_gO4cBdLOY/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "What is a lingua franca? A brief history, from the Crusades to today",
+            "url": "https://theconversation.com/what-is-a-lingua-franca-a-brief-history-from-the-crusades-to-today-275807",
+            "duration": "~9 min",
+            "note": "From a medieval Mediterranean trade pidgin to English today: how power, commerce and faith — not beauty — decide which tongue the world shares. Language, history and etymology in one.",
+            "readable": true,
+            "articleId": "d9bec1555e29ce6d"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Secrets in the Sunlight: The Turning Point of Isabela's Journey",
+            "url": "https://podcasts.apple.com/au/podcast/secrets-in-the-sunlight-the-turning-point/id1749392708?i=1000776509233&uo=4",
+            "duration": "17:48",
+            "note": "Num dia de inverno no Rio, o sol ainda brilha sobre o Jardim Botânico enquanto Isabela chega a um ponto de virada."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-12",
     "title": "Daily Brief — Sunday, 12 July 2026",
     "weekday_date": "Sunday, 12 July 2026",
