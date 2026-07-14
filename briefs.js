@@ -1,5 +1,135 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-15",
+    "title": "Daily Brief — Wednesday, 15 July 2026",
+    "weekday_date": "Wednesday, 15 July 2026",
+    "intro": "A cold winter Wednesday at The Patch — 3.5° now under light drizzle, climbing to about 12° with barely any rain in it (11%), so a dry-enough day once the chill lifts. Abroad, the US–Iran war deepens as Washington reimposes its port blockade and Tehran declares the peace deal dead; at home, Albanese unveils a world-first national AI framework in Sydney today; and in the Hills, a Ferny Creek collision reignites the fight over deer control. The reward at the end is a lovely little piece on whether bees have inner lives.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "US strikes Iran's oil south as Tehran calls the peace deal dead",
+                "url": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz",
+                "duration": "~4 min",
+                "note": "Washington hit Abadan and Mahshahr and reimposed its port blockade; Iran disabled two tankers in Hormuz and struck Kuwait, Bahrain and Jordan. The June 17 MoU now looks finished.",
+                "readable": true,
+                "articleId": "7e9c119ec4ff7ed3"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Albanese launches a world-first national AI framework and an Office of AI",
+                "url": "https://www.canberratimes.com.au/story/9310618/anthony-albanese-established-new-pmc-ai-office-to-make-australia-world-first/",
+                "duration": "~4 min",
+                "note": "In a Sydney speech today, the PM folds Australia's issue-by-issue AI response into one framework inside PM&C — investment, data centres, copyright and national security in a single tent. Your AI-and-politics beats in one.",
+                "readable": true,
+                "articleId": "037f00448c405793"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "A sambar deer through the car window reignites the Hills' deer fight",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-14/deer-fears-grow-in-yarra-ranges/",
+                "duration": "~3 min",
+                "note": "After a near-miss on Churchill Drive, a Ferny Creek resident warns that falling cull numbers must not mean falling funding. Parks Victoria has removed 420 deer from the Dandenongs in four years.",
+                "readable": true,
+                "articleId": "7e32b000ba97fdd3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Back at War? Why the US struck Iran again | DW News",
+                "url": "https://www.youtube.com/watch?v=KObQ1dHeehk",
+                "duration": "16:05",
+                "note": "The clearest video explainer of how the ceasefire came apart, straight onto this morning's headline.",
+                "thumb": "https://i.ytimg.com/vi/KObQ1dHeehk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "A skeptic considers the case for God | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=SV_TG4AMh3Q",
+                "duration": "48:49",
+                "note": "Sean Illing sits with the argument he's least comfortable with — a properly examined hour on belief, doubt and what a good-faith case for God even looks like.",
+                "thumb": "https://i.ytimg.com/vi/SV_TG4AMh3Q/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The Fall of Bron Breakker — WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=2N-0rqw7W2Y",
+                "duration": "59:52",
+                "note": "This week's full Raw review podcast.",
+                "thumb": "https://i.ytimg.com/vi/2N-0rqw7W2Y/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play REBIRTH! | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=3IOBQnIxTuc",
+                "duration": "58:53",
+                "note": "Fresh No Rolls Barred for an evening in with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/3IOBQnIxTuc/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Bees' 'facial expressions' may be a sign of their inner lives",
+            "url": "https://theconversation.com/bees-facial-expressions-may-be-a-sign-of-their-inner-lives-286839",
+            "duration": "~6 min",
+            "note": "A bumblebee smacks its lips over sugar water and recoils in disgust from salt. New PNAS research reads these as valence-linked states — feeding a real debate about insect sentience. Your beekeeping and consciousness beats meeting on a flower.",
+            "readable": true,
+            "articleId": "bb0e9b5c5338c528"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Mistérios e Memórias: Reviving a Warehouse's Ghostly Past",
+            "url": "https://podcasts.apple.com/au/podcast/mysteries-memories-reviving-a-warehouses-ghostly-past/id1749392708?i=1000776726753&uo=4",
+            "duration": "17:01",
+            "note": "Mateus encara um velho galpão abandonado sob a névoa fria do inverno paulistano, onde memórias e mistérios se misturam."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-14",
     "title": "Daily Brief — Tuesday, 14 July 2026",
     "weekday_date": "Tuesday, 14 July 2026",
