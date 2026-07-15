@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-16",
+    "title": "Daily Brief — Thursday, 16 July 2026",
+    "weekday_date": "Thursday, 16 July 2026",
+    "intro": "A cold, still winter morning at The Patch — mist likely in the gullies, around 4° early and topping out near 10° under mostly grey skies, with little rain in it. Abroad, the US–Iran war widens and Trump now openly threatens Iran's power grid; at home, a new Resolve poll suggests One Nation's surge is finding its ceiling; and in the Hills, a Healesville mother's long fight with the TAC has become a parliamentary inquiry. To earn the coffee, a careful philosopher's reckoning with Anthropic's claim that something in Claude looks like consciousness.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "US widens its strikes on Iran as Trump threatens power plants and bridges",
+                "url": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf",
+                "duration": "~4 min",
+                "note": "A seven-hour barrage hit Iran's southern coast near Hormuz while the IRGC claims strikes on US bases in Bahrain, Kuwait and Jordan; Trump says energy targets come next, and Brent jumped toward $86.",
+                "readable": true,
+                "articleId": "556c4743888be9e5"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "One Nation's surge meets voter wariness in the latest Resolve poll",
+                "url": "https://theconversation.com/mixed-bag-for-one-nation-in-latest-polls-as-voters-show-wariness-around-some-policies-287180",
+                "duration": "~5 min",
+                "note": "One Nation slips three points to 26% and softens further when voters are asked about actual policies rather than the brand — the clearest sign yet the insurgency has limits.",
+                "readable": true,
+                "articleId": "3e70c10fc4c4d74f"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "A Healesville family's decade-long TAC fight lands in a parliamentary inquiry",
+                "url": "https://ferntreegully.mailcommunity.com.au/news/2026-07-15/tac-nightmares-breed-a-parliamentary-inquiry/",
+                "duration": "~7 min",
+                "note": "Tamara Tesseyman and her son Gus, hit outside Chirnside Park in 2013, are still battling the TAC for treatment their doctors recommend; their case now feeds a Victorian inquiry due to report in August.",
+                "readable": true,
+                "articleId": "2ccb86408ccfd679"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "The US launches a campaign to dismantle the International Criminal Court | DW News",
+                "url": "https://www.youtube.com/watch?v=usZv95B2lbU",
+                "duration": "25:02",
+                "note": "A weighty, fresh explainer on Washington's push to pressure other nations out of the ICC.",
+                "thumb": "https://i.ytimg.com/vi/usZv95B2lbU/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The rise of the post-literate society | DW News",
+                "url": "https://www.youtube.com/watch?v=-6t-BBQ8fUQ",
+                "duration": "18:25",
+                "note": "What happens to thought and culture as reading gives way to feeds — squarely your writing-and-attention beat.",
+                "thumb": "https://i.ytimg.com/vi/-6t-BBQ8fUQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The Old, the Confused, the Grumpy | Triforce #360",
+                "url": "https://www.youtube.com/watch?v=s6RrFBXTiWU",
+                "duration": "1:06:35",
+                "note": "This Thursday's yogpod, saved fresh so you don't lose it.",
+                "thumb": "https://i.ytimg.com/vi/s6RrFBXTiWU/hqdefault.jpg"
+              },
+              {
+                "title": "8 Bible Myths Many Christians Believe | Bart Ehrman",
+                "url": "https://www.youtube.com/watch?v=kIi35zDv05o",
+                "duration": "43:14",
+                "note": "Ehrman clears up the misconceptions even the faithful tend to carry.",
+                "thumb": "https://i.ytimg.com/vi/kIi35zDv05o/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We played Cross the Line — ONE MORE GAME!",
+                "url": "https://www.youtube.com/watch?v=wTz4LUM6wL8",
+                "duration": "1:15:44",
+                "note": "Fresh Good Time Society for an evening in with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/wTz4LUM6wL8/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "An AI lab says chatbots have a key feature of consciousness. Are they right?",
+            "url": "https://theconversation.com/an-ai-lab-says-chatbots-have-what-may-be-a-key-feature-of-consciousness-are-they-right-and-what-now-287190",
+            "duration": "~8 min",
+            "note": "Anthropic says something in Claude resembles the 'global workspace' some theories tie to consciousness; a disciplined philosopher's take on whether that means anything at all. Your philosophy-of-AI beat, straight off this week's copyright news.",
+            "readable": true,
+            "articleId": "354dc41adcb7ef2c"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-15",
     "title": "Daily Brief — Wednesday, 15 July 2026",
     "weekday_date": "Wednesday, 15 July 2026",
