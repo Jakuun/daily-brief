@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-17",
+    "title": "Daily Brief — Friday, 17 July 2026",
+    "weekday_date": "Friday, 17 July 2026",
+    "intro": "A cold, still winter Friday at The Patch — 3.5° now under an overcast sky, climbing to about 14° with no rain in it, so a dry if grey end to the week. Abroad, the US–Iran war grinds into a sixth night of strikes with the Gulf now in the firing line; at home, Michelle Grattan takes the measure of a Liberal Party that can't seem to meet the moment; and close by, Victoria's teachers set a date for a second statewide walkout. The reward at the end is a classicist's lifetime with the Odyssey, set against Nolan's new film.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "US launches a sixth night of strikes on Iran as Tehran hits Gulf bases",
+                "url": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites",
+                "duration": "~4 min",
+                "note": "A 90-minute barrage hit Bandar Abbas and the Hormuz islands; Iran says it struck back at US forces in Kuwait, Bahrain and Jordan, with 35 dead since fighting resumed and Trump now floating civilian targets.",
+                "readable": true,
+                "articleId": "28611a0ddc0444b8"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Grattan on Friday: the zeitgeist doesn't suit Angus Taylor",
+                "url": "https://theconversation.com/grattan-on-friday-the-zeitgeist-doesnt-suit-angus-taylor-but-he-could-do-more-to-help-himself-287184",
+                "duration": "~5 min",
+                "note": "A sharp read of the new Liberal leader's two problems: a cack-handed touch he could fix, and a small-government creed out of step with voters who now want government to do more. Your Australian-politics beat.",
+                "readable": true,
+                "articleId": "ed0836cc109b15e4"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Victorian teachers call a second statewide strike for 23 July",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-16/second-state-strike-announced-for-public-school-staff/",
+                "duration": "~3 min",
+                "note": "The AEU rejects the government's pay offer over unaddressed workload; March's stop-work shut or disrupted schools across the Yarra Ranges, and families here can expect the same next Thursday.",
+                "readable": true,
+                "articleId": "fc0c01abae110d5c"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Xenophobic violence in South Africa drives a mass migrant exodus | DW News",
+                "url": "https://www.youtube.com/watch?v=e9kHcbsANr0",
+                "duration": "11:17",
+                "note": "A weighty, fresh report on a story running well under the Iran headlines.",
+                "thumb": "https://i.ytimg.com/vi/e9kHcbsANr0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "How F1 drivers survive their own cars | Vox",
+                "url": "https://www.youtube.com/watch?v=YBOVDnMROwY",
+                "duration": "9:23",
+                "note": "The engineering that turns a 300km/h crash into a walk-away — tight and genuinely clever.",
+                "thumb": "https://i.ytimg.com/vi/YBOVDnMROwY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "WWE's New Star Problem, AEW Dynamite Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=hjKMydCEO-o",
+                "duration": "1:25:19",
+                "note": "This week's full podcast, the Never-miss long-former.",
+                "thumb": "https://i.ytimg.com/vi/hjKMydCEO-o/hqdefault.jpg"
+              },
+              {
+                "title": "The 250-million-year rise and fall of the dinosaurs | Steve Brusatte",
+                "url": "https://www.youtube.com/watch?v=Kk0VyaXjWXQ",
+                "duration": "1:44:12",
+                "note": "Big Think's palaeontologist on deep time and mass extinction — hard science made palatable, for a slow morning.",
+                "thumb": "https://i.ytimg.com/vi/Kk0VyaXjWXQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Andy Risked Bec's Life For His AirPods | Hamish & Andy",
+                "url": "https://www.youtube.com/watch?v=v2QeKC_SmXQ",
+                "duration": "12:13",
+                "note": "A fresh clip to share with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/v2QeKC_SmXQ/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Friday essay: a lifetime with the Odyssey, and Nolan's exhilarating, imperfect film",
+            "url": "https://theconversation.com/friday-essay-ive-been-reading-the-odyssey-my-whole-life-nolans-film-version-is-exhilarating-but-not-perfect-287361",
+            "duration": "~16 min",
+            "note": "A classicist weighs Nolan's vast new adaptation against a lifetime with Homer — really a meditation on why the homecoming story keeps drawing us back. Literature, myth and craft in one.",
+            "readable": true,
+            "articleId": "688ff7d85eee934b"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "From Hesitation to Hope: A Transformation at Festa Junina",
+            "url": "https://podcasts.apple.com/au/podcast/from-hesitation-to-hope-a-transformation-at-festa-junina/id1749392708?i=1000777030938&uo=4",
+            "duration": "18:57",
+            "note": "Uma transformação numa Festa Junina no Parque Ibirapuera, sob o vento frio do inverno."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-16",
     "title": "Daily Brief — Thursday, 16 July 2026",
     "weekday_date": "Thursday, 16 July 2026",
