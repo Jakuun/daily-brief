@@ -1,5 +1,123 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-18",
+    "title": "Daily Brief — Saturday, 18 July 2026",
+    "weekday_date": "Saturday, 18 July 2026",
+    "intro": "A still, cold winter Saturday at The Patch — 3.9° now under a flat, overcast sky, creeping to about 14° with no rain in it, so a dry if grey day for outdoor jobs once the chill lifts. The weekend's big story is a football one: Argentina and Spain meet in the World Cup final tomorrow, Messi against Yamal. At home, Laos has closed its methanol-poisoning investigation with only minor charges, and the two Melbourne families are furious. Close by, researchers have just finished the most detailed forest census ever done in Australia, in the eucalypts above McMahons Creek. To earn the coffee, Kim Lane Scheppele on whether Hungary can undo Orbán.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Messi vs Yamal: all to know before the Spain–Argentina World Cup final",
+                "url": "https://www.aljazeera.com/sports/2026/7/17/spain-argentina-fifa-world-cup-2026-final-messi-yamal-photo-trump",
+                "duration": "~7 min",
+                "note": "The first 48-team World Cup ends tomorrow in New Jersey: defending champions Argentina chase back-to-back titles against a Spain side built around teenage prodigy Lamine Yamal. A generational duel, an NFL-style half-time show, and record ticket prices.",
+                "readable": true,
+                "articleId": "790739fef0467a3d"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Outrage as Laos lays only minor charges over the methanol deaths",
+                "url": "https://www.sbs.com.au/news/article/methanol-victims-families-brace-for-poor-legal-outcome/cybiv944q",
+                "duration": "~4 min",
+                "note": "Lao authorities are charging the suppliers of the tainted drinks with lesser offences carrying up to a year in jail; no charges over the deaths of Melbourne teens Bianca Jones and Holly Morton-Bowles. Wong is \"bitterly disappointed\"; the families are \"disgusted and angry.\"",
+                "readable": true,
+                "articleId": "1bef876ab72b3d7e"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "A record-detailed census of a Yarra Ranges eucalypt forest",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-17/yarra-ranges-forest-surveyed-for-detailed-eucalypt-census/",
+                "duration": "~4 min",
+                "note": "University of Melbourne researchers counted every stem down to a centimetre across 16 hectares near McMahons Creek — 51,324 trees, 46 species — the first Australian plot to meet the global ForestGEO standard, and a long-term window on how our forests weather a warming climate.",
+                "readable": true,
+                "articleId": "420619e57f849d10"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why Trump's claim of Chinese election meddling could be a midterm ploy | DW News",
+                "url": "https://www.youtube.com/watch?v=p61MUFMEy2U",
+                "duration": "12:42",
+                "note": "A tight, timely read of the politics behind the accusation, straight off the week's headlines.",
+                "thumb": "https://i.ytimg.com/vi/p61MUFMEy2U/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Why public opinion turned on AI | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=fxurC9R666A",
+                "duration": "43:37",
+                "note": "Sean Illing on how the mood around AI soured — squarely your philosophy-of-AI beat, and a good companion to the week's copyright fight.",
+                "thumb": "https://i.ytimg.com/vi/fxurC9R666A/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The psychology of morality, perversion and revenge | Paul Bloom",
+                "url": "https://www.youtube.com/watch?v=rsE_kFE_ZHE",
+                "duration": "1:07:24",
+                "note": "Big Think's full sit-down with the psychologist on where our moral instincts come from and where they go wrong — a rich hour for a slow morning.",
+                "thumb": "https://i.ytimg.com/vi/rsE_kFE_ZHE/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Can Péter Magyar Restore Hungary's Democracy?",
+            "url": "https://www.journalofdemocracy.org/articles/can-peter-magyar-restore-hungarys-democracy/",
+            "duration": "~12 min",
+            "note": "Kim Lane Scheppele on the harder task that follows beating an autocrat: rebuilding a captured state. Magyar holds a supermajority but inherits compromised courts, a reshaped media and empty coffers. A clear-eyed piece from a Trusted thinker on your international-politics beat.",
+            "readable": true,
+            "articleId": "4db173ced8bd5f1d"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-17",
     "title": "Daily Brief — Friday, 17 July 2026",
     "weekday_date": "Friday, 17 July 2026",
