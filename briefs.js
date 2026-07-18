@@ -1,5 +1,136 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-19",
+    "title": "Daily Brief — Sunday, 19 July 2026",
+    "weekday_date": "Sunday, 19 July 2026",
+    "intro": "A cold, overcast Sunday at The Patch — 3°C now, climbing to about 15°C, and no rain to keep you indoors. The World Cup ends tonight in New Jersey, tap-and-go arrives on Yarra Valley buses this morning, and Belgrave Food Garden wants hands at its winter working bee from 10am.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "A seventh night of US strikes leaves 20 Iranian villages without water",
+                "url": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies",
+                "duration": "~4 min",
+                "note": "A desalination plant at Jask was destroyed, cutting supply to 10,000 people; Iran hit Kuwaiti power and water plants in return. Both sides are now striking civilian infrastructure, and neither is talking.",
+                "readable": true,
+                "articleId": "dd5b42a3d71a7918"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Albanese sets Taylor a One Nation 'test' as the Islamophobia response lands",
+                "url": "https://www.sbs.com.au/news/article/anthony-albanese-one-nation-test-opposition-leader-angus-taylor-launch-islamophobia-report-response/t4lj454ol",
+                "duration": "~4 min",
+                "note": "The government accepted 35 of 54 recommendations from Aftab Malik's report — then the PM turned it on the Opposition, demanding Taylor rule out preference deals after Hanson's Tommy Robinson interview.",
+                "readable": true,
+                "articleId": "735b0690cdff664d"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Tap-and-go reaches Yarra Valley buses from today",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-17/contactless-payment-rollout-reaches-yarra-valley-bus-network/",
+                "duration": "~3 min",
+                "note": "Bank card, phone or watch on Yarra Valley buses from this morning; full fare only, and stay on myki if you're connecting between services until the 26th.",
+                "readable": true,
+                "articleId": "8bb01f9627329440"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Russia cannot win in Ukraine: Yale historian Odd Arne Westad explains why",
+                "url": "https://www.youtube.com/watch?v=GoMeTjJD1eo",
+                "duration": "39:07",
+                "note": "A historian's long view rather than a war correspondent's, which is the rarer thing.",
+                "thumb": "https://i.ytimg.com/vi/GoMeTjJD1eo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Dems are in the middle of a civil war. He's at the heart of it | America, Actually",
+                "url": "https://www.youtube.com/watch?v=WE9quwCWKuY",
+                "duration": "29:44",
+                "note": "Vox on the fight over what the Democratic party is actually for, five months out from the midterms.",
+                "thumb": "https://i.ytimg.com/vi/WE9quwCWKuY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Who Are YOU to JUDGE GOD? A Full Rebuttal | Atheist Debates",
+                "url": "https://www.youtube.com/watch?v=U2v7HyEKA48",
+                "duration": "40:06",
+                "note": "Dillahunty taking the time to build a proper argument rather than win a call.",
+                "thumb": "https://i.ytimg.com/vi/U2v7HyEKA48/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Bonhoeffer's theory of stupidity: we have more to fear from the stupid than the evil",
+            "url": "https://bigthink.com/thinking/bonhoeffers-theory-stupidity-evil/",
+            "duration": "~6 min",
+            "note": "Evil can be named and resisted; stupidity can't, and power manufactures it. Written from inside Nazi Germany, and unfortunately legible against this morning's Australian politics.",
+            "readable": true,
+            "articleId": "a8ab368740a10282"
+          }
+        ]
+      },
+      {
+        "name": "Wildcard",
+        "items": [
+          {
+            "title": "The greater glider is a worse glider than we thought — and that matters",
+            "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-18/greater-gliders-aerial-ability-not-as-great-as-previously-thought/",
+            "duration": "~4 min",
+            "note": "ANU researchers finally measured it: one metre across for every metre down. Every gap in the canopy is a wall, including in Yarra Ranges National Park.",
+            "readable": true,
+            "articleId": "60510bf22ce01316"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Rainy Day at Copacabana: How Folklore Ignited Friendship",
+            "url": "https://podcasts.apple.com/au/podcast/rainy-day-at-copacabana-how-folklore-ignited-friendship/id1749392708?i=1000777183478&uo=4",
+            "duration": "16:18",
+            "note": "É Dia do Folclore em Copacabana, e a chuva transforma uma festa de praia num começo de amizade."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-18",
     "title": "Daily Brief — Saturday, 18 July 2026",
     "weekday_date": "Saturday, 18 July 2026",

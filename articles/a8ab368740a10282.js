@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["a8ab368740a10282"] = {
+  title: "Bonhoeffer's theory of stupidity: more to fear from the stupid than the evil",
+  byline: "Jonny Thomson",
+  source: "Big Think",
+  url: "https://bigthink.com/thinking/bonhoeffers-theory-stupidity-evil/",
+  partial: true,
+  body: "<p>Writing from inside Nazi Germany, the theologian Dietrich Bonhoeffer argued that stupidity is a more dangerous force than malice. Evil, he thought, carries the germ of its own subversion: once named, it can be protested, exposed, resisted. Stupidity offers no such handle. We do not take it seriously as a vice, we do not shout people down for not knowing things — and the stupid person cannot be reached by argument, because facts that contradict a prejudgment simply need not be believed. Cornered by evidence, they turn aggressive rather than reflective.</p><p>The second half of the argument is the sharper one. Bonhoeffer observed that \"every strong upsurge of power in the public sphere, be it of a political or of a religious nature, infects a large part of humankind with stupidity.\" Power does not merely fail to screen out the foolish; it manufactures foolishness, because belonging to an establishment requires surrendering exactly the faculties intelligence depends on — independence, criticism, reflection. The charismatic outsider full of ideas becomes, on taking office, a reader of slogans.</p><p>The conclusion is that evil needs stupidity to function. Malice struggles to take power on its own; it recruits. A single powerful idiot does more damage than a gang of schemers, because the idiot can be steered. Thomson's closing line is the practical one: laugh at the daft moments among friends, but get angry and frightened when stupidity takes the reins.</p>"
+};

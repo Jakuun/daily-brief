@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["dd5b42a3d71a7918"] = {
+  title: "A seventh night of US strikes leaves 20 Iranian villages without water",
+  byline: "Al Jazeera Staff",
+  source: "Al Jazeera",
+  url: "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies",
+  partial: true,
+  body: "<p>A seventh consecutive night of US strikes across Iran destroyed a seawater pumping station and a power transformer at the Bunji desalination plant at Jask, cutting water to twenty villages and around 10,000 people, according to the head of the Hormozgan water utility. Iranian state media has published footage of wrecked bridges and rail lines across the country's south, and Tehran now accuses Washington of deliberately targeting civilian infrastructure — a war crime under international humanitarian law.</p><p>Iran's retaliation has done the same in reverse. Kuwait closed its airspace after two power and desalination plants were hit and several firefighters were wounded; sirens sounded repeatedly in Bahrain; Jordan says it intercepted ten Iranian ballistic missiles. The IRGC claims strikes on a US fuel pier at al-Ahmadi, a warplane assembly site at Sheikh Isa Air Base and a base at Azraq.</p><p>The escalation traces back ten days, to Trump declaring the mid-June memorandum of understanding \"over\" after Iranian attacks on tankers near the Strait of Hormuz. He reimposed a naval blockade and revoked the sanctions waiver on Iranian oil. The dispute underneath is narrow and intractable: Iran claims the right to direct shipping through the strait under the interim deal; Washington insists it stay open, and is now blockading Iranian vessels. With midterms in November, Trump wants oil prices down — but neither threats nor seven nights of bombing have brought Tehran back to the table.</p>"
+};

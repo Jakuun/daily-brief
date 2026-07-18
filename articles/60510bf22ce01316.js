@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["60510bf22ce01316"] = {
+  title: "The greater glider is a worse glider than we thought — and that matters",
+  byline: "Callum Ludwig",
+  source: "Ranges Trader Star Mail",
+  url: "https://rangestrader.mailcommunity.com.au/news/2026-07-18/greater-gliders-aerial-ability-not-as-great-as-previously-thought/",
+  partial: true,
+  body: "<p>Nobody had ever measured how far a greater glider can actually glide. ANU researchers at the Fenner School have now done it — 41 glides across five New South Wales forests, using infrared cameras, thermal imaging and night observation — and the answer is humbler than assumed. Launching from an average 22 metres, the animals travelled about 19 metres horizontally at a descent angle of 43.5 degrees: roughly one metre across for every metre down. A yellow-bellied glider manages two.</p><p>Lead author Dr Ana Gracanin says the aerodynamic inefficiency means greater gliders need genuinely tall canopy to cover ground, which turns every gap — a road, a logging coupe, a cleared block — into a potential barrier. Isolated populations inbreed, and a single heatwave can wipe out a pocket entirely.</p><p>The alternative is worse. These are animals adapted to spend one hundred per cent of their lives in the treetops; on the ground they are clumsy, hampered by the gliding membrane, and exposed to predators and vehicles. Where the canopy is continuous they barely glide at all, simply moving branch to branch. Listed vulnerable in 2016 and endangered in 2022 after Black Summer, they live in the forests of the Outer East including Yarra Ranges National Park — where one was found dead in 2024 following fire-risk reduction works. Gracanin wants the study repeated in the very tall mountain ash of the Victorian Central Highlands, where the ceiling on gliding ability is still unknown.</p>"
+};
