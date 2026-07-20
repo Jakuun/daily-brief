@@ -1,5 +1,143 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-21",
+    "title": "Daily Brief — Tuesday, 21 July 2026",
+    "weekday_date": "Tuesday, 21 July 2026",
+    "intro": "A cold, grey winter Tuesday at The Patch — the weather feed was down this morning, but the Olinda outlook points to a chilly start near freezing, fog in the gullies and a high chance of showers building through the day, so keep the wet-weather gear handy for any hive or garden checks. The world's heaviest story is still the Gulf: the US–Iran war has ground into its tenth day with the Strait of Hormuz shut and the death toll climbing. Closer to home, the polls have lurched back toward the right, and in our own hills the Star Mail has a quietly damning survey of how many local school libraries are surviving on goodwill alone. To earn the coffee, a philosopher on why AI's real cost in schools is fewer moments of doubt — with a garden metaphor you'll like.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "The US–Iran war after the truce collapsed: what's changed for the Gulf",
+                "url": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf",
+                "duration": "~9 min",
+                "note": "Nine straight nights of US strikes, Hormuz shut again, oil spiking and 17 American dead: Al Jazeera's clear stocktake of how far this has escalated since the June memorandum fell apart.",
+                "readable": true,
+                "articleId": "629213c254e1d634"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Newspoll swings back to the right after a late-June dip",
+                "url": "https://theconversation.com/newspoll-has-right-wing-parties-rebounding-from-a-slump-three-weeks-ago-287493",
+                "duration": "~4 min",
+                "note": "Labor and One Nation now level on 30%, the Coalition ticking up, and voters warming to Labor's tax package — the fragmented primary vote that will define the run to the next election.",
+                "readable": true,
+                "articleId": "903743f793c71e89"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges school libraries are running on goodwill",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-07-20/libraries-on-life-support-yarra-ranges-schools-at-risk-of-losing-vital-library-spaces/",
+                "duration": "~6 min",
+                "note": "Of 22 local schools, 17 keep their libraries going on volunteers and teachers' unpaid hours; one principal spends $1,000 of her own money a year on books. A quiet story about what we choose to fund.",
+                "readable": true,
+                "articleId": "a839d00b9468afb3"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "War threatens fragile Gulf–Iran diplomacy",
+                "url": "https://www.youtube.com/watch?v=fQen557-nGg",
+                "duration": "12:28",
+                "note": "DW's field report on how the renewed fighting is closing off the diplomatic exits — the moving picture behind this morning's lead.",
+                "thumb": "https://i.ytimg.com/vi/fQen557-nGg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Accelerate Learning & Increase Cognitive Capacity | Dr. Tommy Wood",
+                "url": "https://www.youtube.com/watch?v=bPd9NnOzx78",
+                "duration": "2:41:26",
+                "note": "This week's full Huberman episode on how the brain actually builds capacity — a meaty one for a slow, wet morning, and squarely up your learning-design street.",
+                "thumb": "https://i.ytimg.com/vi/bPd9NnOzx78/hqdefault.jpg"
+              },
+              {
+                "title": "Caller grappling with nihilism wonders if we're all just passing shadows | Justin DZ & Paulogia",
+                "url": "https://www.youtube.com/watch?v=agPXBhqrnEE",
+                "duration": "27:42",
+                "note": "The Q&A Line at its best: a genuinely searching call about meaning, handled with Justin's patience rather than point-scoring.",
+                "thumb": "https://i.ytimg.com/vi/agPXBhqrnEE/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "The Worst Employee In The Office | Hamish & Andy",
+                "url": "https://www.youtube.com/watch?v=Rlzbt8_t4ko",
+                "duration": "5:37",
+                "note": "A quick, silly one to share with Caroline over breakfast.",
+                "thumb": "https://i.ytimg.com/vi/Rlzbt8_t4ko/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The hidden cost of AI in schools: fewer moments of doubt",
+            "url": "https://bigthink.com/history-society/the-hidden-cost-of-ai-in-schools-fewer-moments-of-doubt/",
+            "duration": "~9 min",
+            "note": "Philosopher Gert Biesta argues education's job is to interrupt the flow of learning, not smooth it — and that AI's real danger is hurrying students past the friction where judgement forms. Gardens, robot vacuums and a sense of duty. Right in your wheelhouse.",
+            "readable": true,
+            "articleId": "32e75056fb68e7f0"
+          }
+        ]
+      },
+      {
+        "name": "Wildcard",
+        "items": [
+          {
+            "title": "The $325 permit reshaping homeownership in Arizona",
+            "url": "https://bigthink.com/history-society/the-325-permit-reshaping-homeownership-in-arizona/",
+            "duration": "",
+            "note": "the homesteading dream, romance and hard edges both.",
+            "readable": true,
+            "articleId": "fb414e76749c59da"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "A Breath of Courage: Love and Adventure at Iguaçu Falls",
+            "url": "https://podcasts.apple.com/au/podcast/a-breath-of-courage-love-and-adventure-at-igua%C3%A7u-falls/id1749392708?i=1000777520933&uo=4",
+            "duration": "17:31",
+            "note": "Two travellers find courage, and each other, in the winter mists of the Iguaçu Falls — a gentle B1–B2 story with a sentence-by-sentence PT/EN retelling."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-19",
     "title": "Daily Brief — Sunday, 19 July 2026",
     "weekday_date": "Sunday, 19 July 2026",

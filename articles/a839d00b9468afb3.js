@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["a839d00b9468afb3"] = {
+  title: "Libraries on life support: Yarra Ranges schools at risk of losing vital library spaces",
+  byline: "Oliver Winn",
+  source: "Upper Yarra Star Mail",
+  url: "https://upperyarra.mailcommunity.com.au/news/2026-07-20/libraries-on-life-support-yarra-ranges-schools-at-risk-of-losing-vital-library-spaces/",
+  partial: true,
+  body: "<p>Of 22 Yarra Ranges schools the Star Mail surveyed, 17 run their libraries on volunteers, teachers or education-support staff, with just five employing a paid librarian — two of them only part-time. Every school with a volunteer-run library said it wanted more funding, and the schools with paid librarians reported the highest satisfaction, exposing a quiet divide driven largely by each principal's discretion over a tight budget.</p><p>The human cost is vivid. Yarra Junction Primary leans on volunteer Sue Hotton, now in her 80s, whom the principal says she has \"no idea\" how to replace; Olinda Primary's principal spends about $1,000 of her own money a year on books; Healesville High has had no librarian since 2023. Others improvise — Warburton Primary partnered with local bookstore Verso Books to refresh its catalogue, while making lunchtime staffing a \"logistical puzzle\" of yard duties.</p><p>There is no legal requirement for an Australian school to have a library, something the Australian Library and Information Association says must change. Library space is listed in Victoria's school-facility schedules and included in new builds, but the Department of Education did not say whether it would support existing libraries — leaving advocates arguing that, in an age of constant and unreliable information, spaces teaching children to question and verify have never mattered more.</p>"
+};
