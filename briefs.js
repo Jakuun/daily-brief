@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-22",
+    "title": "Daily Brief — Wednesday, 22 July 2026",
+    "weekday_date": "Wednesday, 22 July 2026",
+    "intro": "A grey, wet one at The Patch — light showers, 91% chance of rain and a top of just 13°C, so a day for the fire and a long read. Abroad, Hamas has a new leader for the first time since Sinwar; at home, Labor's national conference opens in Adelaide tomorrow with Gaza and AUKUS already straining the choreography.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Hamas names Khalil al-Hayya as its new leader",
+                "url": "https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal",
+                "duration": "~3 min",
+                "note": "Its first named leader since Sinwar's killing, chosen by a single vote over Khaled Meshaal — a pragmatist negotiator whose elevation could shape the fragile truce.",
+                "readable": true,
+                "articleId": "089693a08656f3cb"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Gaza set to shake up Labor's Adelaide conference",
+                "url": "https://www.indailysa.com.au/news/just-in/2026/07/21/gaza-set-to-shake-up-labors-adelaide-love-in",
+                "duration": "~4 min",
+                "note": "The draft platform's stance on Israel-Palestine has drawn a rare public rebuttal from the Israeli Embassy; AUKUS and a gas-export tax loom as the other flashpoints before Thursday.",
+                "readable": true,
+                "articleId": "006bed50bd2678b5"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Burrinja's Climate Change Biennale approaches",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-07-20/climate-change-biennale-approaches/",
+                "duration": "~4 min",
+                "note": "Nine weeks of art, ideas and action across the Ranges from late August: 30-plus exhibitions, talks with RMIT, a Karoly keynote, and a record 99 entries for the Acquisitive Award.",
+                "readable": true,
+                "articleId": "389887a29407d5db"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Can Andy Burnham fix Britain? The UK's new PM faces huge challenges",
+                "url": "https://www.youtube.com/watch?v=hy7ZerhPT28",
+                "duration": "28:27",
+                "note": "DW's stocktake of the in-tray facing Britain's seventh PM in a decade.",
+                "thumb": "https://i.ytimg.com/vi/hy7ZerhPT28/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The truth about gut health",
+                "url": "https://www.youtube.com/watch?v=2gJvplli2do",
+                "duration": "10:30",
+                "note": "Vox cuts through the microbiome hype to what the evidence actually supports.",
+                "thumb": "https://i.ytimg.com/vi/2gJvplli2do/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "WWE Women's Division Fail, WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=MzRI83249B0",
+                "duration": "1:03:52",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/MzRI83249B0/hqdefault.jpg"
+              },
+              {
+                "title": "Did Jesus Actually Believe in Heaven?",
+                "url": "https://www.youtube.com/watch?v=OTvco5gvbSw",
+                "duration": "42:48",
+                "note": "Ehrman on what the historical Jesus did and didn't expect of the afterlife.",
+                "thumb": "https://i.ytimg.com/vi/OTvco5gvbSw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play TAKE TIME! | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=SrVoJCXf3pw",
+                "duration": "1:31:10",
+                "note": "Fresh No Rolls Barred for the evening with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/SrVoJCXf3pw/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Are animals and AI conscious? We've devised new theories for how to test this",
+            "url": "https://theconversation.com/are-animals-and-ai-conscious-weve-devised-new-theories-for-how-to-test-this-269803",
+            "duration": "~8 min",
+            "note": "From bees to chatbots: how to test for a mind that can't tell you it has one — and why fluency isn't feeling.",
+            "readable": true,
+            "articleId": "b61e3eb7c5caaa73"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Hidden Waterfalls: An Epic Quest on Pedra da Gávea",
+            "url": "https://podcasts.apple.com/au/podcast/hidden-waterfalls-an-epic-quest-on-pedra-da-g%C3%A1vea/id1749392708?i=1000777681989&uo=4",
+            "duration": "16:28",
+            "note": "Uma caminhada ao amanhecer pela Pedra da Gávea, no Rio, em busca de cachoeiras escondidas."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-21",
     "title": "Daily Brief — Tuesday, 21 July 2026",
     "weekday_date": "Tuesday, 21 July 2026",
