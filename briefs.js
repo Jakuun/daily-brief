@@ -1,5 +1,135 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-23",
+    "title": "Daily Brief — Thursday, 23 July 2026",
+    "weekday_date": "Thursday, 23 July 2026",
+    "intro": "A cold, still mid-winter morning in the Hills — expect mist through the gums around The Patch and showers never far off, tops only near 10°C (the weather feed was down, so this is seasonal rather than measured). The world's watching Washington swing the tariff axe at Canada; at home, Labor's biggest tax overhaul in a generation is now law; and up the road, the council has finally settled a decade-long plan for its 32,000 dogs. A tidy day to earn your coffee with a piece on why your tongue betrays you.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Trump's new 50% tariffs on Canada: what's hit and why",
+                "url": "https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why",
+                "duration": "~5 min",
+                "note": "~$20bn of Canadian goods (wine, cement, hockey sticks) face 50% duties in 30 days — the year's sharpest trade escalation.",
+                "readable": true,
+                "articleId": "20ec3ee258396843"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Labor's tax overhaul clears parliament — reform working as it should",
+                "url": "https://theconversation.com/yes-the-tax-debate-has-been-unedifying-at-times-but-it-shows-reform-working-as-it-should-in-a-democracy-286026",
+                "duration": "~5 min",
+                "note": "Chalmers' package on negative gearing, capital gains and trusts survived the Senate largely intact; the messy debate was democracy, not dysfunction.",
+                "readable": true,
+                "articleId": "188e6c65f4264e58"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges signs off a 10-year dogs-in-parks plan",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-17/people-and-dogs-in-parks-plan-approved-by-yarra-ranges-council/",
+                "duration": "~3 min",
+                "note": "With the most registered dogs in greater Melbourne, council sets a consistent off-leash standard and a decade of works.",
+                "readable": true,
+                "articleId": "5a07298cdd236d91"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "What is Iran's \"Pickaxe Mountain\" and why is Trump threatening it?",
+                "url": "https://www.youtube.com/watch?v=YJ5d_u7S14E",
+                "duration": "13:21",
+                "note": "a tight explainer on the fortified nuclear site now at the war's centre.",
+                "thumb": "https://i.ytimg.com/vi/YJ5d_u7S14E/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
+                "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+                "duration": "14:35",
+                "note": "your steadiest AI explainer separates the signal from the panic.",
+                "thumb": "https://i.ytimg.com/vi/wzY2fV4Mp3U/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The Legendary Games of the 90s | Triforce #361",
+                "url": "https://www.youtube.com/watch?v=U-Qx-RErc_o",
+                "duration": "1:03:14",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/U-Qx-RErc_o/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "King of Tokyo: GODZILLA | The BoardRoom",
+                "url": "https://www.youtube.com/watch?v=Bjzx6b9JrZA",
+                "duration": "1:35:00",
+                "note": "a board-game night in with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/Bjzx6b9JrZA/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "A lack of pies for a pack of lies: what spoonerisms reveal about how the brain produces speech",
+            "url": "https://theconversation.com/a-lack-of-pies-for-a-pack-of-lies-what-spoonerisms-reveal-about-how-the-brain-produces-speech-286730",
+            "duration": "~6 min",
+            "note": "Karen Stollznow on how slips of the tongue expose the mind planning speech in parallel, a beat before we speak.",
+            "readable": true,
+            "articleId": "1adc57a50451a3ef"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-22",
     "title": "Daily Brief — Wednesday, 22 July 2026",
     "weekday_date": "Wednesday, 22 July 2026",
