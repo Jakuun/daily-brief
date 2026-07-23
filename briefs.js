@@ -1,5 +1,118 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-24",
+    "title": "Daily Brief — Friday, 24 July 2026",
+    "weekday_date": "Friday, 24 July 2026",
+    "intro": "A cloudy, cold Friday at The Patch — showers never far off and light westerlies through the middle of the day, tops only around 10–11°C (the weather feed was down, so this is a seasonal read rather than measured). Abroad, the Iran war has spilled into a second sea: the Houthis have hit Saudi tankers in the Red Sea as US strikes reach a twelfth night. At home, Labor's Adelaide conference is setting the platform it'll carry to 2028, and up the road Coldstream's schoolkids just won a grant for their chickens and gardens. A good day to earn your coffee with a piece on how to talk well when everyone's certain.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran and Houthis strike tankers as US bombing hits a 12th night",
+                "url": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest",
+                "duration": "~5 min",
+                "note": "The Houthis' attack on two Saudi tankers opens a Red Sea front, so shipping is now squeezed at Bab al-Mandeb as well as Hormuz — fuel and freight costs with it.",
+                "readable": true,
+                "articleId": "bdca534e7ca7669e"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "One Nation's spectre hangs over Labor's national conference",
+                "url": "https://theconversation.com/grattan-on-friday-one-nations-spectre-hangs-over-labor-national-conference-287186",
+                "duration": "~6 min",
+                "note": "Grattan on the platform Labor will take to 2028: a new Fair Work Court and prac-payment extension, unity on show, AUKUS and Gaza kept off the boil.",
+                "readable": true,
+                "articleId": "31074f98266fa88d"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Coldstream's chickens and gardens win a water-wise grant",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-23/eastern-suburb-projects-share-in-yarra-valley-waters-community-grants-program/",
+                "duration": "~3 min",
+                "note": "Yarra Valley Water's $180k grants back 18 local projects; Coldstream Primary plumbs its rainwater tank into the veggie beds and 'Cluckingham Palace'.",
+                "readable": true,
+                "articleId": "dbd8113a41e33ab1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Trump threatens 'punishment' as Iran war widens to Red Sea",
+                "url": "https://www.youtube.com/watch?v=m7zVCqT6vKk",
+                "duration": "9:41",
+                "note": "DW's tight explainer on the day's escalation behind the morning's lead.",
+                "thumb": "https://i.ytimg.com/vi/m7zVCqT6vKk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Where Will All The Released WWE Wrestlers Go? AEW Redemption Predictions | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=r7XM-c0WYT8",
+                "duration": "1:26:13",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/r7XM-c0WYT8/hqdefault.jpg"
+              },
+              {
+                "title": "The global baby bust | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=W01vL80hfoY",
+                "duration": "48:46",
+                "note": "Vox's Sean Illing on why birth rates are falling the world over, and what it actually means.",
+                "thumb": "https://i.ytimg.com/vi/W01vL80hfoY/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "How to have brave conversations in an age of loud moral certainty",
+            "url": "https://theconversation.com/friday-essay-how-to-have-brave-conversations-in-an-age-of-loud-moral-certainty-276858",
+            "duration": "~11 min",
+            "note": "Monash's Brave Conversations Project: what shifts a room isn't a better argument but honesty about fear. Right up your street.",
+            "readable": true,
+            "articleId": "99f68cfca8afde68"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Balancing Traditions: Marina's Journey of Cultural Harmony",
+            "url": "https://podcasts.apple.com/au/podcast/balancing-traditions-marinas-journey-of-cultural-harmony/id1749392708?i=1000777845225&uo=4",
+            "duration": "16:43",
+            "note": "Marina caminha pelo Parque Ibirapuera no inverno paulistano, tentando equilibrar o antigo e o novo — uma história suave sobre harmonia cultural."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-23",
     "title": "Daily Brief — Thursday, 23 July 2026",
     "weekday_date": "Thursday, 23 July 2026",
