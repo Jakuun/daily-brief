@@ -1,5 +1,127 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-25",
+    "title": "Daily Brief — Saturday, 25 July 2026",
+    "weekday_date": "Saturday, 25 July 2026",
+    "intro": "A grey, drizzly winter Saturday at The Patch — 8°C now, topping out near 11, with rain all but certain (98%), so a good day to stay in with the kettle on. In the world, Oman is trying to talk both sides down over the Strait of Hormuz as the US–Iran war grinds into a third week; at home, Labor's national conference wraps up in Adelaide. And close by, a National Tree Day planting at Birdsland this Sunday is worth pencilling in.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Oman steps in on Hormuz as US–Iran strikes hit day 14",
+                "url": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes",
+                "duration": "~3 min",
+                "note": "A quiet mediation effort over the world's most important oil chokepoint, even as strikes and a new Houthi blockade widen the war.",
+                "readable": true,
+                "articleId": "0a9008e70f61594b",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Labor's 50th national conference opens in Adelaide",
+                "url": "https://www.canberratimes.com.au/story/9315972/labors-big-hitters-meet-for-alp-national-conference/",
+                "duration": "~3 min",
+                "note": "AUKUS, a gas-export tax and gambling reform are the flashpoints as the party sets its platform for the term.",
+                "readable": true,
+                "articleId": "9a00c1ef6200c4ac",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Plant a tree at Birdsland Reserve this National Tree Day",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-24/help-restore-birdsland-reserve-this-national-tree-day/",
+                "duration": "~2 min",
+                "note": "Belgrave Heights, Sunday 10am–noon: native grasses, shrubs and trees for local wildlife. Sturdy boots and a steep hill.",
+                "readable": true,
+                "articleId": "fd63695a59688b72",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why Brent crude is back at $100 a barrel — and how it could hit you",
+                "url": "https://www.youtube.com/watch?v=VI_K3DvfcuM",
+                "duration": "17:13",
+                "note": "DW ties the Hormuz standoff straight to the petrol bowser; the perfect companion to today's lead story.",
+                "thumb": "https://i.ytimg.com/vi/VI_K3DvfcuM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The 3 elements of stupidity, according to philosophy — Jonny Thomson",
+                "url": "https://www.youtube.com/watch?v=HbQ-t8GXYTA",
+                "duration": "44:46",
+                "note": "Big Think's philosophy writer on why clever people do foolish things. A proper idea piece, not a clip.",
+                "thumb": "https://i.ytimg.com/vi/HbQ-t8GXYTA/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Christianity INVENTED charity? (feat. Owen Morgan / Telltale)",
+                "url": "https://www.youtube.com/watch?v=ESYeNlrRJsU",
+                "duration": "40:27",
+                "note": "The Line digs into a tidy historical claim and finds it more tangled than either side likes.",
+                "thumb": "https://i.ytimg.com/vi/ESYeNlrRJsU/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Wormholes may not exist — but Einstein's 'bridge' hides something deeper about time",
+            "url": "https://theconversation.com/wormholes-may-not-exist-weve-found-they-reveal-something-deeper-about-time-and-the-universe-272832",
+            "duration": "~6 min",
+            "note": "Not sci-fi tunnels but a mirror between two arrows of time, and a universe that may predate the Big Bang. Earn-your-coffee physics.",
+            "readable": true,
+            "articleId": "4f714b55a7e7e21d",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "From Strangers to Soulmates at São Paulo's Festa Junina",
+            "url": "https://podcasts.apple.com/au/podcast/from-strangers-to-soulmates-at-s%C3%A3o-paulos-festa-junina/id1749392708?i=1000778166169&uo=4",
+            "duration": "15:03",
+            "note": "Uma noite de Festa Junina no Parque Ibirapuera: música, quentão e dois desconhecidos que o acaso aproxima."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-24",
     "title": "Daily Brief — Friday, 24 July 2026",
     "weekday_date": "Friday, 24 July 2026",
