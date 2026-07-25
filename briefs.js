@@ -1,5 +1,135 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-26",
+    "title": "Daily Brief — Sunday, 26 July 2026",
+    "weekday_date": "Sunday, 26 July 2026",
+    "intro": "A cold, drizzly winter Sunday at The Patch — 7–12°C, about a 50% chance of rain, so a morning for the fire and a long read rather than the garden. The world exhales a little: Iran reports its first quiet night in a fortnight and both sides are talking. At home, Labor's Adelaide conference has wrapped, and the Dandenongs' deer problem is back in the headlines. A slow one to lean into.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran reports first quiet night in two weeks as both sides confirm talks",
+                "url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks",
+                "duration": "~4 min",
+                "note": "After 13 straight nights of strikes, no US attack overnight and Trump softening his threats: the clearest sign yet of de-escalation, though Hormuz remains the sticking point.",
+                "readable": true,
+                "articleId": "dc5a03c59bef3c5a"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Extra $4.6bn for AUKUS subs as Labor keeps the debate off the floor",
+                "url": "https://www.indailysa.com.au/news/just-in/2026/07/24/aukus-submarines-labor-conference",
+                "duration": "~4 min",
+                "note": "Marles confirms Australia will buy only second-hand US subs, a real shift in the deal, as protesters and rank-and-file members push to drop AUKUS entirely.",
+                "readable": true,
+                "articleId": "c449039f504583a9"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Dandenong Ranges deer crisis grinds on as residents demand sustained funding",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-22/dandenong-ranges-deer-crisis-continues/",
+                "duration": "~4 min",
+                "note": "Herds are wrecking Hills gardens and farms and causing crashes; DEECA points to $27m spent, but locals and council say only sustained investment will hold the line.",
+                "readable": true,
+                "articleId": "7332c668cc30621f"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "India's 'Cockroach' protests end as government gives in to key demands | DW News",
+                "url": "https://www.youtube.com/watch?v=hXJtuIQZPjA",
+                "duration": "14:55",
+                "note": "A tidy explainer on how a mass movement forced the government's hand.",
+                "thumb": "https://i.ytimg.com/vi/hXJtuIQZPjA/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "How old is too old to be in office? | America, Actually",
+                "url": "https://www.youtube.com/watch?v=y8uKLBC9yes",
+                "duration": "34:50",
+                "note": "Vox on the gerontocracy question, with obvious echoes for our own politics.",
+                "thumb": "https://i.ytimg.com/vi/y8uKLBC9yes/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Throwing EVERYTHING at the Wall to See What Sticks | JustinDZ & Eric S&S",
+                "url": "https://www.youtube.com/watch?v=EfMm3WAnRjo",
+                "duration": "1:17:20",
+                "note": "The Q&A Line with two of its best hands; a proper Sunday listen.",
+                "thumb": "https://i.ytimg.com/vi/EfMm3WAnRjo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "NEOPETS IN MY TCG? It's More Likely Than You Think!",
+                "url": "https://www.youtube.com/watch?v=FvfLG1Z7t6E",
+                "duration": "39:59",
+                "note": "Fresh Good Time Society to put on with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/FvfLG1Z7t6E/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The three jewels of Taoism are quietly driving the rural renaissance",
+            "url": "https://bigthink.com/thinking/3-jewels-taoism-drive-rural-renaissance/",
+            "duration": "~6 min",
+            "note": "Compassion, moderation, humility — and wu-wei, the case for tending a garden by moving with it rather than against it. Made for this morning.",
+            "readable": true,
+            "articleId": "21f9f9e0671bd0fd"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-25",
     "title": "Daily Brief — Saturday, 25 July 2026",
     "weekday_date": "Saturday, 25 July 2026",
