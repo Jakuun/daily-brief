@@ -1,5 +1,130 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-28",
+    "title": "Daily Brief — Tuesday, 28 July 2026",
+    "weekday_date": "Tuesday, 28 July 2026",
+    "intro": "A cold, wet one at The Patch — showers all day, 6–13°C, and not much sun to be had. Abroad, southern Europe is burning; closer to home the housing market is quietly cooling and Yarra Valley MS patients get a reprieve. A gentle day to stay in and read about bees.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Wildfires force nearly 200,000 from their homes across Spain and France",
+                "url": "https://www.aljazeera.com/news/2026/7/25/wildfires-in-spain-and-france-force-evacuation-of-200000-people",
+                "duration": "~3 min",
+                "note": "The worst blaze in Madrid's history and fires near Bordeaux push Europe's heat-and-drought summer to a new extreme.",
+                "readable": true,
+                "articleId": "e6dbf56fcfcb1279"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The housing market is cooling — maybe our expectations should too",
+                "url": "https://theconversation.com/australias-housing-market-is-cooling-perhaps-our-expectations-should-too-286549",
+                "duration": "~5 min",
+                "note": "Prices ease 1.3% from their peak; a case that a gentle correction is a feature, not a failure.",
+                "readable": true,
+                "articleId": "193c8aae7d5a6f7b"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Valley's MS community relieved as three drugs stay on the PBS",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-27/yarra-valleys-ms-community-relieved-after-drug-pricing-dispute-resolution/",
+                "duration": "~4 min",
+                "note": "A resolved pricing standoff spares patients a feared $33,000-a-year bill — a rare bit of good local health news.",
+                "readable": true,
+                "articleId": "c8cb6f2741525580"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why are West Bank settler attacks on Palestinians escalating?",
+                "url": "https://www.youtube.com/watch?v=kbSZq5muRTI",
+                "duration": "9:23",
+                "note": "DW's tight explainer on a worsening flashpoint.",
+                "thumb": "https://i.ytimg.com/vi/kbSZq5muRTI/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The illusion of the 'self' | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=b34Dfxu9j0U",
+                "duration": "42:29",
+                "note": "Right in your wheelhouse: is the self a thing, or a story we keep telling?",
+                "thumb": "https://i.ytimg.com/vi/b34Dfxu9j0U/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Did Kenny Omega Just Turn Heel?! AEW Redemption Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=pCwxdpTHdyk",
+                "duration": "1:19:04",
+                "note": "The week's full podcast review.",
+                "thumb": "https://i.ytimg.com/vi/pCwxdpTHdyk/hqdefault.jpg"
+              },
+              {
+                "title": "Your Top Health Questions Answered",
+                "url": "https://www.youtube.com/watch?v=ssP31IenzYA",
+                "duration": "1:44:14",
+                "note": "Huberman's latest full episode, running the gamut of listener health questions.",
+                "thumb": "https://i.ytimg.com/vi/ssP31IenzYA/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Finally, a world map for bees",
+            "url": "https://bigthink.com/strange-maps/bees-world-map/",
+            "duration": "~4 min",
+            "note": "20,000 species, and they thrive in dry temperate zones, not the tropics — a lovely one for a beekeeper.",
+            "readable": true,
+            "articleId": "a0a3d7e5282463a0"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Unexpected Rain, Endless Inspiration: A Rio Rendezvous",
+            "url": "https://podcasts.apple.com/au/podcast/unexpected-rain-endless-inspiration-a-rio-rendezvous/id1749392708?i=1000778390176&uo=4",
+            "duration": "18:00",
+            "note": "Uma chuva de inverno surpreende os poucos que ainda caminhavam por Ipanema — e um encontro no Rio vira inspiração."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-26",
     "title": "Daily Brief — Sunday, 26 July 2026",
     "weekday_date": "Sunday, 26 July 2026",
