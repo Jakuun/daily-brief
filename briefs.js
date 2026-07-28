@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-29",
+    "title": "Daily Brief — Wednesday, 29 July 2026",
+    "weekday_date": "Wednesday, 29 July 2026",
+    "intro": "A properly wintry one at The Patch — snow showers and a top of just 8.6°C, so barely above freezing all day and a near-certain soaking. The world's watching two sea lanes at once as the Houthis eye the Red Sea, and it's landing at our own bowsers. A day for the fire, a long listen, and something warm.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Houthis aim to copy Iran's Hormuz playbook in the Red Sea",
+                "url": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm",
+                "duration": "~4 min",
+                "note": "Yemen's government warns the Houthis want to choke Bab al-Mandeb as Iran has Hormuz — two of the world's key chokepoints squeezed at once.",
+                "readable": true,
+                "articleId": "c1f95042e19c4c63"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The Iran war has triggered a fuel price rise — what it means for you",
+                "url": "https://theconversation.com/the-iran-war-has-triggered-a-fuel-price-rise-what-does-this-mean-for-australian-consumers-277605",
+                "duration": "~5 min",
+                "note": "The Hormuz standoff reaches the bowser: with excise relief expiring 2 August, petrol pain is set to climb again.",
+                "readable": true,
+                "articleId": "78739514e3dbc19e"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Olinda trees at centre of removal debate",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-28/olinda-trees-at-centre-of-removal-debate/",
+                "duration": "~3 min",
+                "note": "Save the Dandenongs League wants two mature trees on the Tourist Road kept, not felled — a very Hills argument, minutes from home.",
+                "readable": true,
+                "articleId": "1c926f603cad54cf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "France and Spain race to control fires as new heatwave hits",
+                "url": "https://www.youtube.com/watch?v=1cUpowLZqIE",
+                "duration": "24:01",
+                "note": "DW's tight explainer on Europe's fires flaring again ahead of a fresh heatwave.",
+                "thumb": "https://i.ytimg.com/vi/1cUpowLZqIE/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "How I evolved out of 'survival mode' | Ice-T",
+                "url": "https://www.youtube.com/watch?v=uqT1DGIeyzw",
+                "duration": "9:48",
+                "note": "Big Think, short and worth it: Ice-T on the shift from surviving to actually living.",
+                "thumb": "https://i.ytimg.com/vi/uqT1DGIeyzw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "WWE's SummerSlam Go-Home Fail. WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=3LaMrEpHfS4",
+                "duration": "54:34",
+                "note": "This week's full podcast review.",
+                "thumb": "https://i.ytimg.com/vi/3LaMrEpHfS4/hqdefault.jpg"
+              },
+              {
+                "title": "Bart Fact Checks Apologist Wes Huff",
+                "url": "https://www.youtube.com/watch?v=-o0pScm2dK4",
+                "duration": "56:46",
+                "note": "Ehrman goes line-by-line through a popular apologist's claims.",
+                "thumb": "https://i.ytimg.com/vi/-o0pScm2dK4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Blub on the Docktower: Whale Buffet | NRB Plays Blood on the Clocktower",
+                "url": "https://www.youtube.com/watch?v=dJR12pimCrU",
+                "duration": "2:56:35",
+                "note": "Fresh NRB Blood on the Clocktower to put on with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/dJR12pimCrU/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "When enough is \"enuf\": the strange and futile history of English spelling reform",
+            "url": "https://bigthink.com/the-past/english-spelling-history/",
+            "duration": "~7 min",
+            "note": "Franklin, Webster, Twain and Carnegie all tried to fix English spelling and all failed — a lovely study in how a living language actually changes.",
+            "readable": true,
+            "articleId": "048ff03e534542c4"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Courage Beneath the Waves: A Shy Student's Sea Adventure",
+            "url": "https://podcasts.apple.com/au/podcast/courage-beneath-the-waves-a-shy-students-sea-adventure/id1749392708?i=1000778666125&uo=4",
+            "duration": "17:08",
+            "note": "Um inverno ameno em Copacabana: um estudante tímido encontra coragem numa aventura no mar."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-28",
     "title": "Daily Brief — Tuesday, 28 July 2026",
     "weekday_date": "Tuesday, 28 July 2026",
