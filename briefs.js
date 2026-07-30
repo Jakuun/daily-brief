@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-07-31",
+    "title": "Daily Brief — Friday, 31 July 2026",
+    "weekday_date": "Friday, 31 July 2026",
+    "intro": "A cold, still winter morning at The Patch — overcast, 2–10°C and only an 11% chance of rain, so a fine day for the fire and a long read. Abroad, Japan is racing the clock to reach people trapped after Tuesday's Kumamoto quake; at home, Albanese is caught between his party and himself over assisted dying, and up the hill SkyHigh stays dark. A quiet, inward sort of Friday.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "‘Like volcanic ash falling’: inside the mall after Japan's magnitude-7.1 quake",
+                "url": "https://www.aljazeera.com/news/2026/7/30/like-volcanic-ash-falling-inside-aeon-mall-after-japans-earthquake",
+                "duration": "~3 min",
+                "note": "A gas explosion tore through Kumamoto's newly rebuilt Aeon mall after Tuesday's quake; soldiers are still searching the rubble as PM Takaichi calls it a \"race against time\".",
+                "readable": true,
+                "articleId": "1dfe1b51e7a90075",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Grattan on Friday: a reluctant Albanese under pressure on telehealth for assisted dying",
+                "url": "https://theconversation.com/grattan-on-friday-a-reluctant-albanese-is-under-pressure-over-telehealth-for-vad-288348",
+                "duration": "~5 min",
+                "note": "Labor's conference voted to allow telehealth in VAD care; now the PM has to decide how hard to resist a line his own party just endorsed.",
+                "readable": true,
+                "articleId": "48525a7a8c8523ea",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "SkyHigh Mt Dandenong stays shut as liquidators race to reopen by 2 August",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-30/skyhigh-closure-continues-as-liquidators-work-to-reopen/",
+                "duration": "~4 min",
+                "note": "The Hills' best-known lookout is in court-ordered liquidation, staff stood down and bookings in limbo, as Parks Victoria weighs the site's future.",
+                "readable": true,
+                "articleId": "85696cf607c1a7bd",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Wildfires spark calls for more EU funds",
+                "url": "https://www.youtube.com/watch?v=_VAdevECeE0",
+                "duration": "11:53",
+                "note": "DW News on the summer of fires now pushing Brussels toward a bigger shared firefighting purse.",
+                "thumb": "https://i.ytimg.com/vi/_VAdevECeE0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "How a Super El Niño affects the global climate",
+                "url": "https://www.youtube.com/watch?v=W4k_34hIdnQ",
+                "duration": "6:36",
+                "note": "Vox on why one warm patch of Pacific reorders weather worldwide.",
+                "thumb": "https://i.ytimg.com/vi/W4k_34hIdnQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Why Don't The Rock & WWE Like Each Other? — AEW Dynamite Review",
+                "url": "https://www.youtube.com/watch?v=v1GX-JvqmSk",
+                "duration": "84:53",
+                "note": "The latest full WrestleTalk review podcast.",
+                "thumb": "https://i.ytimg.com/vi/v1GX-JvqmSk/hqdefault.jpg"
+              },
+              {
+                "title": "Investigating Looksmaxxers — Triforce #362",
+                "url": "https://www.youtube.com/watch?v=0n0eWo4tDko",
+                "duration": "66:36",
+                "note": "This week's yogpod; saved before it slips past.",
+                "thumb": "https://i.ytimg.com/vi/0n0eWo4tDko/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Ain't That A Beach | Demon Eyes — Blood on the Clocktower",
+                "url": "https://www.youtube.com/watch?v=OFUVz9IrPTI",
+                "duration": "89:15",
+                "note": "A fresh BlampCo BotC game for the two of you.",
+                "thumb": "https://i.ytimg.com/vi/OFUVz9IrPTI/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Our trip to Antioch: what Roman souvenirs reveal about how we know the world",
+            "url": "https://aeon.co/essays/how-ancient-roman-souvenirs-made-memories-and-meanings",
+            "duration": "~18 min",
+            "note": "Maggie Popkin on how the cheap mementoes of empire — perfume bottles, glass flasks, a joking stylus — built the very idea of a place. The earn-your-coffee one.",
+            "readable": true,
+            "articleId": "9699b81351f209c4",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Unveiling Secrets: Inspiration and Mystery at the Serene Retreat",
+            "url": "https://podcasts.apple.com/au/podcast/unveiling-secrets-inspiration-and-mystery-at-the/id1749392708?i=1000778851502&uo=4",
+            "duration": "17:32",
+            "note": "A spiritual retreat high in the misty Serra da Mantiqueira, where quiet and a small mystery stir a visitor's imagination."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-29",
     "title": "Daily Brief — Wednesday, 29 July 2026",
     "weekday_date": "Wednesday, 29 July 2026",
