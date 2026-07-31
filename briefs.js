@@ -1,5 +1,130 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-01",
+    "title": "Daily Brief — Saturday, 1 August 2026",
+    "weekday_date": "Saturday, 1 August 2026",
+    "intro": "A cold, overcast winter morning at The Patch — 0.7°C now, creeping to about 13°C, no rain to trouble the hives. The world's watching Venezuela open US-backed transition talks without its best-known opposition voice, while fresh US tariffs land on Australian goods. To earn the coffee, a clear-eyed read on whether a machine could ever be conscious.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Venezuela's transition talks open without Machado",
+                "url": "https://www.france24.com/en/live-news/20260731-venezuela-transition-talks-set-to-kick-off-without-machado",
+                "duration": "~3 min",
+                "note": "US-backed negotiations begin today, but the exclusion of Nobel laureate María Corina Machado leaves the process's legitimacy in question.",
+                "readable": true,
+                "articleId": "7d5ffb5b91cddbc2"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "US hits Australia with a 12.5% tariff over forced-labour claims",
+                "url": "https://www.usnews.com/news/world/articles/2026-07-25/australia-to-raise-concerns-over-new-tariffs-with-trump-pm-albanese-says",
+                "duration": "~4 min",
+                "note": "Albanese calls the levy unjustified and will take it to Trump directly, citing Australia's modern-slavery laws — a real test of the alliance's trade footing.",
+                "readable": true,
+                "articleId": "92dc01e357ce3316"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Valley urged to stay alert to H5 bird flu",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-07-31/yarra-valley-urged-to-remain-cautious-surrounding-h5-bird-flu/",
+                "duration": "~3 min",
+                "note": "Not yet in Victoria, but the Seville vet clinic wants locals reporting sick or dead birds early — worth knowing if you keep poultry or walk the bush.",
+                "readable": true,
+                "articleId": "8cb3a0af8d7313c4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "More than 60,000 migrants breach Spanish border | DW News",
+                "url": "https://www.youtube.com/watch?v=NRFgPgbByUo",
+                "duration": "26:00",
+                "note": "DW's deep-dive on the pressure building at Europe's southern frontier.",
+                "thumb": "https://i.ytimg.com/vi/NRFgPgbByUo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "How Google broke the internet | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=PuG88DamVZ0",
+                "duration": "39:18",
+                "note": "Sean Illing on what search, ads and AI have done to the open web.",
+                "thumb": "https://i.ytimg.com/vi/PuG88DamVZ0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Caller caught between belief and fear of hell (ft. Allegedly Ian)",
+                "url": "https://www.youtube.com/watch?v=V9ll5pmM7-g",
+                "duration": "44:50",
+                "note": "A patient, humane call-in on faith held together by dread rather than conviction.",
+                "thumb": "https://i.ytimg.com/vi/V9ll5pmM7-g/hqdefault.jpg"
+              },
+              {
+                "title": "You should be listening to the genius of your body | Giulia Enders",
+                "url": "https://www.youtube.com/watch?v=ZAbHQ1qAa0I",
+                "duration": "1:08:33",
+                "note": "Big Think's long-form case for taking the body's quiet signals seriously.",
+                "thumb": "https://i.ytimg.com/vi/ZAbHQ1qAa0I/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "An Introduction to the Problems of AI Consciousness",
+            "url": "https://thegradient.pub/an-introduction-to-the-problems-of-ai-consciousness/",
+            "duration": "~22 min",
+            "note": "Chalmers, Block and Nagel marshalled into a clear map of why machine minds are a moral problem we can't yet solve.",
+            "readable": true,
+            "articleId": "170906f6b168b670"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Brewing Dreams: Thiago's Bold Coffee Blend Breakthrough",
+            "url": "https://podcasts.apple.com/au/podcast/brewing-dreams-thiagos-bold-coffee-blend-breakthrough/id1749392708?i=1000779063301&uo=4",
+            "duration": "17:36",
+            "note": "Numa torrefação de São Paulo num dia frio de inverno, Thiago arrisca uma mistura ousada de café e descobre algo novo."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-07-31",
     "title": "Daily Brief — Friday, 31 July 2026",
     "weekday_date": "Friday, 31 July 2026",
