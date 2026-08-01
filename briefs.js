@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-02",
+    "title": "Daily Brief — Sunday, 2 August 2026",
+    "weekday_date": "Sunday, 2 August 2026",
+    "intro": "A crisp, clear winter Sunday at The Patch — 8° now, no rain in the sky, climbing to a bright 14°. Abroad, Spain's Ceuta influx has receded as fast as it came, but with 67 dead; at home, Victoria woke to a new premier after Ben Carroll ousted Jacinta Allan; and in the Hills, researchers have just finished counting 51,000 trees near McMahons Creek. A slow morning worth stretching out — a physics essay for the coffee, and Blood on the Clocktower with Caroline for later.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Spain says Ceuta migrants have returned to Morocco after an influx in which 67 died",
+                "url": "https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died",
+                "duration": "~4 min",
+                "note": "Virtually all of the ~60,000 who stormed the enclave have left again; the deaths and the Schengen fallout are the story now.",
+                "readable": true,
+                "articleId": "946c61f7bd83f7e1",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Ben Carroll is Victoria's new premier — with an urgent list and four months to an election",
+                "url": "https://theconversation.com/ben-carroll-is-the-new-victorian-premier-he-has-a-long-and-urgent-to-do-list-and-4-months-until-an-election-288487",
+                "duration": "~5 min",
+                "note": "Allan fell over the Big Build corruption scandal; Carroll's first act is the royal commission she resisted.",
+                "readable": true,
+                "articleId": "44baf323875ad9e4",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges forest surveyed: 51,000 trees counted near McMahons Creek",
+                "url": "https://mountainviews.mailcommunity.com.au/news/2026-07-22/yarra-ranges-forest-surveyed/",
+                "duration": "~4 min",
+                "note": "A world-standard, 16-hectare monitoring plot in our backyard eucalypt forest, built to track how the Hills change under climate pressure.",
+                "readable": true,
+                "articleId": "2f23b46e192b3dee",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Peter Magyar: Hungary's democratic hope or Orbán 2.0?",
+                "url": "https://www.youtube.com/watch?v=dGQw0VCAMGM",
+                "duration": "7:46",
+                "note": "DW on the man tipped to unseat Orbán, and whether he'd be any different.",
+                "thumb": "https://i.ytimg.com/vi/dGQw0VCAMGM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "We made a fantasy draft of the 2028 presidential race",
+                "url": "https://www.youtube.com/watch?v=dVa-omkNPXU",
+                "duration": "43:10",
+                "note": "Vox's \"America, Actually\" uses a draft-day framing to map the field taking shape.",
+                "thumb": "https://i.ytimg.com/vi/dVa-omkNPXU/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "WWE SummerSlam 2026 Predictions",
+                "url": "https://www.youtube.com/watch?v=AQoc67SxrG8",
+                "duration": "26:14",
+                "note": "The WrestleTalk podcast crew's full card run-through ahead of the weekend.",
+                "thumb": "https://i.ytimg.com/vi/AQoc67SxrG8/hqdefault.jpg"
+              },
+              {
+                "title": "God: Head of the most dysfunctional family?",
+                "url": "https://www.youtube.com/watch?v=cM4LSyqMzOc",
+                "duration": "41:56",
+                "note": "Dillahunty's latest full Atheist Debates episode.",
+                "thumb": "https://i.ytimg.com/vi/cM4LSyqMzOc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Spying for the Imp — Blood on the Clocktower in Minecraft",
+                "url": "https://www.youtube.com/watch?v=85pN-CEbfWk",
+                "duration": "1:20:48",
+                "note": "The Yogscast's BotC, rebuilt inside Minecraft. One for tonight with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/85pN-CEbfWk/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "No, our Universe isn't made of pure mathematics",
+            "url": "https://bigthink.com/starts-with-a-bang/universe-made-pure-mathematics/",
+            "duration": "~8 min",
+            "note": "Ethan Siegel on why elegant maths, from Kepler's Platonic solids to today's extra dimensions, only becomes physics when it's forced to face the data.",
+            "readable": true,
+            "articleId": "5b97c14b7a9e5d47",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Seizing Serendipity: Lúcia's Journey to Her Aqua Dream",
+            "url": "https://podcasts.apple.com/au/podcast/seizing-serendipity-l%C3%BAcias-journey-to-her-aqua-dream/id1749392708?i=1000779237270&uo=4",
+            "duration": "17:22",
+            "note": "Numa Copacabana cheia de charme, Lúcia deixa o acaso guiá-la até um sonho cor de água. Real narration, PT with sentence-by-sentence English."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-01",
     "title": "Daily Brief — Saturday, 1 August 2026",
     "weekday_date": "Saturday, 1 August 2026",
