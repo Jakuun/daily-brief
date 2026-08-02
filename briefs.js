@@ -1,5 +1,134 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-03",
+    "title": "Daily Brief — Monday, 3 August 2026",
+    "weekday_date": "Monday, 3 August 2026",
+    "intro": "A cold, wet Monday at The Patch — light drizzle, 5–11°C and a 63% chance of rain, so a day to stay by the window. Abroad, Israel is striking Gaza days after signing a disarmament deal; at home the news is quieter, with a landmark racism ruling against Pauline Hanson and, up the road, Hills teachers back on the picket line. Earn your coffee with a piece on how the Greeks mapped the Odyssey onto their own world.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Israeli strikes kill four in Gaza, destroy hospital medicine stores",
+                "url": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse",
+                "duration": "~4 min",
+                "note": "Deadly strikes on a central-Gaza hospital's medicine stores days after the disarmament deal — a signal Netanyahu isn't sold on the framework.",
+                "readable": true,
+                "articleId": "34bf5484b74fb56a",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Pauline Hanson loses appeal over 'go back to Pakistan' post",
+                "url": "https://www.aljazeera.com/news/2026/7/27/australian-court-rejects-racial-discrimination-appeal-by-pauline-hanson",
+                "duration": "~3 min",
+                "note": "The Full Federal Court upholds the racism finding against the One Nation leader; she's now bound for the High Court.",
+                "readable": true,
+                "articleId": "75e475cbf8045961",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "'An act of last resort': Yarra Ranges teachers join statewide strike",
+                "url": "https://ferntreegully.mailcommunity.com.au/news/2026-07-28/an-act-of-last-resort-yarra-ranges-staff-walk-off-the-job/",
+                "duration": "~4 min",
+                "note": "Upper Yarra, Healesville and Woori Yallock staff walked off over pay and workload — with a third strike now flagged for 19 August.",
+                "readable": true,
+                "articleId": "89bc6a07cd467441",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Two crew killed in mid-air collision at wildfire near Athens",
+                "url": "https://www.youtube.com/watch?v=Hd_f5L4wcVQ",
+                "duration": "6:46",
+                "note": "Europe's fire season turns deadly for the aircrews fighting it.",
+                "thumb": "https://i.ytimg.com/vi/Hd_f5L4wcVQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Comedian Margaret Cho meets the person she used to be",
+                "url": "https://www.youtube.com/watch?v=SlKZx1YYNkY",
+                "duration": "10:39",
+                "note": "A reflective Big Think piece on selfhood and the person you were.",
+                "thumb": "https://i.ytimg.com/vi/SlKZx1YYNkY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "What Next For Brock Lesnar? WWE SummerSlam 2026 Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=cLr_p3NF3-o",
+                "duration": "1:10:26",
+                "note": "The full post-SummerSlam podcast.",
+                "thumb": "https://i.ytimg.com/vi/cLr_p3NF3-o/hqdefault.jpg"
+              },
+              {
+                "title": "An intense call on Q&A Line, with Forrest Valkai & Austin Archer",
+                "url": "https://www.youtube.com/watch?v=CijTeK7Su8c",
+                "duration": "49:05",
+                "note": "Two of the sharper hosts on the panel.",
+                "thumb": "https://i.ytimg.com/vi/CijTeK7Su8c/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The Odyssey is set in a fantasy world – but the ancient Greeks mapped it onto what they knew",
+            "url": "https://theconversation.com/the-odyssey-is-set-in-a-fantasy-world-but-the-ancient-greeks-mapped-it-onto-what-they-knew-286155",
+            "duration": "~6 min",
+            "note": "How the Greeks pinned Homer's monsters to real places, and made the ordinary world the strange one. A fine companion to the new film.",
+            "readable": true,
+            "articleId": "d80ff03404188fb0",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Rekindling Connections: A Family Gathering's Unexpected Reunion",
+            "url": "https://podcasts.apple.com/au/podcast/rekindling-connections-a-family-gatherings/id1749392708?i=1000779393362&uo=4",
+            "duration": "17:57",
+            "note": "On a cold July night at an old rural house, a family gathering brings an unexpected reunion."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-02",
     "title": "Daily Brief — Sunday, 2 August 2026",
     "weekday_date": "Sunday, 2 August 2026",
