@@ -1,5 +1,130 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-04",
+    "title": "Daily Brief — Tuesday, 4 August 2026",
+    "weekday_date": "Tuesday, 4 August 2026",
+    "intro": "A cold, sodden winter morning at The Patch — light showers, a near-certain 98% chance of rain and a top of just 8.8°C, so one for the fire and a slow read. Abroad, Ukraine and Russia are trading long-range blows far behind the front; at home, Albanese pulls AI under his own wing and Ben Carroll begins reshaping Victoria's cabinet, taking a Hills MP with it.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Ukraine strikes deep inside Russia as both sides escalate long-range attacks",
+                "url": "https://www.aljazeera.com/news/2026/8/2/ukrainian-drone-attacks-kill-eight-in-response-to-russian-missiles",
+                "duration": "~3 min",
+                "note": "Kyiv hits refineries and an airbase 1,300km inside Russia after a record July missile barrage; the war has moved well beyond the front line.",
+                "readable": true,
+                "articleId": "a829d58bfe11eb2a"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Albanese pulls AI oversight into his own department",
+                "url": "https://theconversation.com/view-from-the-hill-albanese-takes-oversight-of-governments-response-to-ai-under-his-own-wing-287494",
+                "duration": "~4 min",
+                "note": "A new Office of AI inside PM&C signals the government wants to steer the technology from the centre — Grattan on what that positioning really means.",
+                "readable": true,
+                "articleId": "2aa66caef2524b91"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges MP Harriet Shing quits as Carroll reshuffles Victorian cabinet",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-08-03/jacinta-allan-allies-to-quit-politics-after-labor-coup/",
+                "duration": "~3 min",
+                "note": "The Hills lose a cabinet-level voice as Allan's allies step down and the new Premier remakes his frontbench before November.",
+                "readable": true,
+                "articleId": "dc7e1c912e0cd82c"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why 9.5m Americans are defaulting on their student loans",
+                "url": "https://www.youtube.com/watch?v=96XlKjarQRU",
+                "duration": "7:12",
+                "note": "DW's tight explainer on a debt problem with global echoes.",
+                "thumb": "https://i.ytimg.com/vi/96XlKjarQRU/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "What technology can't give you | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=PIOtZ-VWS0U",
+                "duration": "44:52",
+                "note": "Vox on the limits of what tools and screens can actually do for a life — right in your wheelhouse.",
+                "thumb": "https://i.ytimg.com/vi/PIOtZ-VWS0U/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "SummerSlam Wasn't Wrestling. WWE SummerSlam 2026 Review",
+                "url": "https://www.youtube.com/watch?v=jrinE1pHfYg",
+                "duration": "1:03:52",
+                "note": "The full WrestleTalk podcast post-mortem on the weekend's card.",
+                "thumb": "https://i.ytimg.com/vi/jrinE1pHfYg/hqdefault.jpg"
+              },
+              {
+                "title": "How Your Immune System Works & How to Improve It | Dr. Max Krummel",
+                "url": "https://www.youtube.com/watch?v=s_tkMm5U9aY",
+                "duration": "2:27:41",
+                "note": "Huberman's latest full episode — a deep, practical dive into immunity, one for a long weekend listen.",
+                "thumb": "https://i.ytimg.com/vi/s_tkMm5U9aY/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The say of the land: does language spring from the world, not the mind?",
+            "url": "https://aeon.co/essays/words-have-soul-on-the-romantic-theory-of-language-origin",
+            "duration": "~17 min",
+            "note": "Mark Vernon's Romantic case, via Barfield, that words carry soul because nature does. Process-thought catnip for a rainy morning.",
+            "readable": true,
+            "articleId": "3332cd1b9dd68682"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Lucas's Journey: From Graduation Anxiety to Nature's Embrace",
+            "url": "https://podcasts.apple.com/au/podcast/lucass-journey-from-graduation-anxiety-to-natures-embrace/id1749392708?i=1000779645715&uo=4",
+            "duration": "18:38",
+            "note": "Numa clara manhã de agosto, Lucas troca a ansiedade da formatura pela calma da natureza numa viagem de carro."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-03",
     "title": "Daily Brief — Monday, 3 August 2026",
     "weekday_date": "Monday, 3 August 2026",
