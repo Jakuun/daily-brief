@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-05",
+    "title": "Daily Brief — Wednesday, 5 August 2026",
+    "weekday_date": "Wednesday, 5 August 2026",
+    "intro": "A cold, wet winter Wednesday at The Patch — light showers, about 6°C now and a top of just 9°C, with rain all but certain, so one for the fire. Abroad, the world is watching whether Washington and Tehran strike a deal to reopen the Strait of Hormuz, said to be only days away; at home the census looms next Tuesday, and a landmark Victorian cults inquiry lands close to home. To earn the coffee, a big-picture history read on why civilisations collapse — and Board Game Club with Caroline for later.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Trump calls talks Iran's 'last chance' as the US blockades the Strait of Hormuz",
+                "url": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us",
+                "duration": "~3 min",
+                "note": "Washington keeps its naval \"Wall of Steel\" up while a deal to reopen the world's key oil chokepoint is said to be days off; Iran says it's talking only through Oman.",
+                "readable": true,
+                "articleId": "97c82bd205e16ee6"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The census lands next Tuesday — new questions, old stakes",
+                "url": "https://theconversation.com/from-flushing-our-toilets-to-building-new-schools-this-is-why-filling-in-your-census-form-matters-288520",
+                "duration": "~5 min",
+                "note": "11 August counts all 10.8m households, asks about gender and sexual orientation for the first time, and quietly decides where the funding goes.",
+                "readable": true,
+                "articleId": "ccee63029c7123a6"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Cults inquiry a 'watershed moment' for Yarra Ranges survivors",
+                "url": "https://ferntreegully.mailcommunity.com.au/news/2026-08-04/inquiry-into-cults-report-a-watershed-moment-for-yarra-ranges-cult-survivors/",
+                "duration": "~5 min",
+                "note": "Victoria's Australia-first inquiry reports close to home; a Lilydale mother's fight helps push \"group-based coercion\" toward becoming a crime.",
+                "readable": true,
+                "articleId": "d1f948674d81c322"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why Italian protesters face growing fines and restrictions",
+                "url": "https://www.youtube.com/watch?v=ApZ-B_W9Kas",
+                "duration": "7:22",
+                "note": "DW's Focus on Europe on Italy's tightening limits around the right to protest.",
+                "thumb": "https://i.ytimg.com/vi/ApZ-B_W9Kas/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Why Humanity Will Never Leave The Solar System",
+                "url": "https://www.youtube.com/watch?v=Cyl3X88KEgg",
+                "duration": "14:08",
+                "note": "Kurzgesagt does the brutal arithmetic on interstellar travel.",
+                "thumb": "https://i.ytimg.com/vi/Cyl3X88KEgg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Raw Hits The Reset Button — WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=48_ZpOXcSfQ",
+                "duration": "61:15",
+                "note": "The full podcast on Raw's post-SummerSlam reset.",
+                "thumb": "https://i.ytimg.com/vi/48_ZpOXcSfQ/hqdefault.jpg"
+              },
+              {
+                "title": "Was Jesus Actually John's Disciple? (Q&A)",
+                "url": "https://www.youtube.com/watch?v=2CKQIB14Kzk",
+                "duration": "35:38",
+                "note": "Bart Ehrman on the knotty relationship between Jesus and John the Baptist.",
+                "thumb": "https://i.ytimg.com/vi/2CKQIB14Kzk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play SURVIVE THE ISLAND | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=gD3xpGdgi8A",
+                "duration": "96:17",
+                "note": "No Rolls Barred's latest Board Game Club — one for the evening with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/gD3xpGdgi8A/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Friday essay: how societies evolve into fear-dominated 'goliaths' — then collapse",
+            "url": "https://theconversation.com/friday-essay-how-societies-evolved-into-fear-dominated-goliaths-then-collapsed-263800",
+            "duration": "~16 min",
+            "note": "Luke Kemp's data on 324 collapsed states makes inequality the through-line of collapse. Big-picture history, pointed squarely at now.",
+            "readable": true,
+            "articleId": "b50ea2b05d37dae2"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Rekindling Family Ties at Rio's Sunrise",
+            "url": "https://podcasts.apple.com/au/podcast/rekindling-family-ties-at-rios-sunrise/id1749392708?i=1000779835405&uo=4",
+            "duration": "17:51",
+            "note": "Um reencontro de família ao nascer do sol em Copacabana. Real narration, Portuguese with sentence-by-sentence English."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-04",
     "title": "Daily Brief — Tuesday, 4 August 2026",
     "weekday_date": "Tuesday, 4 August 2026",
