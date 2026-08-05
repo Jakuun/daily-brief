@@ -1,5 +1,123 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-06",
+    "title": "Daily Brief — Thursday, 6 August 2026",
+    "weekday_date": "Thursday, 6 August 2026",
+    "intro": "A grey, drizzly Thursday in The Patch — 4 to 12°C with rain all but certain (82%), a day for the fireside and a long read. Abroad, a sabotage scare grounds flights at a German air-freight hub; in Canberra, the gambling-reform fight sharpens; and close to home, Hills schools get money to clear the bush before summer.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Explosive drone found beside a Ukrainian cargo jet at a German airport",
+                "url": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport",
+                "duration": "~2 min",
+                "note": "A device with a detonator, found at NATO/Antonov freight hub Leipzig/Halle; Saxony's extremism prosecutors are now investigating.",
+                "readable": true,
+                "articleId": "6039d4c46828300e"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Coalition moves to toughen Labor's gambling reforms",
+                "url": "https://www.canberratimes.com.au/story/9324320/whatever-it-takes-push-to-bolster-gambling-reforms/",
+                "duration": "~3 min",
+                "note": "After inquiry testimony of drugs and escorts as inducements, the opposition calls the bill \"riddled with deficiencies\" — and Labor needs its votes.",
+                "readable": true,
+                "articleId": "02ccf2d5f4718691"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "$600k to clear the bush at 22 Dandenongs schools before fire season",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-08-03/preparing-schools-for-bushfire-season/",
+                "duration": "~4 min",
+                "note": "The Patch, Kallista and Sassafras among the grant recipients; Premier Ben Carroll fronts a program that runs well before summer.",
+                "readable": true,
+                "articleId": "5b7090a2668e5dd7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Sheikh Hasina breaks silence from exile in India",
+                "url": "https://www.youtube.com/watch?v=dKUsXgJwUO0",
+                "duration": "7:02",
+                "note": "DW on the ousted Bangladeshi PM's first extended remarks from India.",
+                "thumb": "https://i.ytimg.com/vi/dKUsXgJwUO0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Can you build a blue zone?",
+                "url": "https://www.youtube.com/watch?v=VVuSzKpmByo",
+                "duration": "9:10",
+                "note": "Vox asks whether the longevity hotspots can actually be engineered.",
+                "thumb": "https://i.ytimg.com/vi/VVuSzKpmByo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Elves run this joint | Triforce Mailbag #74",
+                "url": "https://www.youtube.com/watch?v=RjMahKbNqZU",
+                "duration": "48:32",
+                "note": "This week's yogpod, before it slips past.",
+                "thumb": "https://i.ytimg.com/vi/RjMahKbNqZU/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Native pollinators need more support than honeybees in Australia",
+            "url": "https://theconversation.com/native-pollinators-need-more-support-than-honeybees-in-australia-heres-why-273238",
+            "duration": "~8 min",
+            "note": "The case that feral honeybees, at record densities here, crowd out 2,000 native bee species. A provocation for a beekeeper.",
+            "readable": true,
+            "articleId": "bce1158067423d06"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "today's episode (newest at top)",
+            "note": "real narration; a short Brazilian-Portuguese story with sentence-by-sentence English."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-05",
     "title": "Daily Brief — Wednesday, 5 August 2026",
     "weekday_date": "Wednesday, 5 August 2026",
