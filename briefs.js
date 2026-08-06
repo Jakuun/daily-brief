@@ -1,5 +1,134 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-07",
+    "title": "Daily Brief — Friday, 7 August 2026",
+    "weekday_date": "Friday, 7 August 2026",
+    "intro": "A cold, drizzly Friday at The Patch — 6–12°C with rain all but certain (81%), one for the fire and a long watch. Overseas, football's civil war deepens as UEFA refuses to lift its FIFA boycott; closer to home, the Victorian election starts casting a shadow over federal politics, and a Belgrave family waits for word on a missing son.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "UEFA holds its FIFA boycott as Infantino's World Cup sell-off collapses",
+                "url": "https://www.aljazeera.com/sports/2026/8/6/uefa-say-fifa-boycott-remains-after-infantino-world-cup-plan-fallout",
+                "duration": "~2 min",
+                "note": "Europe's 55 associations won't return until FIFA vows never again to try selling off the World Cup.",
+                "readable": true,
+                "articleId": "fd102d5297c409bb",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Grattan on Friday: the battle for Victoria will echo in Canberra",
+                "url": "https://theconversation.com/grattan-on-friday-the-battle-for-victoria-will-send-important-signals-to-federal-players-288349",
+                "duration": "~5 min",
+                "note": "A new premier, a rattled Liberal party and a rising One Nation turn the 28 November state poll into a national bellwether.",
+                "readable": true,
+                "articleId": "87185a0aa3af0f21",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Search continues for missing Belgrave man Evan Sinclair",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-08-05/search-continues-for-missing-belgrave-man-evan/",
+                "duration": "~3 min",
+                "note": "The 24-year-old vanished from McNicol Road on 31 July; his bright-yellow Commodore was last tracked heading into Gippsland.",
+                "readable": true,
+                "articleId": "a6f0ac7d465a0756",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Is Russia trying to sway Germany's elections?",
+                "url": "https://www.youtube.com/watch?v=IpH1J4AVCS0",
+                "duration": "7:38",
+                "note": "DW on the disinformation question hanging over the German campaign.",
+                "thumb": "https://i.ytimg.com/vi/IpH1J4AVCS0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "AI is getting a little out of control",
+                "url": "https://www.youtube.com/watch?v=xGzseSSStnw",
+                "duration": "31:42",
+                "note": "AI Explained's measured read on the latest frontier-model leaps, minus the hype.",
+                "thumb": "https://i.ytimg.com/vi/xGzseSSStnw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "WWE's AAA-vengers Initiative revealed; AEW Grand Slam Mexico reviewed",
+                "url": "https://www.youtube.com/watch?v=bn6E36jeul8",
+                "duration": "1:15:29",
+                "note": "The week's full WrestleTalk Podcast.",
+                "thumb": "https://i.ytimg.com/vi/bn6E36jeul8/hqdefault.jpg"
+              },
+              {
+                "title": "The Hang Up: Matt Dillahunty takes the calls",
+                "url": "https://www.youtube.com/watch?v=F2E83vUsrCY",
+                "duration": "3:53:26",
+                "note": "This week's full Thursday call-in, Dillahunty on the panel.",
+                "thumb": "https://i.ytimg.com/vi/F2E83vUsrCY/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The world's southernmost tree clings on in the windiest place on Earth",
+            "url": "https://theconversation.com/the-worlds-southernmost-tree-hangs-on-in-one-of-the-windiest-places-on-earth-but-climate-change-is-shifting-those-winds-146901",
+            "duration": "~7 min",
+            "note": "On Isla Hornos, wind alone sets the treeline — and climate change is now moving the wind.",
+            "readable": true,
+            "articleId": "80fad1c196a3bb5d",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "From Fear to Harmony: A Rio Café's Melodic Turning Point",
+            "url": "https://podcasts.apple.com/au/podcast/from-fear-to-harmony-a-rio-caf%C3%A9s-melodic-turning-point/id1749392708?i=1000780011716&uo=4",
+            "duration": "17:45",
+            "note": "A little Rio café called Notas Cariocas finds its harmony as nerves give way to music."
+          }
+        ]
+      }
+    ],
+    "signoff": "No fresh Together pick today — No Rolls Barred and the board-game channels have all already had their latest surfaced."
+  },
+  {
     "date": "2026-08-06",
     "title": "Daily Brief — Thursday, 6 August 2026",
     "weekday_date": "Thursday, 6 August 2026",
