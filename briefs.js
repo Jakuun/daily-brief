@@ -1,5 +1,86 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-09",
+    "title": "Daily Brief — Sunday, 9 August 2026",
+    "weekday_date": "Sunday, 9 August 2026",
+    "intro": "A wet, cold winter Sunday at The Patch — rain near-certain on a gusty northerly, so one for the fire and a long read. Overseas, South America's two giants are barely on speaking terms as Brazil freezes out Milei's Argentina; at home, a migration speech collapses under its own politics; and up the line, the Belgrave and Lilydale trains are about to run more often. To earn the coffee, a bracing case against outsourcing your thinking to a machine.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Brazil freezes out Milei's Argentina as the Lula feud deepens",
+                "url": "https://www.aljazeera.com/news/2026/8/6/argentina-wont-retaliate-after-brazil-downgrades-diplomatic-ties",
+                "duration": "~4 min",
+                "note": "Brasília has downgraded ties after Milei again called Lula a \"thief\" and \"ex-convict\"; the rupture lands weeks out from Brazil's election, with Milei backing the Bolsonaro camp.",
+                "readable": true,
+                "articleId": "7d38eff9daeb46b8",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Burke shelves his migration speech as the Coalition and One Nation pile on",
+                "url": "https://theconversation.com/view-from-the-hill-burke-struggles-to-wrangle-numbers-as-opposition-and-one-nation-apply-heat-on-migration-288354",
+                "duration": "~5 min",
+                "note": "Grattan on why the Home Affairs minister pulled a set-piece Press Club speech — a sign of how politically radioactive the migration numbers have become.",
+                "readable": true,
+                "articleId": "0bbc0a72d96179d7",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "More Belgrave and Lilydale train services from 23 August",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-08-08/more-lilydale-and-belgrave-trains-to-come-in-august/",
+                "duration": "~2 min",
+                "note": "Extra Friday and Saturday night services to Ringwood, part of a statewide timetable boost freed up by the Metro Tunnel.",
+                "readable": true,
+                "articleId": "6c9ed99ea5908c8a",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "BrainMaxxing: the road less traveled in the age of AI",
+            "url": "https://bigthink.com/starts-with-a-bang/brainmaxxing-road-less-traveled-age-ai/",
+            "duration": "~13 min",
+            "note": "Ethan Siegel on why outsourcing the struggle to AI buys today's answer and mortgages the mind that would have solved tomorrow's. A fitting companion to a brief built to resist the shortcut.",
+            "readable": true,
+            "articleId": "94aa11dd0afcc671",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "today's episode (newest at top)",
+            "note": "real narration; a short Brazilian-Portuguese story with sentence-by-sentence English."
+          }
+        ]
+      }
+    ],
+    "signoff": "The pre-dawn pre-fetch didn't run this morning, so the weather fell back to a quick forecast check, there's no Watch menu today (the video feed was down), and Português links the show rather than a specific new episode."
+  },
+  {
     "date": "2026-08-07",
     "title": "Daily Brief — Friday, 7 August 2026",
     "weekday_date": "Friday, 7 August 2026",
