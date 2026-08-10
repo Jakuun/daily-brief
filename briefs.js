@@ -1,5 +1,82 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-10",
+    "title": "Daily Brief — Monday, 10 August 2026",
+    "weekday_date": "Monday, 10 August 2026",
+    "intro": "A cold, stormy Monday at The Patch — thunder about, 6–10°C and rain a certainty, so genuinely one for the fire. Abroad, Yemen's western coast is ablaze as Houthi missiles pound the port of al-Makha; at home, all eyes are on the Reserve Bank as its two-day rates meeting wraps tomorrow; and up the hill, Macclesfield secures its own power for the next big blackout. To earn the coffee, a neuroscientist-novelist on whether the science of consciousness is heading for another winter.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Houthi missiles and drones pound Yemen's port of al-Makha",
+                "url": "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha",
+                "duration": "~3 min",
+                "note": "A second barrage in 24 hours on the Red Sea coast kills at least 11 and cripples the port; the governor of Hodeidah survives a strike on his home, with a bigger western-front battle now brewing.",
+                "readable": true,
+                "articleId": "c31a9eef1b136c49"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Inflation eases, and an August rate rise now looks unlikely",
+                "url": "https://theconversation.com/australian-inflation-has-eased-a-little-an-august-interest-rate-rise-now-looks-unlikely-288399",
+                "duration": "~5 min",
+                "note": "With headline inflation down to 3.8%, markets tip the RBA to hold at 4.35% when its two-day meeting ends tomorrow — though another hike later in the year isn't off the table.",
+                "readable": true,
+                "articleId": "9753242e3a68ef62"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Macclesfield hall gets solar, battery and backup power for the next blackout",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-08-10/solar-upgrade-for-macclesfield-hall/",
+                "duration": "~4 min",
+                "note": "A $121,695 AusNet grant hardens the public hall against the multi-week outages that hit the town in 2021 and 2024 — lights, water and a warm meal when the grid fails.",
+                "readable": true,
+                "articleId": "8868df8ebf11f267"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Why the 21st century could bring a new \"consciousness winter\"",
+            "url": "https://bigthink.com/neuropsych/erik-hoel-on-the-consciousness-wars/",
+            "duration": "~8 min",
+            "note": "Erik Hoel on why the field's real bottleneck is good ideas, not data — and how AGI might tempt us to decide consciousness doesn't matter. Emergence, IIT, and a plea for more philosophy from scientists.",
+            "readable": true,
+            "articleId": "bbda8bc0a64c751d"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "today's episode (newest at top)",
+            "note": "real narration; a short Brazilian-Portuguese story with sentence-by-sentence English."
+          }
+        ]
+      }
+    ],
+    "signoff": "The pre-dawn pre-fetch didn't fully run overnight, so there's no Watch menu today (the video feed was down) and Português links the show rather than a specific new episode."
+  },
+  {
     "date": "2026-08-09",
     "title": "Daily Brief — Sunday, 9 August 2026",
     "weekday_date": "Sunday, 9 August 2026",

@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["9753242e3a68ef62"] = {
+  title: "Inflation eases, and an August rate rise now looks unlikely",
+  byline: "The Conversation",
+  source: "The Conversation",
+  url: "https://theconversation.com/australian-inflation-has-eased-a-little-an-august-interest-rate-rise-now-looks-unlikely-288399",
+  partial: true,
+  body: "<p>Headline inflation eased to 3.8% in the June quarter, down from 4%, while the Reserve Bank's preferred trimmed-mean measure held steady at 3.6%. With price pressures softening rather than surging, markets and the big four banks now expect the RBA to leave the cash rate on hold at 4.35% when its two-day August meeting wraps up on Tuesday, rather than hike again.</p><p>The Bank has kept the door open to a further rise later in the year if inflation proves sticky, so the reprieve may be temporary. For now, borrowers hoping for actual relief — a cut — are still looking well down the track.</p>"
+};

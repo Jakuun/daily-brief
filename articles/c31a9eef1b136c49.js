@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["c31a9eef1b136c49"] = {
+  title: "Houthi missiles and drones pound Yemen's port of al-Makha",
+  byline: "Al Jazeera Staff",
+  source: "Al Jazeera",
+  url: "https://www.aljazeera.com/news/2026/8/10/houthis-renew-missile-and-drone-attacks-on-yemens-port-of-al-makha",
+  partial: true,
+  body: "<p>Yemen's Houthis launched a fresh wave of missiles and drones on the Red Sea port city of al-Makha (Mocha) on Sunday evening, less than 24 hours after an earlier barrage on the same government-held stretch of the western coast. Across the two days of strikes at least 11 people have been killed — eight military personnel and three civilians — and 32 wounded, with heavy damage to the port's buildings, commercial facilities and food supplies.</p><p>Government forces say they intercepted six drones and destroyed an explosive drone-boat approaching the harbour, while the appointed governor of nearby Hodeidah survived a ballistic missile striking his residence. The Houthis say the operation answers a continuing Saudi military buildup along the coast and in Taiz province.</p><p>The escalation, which also hit the al-Khokha district, has prompted warnings that a major battle for Yemen's western coast may now be brewing.</p>"
+};
