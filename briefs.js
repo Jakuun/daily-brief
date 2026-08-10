@@ -17,7 +17,8 @@ window.BRIEFS = [
                 "duration": "~3 min",
                 "note": "A second barrage in 24 hours on the Red Sea coast kills at least 11 and cripples the port; the governor of Hodeidah survives a strike on his home, with a bigger western-front battle now brewing.",
                 "readable": true,
-                "articleId": "c31a9eef1b136c49"
+                "articleId": "c31a9eef1b136c49",
+                "partial": true
               }
             ]
           },
@@ -30,7 +31,8 @@ window.BRIEFS = [
                 "duration": "~5 min",
                 "note": "With headline inflation down to 3.8%, markets tip the RBA to hold at 4.35% when its two-day meeting ends tomorrow — though another hike later in the year isn't off the table.",
                 "readable": true,
-                "articleId": "9753242e3a68ef62"
+                "articleId": "9753242e3a68ef62",
+                "partial": true
               }
             ]
           },
@@ -43,7 +45,8 @@ window.BRIEFS = [
                 "duration": "~4 min",
                 "note": "A $121,695 AusNet grant hardens the public hall against the multi-week outages that hit the town in 2021 and 2024 — lights, water and a warm meal when the grid fails.",
                 "readable": true,
-                "articleId": "8868df8ebf11f267"
+                "articleId": "8868df8ebf11f267",
+                "partial": true
               }
             ]
           }
@@ -58,7 +61,8 @@ window.BRIEFS = [
             "duration": "~8 min",
             "note": "Erik Hoel on why the field's real bottleneck is good ideas, not data — and how AGI might tempt us to decide consciousness doesn't matter. Emergence, IIT, and a plea for more philosophy from scientists.",
             "readable": true,
-            "articleId": "bbda8bc0a64c751d"
+            "articleId": "bbda8bc0a64c751d",
+            "partial": true
           }
         ]
       },
