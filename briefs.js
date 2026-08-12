@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-13",
+    "title": "Daily Brief — Thursday, 13 August 2026",
+    "weekday_date": "Thursday, 13 August 2026",
+    "intro": "A grey, drizzly winter Thursday at The Patch — 6 to 13°C, light rain about (~43% chance), one for a warm kitchen and a slow coffee. Abroad, the US–Iran standoff over the Strait of Hormuz is hardening even as mediators shuttle; at home, the Coalition puts a hard number on migration; and up the hill, a big powerline rebuild wraps ahead of fire season. To earn the coffee, a genuinely live argument about whether Darwin needs a second engine.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran rejects Trump's claim to 'control' the Strait of Hormuz",
+                "url": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks",
+                "duration": "~7 min",
+                "note": "Tehran says the waterway stays shut until its terms are met, as strikes spread to the Bab al-Mandeb and shipping thins to a trickle.",
+                "readable": true,
+                "articleId": "12eee350fa63d550",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Coalition would cap net overseas migration at about 180,000 — Bragg",
+                "url": "https://theconversation.com/coalition-would-set-net-overseas-migration-at-about-180-000-bragg-289487",
+                "duration": "~3 min",
+                "note": "Andrew Bragg puts a number on the policy at the Press Club, tying the intake to homes built the year before.",
+                "readable": true,
+                "articleId": "a95b817a729eefbf",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "AusNet finishes a $40m powerline upgrade across the Yarra Valley",
+                "url": "https://mountainviews.mailcommunity.com.au/news/2026-08-08/one-of-the-largest-powerline-upgrades-completed-in-the-yarra-valley/",
+                "duration": "~3 min",
+                "note": "108km of bare wire swapped for insulated cable through Healesville, Toolangi and Woori Yallock — fire-start risk cut before summer.",
+                "readable": true,
+                "articleId": "e5ff7212e42500b5",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Inside Taiwan's plan to deter a Chinese invasion",
+                "url": "https://www.youtube.com/watch?v=wAWvnuZ6S-8",
+                "duration": "11:40",
+                "note": "DW News on the \"porcupine\" strategy and what deterrence actually looks like now.",
+                "thumb": "https://i.ytimg.com/vi/wAWvnuZ6S-8/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Google Pixel 11 / Pro / Fold Impressions: It Is What It Is",
+                "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
+                "duration": "11:13",
+                "note": "MKBHD on Google's new lineup after the launch.",
+                "thumb": "https://i.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The Surprising Origins of the \"Apocalypse\"",
+                "url": "https://www.youtube.com/watch?v=ciY7CDDaOfI",
+                "duration": "43:07",
+                "note": "Bart Ehrman on how a word for \"unveiling\" became a byword for the end of the world.",
+                "thumb": "https://i.ytimg.com/vi/ciY7CDDaOfI/hqdefault.jpg"
+              },
+              {
+                "title": "Get me pictures of Sips! | Triforce #363",
+                "url": "https://www.youtube.com/watch?v=YdzrzKdqgOI",
+                "duration": "1:10:36",
+                "note": "The weekly Triforce natter, before it stacks up.",
+                "thumb": "https://i.ytimg.com/vi/YdzrzKdqgOI/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "10 Best 'Weekend Away' Board Games (w/ Matching Cocktails)",
+                "url": "https://www.youtube.com/watch?v=MYshKN1fWw8",
+                "duration": "20:24",
+                "note": "BlampCo pairs travel-sized games with drinks — an easy one with Caroline.",
+                "thumb": "https://i.ytimg.com/vi/MYshKN1fWw8/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Updating Darwin: is there a second engine driving evolution?",
+            "url": "https://theconversation.com/updating-darwin-biologists-are-returning-to-an-older-theory-to-explain-anomalies-in-evolution-276549",
+            "duration": "~7 min",
+            "note": "Biologists revive a Lamarckian idea — not to replace natural selection, but to run alongside it.",
+            "readable": true,
+            "articleId": "2fff6d42c17275a5",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Uncovering Secrets: The Mystery at Catetinho Mansion",
+            "url": "https://podcasts.apple.com/au/podcast/uncovering-secrets-the-mystery-at-catetinho-mansion/id1749392708?i=1000782902940&uo=4",
+            "duration": "16:50",
+            "note": "Um mistério de inverno em Brasília: segredos guardados no Catetinho, a primeira casa de Juscelino Kubitschek."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-12",
     "title": "Daily Brief — Wednesday, 12 August 2026",
     "weekday_date": "Wednesday, 12 August 2026",
