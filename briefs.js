@@ -1,5 +1,160 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-12",
+    "title": "Daily Brief — Wednesday, 12 August 2026",
+    "weekday_date": "Wednesday, 12 August 2026",
+    "intro": "A cold, wet one at The Patch — 6.7° now, topping out near 11°, and rain is all but certain at 97%. Colombia is still pulling people from the rubble, and closer to home the Hills are talking about a kind of homelessness most of us never see.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Colombia digs for survivors as the quake toll passes 130",
+                "url": "https://www.aljazeera.com/news/2026/8/11/colombia-quake-frantic-search-for-survivors-as-over-2700-reported-missing",
+                "duration": "~6 min",
+                "note": "The country's strongest quake this century; 2,700 reported missing, and remote Chocó is still barely reachable.",
+                "readable": true,
+                "articleId": "62b7a140205d66b6",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Labor MP charged over alleged assault on the NT Administrator",
+                "url": "https://theconversation.com/labor-mp-charged-over-alleged-assault-on-northern-territory-administrator-288353",
+                "duration": "~2 min",
+                "note": "Luke Gosling, special envoy and former commando, faces two counts — against the man his own side called unfit for the job.",
+                "readable": true,
+                "articleId": "8c8c398addc457f1",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Homelessness in the Yarra Ranges is changing shape",
+                "url": "https://ferntreegully.mailcommunity.com.au/news/2026-08-11/homelessness-hitting-the-yarra-ranges-in-ways-it-hasnt-before/",
+                "duration": "~5 min",
+                "note": "Working families with two incomes are now presenting to local services for the first time.",
+                "readable": true,
+                "articleId": "d83d078594561cb4",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Hungary elects an Orbán critic as president",
+                "url": "https://www.youtube.com/watch?v=ItbDPmNvQ80",
+                "duration": "8:39",
+                "note": "Can sixteen years of illiberal architecture actually be rolled back?",
+                "thumb": "https://i.ytimg.com/vi/ItbDPmNvQ80/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The Democrats need a makeover | America Actually",
+                "url": "https://www.youtube.com/watch?v=FQuIT9c2sJc",
+                "duration": "47:08",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/FQuIT9c2sJc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Raw Is Stuck In The Bloodline Vortex | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=IRQ171EJ9HA",
+                "duration": "1:03:10",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/IRQ171EJ9HA/hqdefault.jpg"
+              },
+              {
+                "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+                "url": "https://www.youtube.com/watch?v=N5AQFYtqx8Q",
+                "duration": "2:08:13",
+                "note": "Huberman's weekly episode with the godmother of AI; squarely in your current focus.",
+                "thumb": "https://i.ytimg.com/vi/N5AQFYtqx8Q/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Knowing Me, Knowing You | No Rolls Barred Plays BOTC S3E2",
+                "url": "https://www.youtube.com/watch?v=9j13JuzswRQ",
+                "duration": "1:51:38",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/9j13JuzswRQ/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The hidden mathematics behind why you find things beautiful",
+            "url": "https://bigthink.com/mini-philosophy/the-hidden-mathematics-behind-why-you-find-things-beautiful/",
+            "duration": "~5 min",
+            "note": "Du Sautoy's hard formalism: Pollock's fractals, Shakespeare's eleven-beat line, and a Platonist claim that the universe is mathematics.",
+            "readable": true,
+            "articleId": "2960ce0226b1bbe3",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Wildcard",
+        "items": [
+          {
+            "title": "American literature, charted in one monumental map",
+            "url": "https://bigthink.com/strange-maps/american-literature-charted-in-one-monumental-map/",
+            "duration": "~11 min",
+            "note": "Place as a character, plotted across a continent.",
+            "readable": true,
+            "articleId": "4e9820c7f253e6c7",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Triumph in the Dark: João's Inspiring Night of Success",
+            "url": "https://podcasts.apple.com/au/podcast/triumph-in-the-dark-jo%C3%A3os-inspiring-night-of-success/id1749392708?i=1000781903559&uo=4",
+            "duration": "16:43",
+            "note": "Uma noite de inverno num centro comunitário: João enfrenta o palco, e o escuro."
+          }
+        ]
+      }
+    ],
+    "signoff": "Assembled late — the 6am run stalled before it could write anything (the feeds were fine). WrestleTalk's podcast channel had nothing new, so the fresh Raw review from the main channel stands in."
+  },
+  {
     "date": "2026-08-10",
     "title": "Daily Brief — Monday, 10 August 2026",
     "weekday_date": "Monday, 10 August 2026",
