@@ -1,0 +1,6 @@
+2026-08-13 09:27:18 OK — 2026-08-13.md present (3280 bytes)
+2026-08-11 07:30:00 *** MISSING — no brief for 2026-08-11. Context: pre-fetch data is stale (last finished 2026-08-12)
+2026-08-11 07:30:00 notification failed: [Errno 2] No such file or directory: 'osascript'
+2026-08-13 09:27:38 OK — 2026-08-13.md present (3280 bytes)
+2026-08-13 09:28:07 OK — 2026-08-13.md present (3280 bytes)
+2026-08-13 09:28:07 could not clear missed-run marker (harmless): [Errno 1] Operation not permitted: '/sessions/gallant-dreamy-wozniak/mnt/Claude/Daily Brief/Web/feeds/missed_run.json'
