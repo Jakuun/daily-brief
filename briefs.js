@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-16",
+    "title": "Daily Brief — Sunday, 16 August 2026",
+    "weekday_date": "Sunday, 16 August 2026",
+    "intro": "A cold, still Sunday at The Patch — 2.8° now, overcast all day, topping out near 14° with no rain in it. Indonesia is digging out from a 7.7 quake off Flores, parliament is back in Canberra with the gambling ad bill finally in reach, and there's a long stack of listening here for a day in the garden.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Magnitude 7.7 quake hits Indonesia, killing at least 47",
+                "url": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia",
+                "duration": "~4 min",
+                "note": "Landslides across six regencies on Flores have buried or cut off remote villages; the toll is expected to climb as rescuers reach them.",
+                "readable": true,
+                "articleId": "b33b49ea5825ab5c",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Labor's gambling ad reforms head back to parliament",
+                "url": "https://www.thecourier.com.au/story/9327742/labor-gambling-reforms-set-to-pass-as-winter-break-ends/",
+                "duration": "~4 min",
+                "note": "Three ads an hour, none during live sport, none on jerseys. The Senate committee reports tomorrow; Gallagher concedes it's \"not where everyone wanted to be.\"",
+                "readable": true,
+                "articleId": "7dfed776ed05efab",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges Council rules out SES and CFA service agreements",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-08-14/yarra-ranges-council-not-considering-service-agreements-with-ses-and-cfa/",
+                "duration": "~3 min",
+                "note": "Knox is moving the other way. In a shire this exposed to fire and storm, what council owes its volunteer brigades stays an informal arrangement.",
+                "readable": true,
+                "articleId": "4e53957be6dfd0ce",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Drought is forcing Hungary to reshape the Danube to keep nuclear power running",
+                "url": "https://www.youtube.com/watch?v=fQA8HKnvi_4",
+                "duration": "9:53",
+                "note": "A river too low to cool a reactor, and the engineering being thrown at it.",
+                "thumb": "https://i.ytimg.com/vi/fQA8HKnvi_4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "How to break the spell of powerful emotions | Lisa Damour: Full Interview",
+                "url": "https://www.youtube.com/watch?v=yahyL3ABjjo",
+                "duration": "1:06:19",
+                "note": "Damour on what emotions actually are and why managing them isn't the same as suppressing them.",
+                "thumb": "https://i.ytimg.com/vi/yahyL3ABjjo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Growing Frustration Backstage In WWE, AEW Dynamite Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=UX7Ei2M6R8s",
+                "duration": "1:21:19",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/UX7Ei2M6R8s/hqdefault.jpg"
+              },
+              {
+                "title": "HOLDIN' OUT FOR A PIRRO! PEP with Chas & Dr Dave (Ep 269, 7 August)",
+                "url": "https://www.youtube.com/watch?v=uCswJdabRqQ",
+                "duration": "3:25:10",
+                "note": "Saved up for exactly this kind of Sunday in the yard.",
+                "thumb": "https://i.ytimg.com/vi/uCswJdabRqQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We Played Hellbreak TCG | Brand New Horror Movie TCG",
+                "url": "https://www.youtube.com/watch?v=zT14c-OM2oA",
+                "duration": "28:31",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/zT14c-OM2oA/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Forget seeing the Universe's beginning. It's already been erased",
+            "url": "https://bigthink.com/starts-with-a-bang/never-see-beginning-universe/",
+            "duration": "~13 min",
+            "note": "Siegel's argument that inflation wiped the record clean: the Big Bang isn't the beginning, and whatever came before is unrecoverable in principle, not just in practice.",
+            "readable": true,
+            "articleId": "0b6da98f91388b61",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "From Sunblocks to Strolls: A Creative Campaign on Copacabana",
+            "url": "https://podcasts.apple.com/au/podcast/from-sunblocks-to-strolls-a-creative-campaign-on/id1749392708?i=1000783418899&uo=4",
+            "duration": "17:23",
+            "note": "Rafael, num escritório pequeno com a brisa do inverno carioca entrando pela janela, tenta salvar uma campanha publicitária em Copacabana."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-13",
     "title": "Daily Brief — Thursday, 13 August 2026",
     "weekday_date": "Thursday, 13 August 2026",
