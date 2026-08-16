@@ -1,5 +1,127 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-17",
+    "title": "Daily Brief — Monday, 17 August 2026",
+    "weekday_date": "Monday, 17 August 2026",
+    "intro": "A cold, flat-grey start at The Patch — 4°C now, overcast all day, topping out at 15°C with no rain to dodge. Ukraine and Russia spent the weekend throwing drones and missiles at each other's capitals, and here at home a two-year Fair Work fight lands today as delivery riders get a floor under their pay for the first time.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Ukraine sends 600 drones at Moscow as Russia hits Kyiv with ballistic missiles",
+                "url": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania",
+                "duration": "~3 min",
+                "note": "Both capitals under fire in the same night, and a Spanish F-18 downed a drone over Romania. An analyst tells Al Jazeera Kyiv has now beaten Russia's densest air defences.",
+                "readable": true,
+                "articleId": "ef97b0867bb9b145",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "From today, food delivery riders have a minimum hourly rate",
+                "url": "https://theconversation.com/from-monday-food-delivery-workers-will-get-minimum-hourly-pay-heres-why-it-matters-287970",
+                "duration": "~4 min",
+                "note": "The Fair Work Commission's first \"employee-like\" standards order, after two years of TWU negotiation with Uber Eats and DoorDash. Rideshare and parcel are next in line.",
+                "readable": true,
+                "articleId": "93790b92976558b0",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges wants your say on the future of 40 kinder buildings",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-08-15/do-it-for-the-kids-have-your-say-on-councils-kinder-management-plan/",
+                "duration": "~4 min",
+                "note": "Demand is tipped to outrun supply in Upwey and Tecoma while the upper mountain runs over-supplied. Consultation closes 13 September.",
+                "readable": true,
+                "articleId": "b8b231ad570184b6",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Hasan Piker on what Democrats get wrong | America, Actually",
+                "url": "https://www.youtube.com/watch?v=Lgc4hIVeg3c",
+                "duration": "33:16",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Lgc4hIVeg3c/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Who actually wrote the 10 commandments?",
+                "url": "https://www.youtube.com/watch?v=PM8-Gf9EL0I",
+                "duration": "46:52",
+                "note": "Ehrman on the seams in the text most people read as a single tablet.",
+                "thumb": "https://i.ytimg.com/vi/PM8-Gf9EL0I/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "A quest for diamonds — Blood on the Clocktower in Minecraft",
+                "url": "https://www.youtube.com/watch?v=bTK_OGkWdbw",
+                "duration": "60:56",
+                "note": "The Yogscast run BotC inside Minecraft. Silly premise, and it works.",
+                "thumb": "https://i.ytimg.com/vi/bTK_OGkWdbw/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Why AI gets stuck in infinite loops — but conscious minds don't",
+            "url": "https://bigthink.com/neuropsych/anil-seth-consciousness-time-perception/",
+            "duration": "~12 min",
+            "note": "Anil Seth's argument from a broken jet bridge in Madrid: computation is indifferent to time, living things are not, and it's that anchoring in entropy — not more compute — that keeps minds from spiralling. Turing's halting problem meets the second law.",
+            "readable": true,
+            "articleId": "7eddeca470f2444c",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Café Bonds: A Winter's Tale of Friendship and Unexpected Trials",
+            "url": "https://podcasts.apple.com/au/podcast/caf%C3%A9-bonds-a-winters-tale-of-friendship/id1749392708?i=1000783566338&uo=4",
+            "duration": "18:09",
+            "note": "Numa manhã fria de inverno em São Paulo, o café de Ana está movimentado como sempre — até que a amizade é posta à prova."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-16",
     "title": "Daily Brief — Sunday, 16 August 2026",
     "weekday_date": "Sunday, 16 August 2026",
