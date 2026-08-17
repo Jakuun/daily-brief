@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["9a78a4be3927cb9a"] = {
+  title: "Pauline Hanson changes position to back WA in GST carve-up debate",
+  byline: "Jane Norman",
+  source: "ABC News",
+  url: "https://www.abc.net.au/news/2026-08-18/pauline-hanson-changes-position-on-wa-and-gst/107047490",
+  partial: true,
+  body: "<p>In 2023 Pauline Hanson told the Senate it was unfair that Western Australia received a \"huge benefit\" from the 2018 GST deal without compensating other states, and as recently as March accused the WA government of being \"addicted to Commonwealth-owned petroleum resources\". She has now reversed that position entirely, telling News24 she will not pull anything from WA and that the eastern states — Victoria in particular, for having \"destroyed\" its gas and mining sectors — cannot expect to be propped up.</p><p>The timing is awkward. The Productivity Commission's interim report last week called the Morrison-era deal a costly mistake that benefits WA alone, and Hanson's own Queensland government says the state has been denied its fair share for years. The ABC notes her shift coincides with an increasingly close relationship with Gina Rinehart, now One Nation's biggest financial backer, who gifted Hanson a plane and is WA born and bred. One Nation is also contesting the Secret Harbour by-election, which could win it a first lower-house seat in WA parliament.</p><p>Politically the deal looks untouchable. Albanese has played down any change and signed a written guarantee in Perth in 2024; Premier Roger Cook called the Commission \"east coast clowns\" and its report \"dodgy, deceitful and dumb\"; even teal independent Kate Chaney defended the current arrangements. The final Productivity Commission report is due by year's end.</p>"
+};

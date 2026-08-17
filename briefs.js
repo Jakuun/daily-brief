@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-18",
+    "title": "Daily Brief — Tuesday, 18 August 2026",
+    "weekday_date": "Tuesday, 18 August 2026",
+    "intro": "A cold, drizzly start at The Patch — 5°C now, topping out around 17°C with a one-in-five chance of rain. Trump is pulling back from the Korean Peninsula while pressing Iran harder, the GST carve-up has become a national brawl with Pauline Hanson on an unexpected side of it, and closer to home your bins have become a state election issue.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Trump scales down war games with South Korea: why it matters",
+                "url": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters",
+                "duration": "~6 min",
+                "note": "He cites his \"very good relationship\" with Kim and Seoul's refusal to join the Iran campaign. The drills go ahead anyway, and analysts read it as pique dressed up as diplomacy.",
+                "readable": true,
+                "articleId": "78a13a3a762a65e2"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Pauline Hanson flips to defend WA's GST deal",
+                "url": "https://www.abc.net.au/news/2026-08-18/pauline-hanson-changes-position-on-wa-and-gst/107047490",
+                "duration": "~4 min",
+                "note": "Three years ago she called WA's \"huge benefit\" unfair; now she's its loudest defender, as her party's biggest backer happens to be Gina Rinehart.",
+                "readable": true,
+                "articleId": "9a78a4be3927cb9a"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges pushes back on the Liberals' weekly bin plan",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-08-15/rubbish-idea-council-critical-of-state-oppositions-weekly-waste-collection/",
+                "duration": "~3 min",
+                "note": "Cr Jim Child says fortnightly collection cut landfill by 60–70%, and a capped waste charge just moves the cost somewhere else. A November election issue that lands in your driveway.",
+                "readable": true,
+                "articleId": "4741b50186f750e5"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why Icelanders are reconsidering EU membership",
+                "url": "https://www.youtube.com/watch?v=F7vo7kW1jwk",
+                "duration": "13:20",
+                "note": "A country that walked away from accession talks in 2015, rethinking it as the security picture shifts.",
+                "thumb": "https://i.ytimg.com/vi/F7vo7kW1jwk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Freud was more right than you think | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=E03OeRQT40k",
+                "duration": "56:32",
+                "note": "Sean Illing on the parts of Freud that survived the debunking, and why they still explain things.",
+                "thumb": "https://i.ytimg.com/vi/E03OeRQT40k/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Neuroscience of Emotions & Tools for Improving Emotion Regulation | Dr Ralph Adolphs",
+                "url": "https://www.youtube.com/watch?v=P-h5WSQG1Sw",
+                "duration": "2:09:30",
+                "note": "Huberman's weekly episode, out yesterday.",
+                "thumb": "https://i.ytimg.com/vi/P-h5WSQG1Sw/hqdefault.jpg"
+              },
+              {
+                "title": "TAKE IT OR LEAVITT! PEP with Chas & Dr Dave (Ep 270)",
+                "url": "https://www.youtube.com/watch?v=uWGRjsrcwVE",
+                "duration": "3:28:34",
+                "note": "Saved up for the next long stretch in the garden.",
+                "thumb": "https://i.ytimg.com/vi/uWGRjsrcwVE/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We Played Magic's The Hobbit Commander Party Rules",
+                "url": "https://www.youtube.com/watch?v=l7PET9Ei8pQ",
+                "duration": "1:33:06",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/l7PET9Ei8pQ/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "We planted two woody meadows a decade ago. Here's what actually thrived",
+            "url": "https://theconversation.com/we-planted-two-woody-meadows-a-decade-ago-to-see-what-would-thrive-now-the-concept-is-popular-across-australia-269611",
+            "duration": "~8 min",
+            "note": "Ten years of data on dense native plantings of groundcover, shrubs and small trees — cheaper to maintain than lawn or garden beds, and built for heat and drought. Directly applicable to your own patch.",
+            "readable": true,
+            "articleId": "0cb7c556c1404968"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "A Love Story Unfolds: Thiago's Quest in Lisbon",
+            "url": "https://podcasts.apple.com/au/podcast/a-love-story-unfolds-thiagos-quest-in-lisbon/id1749392708?i=1000783760766&uo=4",
+            "duration": "17:26",
+            "note": "Numa manhã fria de agosto em São Paulo, Thiago embarca para Lisboa — e a viagem é mais do que uma viagem."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-17",
     "title": "Daily Brief — Monday, 17 August 2026",
     "weekday_date": "Monday, 17 August 2026",
