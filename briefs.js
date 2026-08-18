@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-19",
+    "title": "Daily Brief — Wednesday, 19 August 2026",
+    "weekday_date": "Wednesday, 19 August 2026",
+    "intro": "Drizzle at The Patch all day, 9.7–13.3°, a 90% chance of rain — a stay-inside Wednesday. Canberra had a big night: the NDIS overhaul passed the Senate with Coalition votes, while in the Middle East Kushner has hardened Washington's line to match Netanyahu's.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Kushner: no rebuilding of Gaza until Hamas disarms",
+                "url": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says",
+                "duration": "~4 min",
+                "note": "Two days after a rare face-to-face with Hamas, Trump's envoy adopts Israel's sequencing wholesale. The roadmap Hamas accepted now needs the thing it was meant to trade for.",
+                "readable": true,
+                "articleId": "168aa1c0d36c4083",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "NDIS overhaul passes the Senate on Coalition votes",
+                "url": "https://www.abc.net.au/news/2026-08-18/ndis-changes-pass-after-labor-strikes-deal-with-coalition/107051964",
+                "duration": "~5 min",
+                "note": "$37.8bn in savings, 63 amendments, and participant numbers falling from 760,000 to 600,000 by 2030. The Greens call it the end of the scheme as promised.",
+                "readable": true,
+                "articleId": "7b42de6f83e66e89",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges puts ten-plus drainage projects into construction",
+                "url": "https://mountainviews.mailcommunity.com.au/news/2026-08-15/yarra-ranges-council-targeting-priority-drainage-projects/",
+                "duration": "~3 min",
+                "note": "Unglamorous capital works that decide whether the next flash flood is an inconvenience or a disaster. Five years of extreme weather have made the case.",
+                "readable": true,
+                "articleId": "6f8744776629e23f",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Is Trump pushing his naval forces to breaking point?",
+                "url": "https://www.youtube.com/watch?v=0CmNg3IU_z0",
+                "duration": "23:03",
+                "note": "Carrier deployments outrunning the maintenance cycle, and what that costs later.",
+                "thumb": "https://i.ytimg.com/vi/0CmNg3IU_z0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "We cured boredom — and created a meaning crisis | Arthur Brooks",
+                "url": "https://www.youtube.com/watch?v=WP3wl1rsXjg",
+                "duration": "1:53:58",
+                "note": "Brooks on what the eradication of idle time did to us. Long, but it's the full interview, not a clip.",
+                "thumb": "https://i.ytimg.com/vi/WP3wl1rsXjg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Where did Satan actually come from?",
+                "url": "https://www.youtube.com/watch?v=buwXTKv_bC8",
+                "duration": "36:10",
+                "note": "Ehrman on a figure the Hebrew Bible barely has, and how he acquired a biography.",
+                "thumb": "https://i.ytimg.com/vi/buwXTKv_bC8/hqdefault.jpg"
+              },
+              {
+                "title": "Bloodline Gets Good Again! WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=9b24Yqdpi_E",
+                "duration": "1:04:25",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/9b24Yqdpi_E/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play COUP | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=JdTexGh_KOU",
+                "duration": "1:17:24",
+                "note": "Bluffing at its most compact. Out yesterday.",
+                "thumb": "https://i.ytimg.com/vi/JdTexGh_KOU/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Heatwaves are wrecking the fertility of solitary bees",
+            "url": "https://theconversation.com/heatwaves-are-destroying-the-sex-lives-of-bees-new-research-283108",
+            "duration": "~6 min",
+            "note": "Three days at 40° during larval development halved sperm activity in red mason bees and cut egg numbers by 15%. The colony you keep has nestmates to buffer a hot spell; the far larger population of solitary bees in the same garden does not.",
+            "readable": true,
+            "articleId": "7ca3088b51293cb0",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Rekindling Friendship at the Edge of Iguaçu Falls",
+            "url": "https://podcasts.apple.com/au/podcast/rekindling-friendship-at-the-edge-of-igua%C3%A7u-falls/id1749392708?i=1000784006645&uo=4",
+            "duration": "18:23",
+            "note": "Talita, diante da imensidão das Cataratas do Iguaçu, encontra a chance de reatar uma velha amizade."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-18",
     "title": "Daily Brief — Tuesday, 18 August 2026",
     "weekday_date": "Tuesday, 18 August 2026",
