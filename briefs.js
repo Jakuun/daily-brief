@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-20",
+    "title": "Daily Brief — Thursday, 20 August 2026",
+    "weekday_date": "Thursday, 20 August 2026",
+    "intro": "Wet and cold at The Patch — 10.3° now, 8 to 14.4°, showers all but certain at 98%. A day for indoors and long listening. Trump paused the 50% Canada tariffs minutes before they bit, Labor and the Coalition are pushing the tech-pays-for-news bill through together, and closer to home the H5 bird flu outbreak has changed how wildlife rescuers — and backyard chook keepers — need to work.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Trump pauses the 50% Canada tariffs minutes before they bite",
+                "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says",
+                "duration": "~2 min",
+                "note": "A three-day suspension on $20bn of Canadian exports, announced on Truth Social \"subject to the finalization of documents\". Carney says the reprieve runs to 22 August.",
+                "readable": true,
+                "articleId": "bc4792731ed6070b",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Making tech giants pay for news: what the new bill gets right, and four things it doesn't",
+                "url": "https://theconversation.com/new-laws-to-make-tech-companies-pay-for-news-will-help-but-there-are-4-key-problems-289703",
+                "duration": "~6 min",
+                "note": "Deals or a 2.5% levy on local ad revenue, up to $500m a year. Bipartisan, introduced this week, and structurally flawed in ways worth knowing before it passes.",
+                "readable": true,
+                "articleId": "0920a7e19c8ad304",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "H5 bird flu changes how the Yarra Ranges handles birds",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-08-18/bird-flu-prompts-yarra-ranges-wildlife-organisations-to-tread-with-care/",
+                "duration": "~6 min",
+                "note": "58 Victorian detections, vets meeting rescuers outside in PPE, and direct advice for backyard poultry: covered, netted enclosure now, before spring.",
+                "readable": true,
+                "articleId": "5f56afeae2923e4b",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why is a former Zelenskyy loyalist calling for wartime elections in Ukraine?",
+                "url": "https://www.youtube.com/watch?v=FnasBd52vVc",
+                "duration": "18:37",
+                "note": "Kyiv's internal politics reopening while the war is still running.",
+                "thumb": "https://i.ytimg.com/vi/FnasBd52vVc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Why straight dating is harder than ever | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=pBihH5isYgY",
+                "duration": "55:28",
+                "note": "Sean Illing on what actually broke, beyond the apps.",
+                "thumb": "https://i.ytimg.com/vi/pBihH5isYgY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Triforce vs Script Writers | Triforce #364",
+                "url": "https://www.youtube.com/watch?v=pb_r1ot4cjw",
+                "duration": "1:06:04",
+                "note": "Yesterday's episode, before it stacks up.",
+                "thumb": "https://i.ytimg.com/vi/pb_r1ot4cjw/hqdefault.jpg"
+              },
+              {
+                "title": "These Apologetics Get the SMACKDOWN They Deserve feat. Promise",
+                "url": "https://www.youtube.com/watch?v=sWhAhw1j24c",
+                "duration": "47:01",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/sWhAhw1j24c/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "The Great Pizza Heist!",
+                "url": "https://www.youtube.com/watch?v=auCa6609Nrk",
+                "duration": "7:36",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/auCa6609Nrk/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Why was an Egyptian mummy stuffed with a fragment of Homer's Iliad?",
+            "url": "https://theconversation.com/why-was-an-egyptian-mummy-stuffed-with-a-fragment-of-homers-iliad-282190",
+            "duration": "~7 min",
+            "note": "Recycled papyrus as embalming stuffing: rubbish is the best evidence of what people in Roman Egypt were actually reading.",
+            "readable": true,
+            "articleId": "3eddc112e9fe17b4",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Adventure at Ipanema: A Young Explorer's Discovery",
+            "url": "https://podcasts.apple.com/au/podcast/adventure-at-ipanema-a-young-explorers-discovery/id1749392708?i=1000784255914&uo=4",
+            "duration": "15:00",
+            "note": "Uma manhã de inverno em Ipanema, sol quente e mar brilhando — e uma criança que sai à procura de uma descoberta."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-19",
     "title": "Daily Brief — Wednesday, 19 August 2026",
     "weekday_date": "Wednesday, 19 August 2026",
