@@ -1,5 +1,127 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-21",
+    "title": "Daily Brief — Friday, 21 August 2026",
+    "weekday_date": "Friday, 21 August 2026",
+    "intro": "Cold and grey at The Patch — 5.3° now, 5 to 12°, drizzle around with a one-in-three chance of rain. Trump has declared an \"economic D-Day\" against Iran as the oil waiver lapses today; in Canberra, survivors of the contaminated blood scandal finally have their Senate inquiry after four decades; and up the hill, this month's Census has been quietly counting the people who don't have a front door.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "'Tremendous costs': Can Trump stop other countries from trading with Iran?",
+                "url": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran",
+                "duration": "~9 min",
+                "note": "The June waiver expires today, sanctions are back, and the UAE has closed its door. But China, Turkey and Pakistan haven't, and the legal ceiling on unilateral coercion is lower than the rhetoric.",
+                "readable": true,
+                "articleId": "200f0bcf016ad86c",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Survivors of the contaminated blood scandal finally get their Senate inquiry",
+                "url": "https://www.abc.net.au/news/2026-08-19/senate-inquiry-announced-contaminated-blood-scandal/107053270",
+                "duration": "~5 min",
+                "note": "Up to 20,000 infected with HIV or hepatitis C, hundreds dead, and a four-day inquiry in 2004 that ruled out compensation. Ruston, Roberts and Steele-John got this one up together; it reports mid-2027.",
+                "readable": true,
+                "articleId": "43a20a6a195e748c",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Behind the frontlines of the Census in the Yarra Ranges",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-08-19/behind-the-frontlines-of-census/",
+                "duration": "~8 min",
+                "note": "Council, Anchor, Holy Fools and Stable One spent two months making sure rough sleepers dispersed across bushland got counted. The 2021 figure of 756 was taken mid-lockdown; funding still runs off it.",
+                "readable": true,
+                "articleId": "6a250a365ef50000",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "ARC Raiders' Newest Update Had a Few Surprises...",
+                "url": "https://www.youtube.com/watch?v=iO42Z9UvMXk",
+                "duration": "13:19",
+                "note": "What actually changed in the latest patch, minus the hype.",
+                "thumb": "https://i.ytimg.com/vi/iO42Z9UvMXk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Why Can't God SHOW Himself?! Call Alyssa Ljub & Taylor SH | The Hang Up 08.18.26",
+                "url": "https://www.youtube.com/watch?v=LCrn5ti3lpM",
+                "duration": "2:31:09",
+                "note": "This week's Hang Up, for a long stretch indoors.",
+                "thumb": "https://i.ytimg.com/vi/LCrn5ti3lpM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "GUDNAK GAUNTLET GAME 1",
+                "url": "https://www.youtube.com/watch?v=FNF9h6Z_074",
+                "duration": "25:50",
+                "note": "Good Time Society, fresh from Wednesday.",
+                "thumb": "https://i.ytimg.com/vi/FNF9h6Z_074/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "A universe with no humans: strange sci-visions of intelligence escaping us",
+            "url": "https://bigthink.com/history-society/a-universe-with-no-humans-strange-sci-visions-of-intelligence-escaping-us/",
+            "duration": "~14 min",
+            "note": "Thomas Moynihan reads John Jacob Astor's 1894 space fantasy against Stross's Accelerando and finds the same wish in both: not to escape gravity, but to escape owing anything to anyone. Astor's magnates straighten the Earth's axis; Stross's markets autocatalyse into ends-in-themselves and shed their primate inventors. A good one for the novel.",
+            "readable": true,
+            "articleId": "dcef46c643eef320",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Mystery at Mercado Central: The Art Dealer's Dilemma",
+            "url": "https://podcasts.apple.com/au/podcast/mystery-at-mercado-central-the-art-dealers-dilemma/id1749392708?i=1000784503875&uo=4",
+            "duration": "16:27",
+            "note": "No frio do inverno em Belo Horizonte, o Mercado Central fervilha — e um negociante de arte enfrenta um dilema."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-20",
     "title": "Daily Brief — Thursday, 20 August 2026",
     "weekday_date": "Thursday, 20 August 2026",
