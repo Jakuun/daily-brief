@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-23",
+    "title": "Daily Brief — Sunday, 23 August 2026",
+    "weekday_date": "Sunday, 23 August 2026",
+    "intro": "A cold, flat Sunday at The Patch — 4°C now, overcast all day, topping out at 15°C with no rain in it. Good weather for the long stuff: there's a three-and-a-half hour PEP saved up, and an essay on gibberish that turns out to be about how any of us learned to talk at all.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran's president says end the war now, \"in a position of power\"",
+                "url": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of",
+                "duration": "~4 min",
+                "note": "Pezeshkian's opening to talks lands the same week his armed forces chief promises \"crushing\" retaliation and Bessent prepares Monday's sanctions to \"collapse\" the government.",
+                "readable": true,
+                "articleId": "46a4b69b2777e275",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Barnaby Joyce has switched horses. Will the gamble pay off?",
+                "url": "https://www.abc.net.au/news/2026-08-23/barnaby-joyce-one-nation-nationals-wife-vikki-campion/106898670",
+                "duration": "~9 min",
+                "note": "An unguarded Australian Story sit-down eight months after the defection. Littleproud, Karvelas and Wacka Williams all say the same thing about the Hanson partnership: it's when, not if.",
+                "readable": true,
+                "articleId": "b4efcb7a8e8883ca",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "106 warehouses approved on Quarry Road, over the council's objection",
+                "url": "https://lilydale.mailcommunity.com.au/news/2026/08/20/bloody-mindless-106-warehouse-development-on-quarry-road-approved/",
+                "duration": "~4 min",
+                "note": "A $57m, 5.1ha estate waved through by ministerial permit under the state's fast-track program. Yarra Ranges objected in March and was not the decision-maker.",
+                "readable": true,
+                "articleId": "b2a9905bdf5c8577",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Ukraine strikes deep inside Russia as Putin warns of a 'Pandora's box'",
+                "url": "https://www.youtube.com/watch?v=OSoVpjoOmLU",
+                "duration": "8:46",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/OSoVpjoOmLU/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Is MAGA still electable? | America, Actually",
+                "url": "https://www.youtube.com/watch?v=pfIb9phu2VM",
+                "duration": "25:25",
+                "note": "Vox testing the coalition against actual numbers ahead of the US midterms.",
+                "thumb": "https://i.ytimg.com/vi/pfIb9phu2VM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Did Kenny Omega Just Turn Heel? AEW Dynamite Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=reB1jxs7ziQ",
+                "duration": "1:31:34",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/reB1jxs7ziQ/hqdefault.jpg"
+              },
+              {
+                "title": "OWNER OF A LONELY HARP! PEP with Chas & Dr Dave (Ep 271)",
+                "url": "https://www.youtube.com/watch?v=YPOcqiaOGfM",
+                "duration": "3:26:05",
+                "note": "Yesterday's episode, and a Sunday's worth of yard work to put it against.",
+                "thumb": "https://i.ytimg.com/vi/YPOcqiaOGfM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Annoy Dragons In CLANK! CATACOMBS | The BoardRoom",
+                "url": "https://www.youtube.com/watch?v=Gv-Cv5uOLPA",
+                "duration": "2:00:08",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Gv-Cv5uOLPA/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "On gibberish",
+            "url": "https://aeon.co/essays/what-the-trolly-lolly-of-gibberish-means-for-language",
+            "duration": "~15 min",
+            "note": "Jenni Nuttall from a 1450 rebuke for muttering \"giberisshe too Godde\" through Hildegard's invented tongue and the trolly-lollying peasants of Piers Plowman. Her real argument: what we call gibberish is nearly always language we've refused to interpret — and the genuine article, baby babble, is how we learn to speak at all.",
+            "readable": true,
+            "articleId": "e5614783c802b06a",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "From Fear to Compassion: A Lesson Beyond Hospital Walls",
+            "url": "https://podcasts.apple.com/au/podcast/from-fear-to-compassion-a-lesson-beyond-hospital-walls/id1749392708?i=1000784746536&uo=4",
+            "duration": "15:33",
+            "note": "Num dia frio de inverno em São Paulo, Lucas, estudante do ensino médio, caminha para o hospital — e o medo dá lugar a outra coisa."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-21",
     "title": "Daily Brief — Friday, 21 August 2026",
     "weekday_date": "Friday, 21 August 2026",
