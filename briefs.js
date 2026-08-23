@@ -1,5 +1,130 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-24",
+    "title": "Daily Brief — Monday, 24 August 2026",
+    "weekday_date": "Monday, 24 August 2026",
+    "intro": "Overcast and cold at The Patch — 7°C now, topping out at 15°C, with a 41% chance of rain. National cabinet meets Wednesday on AI data centres, and Canberra has already decided it will legislate over any state that says no.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "DR Congo and M23 agree a roadmap for peace talks",
+                "url": "https://www.aljazeera.com/news/2026/8/23/dr-congo-m23-rebels-agree-on-roadmap-for-peace-talks",
+                "duration": "~4 min",
+                "note": "Five days of talks in Switzerland produced sequenced steps and timelines, and a verification mission lands in Minembwe today. On the same Saturday, M23 accused Kinshasa of drone strikes on civilians there.",
+                "readable": true,
+                "articleId": "aa2c09c7bb150693"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Albanese to settle AI data centre energy rules, overriding a defiant Queensland",
+                "url": "https://www.abc.net.au/news/2026-08-24/ai-data-centre-energy-rules-override-qld/107068536",
+                "duration": "~5 min",
+                "note": "\"Causer pays\" goes to national cabinet on Wednesday; Queensland and the NT won't sign anything that excludes coal and gas. The Coalition is already asking whether the override is constitutional.",
+                "readable": true,
+                "articleId": "a5d0e9d9fe202a45"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges opens EOIs for 14 fixed roadside trading sites",
+                "url": "https://mountainviews.mailcommunity.com.au/news/2026-08-08/yarra-ranges-council-opening-up-opportunities-for-roadside-trading-permits/",
+                "duration": "~3 min",
+                "note": "Kalorama Memorial Reserve, Mt Evelyn, Wandin North, Seville and ten more, permits running from January 2027. Expressions of interest close Thursday.",
+                "readable": true,
+                "articleId": "24fb478ed6d52223"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Why nonalcoholic wine is so expensive",
+                "url": "https://www.youtube.com/watch?v=lb65fE2QJtM",
+                "duration": "9:32",
+                "note": "Vox on why taking something out costs more than leaving it in.",
+                "thumb": "https://i.ytimg.com/vi/lb65fE2QJtM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The 5:1 ratio that separates happy couples from divorced ones | John & Julie Gottman",
+                "url": "https://www.youtube.com/watch?v=hqa06hmCayo",
+                "duration": "1:02:16",
+                "note": "Fifty years of observational data on what actually predicts a marriage lasting. The full interview, not a clip.",
+                "thumb": "https://i.ytimg.com/vi/hqa06hmCayo/hqdefault.jpg"
+              },
+              {
+                "title": "Planet America (17 Aug): Hasan Piker FULL interview",
+                "url": "https://www.youtube.com/watch?v=qLIsnj-DSTY",
+                "duration": "30:06",
+                "note": "Chas and Dr Dave sit down with the left's biggest streamer.",
+                "thumb": "https://i.ytimg.com/vi/qLIsnj-DSTY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "How to Play The Lord of the Rings: Circle of Conflict",
+                "url": "https://www.youtube.com/watch?v=KlwLgRew8dA",
+                "duration": "13:07",
+                "note": "Good Time Society's rules walkthrough, for deciding whether it's worth the table space.",
+                "thumb": "https://i.ytimg.com/vi/KlwLgRew8dA/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "With AI finishing your sentences, what happens to your voice on the page?",
+            "url": "https://theconversation.com/with-ai-finishing-your-sentences-what-will-happen-to-your-unique-voice-on-the-page-276036",
+            "duration": "~8 min",
+            "note": "The argument isn't that machine prose is bad; it's that it's the same — probability collapsing toward the median of everything ever written. Worth reading against the novel.",
+            "readable": true,
+            "articleId": "80a21b59fe004ccc"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Finding Serenity: Marcelo's Ipanema Revelation",
+            "url": "https://podcasts.apple.com/au/podcast/finding-serenity-marcelos-ipanema-revelation/id1749392708?i=1000785033907&uo=4",
+            "duration": "15:50",
+            "note": "Num fim de semana de inverno, Ipanema banhada em luz dourada — e Marcelo encontra a calma que procurava."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-23",
     "title": "Daily Brief — Sunday, 23 August 2026",
     "weekday_date": "Sunday, 23 August 2026",
