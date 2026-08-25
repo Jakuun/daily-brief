@@ -1,5 +1,155 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-26",
+    "title": "Daily Brief — Wednesday, 26 August 2026",
+    "weekday_date": "Wednesday, 26 August 2026",
+    "intro": "Light drizzle over The Patch and a top of 12°C — 6.7°C out there now, and a 73% chance of rain to keep you honest about the garden. Dolly Parton died overnight, Gaza's ceasefire has stopped pretending to be one, and Warburton's councillors voted last night on whether the parking meters stay.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "After Kushner left, Israel returned to pre-ceasefire rules of engagement",
+                "url": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks",
+                "duration": "~9 min",
+                "note": "The week's arithmetic: two working groups, a strike on the officials organising the weapons handover Trump's plan demands, and a tender for 1,234 units at E1. Condemnation from seven Western governments, consequences from none.",
+                "readable": true,
+                "articleId": "e58af30d957632ef"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "One Nation's first real test in the west",
+                "url": "https://www.abc.net.au/news/2026-08-23/wa-by-election-puts-one-nation-growing-appeal-to-the-test/107061162",
+                "duration": "~6 min",
+                "note": "Saturday's Secret Harbour by-election. The live question isn't whether Labor bleeds, it's whether the Liberals fight One Nation or court its preferences — South Australia suggests what the second option costs them.",
+                "readable": true,
+                "articleId": "016aa34937be6901"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Warburton's parking meters go to a vote",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-08-25/councillors-to-vote-on-paid-parking-in-warburton/",
+                "duration": "~2 min",
+                "note": "Officers recommended keeping the pilot at reduced rates. $411,000 to install, $138,000 back, and $50,000 a year to run from here.",
+                "readable": true,
+                "articleId": "d0932ce1fffca169"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Sonam Wangchuk: 'My hunger strike was worth it'",
+                "url": "https://www.youtube.com/watch?v=cydl7ufrZN8",
+                "duration": "16:28",
+                "note": "The Ladakh activist on what a year of fasting actually bought.",
+                "thumb": "https://i.ytimg.com/vi/cydl7ufrZN8/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Kidneys for sale | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=G12Hj4Eu9MM",
+                "duration": "47:53",
+                "note": "Whether there's a defensible market in organs, argued properly rather than dismissed.",
+                "thumb": "https://i.ytimg.com/vi/G12Hj4Eu9MM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "How to Improve Motivation & Overcome Procrastination | Dr Masud Husain",
+                "url": "https://www.youtube.com/watch?v=58-k4F7-AoA",
+                "duration": "2:20:21",
+                "note": "An Oxford neurologist on apathy as a clinical phenomenon, not a character flaw.",
+                "thumb": "https://i.ytimg.com/vi/58-k4F7-AoA/hqdefault.jpg"
+              },
+              {
+                "title": "New Main Event Faction Debuts, WWE Raw Review",
+                "url": "https://www.youtube.com/watch?v=jdgoa5Xu0Ds",
+                "duration": "1:08:48",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/jdgoa5Xu0Ds/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play CULTURED SWINES! | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=Ob2Pbc66lHE",
+                "duration": "1:43:12",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Ob2Pbc66lHE/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "What the panic over Gen Z's reading habits gets wrong",
+            "url": "https://theconversation.com/what-the-panic-over-gen-zs-reading-habits-gets-wrong-288338",
+            "duration": "~6 min",
+            "note": "The Atlantic says America is postliterate. Literacy researchers say the panic keeps measuring one narrow genre and calling the result a civilisation. Worth reading against your own assumptions about what counts as reading.",
+            "readable": true,
+            "articleId": "7dc06211739db237"
+          }
+        ]
+      },
+      {
+        "name": "Wildcard",
+        "items": [
+          {
+            "title": "Dolly Parton, dead at 80",
+            "url": "https://www.abc.net.au/news/2026-08-26/dolly-parton-legendary-country-singer-songwriter-dies/107078150",
+            "duration": "",
+            "note": "",
+            "readable": true,
+            "articleId": "5865a9b26d84a164"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Turning Mistakes into Parties: A Rio Adventure with Mateus",
+            "url": "https://podcasts.apple.com/au/podcast/turning-mistakes-into-parties-a-rio-adventure-with-mateus/id1749392708?i=1000785438591&uo=4",
+            "duration": "13:53",
+            "note": "Na Feira de São Cristóvão, barracas coloridas e muito movimento — e Mateus transforma um erro numa festa."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-24",
     "title": "Daily Brief — Monday, 24 August 2026",
     "weekday_date": "Monday, 24 August 2026",

@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["016aa34937be6901"] = {
+  title: "One Nation faces its first real test in WA in high-stakes Secret Harbour by-election",
+  byline: "Keane Bourke",
+  source: "ABC News",
+  url: "https://www.abc.net.au/news/2026-08-23/wa-by-election-puts-one-nation-growing-appeal-to-the-test/107061162",
+  partial: true,
+  body: "<p>One Nation has surged in east-coast polling and won four seats in South Australia's March election — two of them taken directly off the Liberals. Saturday's by-election in Secret Harbour, an outer-suburban mortgage-belt seat south of Perth, is the first hard test of whether that momentum crosses the Nullarbor. The seat was vacated by long-serving Labor minister Paul Papalia, and Premier Roger Cook has conceded Labor could \"absolutely\" lose it, blaming a \"wave of poison\" flowing west from the One Nation debate.</p><p>The more interesting problem is the Liberals'. Basil Zempilas needs One Nation preferences to have any chance, so his party has not criticised — or even named — One Nation's candidate Luke Herdegen, and Zempilas was happy to chat with him at the early voting centre. Labor's line is that this is surrender: Rita Saffioti accused Zempilas of wanting One Nation to win. Zempilas denies it while conceding that Labor losing a seat it has always held would itself be a victory.</p><p>Bourke's analysis draws out the strategic bind on both sides. Labor's messaging tries to condemn One Nation while sympathising with the cost-of-living pressures driving its vote, and risks the condemnation simply pushing voters further across. Former Labor treasurer Ben Wyatt suggests the deeper cause is governments overselling their capacity to solve problems and manufacturing the dissatisfaction that follows. Andrew Hastie, whose federal seat overlaps Secret Harbour, thinks the Liberals must fight One Nation rather than court it.</p>",
+};
