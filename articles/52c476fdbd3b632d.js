@@ -1,11 +1,9 @@
 window.__DB_ARTICLES = window.__DB_ARTICLES || {};
 window.__DB_ARTICLES["52c476fdbd3b632d"] = {
-  "title": "Consciousness may be more than the brain's output — it may be an input, too",
-  "byline": "",
-  "source": "Big Think",
-  "partial": true,
-  "url": "https://bigthink.com/mind-behavior/consciousness-may-be-more-than-the-brains-output-it-may-be-an-input-too/",
-  "body": `<p>Most neuroscience treats consciousness as a one-way product: the brain computes, and experience falls out the far end. Cognitive scientist Tom Froese floats a more provocative possibility — that consciousness might also feed back into the brain, leaving measurable physical traces when it does.</p>
-<p>Crucially, the claim is framed to be testable rather than purely metaphysical: Froese predicts that periods of sustained conscious effort should coincide with spikes of neural entropy, a signature one could go looking for in the data. It's a genuine attempt to drag a slippery philosophical question onto experimental ground.</p>
-<p>For anyone interested in process views of mind — where experience is an active participant rather than a passive readout — it's a stimulating, well-pitched read that respects both the science and the depth of the puzzle. A proper "earn your coffee" piece.</p>`
+  title: "Consciousness may be more than the brain's output — it may be an input, too",
+  byline: "Conor Feehly",
+  source: "Big Think",
+  url: "https://bigthink.com/mind-behavior/consciousness-may-be-more-than-the-brains-output-it-may-be-an-input-too/",
+  partial: true,
+  body: "<p>Most theories treat consciousness as something the brain produces — an output, downstream of the neural machinery. Cognitive scientist Tom Froese proposes inverting that: consciousness may also feed back into neural activity as an input, doing real work in the system rather than merely reporting on it.</p><p>What makes the proposal unusual among consciousness theories is that it carries a testable prediction. Froese's framework holds that periods of genuine conscious effort should coincide with measurable spikes in whole-brain neural entropy — richer, more chaotic, less predictable activity, as against the steadier low-entropy states of routine processing. Chaos, on this reading, is not noise obscuring the signal; it is the fingerprint of a mind at work.</p><p>Feehly's piece, adapted from an essay shortlisted in the 2025 Berggruen Prize Essay Competition, walks through the framework and what would count as evidence for or against it. For anyone whose instincts run to process rather than substance, it is a rare case of that intuition being given something falsifiable to stand on.</p>"
 };

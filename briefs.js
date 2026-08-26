@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-27",
+    "title": "Daily Brief — Thursday, 27 August 2026",
+    "weekday_date": "Thursday, 27 August 2026",
+    "intro": "Overcast and cold at The Patch — 5.8° now, topping out at 12.7°, no rain forecast. A glacial-fed river has emptied itself down the Nepal–Tibet border and the toll is still climbing; closer to home, the Productivity Commission has broken with convention to tell politicians they've crossed a line. Kallista, meanwhile, is fighting the same petrol station it fought six years ago.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "At least 160 dead, hundreds missing as a flash flood tears down the Nepal–Tibet border",
+                "url": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads",
+                "duration": "~4 min",
+                "note": "The Bhote Koshi took out villages, highways and 430MW of generation in Rasuwa; 403 tourists are unaccounted for, including Australians. Last year's flood on the same river was traced to a supraglacial lake draining in Tibet.",
+                "readable": true,
+                "articleId": "f37ff3ae1d77bd1e"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The Productivity Commission says a line was crossed",
+                "url": "https://www.abc.net.au/news/2026-08-26/productivity-commission-hits-back-criticism-over-gst/107078924",
+                "duration": "~4 min",
+                "note": "Commissioner Angela Jackson pushing back publicly on \"east coast clowns\" and on ministers questioning the body's methodology. Rare, and the more interesting story than the GST arithmetic itself.",
+                "readable": true,
+                "articleId": "45cb3f5d3f3a31c4"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Kallista fights the petrol station again",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-08-26/kallista-residents-oppose-petrol-station/",
+                "duration": "~4 min",
+                "note": "A renewed application on the site VCAT knocked back in a 115-page decision in 2020, largely on bushfire risk. Flammable liquids on the edge of Sherbrooke Forest, and residents say nothing in the new application answers the old objections.",
+                "readable": true,
+                "articleId": "1457d0708ab33375"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "The hidden weakness in Europe's economy",
+                "url": "https://www.youtube.com/watch?v=eqMvSc3wzZ4",
+                "duration": "10:52",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/eqMvSc3wzZ4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Is the food at the farmers market safer?",
+                "url": "https://www.youtube.com/watch?v=A-FPvbskBjk",
+                "duration": "7:54",
+                "note": "Vox actually checking the assumption rather than flattering it.",
+                "thumb": "https://i.ytimg.com/vi/A-FPvbskBjk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "AEW All In 2026 Predictions | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=NDPyH3ZaBTY",
+                "duration": "27:58",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/NDPyH3ZaBTY/hqdefault.jpg"
+              },
+              {
+                "title": "This is NOT a family friendly episode | Triforce Mailbag #75",
+                "url": "https://www.youtube.com/watch?v=we5jI-23vF4",
+                "duration": "63:30",
+                "note": "Yesterday's, before it stacks up.",
+                "thumb": "https://i.ytimg.com/vi/we5jI-23vF4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Ticket To Ride | Demon Eyes — Blood On The Clocktower",
+                "url": "https://www.youtube.com/watch?v=tuP8CVRPUxE",
+                "duration": "73:08",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/tuP8CVRPUxE/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Consciousness may be more than the brain's output — it may be an input, too",
+            "url": "https://bigthink.com/mind-behavior/consciousness-may-be-more-than-the-brains-output-it-may-be-an-input-too/",
+            "duration": "~9 min",
+            "note": "Conor Feehly on Tom Froese's proposal that conscious effort should show up as measurable spikes of neural entropy — chaos as the signature of mind doing work, not noise obscuring it. Unusually, it's falsifiable. Worth reading against your own process commitments.",
+            "readable": true,
+            "articleId": "52c476fdbd3b632d"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Love and Purpose Collide on Ipanema's Sands",
+            "url": "https://podcasts.apple.com/au/podcast/love-and-purpose-collide-on-ipanemas-sands/id1749392708?i=1000785967252&uo=4",
+            "duration": "16:17",
+            "note": "Num dia quente de inverno em Ipanema, o sol forte sobre a areia dourada — e o amor esbarra num propósito."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-26",
     "title": "Daily Brief — Wednesday, 26 August 2026",
     "weekday_date": "Wednesday, 26 August 2026",
@@ -8231,8 +8368,7 @@ window.BRIEFS = [
             "duration": "~8 min",
             "note": "Tom Froese's testable claim that experience feeds back into the brain — catnip for a process metaphysician.",
             "readable": true,
-            "articleId": "52c476fdbd3b632d",
-            "partial": true
+            "articleId": "52c476fdbd3b632d"
           }
         ]
       }
