@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-28",
+    "title": "Daily Brief — Friday, 28 August 2026",
+    "weekday_date": "Friday, 28 August 2026",
+    "intro": "Drizzle at The Patch and 4.9° on the thermometer, climbing to a thin 12.8° — a 26% chance of rain, which in the Hills means assume yes. Overnight the Northern Territory closed the last gap on the Australian map, and AFAC's spring outlook has local captains reminding everyone that \"average\" is a forecast, not a promise. Friday, and the long-form queue is healthy.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Meta settles for $18bn — and agrees to redesign itself for under-18s",
+                "url": "https://www.aljazeera.com/features/2026/8/27/metas-18bn-settlement-how-social-platforms-will-change-for-child-users",
+                "duration": "~6 min",
+                "note": "Curfews, two-hour caps, under-13 accounts purged. The money matters less than the precedent: a platform's attention mechanics are now legally negotiable.",
+                "readable": true,
+                "articleId": "4b36a955767c5210"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The NT passes voluntary assisted dying, legalising it Australia-wide",
+                "url": "https://www.abc.net.au/news/2026-08-27/nt-to-pass-voluntary-assisted-dying-bill-in-parliament/107087354",
+                "duration": "~4 min",
+                "note": "First jurisdiction in the world to legislate it in 1995, last in Australia to get it back. Thirty-one years, and a much narrower law.",
+                "readable": true,
+                "articleId": "f117e6f3aeb782b0"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "'Average' risk is not low risk, say Selby and Lilydale captains",
+                "url": "https://mountainviews.mailcommunity.com.au/news/2026-08-27/local-fire-captains-respond-to-new-afac-seasonal-bushfire-outlook/",
+                "duration": "~4 min",
+                "note": "The Dandenongs aren't in AFAC's red zone. Paul Mather's point is that history doesn't much care. Test the pump now, not in December.",
+                "readable": true,
+                "articleId": "2277b2cca7f52d69"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Iceland's EU choice: will geopolitics or sovereignty decide a knife-edge referendum?",
+                "url": "https://www.youtube.com/watch?v=8WJZc-StHfk",
+                "duration": "12:32",
+                "note": "A small country's vote that is really an argument about what security is worth.",
+                "thumb": "https://i.ytimg.com/vi/8WJZc-StHfk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Sam Altman: 'AGI in 2026', just as models start to [mis]train themselves",
+                "url": "https://www.youtube.com/watch?v=KL9_1GbmCic",
+                "duration": "23:41",
+                "note": "The claim and the awkward evidence arriving alongside it, handled without the usual credulity.",
+                "thumb": "https://i.ytimg.com/vi/KL9_1GbmCic/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The All In go-home show was underwhelming — AEW Dynamite review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=l_1-QZt9zxA",
+                "duration": "1:17:56",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/l_1-QZt9zxA/hqdefault.jpg"
+              },
+              {
+                "title": "Why Bart really lost his faith — and what came after",
+                "url": "https://www.youtube.com/watch?v=YSBiLnncL7o",
+                "duration": "42:18",
+                "note": "Ehrman on his own deconversion, which he usually talks around rather than about.",
+                "thumb": "https://i.ytimg.com/vi/YSBiLnncL7o/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "GUDNAK GAUNTLET GAME 2",
+                "url": "https://www.youtube.com/watch?v=0Gz3Iceq0yo",
+                "duration": "16:30",
+                "note": "Good Time Society, picking up from last week's game one.",
+                "thumb": "https://i.ytimg.com/vi/0Gz3Iceq0yo/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Friday essay: we're all 'political' now — but can that lead to real change?",
+            "url": "https://theconversation.com/friday-essay-were-all-political-now-but-can-that-lead-to-real-change-289208",
+            "duration": "~16 min",
+            "note": "Intifar Chowdhury on hyperpolitics: everything political, nothing durable. Her periodisation — mass politics, then postpolitics, then this — explains why intense feeling now accumulates into so little.",
+            "readable": true,
+            "articleId": "02135dc440437a58"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Mystery of the Missing Mascot: A Schoolyard Sleuth Adventure",
+            "url": "https://podcasts.apple.com/au/podcast/mystery-of-the-missing-mascot-a/id1749392708?i=1000786219062&uo=4",
+            "duration": "17:37",
+            "note": "Numa manhã fria de inverno, a sala de aula está agitada: o mascote da escola sumiu, e alguém vai ter que investigar."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-27",
     "title": "Daily Brief — Thursday, 27 August 2026",
     "weekday_date": "Thursday, 27 August 2026",
