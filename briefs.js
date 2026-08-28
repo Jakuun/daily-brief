@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-29",
+    "title": "Daily Brief — Saturday, 29 August 2026",
+    "weekday_date": "Saturday, 29 August 2026",
+    "intro": "A cold, drizzly Saturday at The Patch — 5.9°C now and only 11.4°C to look forward to, though the rain is barely there at 2%. Norway lost its king overnight, and closer to home a Lyster Ward councillor spent Tuesday night arguing that Yarra Ranges has been measuring the wrong half of one per cent. A long, wet day: the watch menu leans heavy on purpose.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Norway's King Harald V dies at 89, and Haakon becomes king",
+                "url": "https://www.aljazeera.com/news/2026/8/28/norways-king-harald-v-dies-succeeded-by-son",
+                "duration": "~4 min",
+                "note": "Europe's oldest reigning monarch, thirty-five years on the throne, and a man who refused to abdicate on the grounds that the oath was for life. His son takes it as Haakon VIII.",
+                "readable": true,
+                "articleId": "ce3ea7f74ffca332"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The unlikely alliance that couldn't stop ASIO's expanded questioning powers",
+                "url": "https://www.abc.net.au/news/2026-08-27/why-some-asio-most-controversial-powers-have-been-expanded/107084866",
+                "duration": "~6 min",
+                "note": "Antic and Roberts voting with the Greens, and losing. The grounds for compulsory secret questioning now stretch to sabotage and \"promotion of communal violence\" — worth knowing precisely how far, not just that it passed.",
+                "readable": true,
+                "articleId": "2895dd38819d0701"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Half of one per cent: Cr Mcilwain on what the climate plan actually measures",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-08-28/councillor-highlights-shortfalls-in-councils-climate-adaptation-plan/",
+                "duration": "~4 min",
+                "note": "Fifteen years of policy and a 2019 emergency declaration, aimed almost entirely at the council's own emissions. He voted for the plan anyway, then said on the record where it falls short.",
+                "readable": true,
+                "articleId": "6184113b7c2283d6"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "What's driving South Africa's growing xenophobia?",
+                "url": "https://www.youtube.com/watch?v=hqi0-c0crU0",
+                "duration": "26:01",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/hqi0-c0crU0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The world's greatest mathematician explains 6 essential concepts of math | Terence Tao",
+                "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+                "duration": "1:24:36",
+                "note": "Tao taking his time, which is the only way this is worth doing.",
+                "thumb": "https://i.ytimg.com/vi/OOMx2BHHWtE/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "FOR THE DATA GOOD! PEP with Chas & Melina Wicks (Ep 272)",
+                "url": "https://www.youtube.com/watch?v=eu7rBvG3_J4",
+                "duration": "3:32:08",
+                "note": "Wednesday's episode, and enough of it to see out a wet day's worth of indoor jobs.",
+                "thumb": "https://i.ytimg.com/vi/eu7rBvG3_J4/hqdefault.jpg"
+              },
+              {
+                "title": "King David Killed His Way to the Throne",
+                "url": "https://www.youtube.com/watch?v=7kdjPpOSdEs",
+                "duration": "52:40",
+                "note": "Ehrman on the parts of the David narrative that the Sunday-school version quietly drops.",
+                "thumb": "https://i.ytimg.com/vi/7kdjPpOSdEs/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Can you guess Zoey's secret role at the Sushi Buffet? — Blood on the Clocktower in Minecraft",
+                "url": "https://www.youtube.com/watch?v=k-rIuu8HQ2c",
+                "duration": "78:02",
+                "note": "Fresh from yesterday.",
+                "thumb": "https://i.ytimg.com/vi/k-rIuu8HQ2c/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Some of the most trusted political voices in 18th-century Britain were fictional",
+            "url": "https://theconversation.com/some-of-the-most-trusted-political-voices-in-18th-century-britain-were-fictional-why-this-tradition-lives-on-289906",
+            "duration": "~7 min",
+            "note": "Swift's astrologer Isaac Bickerstaff, Eliza Haywood's world-travelling parrot Poll, Goldsmith's Chinese visitor Lien Chi Altangi, Christopher Smart's vicious midwife Mary Midnight. Scholars call the device an eidolon — an invented editorial persona that readers trusted precisely because it was obviously invented. Good for the novel, and quietly pointed about what a voice on a page is for.",
+            "readable": true,
+            "articleId": "f1105bdb994285bd"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-28",
     "title": "Daily Brief — Friday, 28 August 2026",
     "weekday_date": "Friday, 28 August 2026",

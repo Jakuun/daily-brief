@@ -1,0 +1,8 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["2895dd38819d0701"] = {
+  title: "The unlikely alliance that couldn't stop ASIO's expanded questioning powers",
+  source: "ABC News",
+  url: "https://www.abc.net.au/news/2026-08-27/why-some-asio-most-controversial-powers-have-been-expanded/107084866",
+  partial: true,
+  body: "<p>Legislation extending one of ASIO's most contested powers — the compulsory questioning warrant, which in defined circumstances forces a person to answer questions — passed the Senate last week with the combined support of Labor and the Coalition. The power has been on the books for more than two decades; what changed is the grounds on which it can be invoked.</p><p>Those grounds now reach beyond terrorism to offences including sabotage, attacks on Australia's defence systems, and the promotion of communal violence. ASIO's argument is that the threat environment has shifted and the old framing no longer matches what the agency actually encounters.</p><p>Opposition came from an unusual quarter: Liberal senator Alex Antic and One Nation's Malcolm Roberts crossed to vote with the Greens against the expansion. Greens senator David Shoebridge framed the objection in its starkest form — that the agency can detain someone secretly, question them for 24 hours, exclude their lawyer, and then place the whole episode under a secrecy blanket.</p><p>The bill passed regardless. The question the piece leaves open is whether a power justified by an evolving threat picture can be meaningfully bounded once the categories are written this broadly.</p>"
+};

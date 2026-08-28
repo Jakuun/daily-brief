@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["6184113b7c2283d6"] = {
+  title: "Half of one per cent: Cr Mcilwain on what the climate plan actually measures",
+  byline: "Claudia Mather",
+  source: "Ranges Trader Star Mail",
+  url: "https://rangestrader.mailcommunity.com.au/news/2026-08-28/councillor-highlights-shortfalls-in-councils-climate-adaptation-plan/",
+  partial: true,
+  body: "<p>At the Yarra Ranges Council meeting on Tuesday 25 August, councillors reviewed the 2026-27 Council Action Plan — sixteen initiatives across four focus areas. Lyster Ward councillor Peter Mcilwain used initiative eight, the climate adaptation and resilience program, to make a pointed argument about what the council has been counting.</p><p>His central figure: after fifteen years of plans and policies, and a climate emergency declaration in 2019, the council's climate work has focused overwhelmingly on its own emissions — roughly half of one per cent of the shire's total. Initiative eight has milestones, he conceded, but they are not emission-reduction milestones. Community-wide emissions, he argued, are falling well short and should be treated as a budget priority rather than an optional extra.</p><p>He invoked Stern and Garnaut to make the economic case: delaying climate action does not avoid cost, it compounds it — a real problem for a council setting priorities against short-term criticalities on a shrinking budget. He floated a concrete alternative, a solar farm that could supply clean energy to households unable to install their own panels because of tree shading.</p><p>Melba Ward councillor Mitch Mazzarella responded by pointing to progress elsewhere in the plan, particularly drainage upgrades and flood mapping with Melbourne Water. Mcilwain said he would support the plan regardless; he wanted the shortfall on the record so future versions address it. The motion passed unanimously.</p>"
+};
