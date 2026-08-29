@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-30",
+    "title": "Daily Brief — Sunday, 30 August 2026",
+    "weekday_date": "Sunday, 30 August 2026",
+    "intro": "Overcast at The Patch, 6°C now and topping out at 12°C, with almost no chance of rain — a still, grey Sunday made for outside jobs and something long in the ears. In Perth, One Nation has taken a lower house seat off Labor for the first time in Western Australia, and the rest of the country is working out what that means.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Ukraine gives up the interceptor race and goes after the factories",
+                "url": "https://www.aljazeera.com/news/2026/8/28/ukraine-reinforces-donetsk-as-it-seeks-to-disrupt-russias-weapons-flow",
+                "duration": "~5 min",
+                "note": "Zelenskyy wanted 360 Patriots for winter against US production of 600 a year. Washington wouldn't release five per cent of the stockpile and the July licences were quietly rescinded, so Kyiv has switched to destroying the means of launch instead.",
+                "readable": true,
+                "articleId": "b0ae570d5f46afcc"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "One Nation takes its first WA lower house seat",
+                "url": "https://www.abc.net.au/news/2026-08-30/one-nation-claims-win-secret-harbour-by-election/107094074",
+                "duration": "~4 min",
+                "note": "Secret Harbour was safe Labor on 11.5 per cent. Luke Herdegen won it on a primary vote collapse of more than twenty points, and Labor's 60 per cent of preferences couldn't close the gap.",
+                "readable": true,
+                "articleId": "b1295d5cf674bfb4"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Council backs the Upwey childcare centre",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-08-29/council-backs-upwey-childcare-centre/",
+                "duration": "~3 min",
+                "note": "Eighty children, 24 educators, 16 car spaces, on a quiet residential street in Darling Avenue. Approved over the neighbours, and the Hills are short of places.",
+                "readable": true,
+                "articleId": "19d2059c639a045b"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "What's behind Venezuela's controversial oil deal with the US?",
+                "url": "https://www.youtube.com/watch?v=aRJJ_nMD2Xw",
+                "duration": "22:35",
+                "note": "DW taking the time to do the deal properly rather than the headline.",
+                "thumb": "https://i.ytimg.com/vi/aRJJ_nMD2Xw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Gen Z is done with both political parties | America, Actually",
+                "url": "https://www.youtube.com/watch?v=yxoHOPOM0Ok",
+                "duration": "34:10",
+                "note": "Vox on the generation that keeps getting described as left-wing while walking away from the party that assumes it.",
+                "thumb": "https://i.ytimg.com/vi/yxoHOPOM0Ok/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Planet America (24 August): Mackenzie Eaglen full interview",
+                "url": "https://www.youtube.com/watch?v=T1zT8hSIsWM",
+                "duration": "12:49",
+                "note": "Short by PEP standards; there's no new full episode yet this weekend.",
+                "thumb": "https://i.ytimg.com/vi/T1zT8hSIsWM/hqdefault.jpg"
+              },
+              {
+                "title": "Caller says evolution has a goal and he'll prove God with science",
+                "url": "https://www.youtube.com/watch?v=5B0VrzH9xy8",
+                "duration": "43:16",
+                "note": "Dillahunty on the teleology argument, which is more interesting than the title suggests.",
+                "thumb": "https://i.ytimg.com/vi/5B0VrzH9xy8/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Can Hamish Blake cook better pizza than a pro?",
+                "url": "https://www.youtube.com/watch?v=vijpxaf-bKk",
+                "duration": "23:58",
+                "note": "Fresh from yesterday.",
+                "thumb": "https://i.ytimg.com/vi/vijpxaf-bKk/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Why organisms are more than machines",
+            "url": "https://bigthink.com/13-8/nature-of-life-hans-jonas/",
+            "duration": "~9 min",
+            "note": "Adam Frank on Hans Jonas: give a Laplacian god perfect knowledge of every particle and it still couldn't tell a living body from a corpse, because an organism isn't a collection of atoms but a pattern matter passes through. Metabolism as self-reference, \"needful freedom\", purpose as intrinsic rather than projected — then forward to autopoiesis and Rosen's claim that life isn't Turing computable. Squarely your territory, and pointed at the AI question.",
+            "readable": true,
+            "articleId": "faf3e82818da2831"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Renata's Breakthrough: Bold Art Critique Lands Magazine Column",
+            "url": "https://podcasts.apple.com/au/podcast/renatas-breakthrough-bold-art-critique-lands-magazine/id1749392708?i=1000786625967&uo=4",
+            "duration": "13:50",
+            "note": "Numa noite fria de inverno, o Museu de Arte Moderna em São Paulo está animado — e uma crítica corajosa muda a vida de Renata."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-29",
     "title": "Daily Brief — Saturday, 29 August 2026",
     "weekday_date": "Saturday, 29 August 2026",
