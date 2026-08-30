@@ -1,5 +1,118 @@
 window.BRIEFS = [
   {
+    "date": "2026-08-31",
+    "title": "Daily Brief — Monday, 31 August 2026",
+    "weekday_date": "Monday, 31 August 2026",
+    "intro": "The last day of winter at The Patch: overcast, 8° now, topping out at 15°, and no rain to speak of — a good morning to get the hive checks done before spring properly arrives tomorrow. Abroad, Niamey spent Saturday night under gunfire. At home, the fight over what older Australians pay for private cover has moved from the budget papers to the kitchen table. And down the road, the Yarra Valley Quarry's expansion opens for public comment tomorrow.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Mutiny at Base 101: Niger's soldiers turn on the government they installed",
+                "url": "https://www.aljazeera.com/news/2026/8/30/nigers-military-led-government-says-it-contained-mutiny-what-next",
+                "duration": "~6 min",
+                "note": "Three years after the coup, frontline troops from Ouallam, Tera and Dosso attacked the airport, the broadcaster and the presidential palace. The junta says it's contained; Tchiani's whereabouts are unconfirmed and Russia's Africa Corps was asked to help.",
+                "readable": true,
+                "articleId": "6b9c44db6395be73"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The over-65 rebate cut arrives at the kitchen table",
+                "url": "https://www.abc.net.au/news/2026-08-30/private-health-insurance-rebates-older-regional-australians/107083218",
+                "duration": "~5 min",
+                "note": "Butler says no material impact; the insurers say 62,000 will drop cover and 200,000 downgrade; a Melbourne health economist says 42,000. The Senate inquiry reports 7 October, and the numbers people are arguing about are not close.",
+                "readable": true,
+                "articleId": "ae106d003a897c0b"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "The quarry at the foot of Mount Toolebewong opens for comment tomorrow",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-08-29/yvq-expansion-inches-closer-to-approval/",
+                "duration": "~4 min",
+                "note": "23 hectares to 43, and deep enough to swallow the Eureka Tower, directly adjoining the national park. The environment report is on Engage Victoria from 1 September until the 16th, and the assessment is going to the state, not the council.",
+                "readable": true,
+                "articleId": "3ed18cecfcd4405c"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Historic massacre dispute strains Poland–Ukraine ties",
+                "url": "https://www.youtube.com/watch?v=b8v3pCrA4LM",
+                "duration": "9:19",
+                "note": "Eighty-year-old graves doing real work in a live alliance.",
+                "thumb": "https://i.ytimg.com/vi/b8v3pCrA4LM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Acts builds an origin story. A 200 BCE inscription shows how it's done",
+                "url": "https://www.youtube.com/watch?v=6YfvWTHgivA",
+                "duration": "22:38",
+                "note": "Ehrman, posted yesterday, on the ancient conventions a founding narrative was expected to follow.",
+                "thumb": "https://i.ytimg.com/vi/6YfvWTHgivA/hqdefault.jpg"
+              },
+              {
+                "title": "Apostle Logic gets burnt to a crisp on God's \"justice\"",
+                "url": "https://www.youtube.com/watch?v=AH4uobHEboQ",
+                "duration": "57:46",
+                "note": "The meaty end of DZ Debates rather than the clip reel.",
+                "thumb": "https://i.ytimg.com/vi/AH4uobHEboQ/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "A massive ancient-DNA study rewrites how peoples — and languages — moved across Eurasia",
+            "url": "https://bigthink.com/the-past/ancient-dna-history-civilization-language/",
+            "duration": "~7 min",
+            "note": "Genomes as a migration record, and what that does to the old story of how language families spread. Where your etymology and your hard-science interests meet.",
+            "readable": true,
+            "articleId": "e0ff5aa8bb961b2c"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Renata's Breakthrough: Bold Art Critique Lands Magazine Column",
+            "url": "https://podcasts.apple.com/au/podcast/renatas-breakthrough-bold-art-critique-lands-magazine/id1749392708?i=1000786625967&uo=4",
+            "duration": "13:50",
+            "note": "A cold winter's night at São Paulo's Museu de Arte Moderna, where Renata's willingness to say the unpopular thing about a painting earns her a column."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-30",
     "title": "Daily Brief — Sunday, 30 August 2026",
     "weekday_date": "Sunday, 30 August 2026",

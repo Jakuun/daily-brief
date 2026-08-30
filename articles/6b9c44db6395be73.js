@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["6b9c44db6395be73"] = {
+  title: "Niger's military-led government says it contained mutiny: What next?",
+  byline: "Al Jazeera Staff, AP and Reuters",
+  source: "Al Jazeera",
+  url: "https://www.aljazeera.com/news/2026/8/30/nigers-military-led-government-says-it-contained-mutiny-what-next",
+  partial: true,
+  body: "<p>Just after midnight on Saturday, renegade soldiers attacked Base 101 — the military facility inside Niamey's international airport complex that US forces once used — before moving on the state broadcaster and the presidential palace. Hours of gunfire and explosions followed, the broadcaster went briefly off air, and by late Saturday the ruling council said the mutiny had been contained, with dozens of soldiers killed or arrested. Russia's ambassador told TASS that the Kremlin-backed Africa Corps had been asked to help put it down; General Tchiani's own whereabouts have not been confirmed.</p><p>Analysts say the mutineers were largely young frontline troops from Ouallam, Tera and Dosso in the country's southwest — units that have taken heavy casualties fighting the regional ISIL affiliate. ACLED's Heni Nsaibia frames the revolt as the same pressure that produced the Sahel coups now turning inward on the militaries that seized power.</p><p>That is the sting of it. Tchiani took power in July 2023 on the promise of containing armed groups, expelled French and then American forces, and bound Niger to Russia and to the Alliance of Sahel States. Three years on, al-Qaeda- and ISIL-linked fighters are still mounting mass-casualty attacks, and the frustration has reached the barracks. Abuja-based security analyst Kabir Adamu reads the choice of targets plainly: this was an attempt to overthrow the government.</p>"
+};
