@@ -1,5 +1,134 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-01",
+    "title": "Daily Brief — Tuesday, 1 September 2026",
+    "weekday_date": "Tuesday, 1 September 2026",
+    "intro": "First day of spring, and the Hills are marking it with light showers and an 82 per cent chance of rain — 8 to 18 degrees, 9.8 outside as you read this. Overnight the US and Iran traded fire for the first time since July, and closer to home the government put its second tranche of privacy laws on the table. A wet day for indoor jobs and something long in your ears.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran hits US bases in Jordan and the UAE after the Larak Island strike",
+                "url": "https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest",
+                "duration": "~7 min",
+                "note": "The first active exchange since late July. CENTCOM says it took out minelaying crews in Hormuz; the IRGC calls it aggression and answered with missiles and drones. Jordan intercepted eight. Read it for what a retired US admiral says the Jordan strike was actually for — a message to Amman, not to Washington.",
+                "readable": true,
+                "articleId": "65178db955ed3b74",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Draft privacy laws land, and the smart-glasses import ban isn't in them",
+                "url": "https://www.abc.net.au/news/2026-08-31/attorney-general-says-no-ban-on-smart-glasses-draft-privacy-laws/107097852",
+                "duration": "~5 min",
+                "note": "Rowland's second tranche brings a \"right to erasure\", a \"fair and reasonable\" collection test, and IDLock through myGov. The glasses are now under $100 and the government's answer is councils and shopping-centre change rooms. Shoebridge's objection is the sharp one: the erasure right stops at $500m in revenue, which exempts exactly the startups building this.",
+                "readable": true,
+                "articleId": "23856b11476f1909",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Eastern Health and Alexandra District Health merge from 1 November",
+                "url": "https://lilydale.mailcommunity.com.au/news/2026/08/30/voluntary-amalgamation-of-eastern-health-and-alexandra-district-health-approved/",
+                "duration": "~3 min",
+                "note": "Approved Friday. Eastern Health already delivers forty per cent of Alexandra's hospital care, and the promise is local dialysis, low-complexity surgery and better diagnostics. Murrindindi's own survey had two-thirds of respondents against it.",
+                "readable": true,
+                "articleId": "10e1722bf68176bd",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Can the US sustain an extended war without weakening its position elsewhere?",
+                "url": "https://www.youtube.com/watch?v=YqYQ8S8TwQY",
+                "duration": "17:27",
+                "note": "DW on the overstretch question, which is the one the daily strike coverage keeps skipping.",
+                "thumb": "https://i.ytimg.com/vi/YqYQ8S8TwQY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Why we can't stop thinking about aliens | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=8gkSNzZpJxQ",
+                "duration": "47:10",
+                "note": "Less about whether they're out there than about what the wanting says.",
+                "thumb": "https://i.ytimg.com/vi/8gkSNzZpJxQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "AEW Complete Wrestling And Enter The New Level, AEW All In 2026 | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=XbjUzOk4xXQ",
+                "duration": "2:08:42",
+                "note": "The full All In post-mortem, not the fourteen-minute cut-down.",
+                "thumb": "https://i.ytimg.com/vi/XbjUzOk4xXQ/hqdefault.jpg"
+              },
+              {
+                "title": "How to Accelerate Learning & Improve Education | Joe Liemandt",
+                "url": "https://www.youtube.com/watch?v=Uzoe1RYVjiA",
+                "duration": "2:33:43",
+                "note": "This week's full episode, and squarely in your professional lane for once.",
+                "thumb": "https://i.ytimg.com/vi/Uzoe1RYVjiA/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Thinking began in movement, not in words",
+            "url": "https://bigthink.com/neuropsych/origin-of-thinking/",
+            "duration": "~6 min",
+            "note": "Derek Beres on Barbara Tversky's Mind in Motion: that spatial action, not language, is the root of thought, and that written language descends from stock-tallying rather than from poetry. Llinás's \"mindness\" — process rather than state — sits underneath it. Older piece, but it's your argument in someone else's vocabulary.",
+            "readable": true,
+            "articleId": "fa1484e815325b80",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Unveiled Secrets at Machu Picchu: A Journey of Discovery",
+            "url": "https://podcasts.apple.com/au/podcast/unveiled-secrets-at-machu-picchu-a-journey-of-discovery/id1749392708?i=1000786931532&uo=4",
+            "duration": "15:13",
+            "note": "Machu Picchu perdido entre as nuvens, o ar frio e limpo do Peru — e alguém prestes a descobrir mais do que esperava."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-08-31",
     "title": "Daily Brief — Monday, 31 August 2026",
     "weekday_date": "Monday, 31 August 2026",
