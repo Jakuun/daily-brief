@@ -1,5 +1,134 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-02",
+    "title": "Daily Brief — Wednesday, 2 September 2026",
+    "weekday_date": "Wednesday, 2 September 2026",
+    "intro": "Grey and drizzly at The Patch — 7.7 to 12.9°C, and an 86% chance of rain, so the day picks itself: inside, warm, unhurried. Apple changed hands overnight for the first time in fifteen years, and closer to home the AI build-out has started competing with houses for tradespeople. Firewood season opened yesterday, if the weather ever relents.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Tim Cook hands Apple to John Ternus after fifteen years",
+                "url": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years",
+                "duration": "~5 min",
+                "note": "A hardware engineer takes over a company accused of being late to AI, a week before a foldable iPhone launch.",
+                "readable": true,
+                "articleId": "2d894ae7cc527d45",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The AI build-out is now bidding against the housing target for tradespeople",
+                "url": "https://www.abc.net.au/news/2026-09-02/ai-boom-could-hit-housing-pipeline-as-worker-shortage-grows/107103420",
+                "duration": "~4 min",
+                "note": "Last year's forecast shortfall was 42,000 sparkies; today's report says 72,000 by 2030, and data centres are why.",
+                "readable": true,
+                "articleId": "4add990d1e559a3a",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Labor names its candidate for Evelyn",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-09-01/analise-sherlock-announced-as-the-labor-candidate-for-evelyn/",
+                "duration": "~2 min",
+                "note": "Lilydale's Analise Sherlock will contest Bridget Vallence's seat at November's state election. The Hills campaign starts here.",
+                "readable": true,
+                "articleId": "f376c78cdd0c8528",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Germany blames Russia for attempted terror attack in Leipzig",
+                "url": "https://www.youtube.com/watch?v=rb7amFVFxks",
+                "duration": "24:04",
+                "note": "Ministers put a name to the drone incident at Leipzig airport.",
+                "thumb": "https://i.ytimg.com/vi/rb7amFVFxks/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Was Paul an Eyewitness of Jesus' Resurrection?",
+                "url": "https://www.youtube.com/watch?v=mwPiYk-mK0U",
+                "duration": "40:01",
+                "note": "Ehrman on the one resurrection claim with a first-person source attached.",
+                "thumb": "https://i.ytimg.com/vi/mwPiYk-mK0U/hqdefault.jpg"
+              },
+              {
+                "title": "Why Is Netflix Censoring Raw? WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=xNCemBa8uhA",
+                "duration": "58:44",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/xNCemBa8uhA/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play CAMEL UP with Brian David Gilbert | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=BEXmPYH3r8w",
+                "duration": "1:09:20",
+                "note": "Fresh this morning, and a good drizzle-afternoon length.",
+                "thumb": "https://i.ytimg.com/vi/BEXmPYH3r8w/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Do we live inside a baby universe that's really a black hole on the outside?",
+            "url": "https://bigthink.com/starts-with-a-bang/baby-universes-black-holes-dark-matter/",
+            "duration": "~13 min",
+            "note": "If every black hole interior births a universe, ours had a parent. Siegel takes the idea seriously enough to show where it breaks.",
+            "readable": true,
+            "articleId": "a4bbd26bea61f682",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Chaos at São Paulo Airport: A Lesson in Self-Care Emerges",
+            "url": "https://podcasts.apple.com/au/podcast/chaos-at-s%C3%A3o-paulo-airport-a-lesson-in-self-care-emerges/id1749392708?i=1000787134910&uo=4",
+            "duration": "16:40",
+            "note": "A spring morning at a heaving São Paulo airport turns into a lesson about looking after yourself."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-01",
     "title": "Daily Brief — Tuesday, 1 September 2026",
     "weekday_date": "Tuesday, 1 September 2026",
