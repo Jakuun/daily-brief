@@ -1,5 +1,82 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-03",
+    "title": "Daily Brief — Thursday, 3 September 2026",
+    "weekday_date": "Thursday, 3 September 2026",
+    "intro": "Fog first, then sun at The Patch — 3° early, up to 12°, barely a fifth chance of rain. A proper spring morning once the cloud lifts off the ridge. Angus Taylor has put an $8 billion bet on the table about how black markets actually work, and the pokies figures for the Yarra Ranges have gone up nearly ten per cent in a year.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "The generals keep leaving, and nobody says why",
+                "url": "https://www.aljazeera.com/news/2026/9/2/long-term-implications-pete-hegseth-military-purges",
+                "duration": "~5 min",
+                "note": "Army Secretary Daniel Driscoll resigned this week after appealing to Trump about readiness. He joins a long list under Hegseth, and the interesting question isn't who was fired but who is now doing the long-horizon thinking about drones and missiles. Marles is at the Pentagon today.",
+                "readable": true,
+                "articleId": "43d29453e8cd6a00"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Taylor bets $8 billion that cheap cigarettes will kill the black market",
+                "url": "https://www.abc.net.au/news/2026-09-03/coalition-unveils-plan-to-slash-tobacco-excise/107109642",
+                "duration": "~4 min",
+                "note": "Excise down 80 per cent, a pack from $30 of tax to $6, vapes and pouches legalised and taxed. Read it for the two soft joints: the ABS consumption figure Taylor quotes is experimental and includes vapes, and it's unclear whether the price-alignment modelling assumes the illicit price stays put.",
+                "readable": true,
+                "articleId": "0c0d4e16c2a10a5d"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "The Yarra Ranges lost $33 million on the pokies, up 9.4 per cent",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-09-02/record-losses-recorded-on-victorian-pokies/",
+                "duration": "~4 min",
+                "note": "$90,474 a day across 452 machines, and the steepest rise of any council in the story. Victoria's total hit a record $3.318 billion. Council's honest answer is that the planning scheme is most of the lever it holds.",
+                "readable": true,
+                "articleId": "91783a2f29969693"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Dawn of Everything: What if the arc of history isn't inevitable?",
+            "url": "https://bigthink.com/13-8/arc-of-history-not-inevitable/",
+            "duration": "~5 min",
+            "note": "Adam Frank on Graeber and Wengrow: the hunter-gatherers-to-empires story isn't a description, it's an Enlightenment argument the archaeology no longer supports. Their sharper claim is that believing in the arc is what cost us the ability to imagine anything else. Older piece, squarely against the grain of the Harari version.",
+            "readable": true,
+            "articleId": "39c64b115f209219"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-02",
     "title": "Daily Brief — Wednesday, 2 September 2026",
     "weekday_date": "Wednesday, 2 September 2026",
