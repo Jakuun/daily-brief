@@ -1,5 +1,82 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-06",
+    "title": "Daily Brief — Sunday, 6 September 2026",
+    "weekday_date": "Sunday, 6 September 2026",
+    "intro": "Fog first, then sun at The Patch — 3° early, up to 12°, and only a one-in-five chance of rain. A slow, clear Sunday for the hives and the garden. Overnight Putin sat down with Trump's envoys in Moscow under a three-day truce that covers two capitals and nothing else, and Laura Tingle has written the piece nobody in Canberra seems to want to read.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Putin meets Trump's envoys in Moscow, with a ceasefire that covers only the capitals",
+                "url": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war",
+                "duration": "~4 min",
+                "note": "Witkoff and Kushner arrive with \"a proposal to end the war\". Kyiv and Moscow agreed not to strike each other for three days; the rest of the front carried on, killing seven on Saturday. Kyiv gets the proposal today.",
+                "readable": true,
+                "articleId": "07c8678420c9f1a8"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Everyone but Australia is reconsidering its relationship with America",
+                "url": "https://www.abc.net.au/news/2026-09-05/united-states-richard-marles-donald-trump-aukus-paul-keating/107097650",
+                "duration": "~9 min",
+                "note": "Read it for Marles in his own words: AUKUS now justified as creating \"more sea days for the Virginia class fleet for the United States Navy\". A base rather than a capability, said out loud at the Pentagon, and Keating's response to it.",
+                "readable": true,
+                "articleId": "736ad4633ea480ff"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Selby's Mic Drop gets its second year",
+                "url": "https://ferntreegully.mailcommunity.com.au/news/2026-09-05/youth-grant-backs-selbys-mic-drop/",
+                "duration": "~3 min",
+                "note": "Youth Fest money keeps it free and pays for real sound. Menzies Creek Hall, Friday the 11th — and the community house is still shut for repairs, so it's doing double duty.",
+                "readable": true,
+                "articleId": "4866fa468ec8dfdf"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Friday essay: the radical hope of Lesbia Harford",
+            "url": "https://theconversation.com/friday-essay-jeff-sparrow-on-the-radical-hope-of-forgotten-australian-writer-lesbia-harford-289391",
+            "duration": "~15 min",
+            "note": "Jeff Sparrow on a Melbourne poet who took a law degree and went to work in a clothing factory, wrote plainly about work and desire while everyone else was doing bush ballads, and knew from the start she'd die young. As much about how a good writer goes missing as about the writer.",
+            "readable": true,
+            "articleId": "551715b5efaeedd8"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-03",
     "title": "Daily Brief — Thursday, 3 September 2026",
     "weekday_date": "Thursday, 3 September 2026",
