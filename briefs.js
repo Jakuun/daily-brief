@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-08",
+    "title": "Daily Brief — Tuesday, 8 September 2026",
+    "weekday_date": "Tuesday, 8 September 2026",
+    "intro": "A cold, flat-grey start at The Patch — 4°C now, overcast all day, topping out at 13°C with no rain to speak of. Germany woke to a far-right party 44 per cent of the way to running a state for the first time since the war, and Canberra's Pacific diplomacy turned up in a leaked text message. Belgrave, meanwhile, has quietly assembled a literary festival worth clearing a weekend for.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Germany's AfD wins in a key state, and 2029 stops looking hypothetical",
+                "url": "https://www.aljazeera.com/news/2026/9/7/germanys-afd-wins-in-key-state-is-far-right-on-cusp-of-national-rule",
+                "duration": "~6 min",
+                "note": "44 per cent in Saxony-Anhalt, three seats short of a majority, against a CDU that halved to 17. The firewall holds for now; every pollster has the AfD first nationally in 2029.",
+                "readable": true,
+                "articleId": "b04d9c80c97b9593"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The leaked text that shows what Canberra will pay for the Solomons treaty",
+                "url": "https://www.abc.net.au/news/2026-09-07/australia-strikes-agreement-with-solomon-islands-over-new-treaty/107125924",
+                "duration": "~6 min",
+                "note": "$980 million, including $43 million straight into MPs' constituency funds this year — sent to the deputy PM while Wale was fighting a no-confidence motion. Read it for the timing, not the total.",
+                "readable": true,
+                "articleId": "8414d655fb6911ed"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Chris Hammer, Sally Hepworth and Garth Nix are coming to Belgrave",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-09-02/dandenong-ranges-literary-festival-launches-expanded-program/",
+                "duration": "~3 min",
+                "note": "The Dandenong Ranges Literary Festival expands to three days, 9–11 October. A volunteer festival punching well above a hill town's weight.",
+                "readable": true,
+                "articleId": "f8c81a24ce2c7a3a"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Merz addresses the AfD's Saxony-Anhalt win",
+                "url": "https://www.youtube.com/watch?v=EOG8kqTyRHU",
+                "duration": "1:18:04",
+                "note": "DW's live coverage of the chancellor's response; worth dipping into rather than sitting through.",
+                "thumb": "https://i.ytimg.com/vi/EOG8kqTyRHU/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "GPT 6 Astra, so good even OpenAI are worried",
+                "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
+                "duration": "29:05",
+                "note": "Your most reliable read on whether a launch is a step change or a marketing cycle.",
+                "thumb": "https://i.ytimg.com/vi/Spuza-KwTJ4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Creating Yogscast 2.0 | Triforce #365",
+                "url": "https://www.youtube.com/watch?v=yI6QGPVJEKI",
+                "duration": "1:11:14",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/yI6QGPVJEKI/hqdefault.jpg"
+              },
+              {
+                "title": "How Mitochondria Control Your Metabolism | Dr. Jared Rutter",
+                "url": "https://www.youtube.com/watch?v=bv56Cuq-fyY",
+                "duration": "2:03:46",
+                "note": "This week's full episode, posted yesterday.",
+                "thumb": "https://i.ytimg.com/vi/bv56Cuq-fyY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Blood on the Clocktower with a Longest John, in a mansion",
+                "url": "https://www.youtube.com/watch?v=P7m5IFv8FnY",
+                "duration": "1:28:14",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/P7m5IFv8FnY/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Big bees have the most to lose as CO₂ rises",
+            "url": "https://theconversation.com/big-bees-have-the-most-to-lose-as-global-co-levels-rise-new-research-286559",
+            "duration": "~6 min",
+            "note": "Higher CO₂ thins what pollen offers, and the largest-bodied pollinators are the first to go missing. Pressure on the wild end of the hive question, arriving through the air rather than the usual suspects.",
+            "readable": true,
+            "articleId": "780a991efaa0be3b"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Unveiled Fears and New Beginnings at Museu do Amanhã",
+            "url": "https://podcasts.apple.com/au/podcast/unveiled-fears-and-new-beginnings-at-museu-do-amanh%C3%A3/id1749392708?i=1000788202954&uo=4",
+            "duration": "17:53",
+            "note": "Uma brisa de primavera no Museu do Amanhã, no Rio, onde alguém finalmente encara um medo antigo e começa de novo."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-06",
     "title": "Daily Brief — Sunday, 6 September 2026",
     "weekday_date": "Sunday, 6 September 2026",
