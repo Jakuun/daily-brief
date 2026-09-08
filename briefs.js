@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-09",
+    "title": "Daily Brief — Wednesday, 9 September 2026",
+    "weekday_date": "Wednesday, 9 September 2026",
+    "intro": "Drizzle at The Patch and it won't let up — 98% chance of rain, 5.6 to 10.4°C, currently 6.5. Yemen's war has come properly back to life, Canberra has finally put its algorithm laws on paper, and the SES is kitting up for storm season. An indoor day: there's a Noema essay below worth the whole pot of coffee.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Yemen's government moves on Sanaa, and the 2022 truce is finished",
+                "url": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa",
+                "duration": "~5 min",
+                "note": "728 killed or wounded since 23 August; the Bab al-Mandeb is back in play just as Hormuz is squeezed.",
+                "readable": true,
+                "articleId": "cc09afe160992d15"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Labor's draft laws would let you switch the algorithm off",
+                "url": "https://www.abc.net.au/news/2026-09-08/labour-s-social-media-algorithm-choice-duty-of-care-bill/107130100",
+                "duration": "~4 min",
+                "note": "A push notification asking whether you want recommendations at all, plus $100m+ fines under a digital duty of care. The Coalition calls it a free-speech threat.",
+                "readable": true,
+                "articleId": "e09288d1a9f2f75b"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "$2.5m of new SES kit lands before the Hills storm season",
+                "url": "https://mailcommunity.com.au/ranges-trader-star-mail/07-09-2026/new-vicses-equipment-ahead-of-storm-season/",
+                "duration": "~2 min",
+                "note": "Relevant every winter up here, and today's forecast is the opening argument.",
+                "readable": true,
+                "articleId": "f710fbe591773f19"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why a new Russia–North Korea road bridge worries Ukraine",
+                "url": "https://www.youtube.com/watch?v=Ayi_kWCliCg",
+                "duration": "14:25",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Ayi_kWCliCg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "What if you could change your personality? | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=U_ezGNRvvYs",
+                "duration": "37:07",
+                "note": "Whether character is fixed, and what it would mean if it isn't.",
+                "thumb": "https://i.ytimg.com/vi/U_ezGNRvvYs/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Why Are There Four Gospels?",
+                "url": "https://www.youtube.com/watch?v=Q6f3U1IMl1g",
+                "duration": "44:07",
+                "note": "Ehrman on the question that sounds obvious until you ask it.",
+                "thumb": "https://i.ytimg.com/vi/Q6f3U1IMl1g/hqdefault.jpg"
+              },
+              {
+                "title": "Bronson Reed Returns, But The Vision Still Suck — WWE Raw Review",
+                "url": "https://www.youtube.com/watch?v=P5lJWHG9kFY",
+                "duration": "59:27",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/P5lJWHG9kFY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Can't Stop, But IT NEVER STOPS! | House Rules",
+                "url": "https://www.youtube.com/watch?v=noW_PckALW8",
+                "duration": "2:10:16",
+                "note": "Fresh NRB, landed yesterday.",
+                "thumb": "https://i.ytimg.com/vi/noW_PckALW8/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "We May Be Entering A Second Axial Age",
+            "url": "https://www.noemamag.com/we-may-be-entering-a-second-axial-age/",
+            "duration": "~16 min",
+            "note": "Otto Scharmer argues AI is producing an \"epistemic monoculture\" and that what's depleted is social soil, not technique. Process thought in farmer's clothing — Goethe, Varela, Prigogine's islands of coherence, and a burning farmhouse.",
+            "readable": true,
+            "articleId": "aa0ef72766dc9a33"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Unveiled Fears and New Beginnings at Museu do Amanhã",
+            "url": "https://podcasts.apple.com/au/podcast/unveiled-fears-and-new-beginnings-at-museu-do-amanh%C3%A3/id1749392708?i=1000788202954&uo=4",
+            "duration": "17:53",
+            "note": "Spring in Rio, and a visit to the Museu do Amanhã turns into a reckoning with something someone has been avoiding."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-08",
     "title": "Daily Brief — Tuesday, 8 September 2026",
     "weekday_date": "Tuesday, 8 September 2026",
