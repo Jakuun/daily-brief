@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-10",
+    "title": "Daily Brief — Thursday, 10 September 2026",
+    "weekday_date": "Thursday, 10 September 2026",
+    "intro": "Cold and flat-grey at The Patch — 5.5° now, overcast all day, topping out at 12.8° with no rain in it. Nepal has finished counting the dead from the August glacier collapse and the number of the missing is still four times larger. Closer to home, Australian fifteen-year-olds have posted their worst-ever PISA results, and the Yarra Ranges pool argument has finally landed on a site.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Nepal counts its dead: more than 1,300 killed, 5,500 still missing",
+                "url": "https://www.aljazeera.com/news/2026/9/7/nepal-holds-day-of-mourning-for-more-than-1300-killed-in-floods",
+                "duration": "~4 min",
+                "note": "Flags at half-mast on the thirteenth day, the close of the Hindu mourning period. The mourned figure is the confirmed one; the missing outnumber it four to one.",
+                "readable": true,
+                "articleId": "6d717d1d244a8598",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Australian students post their worst-ever PISA reading and maths results",
+                "url": "https://www.abc.net.au/news/2026-09-08/australia-records-worst-ever-reading-and-maths-results-pisa/107101504",
+                "duration": "~5 min",
+                "note": "Still tenth in reading, sixteenth in maths, above the OECD average. The number that matters is domestic: reading two years behind where it was in 2000, maths a little worse against 2003.",
+                "readable": true,
+                "articleId": "ac83c72a7232c677",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Lilydale gets the pool, Kiloran Park is formally ruled out",
+                "url": "https://lilydale.mailcommunity.com.au/news/2026/09/09/lilydale-endorsed-for-pool-development-kiloran-park-formally-ruled-out/",
+                "duration": "~3 min",
+                "note": "A 25-metre pool endorsed for Lilydale, the old Kilsyth site off the table, learn-to-swim-only dropped. The question moves from where to how it's paid for.",
+                "readable": true,
+                "articleId": "15ccabff0d715161",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why Canada's trust in the United States may not recover anytime soon",
+                "url": "https://www.youtube.com/watch?v=p4GWL7euvqQ",
+                "duration": "10:55",
+                "note": "What happens to an alliance after the damage stops being about policy.",
+                "thumb": "https://i.ytimg.com/vi/p4GWL7euvqQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Google Pixel 11/Pro Review: Poker Face",
+                "url": "https://www.youtube.com/watch?v=ANmTVYkEtLw",
+                "duration": "12:27",
+                "note": "Post-launch, and the useful counterweight to whatever Apple does next week.",
+                "thumb": "https://i.ytimg.com/vi/ANmTVYkEtLw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Don't have kids. | Triforce Mailbag #76",
+                "url": "https://www.youtube.com/watch?v=XpVwk6vR5rs",
+                "duration": "1:02:49",
+                "note": "Thursday's, right on schedule.",
+                "thumb": "https://i.ytimg.com/vi/XpVwk6vR5rs/hqdefault.jpg"
+              },
+              {
+                "title": "The myth of the self-made individual | Daniel Coyle: Full Interview",
+                "url": "https://www.youtube.com/watch?v=arte3arYBrU",
+                "duration": "1:25:17",
+                "note": "Coyle on talent and culture as things that happen between people rather than inside them.",
+                "thumb": "https://i.ytimg.com/vi/arte3arYBrU/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Catvale Full Gameplay — One More Game!",
+                "url": "https://www.youtube.com/watch?v=Flh0B-6myE0",
+                "duration": "3:33:13",
+                "note": "A long one for a cold night in.",
+                "thumb": "https://i.ytimg.com/vi/Flh0B-6myE0/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The hardest part of creating conscious AI might be convincing ourselves it's real",
+            "url": "https://theconversation.com/the-hardest-part-of-creating-conscious-ai-might-be-convincing-ourselves-its-real-268123",
+            "duration": "~9 min",
+            "note": "Suppose a machine passes every test we agreed on. The argument is that believing it is a separate act, and that our criteria were built by minds that already assume their own — so recognition, not evidence, is what's actually being withheld.",
+            "readable": true,
+            "articleId": "7bf484256f5d9d9c",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Capturing Beauty: An Adventure Through Lençóis Maranhenses",
+            "url": "https://podcasts.apple.com/au/podcast/capturing-beauty-an-adventure-through-len%C3%A7%C3%B3is/id1749392708?i=1000788627951&uo=4",
+            "duration": "17:18",
+            "note": "Dunas brancas sem fim sob um céu azul profundo, e alguém tentando capturar algo que não cabe numa fotografia."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-09",
     "title": "Daily Brief — Wednesday, 9 September 2026",
     "weekday_date": "Wednesday, 9 September 2026",
