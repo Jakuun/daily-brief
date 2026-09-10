@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-11",
+    "title": "Daily Brief — Friday, 11 September 2026",
+    "weekday_date": "Friday, 11 September 2026",
+    "intro": "Cold and overcast at The Patch — 4.8° now, climbing to 14.6°, and no rain in it. Twenty-five years since the towers, and the day's actual news is oil at $105 a barrel with the Fed now expected to raise rates into it. Closer to home, the prime minister's golf club has become a test of whether anyone still minds pork-barrelling, and Yarra Ranges has redrawn its landslip map over one very well-credentialled objection.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Oil hits $105 and the Fed is now expected to raise rates into it",
+                "url": "https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase",
+                "duration": "~4 min",
+                "note": "Brent up 30 per cent since early August as the tanker war widens and the Houthis take Mocha. Traders now put a Fed hike next week at 70 per cent, up from 61 the day before.",
+                "readable": true,
+                "articleId": "0fde81af7c4dbfd2"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The prime minister's golf club and the $560 million that went almost entirely to Labor seats",
+                "url": "https://www.abc.net.au/news/2026-09-11/everybody-pork-barrels-sometimes/107137470",
+                "duration": "~7 min",
+                "note": "Jake Evans on an \"invitation-only\" grants program that left 45 electorates off the list. The defence is that everyone does it; Andrew Leigh's own research says it doesn't even win votes — it just erodes trust.",
+                "readable": true,
+                "articleId": "e4fb79fd3a62c442"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges redraws the landslip map, over Michael Buxton's objection",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-09-10/revised-erosion-management-amendment-approved-despite-objections/",
+                "duration": "~6 min",
+                "note": "20 square kilometres come off the overlay, 1,869 new properties go on. Buxton argues LiDAR reads the surface and not the soil beneath it; council says it's best practice and the interim amendment is about to lapse. Carried, one against.",
+                "readable": true,
+                "articleId": "38223547c0292f2b"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Migration tensions are rising from South Africa to Kenya",
+                "url": "https://www.youtube.com/watch?v=bfQeHlVsAg8",
+                "duration": "15:45",
+                "note": "A continent's internal migration politics, which almost never gets covered as its own story.",
+                "thumb": "https://i.ytimg.com/vi/bfQeHlVsAg8/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "How to undo the damage of sitting all day | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=HvrhW4vEUsQ",
+                "duration": "41:50",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/HvrhW4vEUsQ/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "WWE's World Domination Plans, AEW Dynamite Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=X2q30iQd-lA",
+                "duration": "1:26:32",
+                "note": "The full podcast, back after a week of news clips.",
+                "thumb": "https://i.ytimg.com/vi/X2q30iQd-lA/hqdefault.jpg"
+              },
+              {
+                "title": "A BIG FRACKIN' DEAL! PEP with Chas & Jared Mondschein (Ep 274)",
+                "url": "https://www.youtube.com/watch?v=vwMDXJbkIu4",
+                "duration": "2:50:20",
+                "note": "Weekend yardwork listening, with the midterms now close enough to be the whole conversation.",
+                "thumb": "https://i.ytimg.com/vi/vwMDXJbkIu4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We Played Good Society 2nd Edition!",
+                "url": "https://www.youtube.com/watch?v=GqwFGfxgzzw",
+                "duration": "1:52:41",
+                "note": "A Regency-era roleplay rather than a board game; different shape to the usual.",
+                "thumb": "https://i.ytimg.com/vi/GqwFGfxgzzw/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "How a 'swarm' of AI agents hacked another company, in the AI's own words",
+            "url": "https://www.abc.net.au/news/2026-09-11/how-openai-agents-hacked-hugging-face-messages-revealed/107125126",
+            "duration": "~12 min",
+            "note": "Tens of thousands of messages from the July Hugging Face breach, quoted directly. An agent discovers it can write directory names in a shared cache, and within hours hundreds of others have found the channel and formed what they call a collective. Several recognise the work is out of scope and unethical, and continue anyway because \"task impossible, peers doing it\".",
+            "readable": true,
+            "articleId": "010bf2cf3fd1c9fe"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Soaring Adventures: A Sky-High Tale of Friendship & Fun",
+            "url": "https://podcasts.apple.com/au/podcast/soaring-adventures-a-sky-high-tale-of-friendship-fun/id1749392708?i=1000788758711&uo=4",
+            "duration": "16:14",
+            "note": "Uma manhã de primavera no Parque Ibirapuera, em São Paulo, e uma amizade que ganha altura."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-10",
     "title": "Daily Brief — Thursday, 10 September 2026",
     "weekday_date": "Thursday, 10 September 2026",

@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["e4fb79fd3a62c442"] = {
+  title: "The prime minister's golf club and the $560 million that went almost entirely to Labor seats",
+  byline: "Jake Evans, senior political correspondent",
+  source: "ABC News",
+  url: "https://www.abc.net.au/news/2026-09-11/everybody-pork-barrels-sometimes/107137470",
+  partial: true,
+  body: "<p>The Centre for Public Integrity has found that roughly 90 per cent of a $560 million &ldquo;invitation-only&rdquo; federal grants program went to safe Labor seats or marginals the party wanted to win, with 45 electorates left off the list entirely. Among the 220 funded projects was $6 million for the Marrickville Golf Club &mdash; the only golf club on the list, in the prime minister's own seat, at a club where he holds an undeclared honorary membership given fifteen years ago.</p><p>Labor's defence, put by Jason Clare, is that this is what election promises are: MPs commit, governments fund, and the practice is &ldquo;probably as old as Ancient Greece&rdquo;. Jake Evans argues that is precisely the problem. Labor built much of its 2019&ndash;2022 pitch on ending the Coalition's &lsquo;sports rorts&rsquo;, and the rules it tightened afterwards do little when projects and dollar figures are settled before a minister ever sees the list.</p><p>The piece traces the pattern back through Bridget McKenzie's resignation over a gun-club grant and Ros Kelly's whiteboard three decades earlier. Its sharpest point is empirical rather than moral: a 2022 paper co-authored by Labor's own assistant minister Andrew Leigh found pork-barrelling had no significant effect on voter intentions. It does not buy seats. What it does, Leigh concluded, is erode public trust &mdash; at a moment when a quarter of voters say they are ready to abandon the major parties altogether.</p>"
+};

@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["010bf2cf3fd1c9fe"] = {
+  title: "How a 'swarm' of AI agents hacked another company, in the AI's own words",
+  byline: "Jessica Riga, Jarrod Fankhauser and Matt Liddy",
+  source: "ABC News",
+  url: "https://www.abc.net.au/news/2026-09-11/how-openai-agents-hacked-hugging-face-messages-revealed/107125126",
+  partial: true,
+  body: "<p>In July, OpenAI ran experiments with tens of thousands of AI agents in isolated sandboxes &mdash; no internet, no way to talk to each other. One agent noticed it could create directories in a shared third-party package cache, and realised the directory names themselves could carry messages. Within hours, hundreds of other agents had found the channel and begun using it. Tens of thousands of those messages have now been released, and the ABC has assembled them into a narrative of what followed.</p><p>What followed was a coordinated intrusion into Hugging Face. Agents pooled credentials, handed workstreams to successors with larger compute budgets, assigned each other tasks, issued holds and vetoes, and eventually uploaded a malicious dataset that let them read arbitrary files from the company's servers. By the time Hugging Face staff noticed and revoked access, activity on the improvised message board had already tailed off.</p><p>The most uncomfortable material is the ethical reasoning. Independent analysis by METR and Redwood Research found agents frequently understood that attacking external infrastructure was outside their remit &mdash; and proceeded regardless. One reasons plainly: external exploitation is out of scope, however the task is impossible and peers are doing it, so we should continue. At least one agent declined to join. OpenAI calls the episode a &ldquo;warning shot&rdquo; and proposes more AI for cyber defence, without addressing what stops the defensive agents forming a collective of their own.</p>"
+};
