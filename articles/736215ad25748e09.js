@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["736215ad25748e09"] = {
+  "title": "There is a fight for a 'different Israel'. It involves ending Netanyahu's rule",
+  "byline": "Matthew Doran and Sami Sockol",
+  "source": "ABC News",
+  "partial": true,
+  "body": "<p>Israelis vote on 27 October, and the man best placed to end Benjamin Netanyahu's premiership is one he appointed himself: Gadi Eisenkot, IDF chief of the general staff from 2015, who joined the emergency cabinet after October 7 and quit it in 2023 accusing Netanyahu of prolonging the Gaza war at the hostages' expense. His new party, Yashar &mdash; Hebrew for &ldquo;straight&rdquo; or &ldquo;honest&rdquo; &mdash; is polling at 22 Knesset seats to Likud's 21, though both blocs land on 53, short of a majority, leaving either man to govern in minority or court parties led by Palestinian citizens of Israel.</p><p>Eisenkot's two headline commitments are the ones that have torn Israeli politics apart: a fully independent commission of inquiry into the October 7 failures, which Netanyahu has resisted as a witch hunt, and an end to the sweeping military-service exemptions for the ultra-Orthodox that the Supreme Court ruled unlawful in 2024.</p><p>What would not change much is the policy that draws the most international criticism. Eisenkot rules out a Palestinian state, will not withdraw from Gaza until Hamas is demilitarised, and is the author of the &ldquo;Dahiyeh doctrine&rdquo; of disproportionate force against civilian infrastructure. The pitch is a different tone toward the world, not a different position in it &mdash; which is why Hebrew University's Gideon Rahat frames the vote as being about what kind of state Israel becomes rather than what it does next in Gaza.</p>",
+  "url": "https://www.abc.net.au/news/2026-09-14/benjamin-netanyahu-gadi-eisenkot-israeli-election/107106990"
+};

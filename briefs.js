@@ -1,5 +1,138 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-15",
+    "title": "Daily Brief — Tuesday, 15 September 2026",
+    "weekday_date": "Tuesday, 15 September 2026",
+    "intro": "Light drizzle at The Patch and a 92% chance it keeps up — 5.9 to 11°C, currently 9.1, so a day for the indoor list. Israel has a date with the ballot box and a former general who might actually beat Netanyahu, Whyalla's blast furnace has gone cold for good, and the council has quietly put the next decade of the Hills out for comment.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "The general Netanyahu appointed is now the favourite to unseat him",
+                "url": "https://www.abc.net.au/news/2026-09-14/benjamin-netanyahu-gadi-eisenkot-israeli-election/107106990",
+                "duration": "~7 min",
+                "note": "Gadi Eisenkot's Yashar party leads Likud by a seat five weeks out from 27 October; the tone toward the world would change, the policy on Gaza mostly wouldn't.",
+                "readable": true,
+                "articleId": "736215ad25748e09",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Whyalla's blast furnace will not restart: 500 jobs gone, an arc furnace three years off",
+                "url": "https://www.abc.net.au/news/2026-09-14/hundreds-of-jobs-to-go-at-whyalla-steelworks/107149844",
+                "duration": "~4 min",
+                "note": "Cold since April, now permanent, with a $10.2m package against a gap a single-industry town has to survive.",
+                "readable": true,
+                "articleId": "1b7222995ada0201",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges puts its next ten years of climate and environment policy out for comment",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-09-11/draft-climate-and-environment-strategy-open-for-feedback/",
+                "duration": "~2 min",
+                "note": "Submissions close 11 October. Water, biodiversity and growth pressure in one document — worth a read before it's settled.",
+                "readable": true,
+                "articleId": "d92dc1b5bf9c41c1",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Could Canada join the EU?",
+                "url": "https://www.youtube.com/watch?v=fXKPCggK4j8",
+                "duration": "11:10",
+                "note": "A question that sounds like a thought experiment until you look at the treaty text.",
+                "thumb": "https://i.ytimg.com/vi/fXKPCggK4j8/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "iPhone Duo: What We Missed!",
+                "url": "https://www.youtube.com/watch?v=6D__H_DO2Xk",
+                "duration": "10:36",
+                "note": "The folding one, after a week of actually using it.",
+                "thumb": "https://i.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The Art of True Happiness — Dr Arthur Brooks",
+                "url": "https://www.youtube.com/watch?v=Gk2ArbsrZwE",
+                "duration": "2:49:59",
+                "note": "Brooks is unusually rigorous on this for a happiness guy; a long one for a wet day.",
+                "thumb": "https://i.ytimg.com/vi/Gk2ArbsrZwE/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Gudnak Gauntlet — Game 4",
+                "url": "https://www.youtube.com/watch?v=IHXjKjklCRg",
+                "duration": "22:35",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/IHXjKjklCRg/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Put down your phone and engage in boredom",
+            "url": "https://theconversation.com/put-down-your-phone-and-engage-in-boredom-how-philosophy-can-help-with-digital-overload-262396",
+            "duration": "~6 min",
+            "note": "Heidegger's profound boredom as a threshold rather than a defect: the argument that we've patched over the one mood that lets the world speak. Close to the bone for a project like this one.",
+            "readable": true,
+            "articleId": "433bc92de72434a5"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Echoes of Discovery: Unearthing Secrets in the Amazon",
+            "url": "https://podcasts.apple.com/au/podcast/echoes-of-discovery-unearthing-secrets-in-the-amazon/id1749392708?i=1000789514691&uo=4",
+            "duration": "17:08",
+            "note": "Thiago, Camila and Rafael set off into the Amazon at first light, and find rather more than they were looking for."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-14",
     "title": "Daily Brief — Monday, 14 September 2026",
     "weekday_date": "Monday, 14 September 2026",
