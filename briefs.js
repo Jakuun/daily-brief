@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-14",
+    "title": "Daily Brief — Monday, 14 September 2026",
+    "weekday_date": "Monday, 14 September 2026",
+    "intro": "Drizzle and a grey ceiling at The Patch — 13.3° now, 10.7 to 15.3, and a 45 per cent chance it stays damp all day. BRICS has finished two days in New Delhi and produced a declaration that says everything except who it means. At home One Nation has finally put numbers on its migration policy, and at the base of Mount Toolebewong the community has been given a fortnight to read a thousand pages.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "BRICS lands a declaration in New Delhi, and carefully names nobody",
+                "url": "https://www.aljazeera.com/news/2026/9/13/brics-summit-2026-what-are-the-key-takeaways",
+                "duration": "~7 min",
+                "note": "Eleven members, 40 per cent of global GDP, consensus held together by generalised language: unilateral tariffs condemned without saying \"the US\", Middle East restraint urged without saying \"Iran\" or \"Israel\". The exception is Palestine, where the wording is explicit. A good read on what a bloc can and can't do.",
+                "readable": true,
+                "articleId": "aa7b1e96204e9286"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "One Nation's migration plan: 750,000 fewer places, and no visas for skilled migrants' families",
+                "url": "https://www.abc.net.au/news/2026-09-14/750k-visas-cut-under-one-nation-plan/107149702",
+                "duration": "~5 min",
+                "note": "Student places cut from 590,000 to 350,000, post-study work visas from 270,000 to 40,000, family visas to zero, then a 130,000 net ceiling. Watt says recession; Hume says no modelling. Hanson's answer is that a bigger pie is no use if your slice is shrinking.",
+                "readable": true,
+                "articleId": "c432f12c591ca7a8"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Fourteen days to read a thousand pages on the Yarra Valley Quarry",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-09-12/cynical-and-tokenistic-councillors-demand-extension-to-yarra-valley-quarry-submission-deadline/",
+                "duration": "~3 min",
+                "note": "Cr McAllister calls the submission window \"cynical\" and \"shameful\". The site adjoins Yarra Ranges National Park, the expansion would go 43 hectares wide and 285 metres deep, and the minister already ruled out a full EES.",
+                "readable": true,
+                "articleId": "2dbcb4d1a711462c"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why Congo can't get its new Ebola epidemic under control",
+                "url": "https://www.youtube.com/watch?v=fP5RcbRio2A",
+                "duration": "12:32",
+                "note": "Reporting from inside the outbreak rather than the usual case-count update.",
+                "thumb": "https://i.ytimg.com/vi/fP5RcbRio2A/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Five things you need to know for the 2026 midterms | America, Actually",
+                "url": "https://www.youtube.com/watch?v=FZ34RCZTmS4",
+                "duration": "30:41",
+                "note": "The structural explainer to have before the coverage starts in earnest.",
+                "thumb": "https://i.ytimg.com/vi/FZ34RCZTmS4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "HERE COMES THE BRIBE! PEP with Chas & Dr Dave & Richard Cooke (Ep 275)",
+                "url": "https://www.youtube.com/watch?v=mBTWVE08nyw",
+                "duration": "3:23:24",
+                "note": "Yardwork listening, if the drizzle lets up.",
+                "thumb": "https://i.ytimg.com/vi/mBTWVE08nyw/hqdefault.jpg"
+              },
+              {
+                "title": "What Did Jesus' Bible Look Like?",
+                "url": "https://www.youtube.com/watch?v=nhqO5V-E2bA",
+                "duration": "59:58",
+                "note": "Ehrman on the scriptures Jesus himself would have known, which are not the ones most people picture.",
+                "thumb": "https://i.ytimg.com/vi/nhqO5V-E2bA/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Who will join Nilesy's cult of evil? — Blood on the Clocktower in Minecraft",
+                "url": "https://www.youtube.com/watch?v=K8c9633K3bk",
+                "duration": "1:08:14",
+                "note": "Clocktower with the map as the grimoire.",
+                "thumb": "https://i.ytimg.com/vi/K8c9633K3bk/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "How AI prompting turned writerly description into an everyday skill",
+            "url": "https://theconversation.com/how-ai-prompting-turned-writerly-description-into-an-everyday-skill-280334",
+            "duration": "~6 min",
+            "note": "The argument is an inversion worth sitting with: to get an image out of a machine you must first do what novelists do for readers — turn objects, spaces and mood into precise words. Description stops being a literary flourish and becomes a functional skill millions now practise daily, mostly badly.",
+            "readable": true,
+            "articleId": "0ac6597ea346fce6"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Hope Among Ruins: Survival and Diplomacy in Post-Apocalyptic Rio",
+            "url": "https://podcasts.apple.com/au/podcast/hope-among-ruins-survival-and-diplomacy-in-post/id1749392708?i=1000789148263&uo=4",
+            "duration": "16:44",
+            "note": "O Cristo Redentor em ruínas no horizonte, e um Rio quase irreconhecível onde sobreviver depende de saber negociar."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-11",
     "title": "Daily Brief — Friday, 11 September 2026",
     "weekday_date": "Friday, 11 September 2026",
