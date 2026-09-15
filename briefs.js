@@ -1,5 +1,145 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-16",
+    "title": "Daily Brief — Wednesday, 16 September 2026",
+    "weekday_date": "Wednesday, 16 September 2026",
+    "intro": "Cold and grey at The Patch — 5.6° now, topping out at 10, light drizzle but only a 4 per cent chance of anything serious. A drone carrying explosives came down inside NATO airspace overnight, Canberra's copyright plan for AI has leaked and it is not what the arts sector was promised, and the council has quietly started pitching Lilydale to developers.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "A drone with a warhead comes down over Lithuania, and von der Leyen calls it a pattern",
+                "url": "https://www.abc.net.au/news/2026-09-15/russia-denmark-helicopter-flares/107157272",
+                "duration": "~5 min",
+                "note": "Italian pilots flying the Baltic air-policing mission shot it down near Kaunas after it crossed from Belarus. Lithuania's defence minister says it was carrying explosive; the debris is still being read for a country of origin. Read it for how carefully everyone is avoiding the word \"attack\".",
+                "readable": true,
+                "articleId": "0a8cca282e7422ee",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The leaked copyright plan: opt-out by default, and the \"long tail\" gets paid nothing",
+                "url": "https://www.abc.net.au/news/2026-09-15/ai-companies-train-on-creator-work-documents-reveal/107154688",
+                "duration": "~6 min",
+                "note": "Cam Wilson has the slides from the attorney-general's \"AI on Australian Terms\" consultation. Both options make inclusion in training the default unless you opt out; the second requires only that AI companies strike a quota of deals, with \"no additional $ payable to creators beyond deals negotiated to achieve quota\". Worth your attention as a writer, not just as a reader.",
+                "readable": true,
+                "articleId": "f284a1a70a1b602c",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges launches an investment blueprint for Lilydale",
+                "url": "https://lilydale.mailcommunity.com.au/news/2026/09/15/yarra-ranges-council-launches-lilydale-investment-blueprint/",
+                "duration": "~3 min",
+                "note": "Council is pitching the Major Activity Centre to developers and investors: mixed-use housing, health, education, hospitality, visitor accommodation. The pool decision last week was where; this is the how much.",
+                "readable": true,
+                "articleId": "a42f60fd98f64d29",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Russia's secret network of 'disposable agents' in Europe",
+                "url": "https://www.youtube.com/watch?v=Yoi-Pet57k4",
+                "duration": "9:06",
+                "note": "The recruitment layer under the drone incidents, which the incident coverage never gets to.",
+                "thumb": "https://i.ytimg.com/vi/Yoi-Pet57k4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "This Woman Cured Her Cancer with an Insane Method",
+                "url": "https://www.youtube.com/watch?v=0NY2gAftzJE",
+                "duration": "15:14",
+                "note": "Kurzgesagt's first full essay in six weeks.",
+                "thumb": "https://i.ytimg.com/vi/0NY2gAftzJE/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Should Penta Have Won The WWE Title? WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=60H6RMNxSro",
+                "duration": "1:00:28",
+                "note": "Yesterday's full podcast, not the eight-minute news cut.",
+                "thumb": "https://i.ytimg.com/vi/60H6RMNxSro/hqdefault.jpg"
+              },
+              {
+                "title": "1,800 Years of Fixing Gospel Contradictions",
+                "url": "https://www.youtube.com/watch?v=-lVcg4AQ0Cc",
+                "duration": "37:53",
+                "note": "Ehrman on the harmonising tradition itself: not what the contradictions are, but what eighteen centuries of patching them reveals about what people needed the text to be.",
+                "thumb": "https://i.ytimg.com/vi/-lVcg4AQ0Cc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play FLIP 7 WITH A VENGEANCE with Smosh Games | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=qZUMYxf-HRg",
+                "duration": "1:34:24",
+                "note": "Fresh this morning.",
+                "thumb": "https://i.ytimg.com/vi/qZUMYxf-HRg/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Friday essay: 'All I am is literature' — Kafka's diaries as the forge of his writing",
+            "url": "https://theconversation.com/friday-essay-all-i-am-is-literature-franz-kafkas-diaries-were-the-forge-of-his-writing-196573",
+            "duration": "~12 min",
+            "note": "Linda Daley on Ross Benjamin's translation, which restores the half-legible sentences, the false starts and the criss-crossing between notebooks that Brod tidied into High German. The pleasure is watching one sentence get reforged across several pages — and the argument that the \"I\" on the page is often not Kafka at all. Relevant to your own drafting more than to Kafka scholarship.",
+            "readable": true,
+            "articleId": "22dc229cab0fbf79"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Mysteries of the Amazon: A Journey Through Time and Nature",
+            "url": "https://podcasts.apple.com/au/podcast/mysteries-of-the-amazon-a-journey-through-time-and-nature/id1749392708?i=1000789642428&uo=4",
+            "duration": "17:48",
+            "note": "O amanhecer sobre a floresta amazônica, a névoa densa pairando — e uma viagem que acaba encontrando mais história do que natureza."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-15",
     "title": "Daily Brief — Tuesday, 15 September 2026",
     "weekday_date": "Tuesday, 15 September 2026",
