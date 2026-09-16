@@ -1,5 +1,135 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-17",
+    "title": "Daily Brief — Thursday, 17 September 2026",
+    "weekday_date": "Thursday, 17 September 2026",
+    "intro": "A cold, drizzly Thursday at The Patch — 6° now, topping out around 10°, with light drizzle in the air but almost no real rain in the forecast. Abroad, Trump has lost his mail-ballot fight seven weeks out from the midterms and is saying so loudly; at home the over-65s private health rebate is the fight that actually decides money, and Victoria's crime auction has started early.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Trump loses the mail-ballot fight, and turns on his own court",
+                "url": "https://www.abc.net.au/news/2026-09-16/trump-slams-the-supreme-court-for-rejecting-his-push-to-restrict/107157666",
+                "duration": "~4 min",
+                "note": "The USPS rule would have let the post office refuse ballots in non-approved envelopes or from voters missing off state-supplied lists. A 6–3 conservative court he largely built said the administration was unlikely to win on the merits; only Alito and Thomas dissented. Read it for the target of his anger, which is no longer the Democrats.",
+                "readable": true,
+                "articleId": "6df9140a2103b7d6"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The over-65s rebate cut: $1.6 billion of it comes from age pensioners",
+                "url": "https://www.abc.net.au/news/2026-09-14/pensioners-to-shoulder-1-6b-private-health-changes/107139936",
+                "duration": "~4 min",
+                "note": "From April 2027 the age-based bonus goes: 65–69 drops from 28 per cent, over-70s from 32, everyone on the same income treated alike. PBO analysis puts $1.6b of the ~$3b on the 1.5 million pensioners who hold cover. The Coalition will block it, so the Greens decide — which is why \"betraying pensioners\" is the phrase in play.",
+                "readable": true,
+                "articleId": "1b33b026fca553a0"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Labor adopts the stop-and-search policy it rejected under Allan",
+                "url": "https://www.abc.net.au/news/2026-09-16/jacks-law-victorian-knife-crime-labor-election-promise/106611898",
+                "duration": "~4 min",
+                "note": "Ben Carroll promises Jack's Law if re-elected on 28 November, lifting a Coalition policy his party dismissed three months ago. Criminologists say there's little evidence expanded search powers reduce violent offending, and a well-documented racial-profiling cost. The interesting thing is the direction of travel: the new premier is competing on the opposition's ground.",
+                "readable": true,
+                "articleId": "066fd42f13ddaf44"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "What kind of relationship is the EU offering Canada?",
+                "url": "https://www.youtube.com/watch?v=grYL07Ct7wg",
+                "duration": "15:41",
+                "note": "Brussels courting Ottawa is the quiet realignment story under the louder ones.",
+                "thumb": "https://i.ytimg.com/vi/grYL07Ct7wg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "iPhone 18 Pro Review: All About that Chip",
+                "url": "https://www.youtube.com/watch?v=ohqxP8EEumo",
+                "duration": "16:35",
+                "note": "The proper review, a week after the impressions video; the Duo got the attention but this is the one most people buy.",
+                "thumb": "https://i.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Caller's DESIGN Argument Totally BACKFIRES feat. Jeff from End of a Species",
+                "url": "https://www.youtube.com/watch?v=ceCWAUatf2Y",
+                "duration": "51:04",
+                "note": "Full episode, posted yesterday.",
+                "thumb": "https://i.ytimg.com/vi/ceCWAUatf2Y/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Guess The Board Game (Hard Mode) | Beat The Boss",
+                "url": "https://www.youtube.com/watch?v=bCpP35k_Vas",
+                "duration": "45:24",
+                "note": "Fresh BlampCo, and a good length for an evening in the cold.",
+                "thumb": "https://i.ytimg.com/vi/bCpP35k_Vas/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Physics doesn't explain the universe. Computation does.",
+            "url": "https://bigthink.com/the-well/physics-doesnt-explain-the-universe-computation-does/",
+            "duration": "~30 min",
+            "note": "Wolfram's case, in his own words, that underneath physics is a network of \"atoms of space\" being progressively rewritten — time as the rewriting, not the stage. He reaches for the antique framing himself (\"made of atoms, or everything flows\"), and computational irreducibility is the sharp end: some things can only be run, never jumped ahead of. A long one — save it for a slow morning.",
+            "readable": true,
+            "articleId": "aef3d71f854de6a4"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Family's Unique Independence Day Celebration",
+            "url": "https://podcasts.apple.com/au/podcast/familys-unique-independence-day-celebration/id1749392708?i=1000789989823&uo=4",
+            "duration": "19:18",
+            "note": "Uma brisa de primavera, o perfume dos ipês amarelos no jardim do Lúcio, e uma família que comemora o Sete de Setembro à sua própria maneira."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-16",
     "title": "Daily Brief — Wednesday, 16 September 2026",
     "weekday_date": "Wednesday, 16 September 2026",
