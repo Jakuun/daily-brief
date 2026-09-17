@@ -1,5 +1,142 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-18",
+    "title": "Daily Brief — Friday, 18 September 2026",
+    "weekday_date": "Friday, 18 September 2026",
+    "intro": "A cold start at The Patch — 3°C and overcast — opening out to 18°C with no rain in it, which is about as good as a spring Friday gets for getting outside. Two ballots worth watching over the weekend: the SA Liberals decide on Saturday whether Alex Antic runs their party, and the roads in our own hills have just become election currency.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "'Reasonable grounds' US committed war crimes in Iran, human rights experts say",
+                "url": "https://www.abc.net.au/news/2026-09-17/reasonable-grounds-us-war-crimes-iran-strike-minab-school/107166362",
+                "duration": "~5 min",
+                "note": "The UN-backed mission's finding on the Minab school turns on recklessness, not error: the US struck a building it had not verified while aware of a substantial risk it was civilian. The same report finds crimes against humanity by Iran's own government.",
+                "readable": true,
+                "articleId": "7ab33d04c5d52377"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The Liberal Party's Saturday: a vaccine-sceptic senator, and the chair of the board",
+                "url": "https://www.abc.net.au/news/2026-09-18/liberal-party-grapples-with-promoting-alex-antic-at-agm/107159920",
+                "duration": "~5 min",
+                "note": "Antic's No Jab, No Pay repeal drew 34 votes against and one Coalition vote for — his own. Two hundred delegates now decide whether he gets the SA presidency and a federal executive seat.",
+                "readable": true,
+                "articleId": "c8244ac5da157239"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "The Auditor-General says half of Cardinia's state roads are failing; locals say it's worse",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-09-17/great-push-for-great-roads/",
+                "duration": "~4 min",
+                "note": "53.8 per cent poor or very poor, on data already two years old. CRAG21's petition and Renee Heath's question in parliament both land the same point: unsealed roads in a disaster-prone area are an emergency-access problem, not a comfort one.",
+                "readable": true,
+                "articleId": "8bc31804cf220da1"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Who will secure southern Lebanon after UN peacekeepers leave?",
+                "url": "https://www.youtube.com/watch?v=M1pAE3YF-b4",
+                "duration": "5:03",
+                "note": "DW on the vacuum UNIFIL leaves behind.",
+                "thumb": "https://i.ytimg.com/vi/M1pAE3YF-b4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "What AI Researchers Saw, Before Their Demand to 'Pace' AI",
+                "url": "https://www.youtube.com/watch?v=J3ljHm57yU0",
+                "duration": "24:53",
+                "note": "The strongest read available on what actually prompted the pacing call, rather than the reaction to it.",
+                "thumb": "https://i.ytimg.com/vi/J3ljHm57yU0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Is WWE Struggling With Its Top Stars? AEW Dynamite",
+                "url": "https://www.youtube.com/watch?v=d5rnSKVHARc",
+                "duration": "1:18:36",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/d5rnSKVHARc/hqdefault.jpg"
+              },
+              {
+                "title": "The Shanghai Guy | Triforce #366",
+                "url": "https://www.youtube.com/watch?v=HMAMF0IVhRk",
+                "duration": "1:15:47",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/HMAMF0IVhRk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Rush of Ikorr TCG 3v3 Playthrough",
+                "url": "https://www.youtube.com/watch?v=djWZgOflpaI",
+                "duration": "52:21",
+                "note": "Good Time Society outside their usual Clocktower lane.",
+                "thumb": "https://i.ytimg.com/vi/djWZgOflpaI/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "If we want artificial \"superintelligence,\" it may need to feel pain",
+            "url": "https://bigthink.com/mini-philosophy/if-we-want-an-artificial-superintelligence-we-may-need-to-let-it-feel-pain/",
+            "duration": "~5 min",
+            "note": "Jonathan Birch on sentience, sapience and selfhood, and the possibility that intelligence can't be had without something that can be hurt. Every intelligence we know of is nested; AI is the first to skip the stack.",
+            "readable": true,
+            "articleId": "dd66bf1bb3dff79f"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "From Outsider to Ally: Tiago's Journey in the Amazon",
+            "url": "https://podcasts.apple.com/au/podcast/from-outsider-to-ally-tiagos-journey-in-the-amazon/id1749392708?i=1000790317926&uo=4",
+            "duration": "17:52",
+            "note": "Spring in the Amazon, a community in motion, and an outsider finding his footing among them."
+          }
+        ]
+      }
+    ],
+    "signoff": "The pre-fetch ran an hour late this morning — the log shows it starting at 5:51 and finishing at 6:18 rather than the usual 5:20, with all 27 channels retrieved. Everything below is today's data."
+  },
+  {
     "date": "2026-09-17",
     "title": "Daily Brief — Thursday, 17 September 2026",
     "weekday_date": "Thursday, 17 September 2026",

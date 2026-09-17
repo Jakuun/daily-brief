@@ -1,0 +1,9 @@
+window.__DB_ARTICLES = window.__DB_ARTICLES || {};
+window.__DB_ARTICLES["8bc31804cf220da1"] = {
+  title: "Great push for great roads",
+  byline: "Ethan Henson",
+  source: "Ranges Trader Star Mail",
+  url: "https://rangestrader.mailcommunity.com.au/news/2026-09-17/great-push-for-great-roads/",
+  partial: true,
+  body: "<p>The Victorian Auditor-General's road report, released on 9 September, found 53.81 per cent of state roads in Cardinia Shire in poor or very poor condition in 2024. Paul Keen of the Cockatoo Roads Action Group (CRAG21) says the real picture is worse, because the audit draws on 2024&ndash;25 data and less maintenance has been funded since. His group has a petition to parliament with more than 2,000 signatures seeking to have unsealed roads in the Hills sealed.</p><p>Keen's argument is about where money goes rather than how much there is: most of the poor and very poor roads sit outer-metro to regional, which he reads as the state funding roads around the inner-metro Big Build and leaving everyone else. He notes the Coalition's $5 billion &ldquo;Pot Hole Pledge&rdquo; criteria match Cardinia Council's own advocacy exactly, and that the local ask is about 1.5 per cent of the fund.</p><p>Opposition MLC for Eastern Victoria Renee Heath took it to parliament this week, asking the Minister for Transport Infrastructure to commit to funding priority state roads. She had been driven around Cardinia's five worst unsealed roads &mdash; Fern Gully, View Hill, Wright, Pinnocks and Station Avenue &mdash; with Keen and the Liberal candidate for Monbulk, Clare Fitzmaurice, and framed it as a safety and emergency-access problem in a highly disaster-prone area.</p><p>Cardinia Shire Council says the VAGO findings reinforce what it has been advocating for. With the state election on 28 November, roads in the Hills are now a campaign asset for both sides.</p>"
+};
