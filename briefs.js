@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-19",
+    "title": "Daily Brief — Saturday, 19 September 2026",
+    "weekday_date": "Saturday, 19 September 2026",
+    "intro": "Mainly clear at The Patch, 11°C now and heading to 21°C with almost no chance of rain — the first properly warm Saturday of the spring, and a day that wants you outside. Abroad, the Red Sea is becoming the next chokepoint; at home, an absence from a statement is the story.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Italy sends warships to Bab al-Mandeb rather than wait for Brussels",
+                "url": "https://www.aljazeera.com/economy/2026/9/18/italy-to-deploy-warships-to-protect-shipping-through-bab-al-mandeb",
+                "duration": "~3 min",
+                "note": "With Hormuz effectively closed since Iran took it, the Red Sea was the last artery for Gulf oil. The Houthis now hold the entire Yemeni coast and the islands in the lane, and Crosetto says Rome won't let \"bureaucratic delays\" decide. Twelve to fifteen per cent of world trade passes through a 30km gap.",
+                "readable": true,
+                "articleId": "897056e4730abea2",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Australia was in the West Bank sanctions talks, then quietly wasn't",
+                "url": "https://www.abc.net.au/news/2026-09-19/uk-west-bank-sanctions-bloc-expected-australia-to-join/107159388",
+                "duration": "~6 min",
+                "note": "Eight diplomatic sources tell the ABC Canberra was in the drafting until late, appeared in an earlier version of the text, and pulled out — some signatories only realising on the day of release. DFAT's stated objection is that blanket bans could hurt Palestinian workers; the officials quoted suspect domestic politics. Canada was the only non-European name on it.",
+                "readable": true,
+                "articleId": "93e2876229513507",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Council's engagement roadshow reaches Healesville and the Yarra Centre next week",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-09-17/have-your-say-at-yarra-ranges-council-community-engagement-roadshow/",
+                "duration": "~2 min",
+                "note": "Pop-ups on the draft Climate and Environment Strategy and the draft Domestic Animal Management Plan: Healesville Community Link Wednesday 23rd, the Yarra Centre Thursday 24th. You read the strategy last week — this is where you get to say something about it.",
+                "readable": true,
+                "articleId": "56f716d757678026",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Ukraine war casts long shadow over Russia's tightly controlled State Duma election",
+                "url": "https://www.youtube.com/watch?v=ay_y6ZJyHHY",
+                "duration": "20:38",
+                "note": "350 drones over Moscow as polls opened, and no party permitted to be antiwar.",
+                "thumb": "https://i.ytimg.com/vi/ay_y6ZJyHHY/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "How to debate, from a 2x world champion | Bo Seo: Full Interview",
+                "url": "https://www.youtube.com/watch?v=8vYZ5oQb4M8",
+                "duration": "1:11:24",
+                "note": "Why arguments fail, the four bad-faith personas that hijack them, and a framework for deciding whether to have one at all.",
+                "thumb": "https://i.ytimg.com/vi/8vYZ5oQb4M8/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The Most Famous Prayer in Judaism Isn't Monotheistic; Neither is the Bible",
+                "url": "https://www.youtube.com/watch?v=mkMxm08gCkU",
+                "duration": "49:13",
+                "note": "Ehrman on the Shema, which turns out to be a claim about loyalty rather than about how many gods there are.",
+                "thumb": "https://i.ytimg.com/vi/mkMxm08gCkU/hqdefault.jpg"
+              },
+              {
+                "title": "God Helped Him Win at the Casino? | Matt Dillahunty & Justin DZ",
+                "url": "https://www.youtube.com/watch?v=rsXYVaZyvYM",
+                "duration": "38:15",
+                "note": "Both of the hosts you'd pick, on the survivorship-bias end of providence.",
+                "thumb": "https://i.ytimg.com/vi/rsXYVaZyvYM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Touring Our Game Show TV Studio!",
+                "url": "https://www.youtube.com/watch?v=ecHdw922QFk",
+                "duration": "18:57",
+                "note": "Short and light, for whenever you and Caroline want twenty minutes.",
+                "thumb": "https://i.ytimg.com/vi/ecHdw922QFk/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "John Gray on why \"progress\" in politics is an illusion",
+            "url": "https://bigthink.com/mini-philosophy/history-shows-that-human-progress-is-a-myth/",
+            "duration": "~4 min",
+            "note": "Gray's argument is tighter than the usual declinism because it turns on a definition: progress is cumulative advance that doesn't unwind, which technology manages and ethics never has. Jonny Thomson sets it against Hegel and Marx, and the neo-Christian genealogy — secularised sacred time — is the part with real teeth. Gray is on stage in London today, as it happens.",
+            "readable": true,
+            "articleId": "e6d5e9704311d012",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-18",
     "title": "Daily Brief — Friday, 18 September 2026",
     "weekday_date": "Friday, 18 September 2026",
