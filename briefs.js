@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-21",
+    "title": "Daily Brief — Monday, 21 September 2026",
+    "weekday_date": "Monday, 21 September 2026",
+    "intro": "Drizzle at The Patch, 4.5° to 12.3°, 82 per cent chance of rain — a day for the fire and something long. Germany's chancellor is calling his own election night a disaster, and Treasury has put a date on when Australians will start dying faster than they're born. School holidays start today, so the roads will be quieter.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Merz calls it a 'disaster': the far left takes Berlin, the AfD takes the northeast",
+                "url": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains",
+                "duration": "~5 min",
+                "note": "Die Linke to 24.5 per cent in Berlin, the AfD to 37 in Mecklenburg-Western Pomerania, and the CDU to its worst state result since the founding of the republic. Two weeks after Saxony-Anhalt, Merz's approval sits near 14 per cent and he is promising to stay. Read it for Dominic Kane's caveat — the AfD owns the old East, and the elections that decide Germany are in the West.",
+                "readable": true,
+                "articleId": "3b9d75de16b2b26d",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Treasury has now dated the year Australian deaths overtake births",
+                "url": "https://www.abc.net.au/news/2026-09-21/intergenerational-report-igr-deaths-births-aging/107176284",
+                "duration": "~6 min",
+                "note": "The Intergenerational Report lands with fertility revised down \"further and faster\": median age 45 by 2066, the over-85 cohort tripled, each of them costing the budget what four working-age people contribute. Jake Evans's point is the contradiction — the report names migration as the resilience, and both major parties are competing to cut it.",
+                "readable": true,
+                "articleId": "67a9394b42223f4c",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges unemployment up a full point, and Victorian apprenticeships down a third",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-09-21/yarra-ranges-employment-under-pressure-as-victoria-confronts-jobs-and-apprenticeship-decline/",
+                "duration": "~5 min",
+                "note": "3.5 to 4.5 per cent in nine months, 879 more people out of work, with the Upper Yarra worst placed. Victorian apprentice contracts have fallen 31.6 per cent since 2022 against a forecast need for 373,000 extra workers. Neither state department answered the Star Mail's questions.",
+                "readable": true,
+                "articleId": "df34bf7f53558d42",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Trump says US to build a 'large Military presence' in Greenland",
+                "url": "https://www.youtube.com/watch?v=KwGA14rMHZ0",
+                "duration": "11:15",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/KwGA14rMHZ0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Why Latino voters have turned on Trump | America, Actually",
+                "url": "https://www.youtube.com/watch?v=OGixndAvyKw",
+                "duration": "30:07",
+                "note": "The realignment that decided 2024 appears to be unwinding; Vox has the numbers rather than the vibes.",
+                "thumb": "https://i.ytimg.com/vi/OGixndAvyKw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "SUPER DARIO WORLD! PEP with Chas & Dr Dave (Ep 276)",
+                "url": "https://www.youtube.com/watch?v=FTxqEnTqixU",
+                "duration": "3:04:40",
+                "note": "Thursday's episode, saved for the yard. The drizzle may have other ideas.",
+                "thumb": "https://i.ytimg.com/vi/FTxqEnTqixU/hqdefault.jpg"
+              },
+              {
+                "title": "All the Scientists Have Been CORRUPTED, but THIS Guy Has Answers | Forrest Valkai & BlitzPhilosophy",
+                "url": "https://www.youtube.com/watch?v=3FKzPr7wbbs",
+                "duration": "49:52",
+                "note": "Valkai on the line, which is the version worth having.",
+                "thumb": "https://i.ytimg.com/vi/3FKzPr7wbbs/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We Drafted Gudnak... and it's still GUD!",
+                "url": "https://www.youtube.com/watch?v=-9EEaSo3i2I",
+                "duration": "41:08",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/-9EEaSo3i2I/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "We got a cybersecurity expert to hack this BYD. It was too easy",
+            "url": "https://www.abc.net.au/news/2026-09-21/byd-hacked-by-cybersecurity-expert-vehicle-sabotage-surveillance/107139482",
+            "duration": "~8 min",
+            "note": "Angus Grigg lets a hacker kill his headlights on a dark country road, then listens in through the cabin microphone, splices his own recorded \"Hey Siri\" and has the phone read out his address, date of birth and Malcolm Turnbull's number. The access point had no password. Australia regulates connected washing machines more tightly than cars.",
+            "readable": true,
+            "articleId": "e9b48a39c89870ab",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Mystery at the Spring Festival: A Tale of Trust and Triumph",
+            "url": "https://podcasts.apple.com/au/podcast/mystery-at-the-spring-festival-a-tale-of-trust-and-triumph/id1749392708?i=1000790643425&uo=4",
+            "duration": "16:14",
+            "note": "Spring sun over Parque do Ibirapuera, a festival in full swing, and something that goes missing."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-19",
     "title": "Daily Brief — Saturday, 19 September 2026",
     "weekday_date": "Saturday, 19 September 2026",
