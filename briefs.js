@@ -1,5 +1,134 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-22",
+    "title": "Daily Brief — Tuesday, 22 September 2026",
+    "weekday_date": "Tuesday, 22 September 2026",
+    "intro": "A cold, clear start at The Patch — 3.6° now, climbing to 13.6°, not a drop of rain forecast. Tehran and Washington are circling each other again ahead of the UN General Assembly, ASIC has stopped warning Australia's private credit sector and started threatening it, and the equinox arrives tomorrow evening. Good morning for the hives.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Iran says the US is preparing to resume strikes, and warns the neighbours",
+                "url": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes",
+                "duration": "~3 min",
+                "note": "Khatam al-Anbiya says it has information a new round is coming; Trump told Fox he is in \"deciding mode\" and would meet Pezeshkian at the UN this week. The tell is in the shipping data — twelve vessels through Hormuz over the weekend, down from thirty-five.",
+                "readable": true,
+                "articleId": "9ec19a9f0c9b610c",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "ASIC to private credit: \"We're now beyond warnings\"",
+                "url": "https://www.abc.net.au/news/2026-09-22/asic-lays-down-the-law-to-australian-private-credit-sector/107178192",
+                "duration": "~6 min",
+                "note": "Of 28 funds reviewed, four disclosed their interest rates and two stress-tested for liquidity. Bathla's collapse is the crack; millions of Australians are exposed through super without knowing it. Bullock says it isn't systemic — read both and decide who's being careful.",
+                "readable": true,
+                "articleId": "c0f313affa6fd5b5",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges is now 18th in Victoria for homelessness presentations, up 25 per cent in two years",
+                "url": "https://upperyarra.mailcommunity.com.au/news/2026-09-17/report-reveals-need-for-homelessness-support-rising-in-maroondah-knox-and-yarra-ranges/",
+                "duration": "~3 min",
+                "note": "1,938 presentations in 2024–25, with Maroondah up 32 per cent alongside. Carroll and Staikos answered the Council to Homeless Persons report with $24.8m for rough sleeping — the outer east's problem is mostly the step before that.",
+                "readable": true,
+                "articleId": "19ec440e345afc65",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "What Russia's election means for the war in Ukraine",
+                "url": "https://www.youtube.com/watch?v=4uWgAbep9dg",
+                "duration": "7:13",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/4uWgAbep9dg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Gospel contradictions terrified me. Now I love them.",
+                "url": "https://www.youtube.com/watch?v=MOCaGXZ-FMk",
+                "duration": "18:00",
+                "note": "Ehrman on the shift from treating contradiction as a threat to treating it as evidence. The autobiographical framing does real work here.",
+                "thumb": "https://i.ytimg.com/vi/MOCaGXZ-FMk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "This is how you rule the world | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=XsfJTbdVFo0",
+                "duration": "54:29",
+                "note": "Yesterday's episode, and the one closest to your reading: power as a practice rather than a possession.",
+                "thumb": "https://i.ytimg.com/vi/XsfJTbdVFo0/hqdefault.jpg"
+              },
+              {
+                "title": "Best Tools for Gut Health & Weight Loss | Dr. Chris Thompson",
+                "url": "https://www.youtube.com/watch?v=ecjEM3NJ0lU",
+                "duration": "2:27:53",
+                "note": "This week's full episode. Long even by Huberman's standards; a yardwork listen.",
+                "thumb": "https://i.ytimg.com/vi/ecjEM3NJ0lU/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The case that madness is philosophy in practice",
+            "url": "https://bigthink.com/philosophy/the-case-that-madness-is-philosophy-in-practice/",
+            "duration": "~10 min",
+            "note": "Wouter Kusters, philosopher and linguist, on his own psychosis and the argument that chemistry \"says nothing about how the mad world is actually experienced from the inside\". Adapted from A Philosophy of Madness. Phenomenology with skin in the game.",
+            "readable": true,
+            "articleId": "87009febcfe748e7",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Ancient Secrets Unveiled: The Mystery of Ipanema Beach",
+            "url": "https://podcasts.apple.com/au/podcast/ancient-secrets-unveiled-the-mystery-of-ipanema-beach/id1749392708?i=1000790756932&uo=4",
+            "duration": "15:52",
+            "note": "Sun on Ipanema, waves on white sand, and something old turning up where it shouldn't."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-21",
     "title": "Daily Brief — Monday, 21 September 2026",
     "weekday_date": "Monday, 21 September 2026",
