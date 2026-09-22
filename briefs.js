@@ -1,5 +1,145 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-23",
+    "title": "Daily Brief — Wednesday, 23 September 2026",
+    "weekday_date": "Wednesday, 23 September 2026",
+    "intro": "A cold, overcast start at The Patch — 3°C now, climbing to 18, and no rain to speak of. Xi Jinping lands in Washington today for the first Chinese state visit in eleven years, while Albanese is in New York arguing for AI rules the Trump administration has just publicly attacked. Spring is doing its work quietly underneath all of it.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "China watchers split on what a Trump-Xi Washington summit will actually deliver",
+                "url": "https://www.abc.net.au/news/2026-09-23/donald-trump-xi-jinping-meeting-washington-trade-ai/107179684",
+                "duration": "~6 min",
+                "note": "Three days of ceremony around an AI-and-tariffs agenda; CSIS reads most of it as theatre, Fudan reads it as stability.",
+                "readable": true,
+                "articleId": "ec349fc9f3c9037d"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Trump administration attacks Australia's 'opt-out' algorithm law in rare intervention",
+                "url": "https://www.abc.net.au/news/2026-09-22/trump-administration-slams-digital-duty-of-care-bill/107182970",
+                "duration": "~5 min",
+                "note": "Washington wants US platforms carved out of the digital duty of care, calling it \"extraterritorial censorship\". Foreign governments almost never do this in public.",
+                "readable": true,
+                "articleId": "30a44ec0fa5b6065",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Victoria bans data centres from residential zones and near schools",
+                "url": "https://www.abc.net.au/news/2026-09-22/victorian-data-centres-policy-renewable-energy-mandates/107178138",
+                "duration": "~4 min",
+                "note": "Carroll's strategy: 150m from homes, bring your own renewables and storage, no drinking water. The opposite of Queensland's approach, two months out from the election.",
+                "readable": true,
+                "articleId": "1250faf7e90aff13",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Trump vs the press: Who controls the story?",
+                "url": "https://www.youtube.com/watch?v=toDa79doi9M",
+                "duration": "14:39",
+                "note": "DW on the machinery of the story, not the day's outrage.",
+                "thumb": "https://i.ytimg.com/vi/toDa79doi9M/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "This Is What a Godlike Civilization Would Look Like",
+                "url": "https://www.youtube.com/watch?v=QW_jlUn4gA8",
+                "duration": "14:12",
+                "note": "Kurzgesagt on Kardashev at the far end of the scale.",
+                "thumb": "https://i.ytimg.com/vi/QW_jlUn4gA8/hqdefault.jpg"
+              },
+              {
+                "title": "ARC Raiders is About to Get Much Bigger...",
+                "url": "https://www.youtube.com/watch?v=WjN-PptX8LM",
+                "duration": "11:14",
+                "note": "A substantial update incoming; worth knowing before you next drop in.",
+                "thumb": "https://i.ytimg.com/vi/WjN-PptX8LM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "WWE Heard Your Complaints, WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=QeYW8ofeRZU",
+                "duration": "64:38",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/QeYW8ofeRZU/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We Played Teensy Blood on the Clocktower with Sam Reich & Elaine Carroll | Terror in Teensyville EP2",
+                "url": "https://www.youtube.com/watch?v=UQjOjRbk9zY",
+                "duration": "76:12",
+                "note": "NRB, with Sam Reich in the mix.",
+                "thumb": "https://i.ytimg.com/vi/UQjOjRbk9zY/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Epiphenomenalism: One of philosophy's most disturbing ideas",
+            "url": "https://bigthink.com/mini-philosophy/epiphenomenalism-mind-body-problem-dualism/",
+            "duration": "~7 min",
+            "note": "The cheapest exit from dualism's causation problem: keep the mind, drop the doing. The traffic-jam analogy does a lot of damage.",
+            "readable": true,
+            "articleId": "465f3df387977941",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "An Unexpected Day in the Heart of Parque Ibirapuera",
+            "url": "https://podcasts.apple.com/au/podcast/an-unexpected-day-in-the-heart-of-parque-ibirapuera/id1749392708?i=1000791067287&uo=4",
+            "duration": "17:32",
+            "note": "Rafaela and Thiago's walk through São Paulo's Ibirapuera park turns into something they hadn't planned on."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-22",
     "title": "Daily Brief — Tuesday, 22 September 2026",
     "weekday_date": "Tuesday, 22 September 2026",
