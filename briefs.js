@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-24",
+    "title": "Daily Brief — Thursday, 24 September 2026",
+    "weekday_date": "Thursday, 24 September 2026",
+    "intro": "Overcast at The Patch, 8.9° now and climbing to 22 with barely a chance of rain — a good day to be outside. New York is the centre of gravity this morning: Trump told the General Assembly he won't let anyone slow down \"super intelligence\", and the AI industry is left holding its own leash.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "The UN asked for guardrails on AI. The two countries that matter said no",
+                "url": "https://www.abc.net.au/news/2026-09-24/ai-industry-un-bleak-warnings/107186256",
+                "duration": "~5 min",
+                "note": "Xi skipped the General Assembly entirely for a White House meeting; Trump used his speech to reject international controls outright. Speers's framing is the useful one — the middle-power plea for \"human direction, oversight and control\" was uncontroversial and went nowhere, which tells you what kind of world we're now in.",
+                "readable": true,
+                "articleId": "4f6d233b3b6ebdfb",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Half of young adults are still at home, and mortgage entry has quietly become a wealth filter",
+                "url": "https://www.abc.net.au/news/2026-09-24/hilda-survey-2026/107185914",
+                "duration": "~6 min",
+                "note": "Twenty-five years of HILDA: 18–29s living with parents up from 39 to 50 per cent, young renters in capital-city housing stress up from 17.6 to 25.3. The counterintuitive number is mortgage stress holding flat at ~9 per cent — not because it got easier, but because only the already-advantaged get in.",
+                "readable": true,
+                "articleId": "ed623e3865f3cab9",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Parks Victoria's first strike in 15 years ends, and Maroondah Reservoir reopens for good",
+                "url": "https://lilydale.mailcommunity.com.au/news/2026/09/15/new-deal-ends-four-months-of-disruption/",
+                "duration": "~5 min",
+                "note": "Twelve months of bargaining settled with a 3 per cent rise, a $5,000 payment and a structural uplift for some of the state's lowest-paid public servants. The local texture is the interesting part: the Maroondah Dam parkrun, Healesville cafés, and a resident wondering how an ambulance would have got through a locked vehicle gate.",
+                "readable": true,
+                "articleId": "a514a957e783a977",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "What the media gets wrong about Israel | America, Actually",
+                "url": "https://www.youtube.com/watch?v=iqoN-7okyHk",
+                "duration": "33:15",
+                "note": "Vox turning the lens on coverage itself rather than the events.",
+                "thumb": "https://i.ytimg.com/vi/iqoN-7okyHk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "ARC Raiders Just Revealed Its Biggest Update Yet (Frozen Trail)",
+                "url": "https://www.youtube.com/watch?v=Rpi9S9Nci20",
+                "duration": "14:40",
+                "note": "The big one has landed; this is the rundown.",
+                "thumb": "https://i.ytimg.com/vi/Rpi9S9Nci20/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The Age of Jingles are Over | Triforce Mailbag #77",
+                "url": "https://www.youtube.com/watch?v=GOymK1J7yqQ",
+                "duration": "70:01",
+                "note": "This week's, dropped today.",
+                "thumb": "https://i.ytimg.com/vi/GOymK1J7yqQ/hqdefault.jpg"
+              },
+              {
+                "title": "The KJV is a Literary Masterpiece, And a Disaster Study Bible",
+                "url": "https://www.youtube.com/watch?v=XrrRXXkOWcA",
+                "duration": "44:52",
+                "note": "Ehrman on the gap between a great English sentence and a reliable text. Squarely your territory.",
+                "thumb": "https://i.ytimg.com/vi/XrrRXXkOWcA/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Be Cute Criminals In GOODCRITTERS | The BoardRoom",
+                "url": "https://www.youtube.com/watch?v=0heTyNCgbgo",
+                "duration": "87:11",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/0heTyNCgbgo/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "From rock carvings to rock music: bees in art throughout human history",
+            "url": "https://theconversation.com/from-rock-carvings-to-rock-music-the-prevalence-of-bees-in-art-throughout-human-history-173069",
+            "duration": "~7 min",
+            "note": "Mesolithic honey-hunting rock art through Tang Dynasty poetry to the Beatles, with a lovely etymological turn: \"drone\" as a musical texture comes from the Old English for a male bee. Three of your preoccupations in one piece.",
+            "readable": true,
+            "articleId": "be831f7368ebcf2b",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "The Forgotten Ring: A Tale of Persistence and Heritage",
+            "url": "https://podcasts.apple.com/au/podcast/the-forgotten-ring-a-tale-of-persistence-and-heritage/id1749392708?i=1000791243063&uo=4",
+            "duration": "17:47",
+            "note": "In the Serra Gaúcha, among vineyards and green hills, a lost family ring becomes a story about holding on to what's inherited."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-23",
     "title": "Daily Brief — Wednesday, 23 September 2026",
     "weekday_date": "Wednesday, 23 September 2026",
