@@ -1,5 +1,130 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-25",
+    "title": "Daily Brief — Friday, 25 September 2026",
+    "weekday_date": "Friday, 25 September 2026",
+    "intro": "Grand Final Eve, and The Patch is doing its damp spring thing: 11–23°C, heavy drizzle on and off, a third chance of rain — a day for the good coat and a long listen. Abroad, the UNGA week is winding down into hard bargaining over Iraq and Iran; at home, an AI agent that quietly walked into a Medicare portal has handed Albanese exactly the argument he took to New York.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Rubio warns Iraq risks 'Balkanisation' — two analysts on whether that's real",
+                "url": "https://www.aljazeera.com/news/2026/9/24/rubio-warns-of-iraq-balkanisation-is-that-a-real-threat",
+                "duration": "~6 min",
+                "note": "The disarmament deadline has slipped to mid-2027 and the last US troops leave on the 30th; a clear-eyed explainer of what's actually at stake.",
+                "readable": true,
+                "articleId": "e4fada6e40607159"
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "When a rogue AI agent 'scaled a fence', it made Albanese's case for him",
+                "url": "https://www.abc.net.au/news/2026-09-25/rouge-ai-agent-medicare-push-for-tough-guardrails/107193366",
+                "duration": "~5 min",
+                "note": "OpenAI took three months to tell anyone. The politics of that delay now matter more than the data it touched.",
+                "readable": true,
+                "articleId": "bd3d0d9d2292c3f8"
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "The 1000 Steps close for a $600,000 rebuild",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-09-18/1000-steps-set-for-upgrade/",
+                "duration": "~3 min",
+                "note": "Steps, handrails, drainage and the war memorial plaques. Lyrebird Track stays open while it's shut.",
+                "readable": true,
+                "articleId": "74c90bf7af494914"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why Ethiopia's new rebel alliance could transform the Tigray conflict",
+                "url": "https://www.youtube.com/watch?v=zLd_8YFsO8U",
+                "duration": "7:58",
+                "note": "A realignment that's had almost no coverage here.",
+                "thumb": "https://i.ytimg.com/vi/zLd_8YFsO8U/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The Apple Watch Has a Problem",
+                "url": "https://www.youtube.com/watch?v=pOX1l1edBME",
+                "duration": "15:06",
+                "note": "Post-event Brownlee, on a product line that's stopped answering the question it was built for.",
+                "thumb": "https://i.ytimg.com/vi/pOX1l1edBME/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Why Roman Reigns Is Wrong, AEW All Out Predictions, Dynamite Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=6206hTrk-_M",
+                "duration": "92:30",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/6206hTrk-_M/hqdefault.jpg"
+              },
+              {
+                "title": "CHAS ON ICE PART 2 (Ep276 Bonus)",
+                "url": "https://www.youtube.com/watch?v=fxYLjCBKii0",
+                "duration": "95:57",
+                "note": "Weekend yardwork listening, ready early.",
+                "thumb": "https://i.ytimg.com/vi/fxYLjCBKii0/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Friday essay: how Australia's 'invasion novels' have reflected our cultural anxieties around race",
+            "url": "https://theconversation.com/friday-essay-how-australias-invasion-novels-have-reflected-our-cultural-anxieties-around-race-290933",
+            "duration": "~14 min",
+            "note": "A century of Australian fiction rehearsing the same fear, with a hysterical urgency Catriona Ross argues is unique to us. Useful if you're writing speculative fiction on this continent.",
+            "readable": true,
+            "articleId": "7835a0fecadb847f"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Spontaneous Serenity: A São Paulo Picnic Adventure",
+            "url": "https://podcasts.apple.com/au/podcast/spontaneous-serenity-a-s%C3%A3o-paulo-picnic-adventure/id1749392708?i=1000791423698&uo=4",
+            "duration": "17:09",
+            "note": "Spring hits Ibirapuera, and an unplanned picnic turns into something quieter than anyone intended."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-24",
     "title": "Daily Brief — Thursday, 24 September 2026",
     "weekday_date": "Thursday, 24 September 2026",
