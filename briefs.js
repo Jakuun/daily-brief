@@ -1,5 +1,139 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-26",
+    "title": "Daily Brief — Saturday, 26 September 2026",
+    "weekday_date": "Saturday, 26 September 2026",
+    "intro": "Light showers over The Patch and a cold one — 5° to a bare 11°, rain near-certain at 97% — so it's an indoors, long-form sort of Saturday. The UN's speech week closed out with Albanese warning that the global rules are breaking down and Netanyahu emptying the hall.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Netanyahu's UN belligerence plays to the ballot box as the hall empties",
+                "url": "https://www.aljazeera.com/news-analysis/2026/9/25/netanyahus-un-belligerence-wins-cheers-at-home-as-world-walks-out",
+                "duration": "~6 min",
+                "note": "Delegations walked out; Simon Speakman Cordall reads it as election-season theatre with no strategy behind it.",
+                "readable": true,
+                "articleId": "c169b554f296cf39",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Albanese takes 'the breakdown of international rules' to the General Assembly",
+                "url": "https://www.abc.net.au/news/2026-09-25/anthony-albanese-gives-speech-at-un-general-assembly/107194592",
+                "duration": "~3 min",
+                "note": "The speech itself, with climate and AI as the two tests — and a quiet pitch for a 2029–30 Security Council seat, Finland the only rival.",
+                "readable": true,
+                "articleId": "f9701949804769ba",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "A Millgrove advocate lands on Victoria's Honour Roll of Women",
+                "url": "https://mailcommunity.com.au/ranges-trader-star-mail/25-09-2026/we-wanted-to-have-a-voice-yarra-ranges-health-advocate-jackie-murphy-on-the-states-honour-roll/",
+                "duration": "~3 min",
+                "note": "Jackie Murphy, one of 27 named on Wednesday, for years spent getting rare-disease patients a voice in their own care.",
+                "readable": true,
+                "articleId": "1c0694d13eed8503",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "The AI double squeeze: job loss and predatory debt | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=WVxfkDrfouo",
+                "duration": "41:01",
+                "note": "Who actually absorbs the cost of automation. Sits right alongside what Albanese took to New York.",
+                "thumb": "https://i.ytimg.com/vi/WVxfkDrfouo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Opus 5.5: How Close Are We to Automated AI Research?",
+                "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
+                "duration": "32:54",
+                "note": "Whether the new model genuinely moves the needle on AI doing its own research.",
+                "thumb": "https://i.ytimg.com/vi/R9momwXV9w4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Almost Nothing in the Hebrew Bible Is Original",
+                "url": "https://www.youtube.com/watch?v=GgybtdUgzi4",
+                "duration": "54:36",
+                "note": "Ehrman on the Near Eastern material sitting underneath Genesis and the Psalms.",
+                "thumb": "https://i.ytimg.com/vi/GgybtdUgzi4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "New Storyteller, New Players! — Blood on the Clocktower in Minecraft",
+                "url": "https://www.youtube.com/watch?v=tfulcpKhJHY",
+                "duration": "91:08",
+                "note": "Fresh Clocktower with someone new behind the grimoire.",
+                "thumb": "https://i.ytimg.com/vi/tfulcpKhJHY/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "America is too big for the Great American Novel",
+            "url": "https://bigthink.com/books/the-great-american-novel/",
+            "duration": "~11 min",
+            "note": "Frank Jacobs argues the search was always a category error: 400-odd novels mapped, and the case for a library rather than a masterpiece.",
+            "readable": true,
+            "articleId": "a4bd34a906dc3da5",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-25",
     "title": "Daily Brief — Friday, 25 September 2026",
     "weekday_date": "Friday, 25 September 2026",
