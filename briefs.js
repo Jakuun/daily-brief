@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-29",
+    "title": "Daily Brief — Tuesday, 29 September 2026",
+    "weekday_date": "Tuesday, 29 September 2026",
+    "intro": "Overcast at The Patch and a proper spring spread — 9.9° now, down to 6 and up to nearly 20, with no rain in it. The RBA hands down its decision this afternoon and almost nobody thinks it holds; in Metz, Pope Leo closed out his France trip by telling religious leaders that invoking God to justify violence profanes the name. Closer to home, a visa ballot in Canberra is about to be felt in the Valley's vineyards.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Pope Leo asks Europe's religious leaders for 'the disarmament of hearts and words'",
+                "url": "https://abcnews.com/International/wireStory/pope-urges-religious-leaders-france-preach-peace-recalls-136815740",
+                "duration": "~3 min",
+                "note": "Nicole Winfield on the Metz meeting with Jewish, Muslim, Protestant and Orthodox leaders, staged deliberately at the Robert Schuman centre — the man whose Coal and Steel Community turned a border region into the seam of European integration. The geography is the argument.",
+                "readable": true,
+                "articleId": "3e7578c7b1f46f9b",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Rates almost certainly rise today. The real question is whether a second one lands before Christmas",
+                "url": "https://www.abc.net.au/news/2026-09-28/interest-preview-ahead-of-sept-29-meeting/107196596",
+                "duration": "~8 min",
+                "note": "4.35 to 4.6 per cent, the highest since November 2011, with all 29 economists Bloomberg surveyed in agreement. Janda and Branley's useful bit is the disagreement past today: Shane Oliver expects a cooling economy to make November unnecessary, while money markets price at least two more and Canstar reads the banks' own moves as a bet the other way. Five hikes this year have added $456 a month to a $600,000 loan.",
+                "readable": true,
+                "articleId": "f2051ccacda2e9bb",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Backpacker visa ballot lands on the Yarra Valley's labour problem",
+                "url": "https://lilydale.mailcommunity.com.au/news/2026/09/28/backpacker-visa-cuts-raise-concerns-for-yarra-ranges-tourism-and-hospitality/",
+                "duration": "~6 min",
+                "note": "Second- and third-year working holiday visas move from automatic extension to a ballot: one in five miss out on year two, five in six on year three. Victoria stands to lose ~8,700 backpackers and $129 million in visitor spend. The local wrinkle Gabriella Vukman draws out is that Coldstream and Healesville are already classed metropolitan, so the Valley never had the 88-day carrot — it just quietly competes for the same workers.",
+                "readable": true,
+                "articleId": "18f8237a8bae7145",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Could the US sell weapons to its biggest rival China?",
+                "url": "https://www.youtube.com/watch?v=O1SNEt-UgLg",
+                "duration": "14:42",
+                "note": "DW on a proposition that would have been unthinkable a year ago, and the summit logic now making it sayable.",
+                "thumb": "https://i.ytimg.com/vi/O1SNEt-UgLg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The dark side of modern therapy culture | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=JysbLAm7uL4",
+                "duration": "38:42",
+                "note": "What happens when the language of the clinic becomes the language of everything.",
+                "thumb": "https://i.ytimg.com/vi/JysbLAm7uL4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Remembering Pac (1986–2026), AEW All Out 2026 Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=Yj6zGLzO2Vk",
+                "duration": "1:47:16",
+                "note": "The podcast's first new episode in a while, and it's an obituary as much as a review.",
+                "thumb": "https://i.ytimg.com/vi/Yj6zGLzO2Vk/hqdefault.jpg"
+              },
+              {
+                "title": "What Humans, Animals and Plants Tell Us About Consciousness | Michael Pollan",
+                "url": "https://www.youtube.com/watch?v=nk15CT41MFc",
+                "duration": "2:02:19",
+                "note": "Pollan on Huberman, on where in the living world you're willing to say the lights are on. Squarely your territory, and long enough for a full day in the garden.",
+                "thumb": "https://i.ytimg.com/vi/nk15CT41MFc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Jack Insisted He Needed An Assistant. So We Called His Bluff",
+                "url": "https://www.youtube.com/watch?v=yjCU9vWV_yE",
+                "duration": "26:11",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/yjCU9vWV_yE/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Scientists map the fungal network under everything",
+            "url": "https://bigthink.com/strange-maps/fungal-internet/",
+            "duration": "~7 min",
+            "note": "SPUN's 16,000-sample survey, published in Science in June: 68 quadrillion miles of hyphae in the top 15cm of the world's soil, weighing five times all human biomass, moving four billion tonnes of CO₂-equivalent into the ground each year. Farmed soil carries half the network density of wild ground. Frank Jacobs writes it as a map, which is the right instinct — relation as the unit of description rather than the organism.",
+            "readable": true,
+            "articleId": "4d49563e98698e94",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-28",
     "title": "Daily Brief — Monday, 28 September 2026",
     "weekday_date": "Monday, 28 September 2026",
