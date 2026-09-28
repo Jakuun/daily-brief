@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-28",
+    "title": "Daily Brief — Monday, 28 September 2026",
+    "weekday_date": "Monday, 28 September 2026",
+    "intro": "A cold, overcast start at The Patch — 2°C at dawn, topping out near 16, and no rain to speak of. Canberra is bracing for a rate rise tomorrow and spending today explaining the budget instead, while Washington and Tehran each settle in to wait the other out. Up the hill, Kalorama finally got its medals.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Trump rejects Iran's truce offer, and both sides settle in to wait",
+                "url": "https://www.aljazeera.com/news/2026/9/27/better-deal-whats-behind-trumps-rejection-of-irans-truce-offer",
+                "duration": "~6 min",
+                "note": "Tehran offered a seven-day roadmap: blockade lifted, oil sanctions waived, $12bn released, Hormuz reopened, then talks. Trump says Iran is \"losing so badly\" and that waiting improves his hand. Usaid Siddiqui's analysts think the clock cuts both ways — energy prices, military costs and midterms all press on Washington, and 63 per cent of Americans already oppose the war.",
+                "readable": true,
+                "articleId": "0ea7743d2d22aed1",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Chalmers books a $6bn improvement the day before the RBA takes it back",
+                "url": "https://www.abc.net.au/news/2026-09-28/chalmers-interest-rates-cost-of-living-households-mortgage/107203392",
+                "duration": "~4 min",
+                "note": "The final budget outcome beat May's forecast by $6 billion, mostly on superannuation returns. The Treasurer's defence is that the inflation people are feeling is imported — \"a big driver comes from the Middle East\" — with productivity gains due \"in the coming years, not the coming days\". Tuesday's expected 4.6 per cent is the highest cash rate since 2011.",
+                "readable": true,
+                "articleId": "e70a0220f58d5169",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Kalorama's storm crews get their citation, five years on",
+                "url": "https://ferntreegully.mailcommunity.com.au/news/2026-09-28/shields-in-the-night-cfa-volunteers-recognised-five-years-later/",
+                "duration": "~2 min",
+                "note": "Twelve Kalorama Mt Dandenong volunteers received the Chief Officer's Unit Citation for Courage yesterday for the night of 9 June 2021. Some residents at the ceremony are still moving back into their houses, which dates the storm more honestly than the five years does.",
+                "readable": true,
+                "articleId": "0b34946d76a3df20",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "South Africa mass shootings: at least 27 killed in two attacks",
+                "url": "https://www.youtube.com/watch?v=GqYC0xufTT0",
+                "duration": "5:29",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/GqYC0xufTT0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The AI election | America, Actually",
+                "url": "https://www.youtube.com/watch?v=KSvWEEktmK4",
+                "duration": "27:45",
+                "note": "Vox on what happens to a campaign when the cheapest thing to manufacture is a plausible voice.",
+                "thumb": "https://i.ytimg.com/vi/KSvWEEktmK4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "FREE DON OF THE PRESS! PEP with Chas & Dr Dave (Ep 277)",
+                "url": "https://www.youtube.com/watch?v=uwMZmWxkgyY",
+                "duration": "3:00:10",
+                "note": "Thursday's episode, unclaimed over the weekend. Yardwork length.",
+                "thumb": "https://i.ytimg.com/vi/uwMZmWxkgyY/hqdefault.jpg"
+              },
+              {
+                "title": "The Gospels Contradict Each Other… Now What?",
+                "url": "https://www.youtube.com/watch?v=G_AMzhb4yvs",
+                "duration": "35:28",
+                "note": "Ehrman on what you do after the observation, which is the part most treatments skip.",
+                "thumb": "https://i.ytimg.com/vi/G_AMzhb4yvs/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We Played the new Odds And Ends Secret Lair Commander Deck",
+                "url": "https://www.youtube.com/watch?v=b9NrHR3Y1zo",
+                "duration": "67:11",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/b9NrHR3Y1zo/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Biology might not be quantum, but its maths is quantumlike",
+            "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+            "duration": "~17 min",
+            "note": "Gregory Scholes helped build the case for quantum coherence in photosynthesis, then took it apart: the famous beats were molecular vibration. What replaced it is better — complex classical networks of oscillators settling into collective states that obey quantum mathematics with no quantum physics underneath. Photosynthesis, neural phase relationships, flocking. Interdependence made formal, without the hand-waving.",
+            "readable": true,
+            "articleId": "10fc33dac676cd7a",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "A Rio Walk Awakens the Heart: A Journey to Self-Care",
+            "url": "https://podcasts.apple.com/au/podcast/a-rio-walk-awakens-the-heart-a-journey-to-self-care/id1749392708?i=1000791841427&uo=4",
+            "duration": "17:38",
+            "note": "A beautiful spring morning in Rio, people out walking in the sun and the breeze, and someone who needs reminding to look after herself."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-26",
     "title": "Daily Brief — Saturday, 26 September 2026",
     "weekday_date": "Saturday, 26 September 2026",
