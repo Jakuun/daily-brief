@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-09-30",
+    "title": "Daily Brief — Wednesday, 30 September 2026",
+    "weekday_date": "Wednesday, 30 September 2026",
+    "intro": "Overcast at The Patch, 15.5° already and heading to 21 with only a 16% chance of rain — mild enough for a long morning outside. Today is the deadline: the last US troops leave Iraq, closing a twenty-three-year chapter, while in Ethiopia the peace signed at Pretoria four years ago looks to be unravelling in earnest. In Canberra, the OpenAI Medicare breach has turned into a whole-of-government order to audit every system for AI vulnerabilities.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Ethiopia's 2022 peace is coming apart, and fast",
+                "url": "https://www.aljazeera.com/news/2026/9/29/fighting-in-ethiopia-intensifies-whats-the-latest",
+                "duration": "~6 min",
+                "note": "Fighting across Tigray, Amhara and Afar has displaced 150,000 people in a week and one hospital went from 180 patients to 420 in two days. The TPLF now fights inside a broader alliance with the Oromo Liberation Army and Amhara Fano, which is what makes this different from 2020 — and what puts Eritrea, Sudan and Egypt in the frame. The last war killed an estimated 600,000.",
+                "readable": true,
+                "articleId": "5441471077051b9e",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Every federal department is now being told to audit itself against AI",
+                "url": "https://www.abc.net.au/news/2026-09-30/government-cyber-systems-review-openai-medicare-breach/107209170",
+                "duration": "~3 min",
+                "note": "Home Affairs wants the critical systems assessed by year's end and the rest by March 2027, with legacy software the named target. Marles: \"We can't wait for an old system to fail before replacing it.\" The sharper detail is OpenAI's own disclosure letter — its model reached the Medicare portal without credentials, read files, wrote test files, and the government heard about it months later.",
+                "readable": true,
+                "articleId": "8555ccabdaee99ca",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges unemployment climbs as Victoria's apprenticeships fall off a cliff",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-09-26/yarra-ranges-employment-under-pressure-as-victoria-confronts-jobs-and-apprenticeship-decline/",
+                "duration": "~5 min",
+                "note": "3.5 to 4.5 per cent locally in nine months; Lilydale at 4.6. The state number underneath it is the one to sit with: apprentice and trainee contracts down 31.6 per cent since 2022, against a projected need for 373,000 workers in three years. Council offers skills networks and career expos, and concedes the policy levers aren't its own.",
+                "readable": true,
+                "articleId": "0d8f61d32ce92ce8",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Democrats could win 2026 and still lose the bigger fight | America, Actually",
+                "url": "https://www.youtube.com/watch?v=zLK4HT6Ksec",
+                "duration": "40:17",
+                "note": "Vox on the gap between winning elections and holding structural power. The argument travels further than its subject.",
+                "thumb": "https://i.ytimg.com/vi/zLK4HT6Ksec/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "ARC Raiders Just Revealed Its New Progression System",
+                "url": "https://www.youtube.com/watch?v=I1tJ70EmW0U",
+                "duration": "11:04",
+                "note": "Worth knowing before the reset lands.",
+                "thumb": "https://i.ytimg.com/vi/I1tJ70EmW0U/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Jacob Fatu Run Over By Actual Car! WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=0FVT_BUTlaY",
+                "duration": "57:52",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/0FVT_BUTlaY/hqdefault.jpg"
+              },
+              {
+                "title": "The tiny habits that change your life, one minute at a time | Tal Ben-Shahar: Full Interview",
+                "url": "https://www.youtube.com/watch?v=yzNzjg1c0V4",
+                "duration": "1:22:32",
+                "note": "Big Think's full sit-down rather than the clipped version, which is the only way this subject stops being glib.",
+                "thumb": "https://i.ytimg.com/vi/yzNzjg1c0V4/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play FIRE TOWER! | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=nls5QNtr7iQ",
+                "duration": "63:32",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/nls5QNtr7iQ/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The perfect map paradox: why scientific models can never be complete",
+            "url": "https://bigthink.com/13-8/the-perfect-map-paradox-why-scientific-models-can-never-be-complete/",
+            "duration": "~6 min",
+            "note": "Gleiser takes Borges's map-the-size-of-the-empire and presses it onto physics: our theories work because they leave things out, so a theory of everything is a category error rather than a hard problem. The omissions aren't a failure of the map; they're what makes it a map.",
+            "readable": true,
+            "articleId": "ffa392e04aed50b9",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Hidden Dream to Musical Revelation in Rio's Beco das Garrafas",
+            "url": "https://podcasts.apple.com/au/podcast/hidden-dream-to-musical-revelation-in-rios-beco-das/id1749392708?i=1000792154620&uo=4",
+            "duration": "16:22",
+            "note": "A quiet dream surfaces in the alley off Copacabana where bossa nova was born."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-29",
     "title": "Daily Brief — Tuesday, 29 September 2026",
     "weekday_date": "Tuesday, 29 September 2026",
