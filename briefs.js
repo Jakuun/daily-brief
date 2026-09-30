@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-01",
+    "title": "Daily Brief — Thursday, 1 October 2026",
+    "weekday_date": "Thursday, 1 October 2026",
+    "intro": "Showers at The Patch all day, 10 to 22 — a wet start to October, so this is a day for the long watch rather than the garden. Overseas, the Gaza ceasefire turns one year old this week and the counting of its dead has become its own grim statistic. At home the Greens have a new leader and a noticeably different theory of how opposition works.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "A year into the Gaza ceasefire, the killing has its own running total",
+                "url": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue",
+                "duration": "~3 min",
+                "note": "Seven killed yesterday, six of them in a drone strike on a passenger van in Tal al-Hawa. The number that reframes the word \"ceasefire\" is the one underneath: 1,431 dead since it began last October, against 74,032 since 2023. Hind Khoudary's detail is the ordinary one — people afraid to walk to the supermarket or the school gate.",
+                "readable": true,
+                "articleId": "4d3ade75ce17b54f",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "The Greens pick a leader who'd rather fight Labor than deal with it",
+                "url": "https://www.abc.net.au/news/2026-10-01/greens-david-shoebridge-woos-angry-voters/107212606",
+                "duration": "~6 min",
+                "note": "David Shoebridge takes over from Larissa Waters with an explicit break from her legislative bargaining, and an explicit model: Mamdani's New York campaign, aimed at the same cost-of-living anger One Nation is farming. \"People are desperate for material change. They don't want another meaningless message being delivered by some Labor hack.\" Mehreen Faruqi lost and left the leadership team. The government's Senate arithmetic just got harder.",
+                "readable": true,
+                "articleId": "562e236cc71c02e2",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Conviction over a camper's death at a Yarra Valley holiday park is overturned",
+                "url": "https://mailcommunity.com.au/news/28-09-2026/yarra-ranges-holiday-park-granted-appeal/",
+                "duration": "~2 min",
+                "note": "The Victorian Court of Appeal allowed BIG4 Yarra Valley Park Lane's appeal on 21 September and ordered a new trial on the workplace-safety charges. A family's answer about how someone died at a campsite twenty minutes from here gets deferred another year.",
+                "readable": true,
+                "articleId": "5ef2a89ddd944213",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "What Morocco's first female premier means for the Arab world",
+                "url": "https://www.youtube.com/watch?v=rdANsCrKkac",
+                "duration": "7:07",
+                "note": "DW reading the regional implications rather than the milestone.",
+                "thumb": "https://i.ytimg.com/vi/rdANsCrKkac/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The 28-day cycle, and other myths of menstruation — Jen Gunter, full interview",
+                "url": "https://www.youtube.com/watch?v=gVars5PNOMg",
+                "duration": "74:49",
+                "note": "Gunter is the rare clinician who does debunking without condescension; Big Think gives her the full hour rather than a clip.",
+                "thumb": "https://i.ytimg.com/vi/gVars5PNOMg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Dream Homes | Triforce #367",
+                "url": "https://www.youtube.com/watch?v=R2RnteBdFCY",
+                "duration": "54:51",
+                "note": "This week's, posted overnight.",
+                "thumb": "https://i.ytimg.com/vi/R2RnteBdFCY/hqdefault.jpg"
+              },
+              {
+                "title": "Did the Book of Daniel Really Predict the Future?",
+                "url": "https://www.youtube.com/watch?v=KLvu7uIH9IE",
+                "duration": "41:14",
+                "note": "Ehrman on the vaticinium ex eventu problem: prophecy that gets suspiciously accurate right up to the author's own lifetime.",
+                "thumb": "https://i.ytimg.com/vi/KLvu7uIH9IE/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Gone Catfishin' | Demon Eyes — Blood on the Clocktower",
+                "url": "https://www.youtube.com/watch?v=HibDQ_PLY7c",
+                "duration": "100:03",
+                "note": "Fresh BlampCo Clocktower, posted yesterday.",
+                "thumb": "https://i.ytimg.com/vi/HibDQ_PLY7c/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "30 grunts and sounds that may have been the first language",
+            "url": "https://bigthink.com/the-past/30-iconic-sounds/",
+            "duration": "~5 min",
+            "note": "Birmingham and Leibniz linguists tested 30 \"iconic\" vocalisations on speakers of 25 languages: roughly 65 per cent got them right, and 56 per cent in oral cultures with no exposure to the researchers' world. Eat, child, sleep, water and tiger came through; that, gather, sharp and dull didn't — which is a neat map of where sound stops resembling and abstraction has to begin.",
+            "readable": true,
+            "articleId": "505cbee2ec99f091",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-09-30",
     "title": "Daily Brief — Wednesday, 30 September 2026",
     "weekday_date": "Wednesday, 30 September 2026",
