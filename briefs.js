@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-02",
+    "title": "Daily Brief — Friday, 2 October 2026",
+    "weekday_date": "Friday, 2 October 2026",
+    "intro": "Showers at The Patch all day and barely scraping 11° — 9.3° now, rain a certainty, so an indoors Friday with a long listen rather than a garden one. Overseas, Washington is moving more troops and a third carrier group toward Iran while Trump hints at strikes after the midterms. At home the RBA's fourth rise of the year has rates at a 2011 high, and Albanese flies out to a climate meeting the country has stopped paying attention to.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "The battle for Kordofan: the corridor linking Sudan's east and west",
+                "url": "https://www.aljazeera.com/news/2026/10/1/the-battle-for-kordofan-the-corridor-linking-sudans-east-and-west",
+                "duration": "~6 min",
+                "note": "One in five of Sudan's recorded attacks since 2023 have happened in this one region. Taking el-Obeid would open the RSF a road to Khartoum.",
+                "readable": true,
+                "articleId": "a887d74c29b59e85",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Albanese flies out to a climate meeting the country has stopped paying attention to",
+                "url": "https://www.abc.net.au/news/2026-10-02/anthony-albanese-climate-change-ai-interest-rates/107217568",
+                "duration": "~6 min",
+                "note": "Grattan's sharp detail: Chalmers has been blaming the Iran war, but Bullock named \"domestic capacity pressures\". Inflation 3.5 to 4 per cent.",
+                "readable": true,
+                "articleId": "f9d035bb020f3bb8",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Victoria puts $1.7m more into feral deer control, and conservationists call it a start",
+                "url": "https://mountainviews.mailcommunity.com.au/news/2026-10-01/victoria-commits-1-7m-to-feral-deer-control-but-conservationists-warn-long-term-plan-is-needed/",
+                "duration": "~3 min",
+                "note": "A million of it goes to Melbourne's eastern fringe: Dandenong Ranges National Park, Yarra Ranges, Knox, Cardinia.",
+                "readable": true,
+                "articleId": "f728565053674b8f",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Why Europe's far right is turning away from Trump",
+                "url": "https://www.youtube.com/watch?v=J3PqDHB_aNg",
+                "duration": "12:26",
+                "note": "A realignment that was unthinkable two years ago, and DW is reading the cause rather than the symptom.",
+                "thumb": "https://i.ytimg.com/vi/J3PqDHB_aNg/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The two athletes in every horse race",
+                "url": "https://www.youtube.com/watch?v=B9tbTY6dtG8",
+                "duration": "9:44",
+                "note": "The short option for a wet morning.",
+                "thumb": "https://i.ytimg.com/vi/B9tbTY6dtG8/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The PAC Memorial Episode, AEW Dynamite Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=6jN7arkQmto",
+                "duration": "78:42",
+                "note": "The tribute show, reviewed properly rather than briefly.",
+                "thumb": "https://i.ytimg.com/vi/6jN7arkQmto/hqdefault.jpg"
+              },
+              {
+                "title": "THE 2026 MIDTERM SWEEP! (Ep 277 Bonus, September 30)",
+                "url": "https://www.youtube.com/watch?v=uXA9OE_6R0g",
+                "duration": "2:35:57",
+                "note": "Chas and Dr Dave on the sweep, ready in time for the weekend.",
+                "thumb": "https://i.ytimg.com/vi/uXA9OE_6R0g/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We Played Reality Fracture In-Store Event Rules | MTG Commander EDH Gameplay",
+                "url": "https://www.youtube.com/watch?v=cunphIuF5wg",
+                "duration": "85:32",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/cunphIuF5wg/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The battle to define the Anthropocene reignites",
+            "url": "https://www.abc.net.au/news/science/2026-10-02/anthropocene-working-group-epoch-rejection/107215280",
+            "duration": "~4 min",
+            "note": "Everyone uses the word; geology voted it down 12 to 4 in 2024 and a new commentary wants that revisited. The proposed marker is 1952 — plutonium from the first hydrogen bomb, legible in sediment worldwide, with Crawford Lake as the golden spike and Flinders Reef among the corroborating sites. The argument underneath the committee politics is the interesting one: whether an epoch is a unit of rock or a name that lets several crises be spoken of as one thing.",
+            "readable": true,
+            "articleId": "e16800d17537b95f",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "The Secret Orchid Adventure: Courage, Rain, and Discovery",
+            "url": "https://podcasts.apple.com/au/podcast/the-secret-orchid-adventure-courage-rain-and-discovery/id1749392708?i=1000792529876&uo=4",
+            "duration": "16:00",
+            "note": "Children's Day at Curitiba's botanic garden, a school excursion, and a hunt for an orchid that shouldn't be found."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-10-01",
     "title": "Daily Brief — Thursday, 1 October 2026",
     "weekday_date": "Thursday, 1 October 2026",
