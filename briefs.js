@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-04",
+    "title": "Daily Brief — Sunday, 4 October 2026",
+    "weekday_date": "Sunday, 4 October 2026",
+    "intro": "Light drizzle over The Patch, 6.5 to 13.6 and 7.4 as you read this, with a 57 per cent chance of rain to plan the day around. Washington is leaning on Europe to open its diesel reserves, Newcastle's grand-final send-off ended badly, and Victoria's November election is shaping up as the strangest in modern memory — then three hours of Chas and Dr Dave for whatever yardwork the weather allows.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Washington asks Europe to open its diesel reserves",
+                "url": "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks",
+                "duration": "~6 min",
+                "note": "120 million barrels over 180 days, with US diesel at a record $6.53 a gallon five weeks before the midterms.",
+                "readable": true,
+                "articleId": "1a39f54633b865ba",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "A grand-final send-off at Wallsend ends with ten in hospital",
+                "url": "https://www.abc.net.au/news/2026-10-03/everything-we-know-newcastle-knights-crash-wallsend/107224830",
+                "duration": "~4 min",
+                "note": "An 18-year-old P-plater lost control at the Transfield Drive roundabout; police say it was not targeted.",
+                "readable": true,
+                "articleId": "54fe153aedb042ce",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Victoria's November election could hand One Nation the balance of power",
+                "url": "https://www.abc.net.au/news/2026-10-03/victorian-state-election-unpredictable-casey-briggs-analysis/107216078",
+                "duration": "~6 min",
+                "note": "Casey Briggs has the electorate split almost four ways, with Labor's primary more than ten points off 2022.",
+                "readable": true,
+                "articleId": "14ec6c3045da8c38",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "36 years after reunification, East-West divides persist",
+                "url": "https://www.youtube.com/watch?v=Qib0qOhkOgs",
+                "duration": "8:16",
+                "note": "DW on Unity Day, and the seam that hasn't closed.",
+                "thumb": "https://i.ytimg.com/vi/Qib0qOhkOgs/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "OpenAI Security: Controlling Models is Now 'Hell'",
+                "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+                "duration": "38:28",
+                "note": "Well timed, given the week OpenAI has had.",
+                "thumb": "https://i.ytimg.com/vi/_rtp1XzaP6Q/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "SCHMITT OUT OF LUCK! PEP with Chas & Dr Dave (Ep278, 2 October)",
+                "url": "https://www.youtube.com/watch?v=GAWAM4B4pGo",
+                "duration": "3:04:09",
+                "note": "The full episode, unclaimed and waiting for the garden.",
+                "thumb": "https://i.ytimg.com/vi/GAWAM4B4pGo/hqdefault.jpg"
+              },
+              {
+                "title": "The political philosophy that changed the world | Jonathan Rauch: Full Interview",
+                "url": "https://www.youtube.com/watch?v=fzol1qf9qTo",
+                "duration": "1:30:17",
+                "note": "The whole sit-down rather than the clipped version, which is the only way this subject stays honest.",
+                "thumb": "https://i.ytimg.com/vi/fzol1qf9qTo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We played Castle Ravenloft THE BOARD GAME — One More Game",
+                "url": "https://www.youtube.com/watch?v=OYba5-Vz-YY",
+                "duration": "1:20:43",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/OYba5-Vz-YY/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "A prairie enthusiast in search of a farming land ethic",
+            "url": "https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic",
+            "duration": "~24 min",
+            "note": "Craig Maier, published posthumously, tests Leopold and Wendell Berry against his father-in-law's erodible Wisconsin slopes and argues a land ethic is built out of relationships with a place, not principles applied to it.",
+            "readable": true,
+            "articleId": "760134e7e28665d5",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Cherry Blossoms & Second Chances: A Violinist's Revival",
+            "url": "https://podcasts.apple.com/au/podcast/cherry-blossoms-second-chances-a-violinists-revival/id1749392708?i=1000792950068&uo=4",
+            "duration": "15:53",
+            "note": "Lívia tunes her violin under a blossoming cherry tree in Ibirapuera, and finds her way back to playing."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-10-02",
     "title": "Daily Brief — Friday, 2 October 2026",
     "weekday_date": "Friday, 2 October 2026",
