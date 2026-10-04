@@ -1,5 +1,134 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-05",
+    "title": "Daily Brief — Monday, 5 October 2026",
+    "weekday_date": "Monday, 5 October 2026",
+    "intro": "Overcast at The Patch, 6.3° as you read this and only reaching 16.5 — but no rain in it at all, which makes this the first properly dry garden morning in a week. Brazil voted yesterday in the closest presidential race since Lula's return, and in Canberra the Treasurer has started managing expectations downward ahead of December's budget update.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Brazil votes with Lula's fourth term and the Bolsonaro name both on the line",
+                "url": "https://www.aljazeera.com/news/2026/10/4/brazil-votes-in-deeply-polarised-election-pitting-lula-against-bolsonaro",
+                "duration": "~3 min",
+                "note": "160 million voters, a marginal Lula lead, and a 25 October runoff in play. The detail that reframes it: Flavio's father is serving 27 years for the coup plot, so the son's run is a referendum on the family's survival. Violence now tops voter concerns at 31 per cent, ahead of corruption and the economy.",
+                "readable": true,
+                "articleId": "df97b7cc51393421",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Chalmers starts talking down relief and up savings, with bond yields doing the arguing",
+                "url": "https://abc.net.au/news/2026-10-04/jim-chalmers-treasurer-cost-of-living-relief-budget-inflation/107226568",
+                "duration": "~3 min",
+                "note": "Debt near a trillion, yields at twenty-year highs, and billions more to service it. Five days after a fifth rate rise, the message is a tight ship rather than offsets.",
+                "readable": true,
+                "articleId": "5c244043c67928a5",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Knox puts its road backlog on the table, including the $80m Dorset Road extension that was shelved",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-10-03/roads-and-transport-upgrade-plea/",
+                "duration": "~3 min",
+                "note": "43,000 new homes by 2051 against a road network that already pushes traffic onto residential streets — and a bus Route 75 extension to Upper Ferntree Gully in the ask.",
+                "readable": true,
+                "articleId": "a4286da2cd39315b",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Can Brazil avoid a runoff election?",
+                "url": "https://www.youtube.com/watch?v=U5lMM2yxby8",
+                "duration": "7:44",
+                "note": "The question the lead story leaves open, answered with the count in hand.",
+                "thumb": "https://i.ytimg.com/vi/U5lMM2yxby8/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The ethics of killing bugs | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=5VxI0nFnsQw",
+                "duration": "34:59",
+                "note": "Insect sentience taken seriously rather than as a thought experiment. Hard to listen to as a beekeeper without arguing back.",
+                "thumb": "https://i.ytimg.com/vi/5VxI0nFnsQw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Caller's Archeological \"PROOF\" of the Bible Gets WRECKED | Matt Dillahunty",
+                "url": "https://www.youtube.com/watch?v=-D1EH32mh2w",
+                "duration": "68:53",
+                "note": "Dillahunty on the Hangup, and the archaeology question is the one he's actually good on.",
+                "thumb": "https://i.ytimg.com/vi/-D1EH32mh2w/hqdefault.jpg"
+              },
+              {
+                "title": "Why Were the Hebrew Prophets So Weird?",
+                "url": "https://www.youtube.com/watch?v=1Aar80qLRjc",
+                "duration": "47:20",
+                "note": "Ehrman on the strangeness itself rather than the predictions: what the prophets were doing socially that made the behaviour legible to their audience.",
+                "thumb": "https://i.ytimg.com/vi/1Aar80qLRjc/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Why real intelligence is something more than optimisation",
+            "url": "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
+            "duration": "~19 min",
+            "note": "Sasha Mudd shows that calling intelligence \"optimisation\" imports Hume's servant model of reason and then installs it as the only one, and sets Kant's reason-as-sovereignty against it. Her best move is where she puts the danger — not in machines seizing control but in us: \"the deeper danger is that we will become ever more comfortable not being sovereign ourselves.\"",
+            "readable": true,
+            "articleId": "2d92987060fca07e",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "From Budgets to Bonds: Carla's Journey to Workplace Impact",
+            "url": "https://podcasts.apple.com/au/podcast/from-budgets-to-bonds-carlas-journey-to-workplace-impact/id1749392708?i=1000793063166&uo=4",
+            "duration": "15:46",
+            "note": "Spring energy in a São Paulo corporate office, where Carla finds that the budget she's been handed is really a question about where she stands."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-10-04",
     "title": "Daily Brief — Sunday, 4 October 2026",
     "weekday_date": "Sunday, 4 October 2026",
