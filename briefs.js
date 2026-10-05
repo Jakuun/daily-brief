@@ -1,5 +1,134 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-06",
+    "title": "Daily Brief — Tuesday, 6 October 2026",
+    "weekday_date": "Tuesday, 6 October 2026",
+    "intro": "Light drizzle over The Patch and a 94% chance of it sticking around — 7° now, topping out at a damp 15°. Brazil has woken up to a result nobody's polling predicted, and Four Corners has gone after an outfit making millions out of veterans. Closer to home, Monbulk is making its ten-year case for a village green while the candidates are listening.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Brazil's presidential race: three key takeaways from the first round",
+                "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round",
+                "duration": "~6 min",
+                "note": "Flavio Bolsonaro finished ahead of Lula, inverting the polls, and his party is on track to be the largest bloc in Congress. Runoff on 25 October.",
+                "readable": true,
+                "articleId": "1fd35c7d72dc8bba",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "They built a business empire that cashes in on veterans",
+                "url": "https://www.abc.net.au/news/2026-10-06/veteran-benefits-australia-business-empire-four-corners/107208188",
+                "duration": "~18 min",
+                "note": "Four Corners traces 70-plus companies converting veterans into DVA billing leads; the practitioners at the end of the chain are the ones under scrutiny.",
+                "readable": true,
+                "articleId": "1530834255a28704",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Monbulk pushes for its Village Green",
+                "url": "https://ferntreegully.mailcommunity.com.au/news/2026-10-05/monbulk-pushes-for-village-green/",
+                "duration": "~5 min",
+                "note": "A decade-old $5m proposal for the old soccer site, revived with a petition timed squarely at state election candidates.",
+                "readable": true,
+                "articleId": "88ee0d81f42e494b",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Schools shut as student protests shake France",
+                "url": "https://www.youtube.com/watch?v=tJv5c4leWEw",
+                "duration": "20:32",
+                "note": "DW's longer look at why the student movement has spread faster than the unions expected.",
+                "thumb": "https://i.ytimg.com/vi/tJv5c4leWEw/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "AI Just Became Humanity's Biggest Threat",
+                "url": "https://www.youtube.com/watch?v=ujkD4SxPKOI",
+                "duration": "21:44",
+                "note": "Kurzgesagt finally takes the subject on directly, which given their usual caution is itself the news.",
+                "thumb": "https://i.ytimg.com/vi/ujkD4SxPKOI/hqdefault.jpg"
+              },
+              {
+                "title": "ARC Raiders' Largest Update is Coming — Everything You Need to Know",
+                "url": "https://www.youtube.com/watch?v=pUCsXR2md_A",
+                "duration": "11:02",
+                "note": "The patch rundown ahead of the drop.",
+                "thumb": "https://i.ytimg.com/vi/pUCsXR2md_A/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Bringing Extinct Species Back to Life — Dr Beth Shapiro",
+                "url": "https://www.youtube.com/watch?v=SFX8FIHFLE4",
+                "duration": "2:15:37",
+                "note": "Shapiro is the serious scientist in de-extinction, so this is the version of the argument worth hearing rather than the headlines about dire wolves.",
+                "thumb": "https://i.ytimg.com/vi/SFX8FIHFLE4/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "I attend, therefore I am",
+            "url": "https://aeon.co/essays/what-is-the-self-if-not-that-which-pays-attention",
+            "duration": "~18 min",
+            "note": "Carolyn Dicey Jennings argues the self isn't a story the brain tells but an emergent thing with real causal powers, and that attention is what constitutes it. Which makes a wandering attention a metaphysical problem, not just a productivity one.",
+            "readable": true,
+            "articleId": "aab99262543751d6",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Beyond the Canvas: A Serendipitous Encounter at the Bienal",
+            "url": "https://podcasts.apple.com/au/podcast/beyond-the-canvas-a-serendipitous-encounter-at-the-bienal/id1749392708?i=1000793204596&uo=4",
+            "duration": "18:24",
+            "note": "A spring morning in Parque Ibirapuera, and a chance meeting at the Bienal turns into something more than a conversation about art."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-10-05",
     "title": "Daily Brief — Monday, 5 October 2026",
     "weekday_date": "Monday, 5 October 2026",
