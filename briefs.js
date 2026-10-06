@@ -1,5 +1,145 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-07",
+    "title": "Daily Brief — Wednesday, 7 October 2026",
+    "weekday_date": "Wednesday, 7 October 2026",
+    "intro": "Overcast and cold at The Patch — 6° now, a top of 14°, and no rain in it, so the garden gets a dry grey day. Abroad, Britain and Israel are a day out from a diplomatic rupture over a consulate; at home, the Fairford arrests have analysts asking what Australia has signed up for. A good day for the bees piece and a long podcast.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Israel's order to shut Britain's Jerusalem consulate comes due Thursday",
+                "url": "https://www.aljazeera.com/news/2026/10/6/its-not-the-act-of-a-friend-or-ally-israel-moves-to-shut-uk-consulate",
+                "duration": "~5 min",
+                "note": "Retaliation for the settlement-goods ban, with 27 Israeli diplomats reportedly on the line. Israel controls the building's power and water, so it can close it either way.",
+                "readable": true,
+                "articleId": "1e735d0acc1091d5",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Analysts read the Fairford arrests as a warning about hosting American bombers",
+                "url": "https://www.abc.net.au/news/2026-10-06/australias-military-alliance-target-due-to-iran/107234074",
+                "duration": "~6 min",
+                "note": "Six arrests at the British base US bombers were flying from, strong indications of Iranian involvement, and the fleet moved out. Australia is widening US access as others narrow it.",
+                "readable": true,
+                "articleId": "aacd6b9ae9cf9238",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Victoria's tobacco crackdown is working, and arrived years late",
+                "url": "https://www.abc.net.au/news/2026-10-05/illicit-tobacco-trade-police-power-criticism/107229108",
+                "duration": "~4 min",
+                "note": "51 shop closures since September's laws, inspectors up from 14 to 42, and Carroll conceding the state should have moved sooner. Queensland's 55 per cent lift in legal sales is the benchmark.",
+                "readable": true,
+                "articleId": "894774d3ec6db655",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Planet America (5 October) Rich Baris FULL INTERVIEW",
+                "url": "https://www.youtube.com/watch?v=bu_BfO_ubzU",
+                "duration": "16:53",
+                "note": "The pollster's full sit-down rather than the grab, four weeks out from the midterms.",
+                "thumb": "https://i.ytimg.com/vi/bu_BfO_ubzU/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Why it's okay to want more money | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=Fp5v5Rz5dFc",
+                "duration": "48:53",
+                "note": "Illing takes the moralising out of wanting more and asks what's actually wrong with it.",
+                "thumb": "https://i.ytimg.com/vi/Fp5v5Rz5dFc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Anticlimactic 946 Follow-Up, WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=k1gJW794I1c",
+                "duration": "1:13:32",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/k1gJW794I1c/hqdefault.jpg"
+              },
+              {
+                "title": "How Apologists Use (and Misuse) Manuscripts",
+                "url": "https://www.youtube.com/watch?v=0rMHFYBQeBo",
+                "duration": "56:52",
+                "note": "Ehrman on his own turf: what the manuscript tradition can and can't be made to prove.",
+                "thumb": "https://i.ytimg.com/vi/0rMHFYBQeBo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play THE DEALER | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=jJ-H_gg4A68",
+                "duration": "1:05:17",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/jJ-H_gg4A68/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Are Australia's native bees thriving or declining? We don't know but can find out",
+            "url": "https://theconversation.com/are-australias-native-bees-thriving-or-declining-we-dont-know-but-can-find-out-292219",
+            "duration": "~5 min",
+            "note": "Howard and Prendergast on 1,700-plus species, three of them listed as threatened, and eleven more that should be on the strength of Black Summer alone. The useful end is practical: bare ground and gravel-filled pots do more for burrowing bees than a bee hotel.",
+            "readable": true,
+            "articleId": "0e98bd82a99503fc"
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Treasure Hunt Turns Yoga Mishap: Laughter and Friendship",
+            "url": "https://podcasts.apple.com/au/podcast/treasure-hunt-turns-yoga-mishap-laughter-and-friendship/id1749392708?i=1000793400541&uo=4",
+            "duration": "17:19",
+            "note": "A Children's Day treasure hunt in Parque Ibirapuera goes sideways in a yoga class, and the mishap turns into the friendship."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-10-06",
     "title": "Daily Brief — Tuesday, 6 October 2026",
     "weekday_date": "Tuesday, 6 October 2026",
