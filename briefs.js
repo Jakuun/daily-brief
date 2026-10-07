@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-08",
+    "title": "Daily Brief — Thursday, 8 October 2026",
+    "weekday_date": "Thursday, 8 October 2026",
+    "intro": "Overcast and cold to start at The Patch — 4.8° now, but climbing to 19.6° with no rain in it, the first genuinely warm day in a while. Overnight Russia ran one of its largest attacks since 2022, and in Canberra the Coalition's migration numbers started coming apart under questioning. Locally, a Belgrave laneway is about to get five months of teenage work painted onto it.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Russia fires about 70 missiles and 130 drones at Ukraine, killing at least 20",
+                "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine",
+                "duration": "~3 min",
+                "note": "Fourteen dead in one Pryluki apartment block, four of them children. Zelenskyy calls it among the largest since the invasion; energy infrastructure was a named target, with winter coming.",
+                "readable": true,
+                "articleId": "b69bd64818239464",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Angus Taylor concedes aged care workers would be hit by the Coalition's migration plan",
+                "url": "https://www.abc.net.au/news/2026-10-07/coalition-migration-plan-risks-significant-economic-hit/107236278",
+                "duration": "~6 min",
+                "note": "Net migration to 100,000, the humanitarian intake halved, and a Tuesday answer that contradicts Wednesday's. The PBO costings behind \"budget neutral\" haven't been released, while its own outlook puts 40,000 fewer migrants a year at $79 billion worse off.",
+                "readable": true,
+                "articleId": "16e3c94a86813953",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Five Belgrave teenagers spent five months designing the laneway they're about to paint",
+                "url": "https://rangestrader.mailcommunity.com.au/entertainment/2026-10-07/belgrave-laneway-set-for-colourful-makeover/",
+                "duration": "~2 min",
+                "note": "The Youth Way Project, with artist Skubz Mope and a council grant, now running the mural the full length of the Telstra building. The laneway part-closes this week; access shifts to Burwood Highway.",
+                "readable": true,
+                "articleId": "374ab62516a833a7",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "How the October 7 terror attacks changed power dynamics in the Middle East forever",
+                "url": "https://www.youtube.com/watch?v=wfbcEKMqxog",
+                "duration": "23:28",
+                "note": "Three years on, DW takes the regional ledger rather than the anniversary coverage.",
+                "thumb": "https://i.ytimg.com/vi/wfbcEKMqxog/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "A Comprehensive First Look at ARC Raiders' Biggest Update Yet (Early Gameplay)",
+                "url": "https://www.youtube.com/watch?v=DjYnI08Lhwo",
+                "duration": "30:07",
+                "note": "The update's actually here, and this is the hands-on rather than the patch-notes read-through.",
+                "thumb": "https://i.ytimg.com/vi/DjYnI08Lhwo/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "WWE Money In The Bank 2026 Predictions, Cody Rhodes Interview, AEW Grand Slam | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=xpo0VD1odmI",
+                "duration": "1:32:31",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/xpo0VD1odmI/hqdefault.jpg"
+              },
+              {
+                "title": "Flip Off Confessionals | Triforce #368",
+                "url": "https://www.youtube.com/watch?v=nkr6Y5ONY-I",
+                "duration": "1:25:24",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/nkr6Y5ONY-I/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We played Off With Their Heads! | One More Game",
+                "url": "https://www.youtube.com/watch?v=5KBv47lniME",
+                "duration": "38:09",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/5KBv47lniME/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The mythology of conscious AI",
+            "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+            "duration": "~25 min",
+            "note": "Anil Seth's case that consciousness is a property of life rather than computation, and that the real problem isn't conscious machines but ones that merely seem so. His sharpest move is against the neural-replacement thought experiment: you can't swap a neuron for silicon because the function isn't separable from the metabolism keeping it alive.",
+            "readable": true,
+            "articleId": "78ed71768c6fceaa",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Discovering the Dance of Water Spirits: Júlia's Secret Journey",
+            "url": "https://podcasts.apple.com/au/podcast/discovering-the-dance-of-water-spirits-j%C3%BAlias/id1749392708?i=1000793615960&uo=4",
+            "duration": "18:16",
+            "note": "The roar of the falls, and Júlia drawn into something she isn't meant to be watching."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-10-07",
     "title": "Daily Brief — Wednesday, 7 October 2026",
     "weekday_date": "Wednesday, 7 October 2026",
