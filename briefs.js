@@ -1,5 +1,139 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-09",
+    "title": "Daily Brief — Friday, 9 October 2026",
+    "weekday_date": "Friday, 9 October 2026",
+    "intro": "Drizzle over The Patch this morning, clearing to a mild 23°C — worth getting outside by afternoon. The world woke to reports of explosions in the Strait of Hormuz, Canberra blinked on the ATO's credit card ban, and Anne Carson has a Nobel.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Explosions reported in the southern Strait of Hormuz as the Iran war grinds on",
+                "url": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait",
+                "duration": "~5 min",
+                "note": "Iranian media report \"massive explosions\"; military sources float tankers off authorised routes striking sea mines, while Trump talks of \"productive discussions\".",
+                "readable": true,
+                "articleId": "6576aa119b8c964c",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Canberra will pay the surcharge to hold off the ATO's credit card ban",
+                "url": "https://www.abc.net.au/news/2026-10-09/credit-card-ban-ato-tax-small-business/107246990",
+                "duration": "~2 min",
+                "note": "Chalmers is funding a delay of up to 12 months after eight weeks' notice and a business revolt over cash flow.",
+                "readable": true,
+                "articleId": "8e67dfbaeed10dc8",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Ten years after the thunderstorm asthma disaster, Victoria's pollen season looks like 2016 again",
+                "url": "https://mountainviews.mailcommunity.com.au/news/2026-10-08/victorians-warned-of-high-thunderstorm-asthma-risk-as-decade-old-disaster-remembered",
+                "duration": "~2 min",
+                "note": "Wettest winter since 2016 plus record warmth has grass growth high; the three-day risk forecast is worth a glance on gusty days.",
+                "readable": true,
+                "articleId": "28bdf0366a6180f9",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Canadian poet Anne Carson wins Nobel Prize in Literature",
+                "url": "https://www.youtube.com/watch?v=g66nYmvuI4U",
+                "duration": "5:07",
+                "note": "The classicist behind Autobiography of Red; a rare win for a genuinely difficult writer.",
+                "thumb": "https://i.ytimg.com/vi/g66nYmvuI4U/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "We Finally Know More About Humanity's First Civilization",
+                "url": "https://www.youtube.com/watch?v=_y9JuojAIg0",
+                "duration": "17:30",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/_y9JuojAIg0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Planet America: John Fredericks, full interview",
+                "url": "https://www.youtube.com/watch?v=7yyzJd6RYRI",
+                "duration": "12:56",
+                "note": "An unedited sit-down with one of Trump's loudest radio allies.",
+                "thumb": "https://i.ytimg.com/vi/7yyzJd6RYRI/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We Played The Azuki TCG! Precon Decks with Becca Scott and Skyler Seymour",
+                "url": "https://www.youtube.com/watch?v=Ix2kPozfJNA",
+                "duration": "29:46",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/Ix2kPozfJNA/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Problems with no solution: from maths to politics, some things humans cannot solve",
+            "url": "https://bigthink.com/thinking/problems-with-no-solutions/",
+            "duration": "~15 min",
+            "note": "The Riemann Hypothesis, the cell-division trade-off binding cancer to ageing, and wilful ignorance, as three distinct species of insolubility.",
+            "readable": true,
+            "articleId": "fe2037f627964c9d",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Roaring Courage: A Nurse's Tale of Heartfelt Healing",
+            "url": "https://podcasts.apple.com/au/podcast/roaring-courage-a-nurses-tale-of-heartfelt-healing/id1749392708?i=1000793823931&uo=4",
+            "duration": "16:29",
+            "note": "Spring light in a busy hospital, and a nurse who has to find her nerve."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-10-08",
     "title": "Daily Brief — Thursday, 8 October 2026",
     "weekday_date": "Thursday, 8 October 2026",
