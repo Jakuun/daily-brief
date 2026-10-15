@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-16",
+    "title": "Daily Brief — Friday, 16 October 2026",
+    "weekday_date": "Friday, 16 October 2026",
+    "intro": "Overcast at The Patch — 6.4° now, climbing to 20.6°, with a one-in-three chance of a shower, so the morning is the safer bet outside. Citizen Lab has published something genuinely new in the surveillance line: spyware delivered by advertisement. At home the jobless rate held, and Melbourne Cup Day is live again for a rate rise.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Spyware delivered by advertisement — Citizen Lab finds Candiru on Al Jazeera devices",
+                "url": "https://aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices",
+                "duration": "~3 min",
+                "note": "An Israeli ad-tech firm bought ads carrying the payload; merely displaying one was enough. Citizen Lab calls it the first known \"zero-click\" advertising attack, and the same ads surfaced on networks used by the Pentagon and the ICC.",
+                "readable": true,
+                "articleId": "def388024a866151",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Unemployment holds at 4.7pc, and Melbourne Cup Day is live again",
+                "url": "https://www.abc.net.au/news/2026-10-15/unemployment-rate-september-2026-australia/107268870",
+                "duration": "~3 min",
+                "note": "39,300 jobs gone and participation slipping, yet the September-quarter average sits above the RBA's December forecast. EY and Westpac read a November hike; CBA and JP Morgan read a hold.",
+                "readable": true,
+                "articleId": "b0392dfb3807d195",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges says Canberra's new disaster threshold would raise its own bar eleven-fold",
+                "url": "https://rangestrader.mailcommunity.com.au/news/2026-10-14/council-pushes-back-against-proposed-federal-disaster-recovery-threshold-hike/",
+                "duration": "~4 min",
+                "note": "NEMA wants the activation point lifted from $240,000 to $2.7 million. The council has spent $45 million on storm recovery since 2020 and clawed back $22 million — the gap is the argument.",
+                "readable": true,
+                "articleId": "19006c6675d6dc49",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "The new world disorder: Is the age of peace and stability over? | To the Point",
+                "url": "https://www.youtube.com/watch?v=oiXZPt8A8X8",
+                "duration": "26:05",
+                "note": "DW takes the structural view rather than the day's wire copy.",
+                "thumb": "https://i.ytimg.com/vi/oiXZPt8A8X8/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Are young men and women giving up on each other? | The Gray Area",
+                "url": "https://www.youtube.com/watch?v=EfbNa3TBy6M",
+                "duration": "44:29",
+                "note": "Illing on the data behind the drift, without the culture-war framing it usually arrives in.",
+                "thumb": "https://i.ytimg.com/vi/EfbNa3TBy6M/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Nobody Wants To Work With Oba Femi, AEW WrestleDream Predictions | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=zPs2LHqIysc",
+                "duration": "1:53:40",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/zPs2LHqIysc/hqdefault.jpg"
+              },
+              {
+                "title": "Return of Sips' Harvest Jamboree | Triforce #369",
+                "url": "https://www.youtube.com/watch?v=M10a2wFVFaA",
+                "duration": "58:28",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/M10a2wFVFaA/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "We played the new LEGENDARY CARDS in Ticket to Ride: Europe! — One More Game",
+                "url": "https://www.youtube.com/watch?v=depcexCbFw0",
+                "duration": "1:13:36",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/depcexCbFw0/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Reading habits for the new literary \"dark ages\"",
+            "url": "https://bigthink.com/books/the-new-literary-dark-ages/",
+            "duration": "~6 min",
+            "note": "James Marriott's case that literacy built the Reformation, the Enlightenment and the argument-shaped politics we inherited, and that a post-literate society slides back toward image and spectacle. His honest caveat is the best part: Weimar Germany was highly literate, so reading is no political penicillin.",
+            "readable": true,
+            "articleId": "40f2e92e43d04fa0",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Brewing Success: How Sofia's Bold Blend Transformed a Roastery",
+            "url": "https://podcasts.apple.com/au/podcast/brewing-success-how-sofias-bold-blend-transformed-a/id1749392708?i=1000796451661&uo=4",
+            "duration": "13:32",
+            "note": "Spring sun over a São Paulo roastery, and Sofia backs a blend nobody asked for."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-10-15",
     "title": "Daily Brief — Thursday, 15 October 2026",
     "weekday_date": "Thursday, 15 October 2026",
