@@ -1,5 +1,160 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-15",
+    "title": "Daily Brief — Thursday, 15 October 2026",
+    "weekday_date": "Thursday, 15 October 2026",
+    "intro": "Overcast and cool at The Patch — 2.3° overnight, up to 19°, no rain forecast. A heavy day for institutional failure: an Ombudsman report on years of wrongful detention, and a council pushing back on planning rules written over its head. The good news is on the seabed off Türkiye.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "X suspends 13,000 accounts over alleged Iranian, Russian and Chinese influence operations",
+                "url": "https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms",
+                "duration": "~2 min",
+                "note": "Twitter's comparable 2021 action involved 238 accounts. Generative tools have made manufacturing political voices cheap, and enforcement is now a numbers game played after the fact.",
+                "readable": true,
+                "articleId": "9b73140cf07d72c4",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Home Affairs unlawfully detained an Australian citizen for 945 days",
+                "url": "https://www.abc.net.au/news/2026-10-15/federal-politics-australian-citizen-among-30-unlawfully-detained/107270564",
+                "duration": "~4 min",
+                "note": "Born here in 1989, a citizen by law since their tenth birthday, wrongly assessed three times. Sixty per cent of the other 29 cases came from paperwork sitting on a desk.",
+                "readable": true,
+                "articleId": "6ab47cac93d957a0",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Yarra Ranges councillors unanimously object to the state's planning reforms",
+                "url": "https://mountainviews.mailcommunity.com.au/news/2026-10-15/yarra-ranges-council-raise-concerns-regarding-reforms-to-planning/",
+                "duration": "~4 min",
+                "note": "Ten-day assessment deadlines, 83 amendments since 2022, and no consultation — landing weeks before a state election. One councillor broke ranks to argue cooperation over protest.",
+                "readable": true,
+                "articleId": "95d2c988bd5677a4",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Wisconsin is a test of the blue wave | America, Actually",
+                "url": "https://www.youtube.com/watch?v=siI_2q_Umhs",
+                "duration": "31:24",
+                "note": "Vox on the state that keeps deciding things, three weeks from the midterms.",
+                "thumb": "https://i.ytimg.com/vi/siI_2q_Umhs/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "AI Labs Warn Race Makes Breach 'Inevitable'",
+                "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+                "duration": "31:00",
+                "note": "The labs are now saying out loud that competitive pressure makes a security failure a matter of when.",
+                "thumb": "https://i.ytimg.com/vi/C4Sq3Rot8FU/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Good Matches, Bad Creative. WWE Money In The Bank 2026",
+                "url": "https://www.youtube.com/watch?v=lHC6UyR1LfQ",
+                "duration": "1:20:22",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/lHC6UyR1LfQ/hqdefault.jpg"
+              },
+              {
+                "title": "Where Did Original Sin Come From?",
+                "url": "https://www.youtube.com/watch?v=pDH_cGoyK-s",
+                "duration": "43:23",
+                "note": "Ehrman on a doctrine that isn't in Genesis and isn't in Paul the way you were told.",
+                "thumb": "https://i.ytimg.com/vi/pDH_cGoyK-s/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Play COALITION: COUNCILS OF THE REPUBLIC | Board Game Club",
+                "url": "https://www.youtube.com/watch?v=X5jYlH1HfOg",
+                "duration": "2:10:39",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/X5jYlH1HfOg/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The leading theory of how life began just hit a snag",
+            "url": "https://bigthink.com/science-tech/the-leading-theory-of-how-life-began-just-hit-a-snag/",
+            "duration": "~6 min",
+            "note": "A new PNAS paper argues hydrothermal vents only turn alkaline after they've cooled — too late for the chemistry. Where life started decides where we look for it.",
+            "readable": true,
+            "articleId": "04a1676a04080ae9",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Wildcard",
+        "items": [
+          {
+            "title": "World's oldest shipwreck found off the coast of Türkiye",
+            "url": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye",
+            "duration": "",
+            "note": "",
+            "readable": true,
+            "articleId": "7ecc4cb628a98fa5",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Luiza's Wild Discovery: A Day of Courage in São Paulo's Heart",
+            "url": "https://podcasts.apple.com/au/podcast/luizas-wild-discovery-a-day-of-courage-in-s%C3%A3o-paulos-heart/id1749392708?i=1000796091865&uo=4",
+            "duration": "15:40",
+            "note": "A day at Parque Ibirapuera turns into something Luiza has to find her nerve for."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-10-09",
     "title": "Daily Brief — Friday, 9 October 2026",
     "weekday_date": "Friday, 9 October 2026",
