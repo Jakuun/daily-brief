@@ -1,5 +1,139 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-19",
+    "title": "Daily Brief — Monday, 19 October 2026",
+    "weekday_date": "Monday, 19 October 2026",
+    "intro": "Mainly clear at The Patch — 11° now, climbing to 23° with no rain forecast, which makes this the best garden day in a fortnight. France has spent the weekend in its worst civil unrest of Macron's second term, while here the Greens' internal crisis deepened over the weekend and the Victorian campaign settled into a fare-and-toll bidding war.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Why France's school protests became a national political crisis",
+                "url": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis",
+                "duration": "~6 min",
+                "note": "550,000 marched, 1,200 arrested, the Limoges town hall burnt out. With no bloc holding a majority since 2024, there's no party left to channel the anger eighteen months out from a presidential election.",
+                "readable": true,
+                "articleId": "5ced0c6c4d3fa70a",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Steele-John denies the allegations and names factionalism",
+                "url": "https://www.abc.net.au/news/2026-10-18/jordon-steele-john-denies-allegations-inappropriate-conduct/107280964",
+                "duration": "~3 min",
+                "note": "A letter from seven members whose signatories had no direct knowledge, a 47-page dossier on managing the media, and a police complaint that produced no findings. He also disputes ever agreeing to take leave.",
+                "readable": true,
+                "articleId": "7536279e091ed87c",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Labor caps Victorian fares at $30 a week, a day after capping tolls",
+                "url": "https://www.abc.net.au/news/2026-10-19/victorian-labor-pledges-public-transport-fare-cap/107280670",
+                "duration": "~2 min",
+                "note": "$206 million over two years and $1,400 a year back to a regular commuter, with the Chamber of Commerce asking what the state's debt actually is.",
+                "readable": true,
+                "articleId": "fd3718d559c0bbf6",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Has Europe given up on free trade? | The Dip Podcast",
+                "url": "https://www.youtube.com/watch?v=UgU1gVjuIIM",
+                "duration": "28:19",
+                "note": "Useful background while the Nationals campaign against the Australia–EU agreement.",
+                "thumb": "https://i.ytimg.com/vi/UgU1gVjuIIM/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "Pantheism: A third way between religion and atheism | Jack Symes",
+                "url": "https://www.youtube.com/watch?v=S8l1jGHt_PI",
+                "duration": "1:05:58",
+                "note": "Symes's case that god-or-nothing was always a false binary.",
+                "thumb": "https://i.ytimg.com/vi/S8l1jGHt_PI/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Carmelo Hayes Joins The 946! WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=eG4BwyMCa78",
+                "duration": "1:14:51",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/eG4BwyMCa78/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "IN THE ECHOVERSE THE CARDS DRAFT YOU",
+                "url": "https://www.youtube.com/watch?v=i6ESHgAjPRw",
+                "duration": "55:52",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/i6ESHgAjPRw/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Before Jules Verne, Edgar Allan Poe imagined the Space Age",
+            "url": "https://bigthink.com/books/edgar-allan-poe-imagined-the-space-age/",
+            "duration": "~8 min",
+            "note": "NASA's former chief economist on Poe's 1835 lunar voyage: the first writer to drop the satire, read Herschel properly, and cost out the muslin.",
+            "readable": true,
+            "articleId": "e230da0d1f88b489",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Rainy Streets to Lifelong Lessons: Paraty's Impactful Journey",
+            "url": "https://podcasts.apple.com/au/podcast/rainy-streets-to-lifelong-lessons-paratys-impactful/id1749392708?i=1000796896308&uo=4",
+            "duration": "16:07",
+            "note": "A rainy spring morning on Paraty's cobblestones, and a day that turns into a lesson someone keeps."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-10-16",
     "title": "Daily Brief — Friday, 16 October 2026",
     "weekday_date": "Friday, 16 October 2026",
