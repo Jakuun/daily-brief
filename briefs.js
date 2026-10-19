@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-20",
+    "title": "Daily Brief — Tuesday, 20 October 2026",
+    "weekday_date": "Tuesday, 20 October 2026",
+    "intro": "Light drizzle at The Patch — 15° now, up to 24° later, with better-than-even odds of rain, so today's warmth arrives wet. Ukraine put more than a thousand drones across fifteen Russian regions overnight and the fortnight-old energy ceasefire is finished; Canberra, meanwhile, spent Monday arguing about a cartoon — and there's a properly good essay on consciousness waiting at the bottom.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Ukraine puts more than a thousand drones over Russia, and the energy ceasefire is finished",
+                "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites",
+                "duration": "~4 min",
+                "note": "1,015 drones across fifteen regions, the St Petersburg oil terminal and the Ruchi depot alight, 20,000 homes dark in Leningrad. Trump announced the \"energy ceasefire\" on 11 October and has paused new sanctions; Zelenskyy counted 76 Russian strikes on Ukrainian energy in the week that followed.",
+                "readable": true,
+                "articleId": "e85d445fb3dc48ad",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "One Nation makes a senator's prolapse surgery a punchline",
+                "url": "https://www.abc.net.au/news/2026-10-19/federal-politics-jacqui-lambie-one-nation-cartoon-pauline-hanson/107281792",
+                "duration": "~3 min",
+                "note": "Lambie disclosed the condition in an August Senate speech and took five months' leave for surgery. Monique Ryan's is the detail worth keeping: pelvic organ prolapse affects about one woman in twelve. Andrew Hastie was the target of the same cartoon series last month, which makes this a method rather than a lapse.",
+                "readable": true,
+                "articleId": "9fc16ef86b38fe90",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Eastern Community Legal Centre launches a Climate Justice Program for the Yarra Ranges",
+                "url": "https://mailcommunity.com.au/news/19-10-2026/a-roadmap-of-hope-eastern-community-legal-centre-launches-climate-justice-program/",
+                "duration": "~3 min",
+                "note": "Launched on 15 October after several years' work with more than forty contributing organisations, on the premise that resilience in the hills is a collective problem rather than a household one.",
+                "readable": true,
+                "articleId": "7f6d6239df0acec0",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "The GOP's midterm advantage | America, Actually",
+                "url": "https://www.youtube.com/watch?v=L39YZQFuKb0",
+                "duration": "32:22",
+                "note": "Two weeks out, Vox on the structural edge rather than the polling noise.",
+                "thumb": "https://i.ytimg.com/vi/L39YZQFuKb0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The NEW Tesla Roadster: My Honest Reaction",
+                "url": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+                "duration": "22:45",
+                "note": "Eight years after the deposits were taken, the Roadster finally has a reveal to react to.",
+                "thumb": "https://i.ytimg.com/vi/scwlR0QHGOk/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "The theory that connects the origin of life to the rise of intelligence | Blaise Agüera y Arcas",
+                "url": "https://www.youtube.com/watch?v=9zJL0l99ejQ",
+                "duration": "1:24:57",
+                "note": "The long version of the case he has been building for years: that life and intelligence are not two separate problems.",
+                "thumb": "https://i.ytimg.com/vi/9zJL0l99ejQ/hqdefault.jpg"
+              },
+              {
+                "title": "God's Real Name Isn't in Your Bible",
+                "url": "https://www.youtube.com/watch?v=d07VbZk70s0",
+                "duration": "43:41",
+                "note": "Ehrman on what happened to the divine name between the Hebrew and your English translation.",
+                "thumb": "https://i.ytimg.com/vi/d07VbZk70s0/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Let's Exorcise Ghosts In THE PRESENCE | The BoardRoom",
+                "url": "https://www.youtube.com/watch?v=arG6Q8Wr0-M",
+                "duration": "2:20:18",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/arG6Q8Wr0-M/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "The inner life we're trading away",
+            "url": "https://bigthink.com/philosophy/the-inner-life-were-trading-away/",
+            "duration": "~13 min",
+            "note": "Shai Tubali on Christof Koch's argument that intelligence and consciousness come apart, and why a culture that rewards doing over being will keep mistaking the first for the second.",
+            "readable": true,
+            "articleId": "9c59d51d08ce7459",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Fluent Fiction — Portuguese (Brazil)",
+            "url": "https://podcasts.apple.com/podcast/id1749392708",
+            "duration": "",
+            "note": ""
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-10-19",
     "title": "Daily Brief — Monday, 19 October 2026",
     "weekday_date": "Monday, 19 October 2026",
