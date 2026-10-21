@@ -1,5 +1,146 @@
 window.BRIEFS = [
   {
+    "date": "2026-10-22",
+    "title": "Daily Brief — Thursday, 22 October 2026",
+    "weekday_date": "Thursday, 22 October 2026",
+    "intro": "Clear at The Patch — 12° now, climbing to 27° with no rain forecast, the warmest settled day in weeks and a good one for the garden. Putin and Zelenskyy have both now said yes to three-way talks, while at home the attack on Helen Haines has turned the last five weeks of the Victorian campaign into a question about whether candidates are safe at a pre-poll booth. There's an Aeon essay on beekeeping at the bottom that will earn your coffee.",
+    "sections": [
+      {
+        "name": "News",
+        "groups": [
+          {
+            "label": "International",
+            "items": [
+              {
+                "title": "Putin and Zelenskyy both say yes to three-way talks",
+                "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy",
+                "duration": "~4 min",
+                "note": "Witkoff's ninth meeting with Putin, three hours in St Petersburg, and a Kremlin \"in principle\" yes. Kyiv wants early November, Moscow mid-November in Abu Dhabi, and the terms themselves remain untouched.",
+                "readable": true,
+                "articleId": "f4fa5955c274c917",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Australia",
+            "items": [
+              {
+                "title": "Police won't rule out attempted murder over the Haines attack",
+                "url": "https://www.abc.net.au/news/2026-10-21/victoria-police-and-afp-commissioners-on-helen-haines/107290926",
+                "duration": "~4 min",
+                "note": "Brendan Nugent, 43, faces three charges while investigators weigh a sovereign-citizen link against a personal motive. The AFP's figure is the one to keep: charges over harm to Commonwealth officials now run at close to one a week.",
+                "readable": true,
+                "articleId": "592e4d248bada105",
+                "partial": true
+              }
+            ]
+          },
+          {
+            "label": "Local",
+            "items": [
+              {
+                "title": "Victorian MPs want federal-grade protection five weeks out from the election",
+                "url": "https://www.abc.net.au/news/2026-10-21/vic-election-campaign-security-helen-haines-attack/107286422",
+                "duration": "~5 min",
+                "note": "303 security incidents at state electorate offices in ten months, no state equivalent of the Commonwealth-official offence, and a special cabinet meeting called before pre-poll opens.",
+                "readable": true,
+                "articleId": "2fca77eb8e57a092",
+                "partial": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Watch",
+        "groups": [
+          {
+            "label": "News",
+            "items": [
+              {
+                "title": "Massive AfD email hack: What is actually verified?",
+                "url": "https://www.youtube.com/watch?v=SuhmQny_1fc",
+                "duration": "5:30",
+                "note": "421,000 internal emails from Germany's far right are in the open; DW separates what's confirmed from what's claimed.",
+                "thumb": "https://i.ytimg.com/vi/SuhmQny_1fc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Infotainment",
+            "items": [
+              {
+                "title": "The famous tree-falling thought experiment has a new answer | Lisa Feldman Barrett",
+                "url": "https://www.youtube.com/watch?v=8RUjEGFFLTc",
+                "duration": "7:24",
+                "note": "Barrett's answer turns on what a brain is doing, not on what the forest is.",
+                "thumb": "https://i.ytimg.com/vi/8RUjEGFFLTc/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Long form",
+            "items": [
+              {
+                "title": "Roman Reigns Finally Cares Again, WWE Raw Review | WrestleTalk Podcast",
+                "url": "https://www.youtube.com/watch?v=8iYNF3zkXlE",
+                "duration": "1:06:30",
+                "note": "",
+                "thumb": "https://i.ytimg.com/vi/8iYNF3zkXlE/hqdefault.jpg"
+              },
+              {
+                "title": "The Greatest Twist in Mailbag History | Triforce Mailbag #78",
+                "url": "https://www.youtube.com/watch?v=RRzePzl_j_E",
+                "duration": "1:11:52",
+                "note": "Thursday, as it should be.",
+                "thumb": "https://i.ytimg.com/vi/RRzePzl_j_E/hqdefault.jpg"
+              }
+            ]
+          },
+          {
+            "label": "Together",
+            "items": [
+              {
+                "title": "Hopes Dashii'd | Blood on the Clocktower S4E1",
+                "url": "https://www.youtube.com/watch?v=r4GztGCGkko",
+                "duration": "1:42:19",
+                "note": "A new NRB Clocktower season opens.",
+                "thumb": "https://i.ytimg.com/vi/r4GztGCGkko/hqdefault.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Read",
+        "items": [
+          {
+            "title": "Why keeping bees means thinking about landscape as a system",
+            "url": "https://aeon.co/essays/why-keeping-bees-means-thinking-about-landscape-as-a-system",
+            "duration": "~14 min",
+            "note": "Helen Jukes on the honeybee as the wrong unit of analysis, and on keep meaning to watch over and attend to.",
+            "readable": true,
+            "articleId": "ca4ceab440323874",
+            "partial": true
+          }
+        ]
+      },
+      {
+        "name": "Português do dia",
+        "items": [
+          {
+            "title": "Finding Courage and Connection in Parque Ibirapuera",
+            "url": "https://podcasts.apple.com/au/podcast/finding-courage-and-connection-in-parque-ibirapuera/id1749392708?i=1000797402699&uo=4",
+            "duration": "16:30",
+            "note": "Spring in São Paulo's great park, where a small act of nerve turns into a connection."
+          }
+        ]
+      }
+    ],
+    "signoff": ""
+  },
+  {
     "date": "2026-10-20",
     "title": "Daily Brief — Tuesday, 20 October 2026",
     "weekday_date": "Tuesday, 20 October 2026",
